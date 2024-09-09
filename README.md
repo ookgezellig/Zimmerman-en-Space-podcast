@@ -1,6 +1,9 @@
 # Zimmerman-en-Space-podcast
 Webscrape of the [Zimmerman en Space podcast](https://www.buzzsprout.com/2096278), and publication on Wikimedia Commons
 
+![afbeelding](https://github.com/user-attachments/assets/80910b8e-0c9c-4df1-a3a3-1dc60e1fa426)
+
+
 ## Step by step process
 
 ### Make initial scrape map 
