@@ -8,10 +8,11 @@ Webscrape of the [Zimmerman en Space podcast](https://www.buzzsprout.com/2096278
 * To be used by [webscraper.oi](https://webscraper.io/) for scraping individual episodes
 
 ### Excel with scraped data
-Output of webscrape: [https://ookgezellig.github.io/Zimmerman-en-Space-podcast/ZimmermanEnSpacePodcast_episodes1-92.xlsx](ZimmermanEnSpacePodcast_episodes1-92.xlsx)
+Output of webscrape, with some post processing: [https://ookgezellig.github.io/Zimmerman-en-Space-podcast/ZimmermanEnSpacePodcast_episodes1-92.xlsx](ZimmermanEnSpacePodcast_episodes1-92.xlsx)
 
 ### Process data
 Using Sublime and other text editors, no Python scripting
+Convert shownotesblock into wiki text
 
 ### Download mp3 from URL
 Python script = 
