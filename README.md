@@ -17,20 +17,20 @@ Output of webscrape, with some post processing: [https://ookgezellig.github.io/Z
 Using Sublime and other text editors, no Python scripting
 Convert shownotesblock into wiki text
 
-### Download mp3 from URL
-Python script = 
-Folder = mp3-files
+### Download mp3s from URL
+* Python script: [download_mp3s.py](download_mp3s.py)
+* Folder: [mp3-files](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/mp3-files)
 
-
-### Convert to format suitable for Wikimedia Commons, .ogg
-Python library = 
-Python script: 
-Folder = ogg-files
+### Convert .mp3 to .ogg, a format suitable for Wikimedia Commons
+* Python script: [convert_mp3s_to_ogg.py](convert_mp3s_to_ogg.py) - Make sure [ffmpeg](https://ffmpeg.org/download.html) 
+  is installed on your machine and it has been added to your System's PATH.
+* Alternatively, use an online .mp3 to .ogg bulk converter, such as [online-audio-converter.com](https://online-audio-converter.com/) 
+* Folder: [ogg-files](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/ogg-files) - files 1 -69
 
 ### Input for OpenRefine
 
 ### Upload to Wikimedia Commons
- Category:Zimmerman_en_Space_podcast
+ [Category:Zimmerman_en_Space_podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
 
 ## Copyright 
 = CC0
