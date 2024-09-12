@@ -28,8 +28,11 @@ Convert shownotesblock into wiki text
 * Folder: [ogg-files](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/ogg-files) - files 1 -69
 
 ### Input for OpenRefine
+* Excel file as source for OpenRefine project: 
+* OpenRefine project files : 
 
 ### Upload to Wikimedia Commons
+https://www.wikidata.org/wiki/Q130279350
  [Category:Zimmerman_en_Space_podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
 
 ## Copyright 
