@@ -21,9 +21,10 @@ Output of webscrape, with post-processing to make data suitable for Wikimedia co
 ### Convert .mp3 to .ogg, a format suitable for Wikimedia Commons
 * Python script: [convert_mp3s_to_ogg.py](convert_mp3s_to_ogg.py) - Make sure [ffmpeg](https://ffmpeg.org/download.html) 
   is installed on your machine and it has been added to your System's PATH.
-* Alternatively, use an online .mp3 to .ogg bulk converter, such as [online-audio-converter.com](https://online-audio-converter.com/) 
-* Folder: [ogg-files](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/ogg-files) - files 1-92
-* Files have been renamed from Buzzsprout titles to Wikimedia Commons titles, eg. [File:Tsunami's_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.ogg](ogg-files/Tsunami's_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.ogg)
+* Alternatively, use an online .mp3 to .ogg bulk converter, such as [online-audio-converter.com](https://online-audio-converter.com/). This was the actual tool used for converting the first batch of episodes (1-92). 
+* Folder: [ogg-files](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/ogg-files) 
+* Files must be  renamed from Buzzsprout to Wikimedia Commons syntax titles, eg. [File:Tsunami's_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.ogg](ogg-files/Tsunami's_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.ogg)
+   * Python script for renaming from Buzzsprout to Wikimedia Commons titles: [xxx.py](xxx.py)
 
 ### Input for OpenRefine
 * Excel file as source for OpenRefine project, to bulk upload .ogg files and metadata to Wikimedia Commons: see Excel above, this includes all columns needed for the OpenRefine project.
