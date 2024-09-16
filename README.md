@@ -27,7 +27,7 @@ Converting from mp3 to ogg/oga:
 * Folder: [ogg-files](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/ogg-files) 
 
 Wikimedia Commons:
-* Files must be copied and renamed from Buzzsprout to Wikimedia Commons syntax titles, eg. from [ogg-files/11845039-tsunami-s-op-mars.ogg](ogg-files/11845039-tsunami-s-op-mars.ogg) to [oga-files/Tsunami's_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga](oga-files/Tsunami%27s_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga)
+* Files must be copied and renamed from Buzzsprout to Wikimedia Commons syntax titles, eg. from [ogg-files/11845039-tsunami-s-op-mars.ogg](ogg-files/11845039-tsunami-s-op-mars.ogg) to [oga-files/Tsunami's_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga](oga-files/Tsunami's_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga)
    * Python script: [copy_and_rename_local_ogg_to_wmc_oga.py](copy_and_rename_local_ogg_to_wmc_oga.py)
 * Folder with Commons compatible files: [oga-files](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/oga-files) 
 
