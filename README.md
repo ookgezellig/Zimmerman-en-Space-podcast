@@ -38,7 +38,8 @@ Wikimedia Commons:
 
 ### Wikimedia Commons
 #### Category
-* [Category:Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
+* Category: [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
+* Gallery, grouped by year, sorted by date : [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Zimmerman_en_Space_podcast)
 
 #### SPARQL 
 Structured data has been added to all files, so we can do some (basic) semantic searching via SPARQL queries.
@@ -46,9 +47,9 @@ Structured data has been added to all files, so we can do some (basic) semantic 
 * [All episodes about Mars]() - to do
 
 ### Wikidata
-* Hens Zimmerman Wikidata item : https://www.wikidata.org/wiki/Q130279350 
-
-
+* Hens Zimmerman : https://www.wikidata.org/wiki/Q130279350 
+* Zimmerman en Space podcast: https://www.wikidata.org/wiki/Qxxxxxx
+* Should each episode get its own Wikidata item?
 
 ## Copyright 
 All episodes 1-92 of the *Zimmerman en Space* podcast have been licensed under the [Creative Commons CC0 1.0 license](http://creativecommons.org/publicdomain/zero/1.0), as stated in the shownotes of each episode.
