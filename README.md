@@ -33,13 +33,22 @@ Wikimedia Commons:
 
 ### Input for OpenRefine
 * Excel file as source for OpenRefine project, to bulk upload the .oga files and metadata to Wikimedia Commons: see Excel above, this includes all columns needed for the OpenRefine project.
-* OpenRefine project files : [xxx.tar.gz]]()
-* 
-### Upload to Wikimedia Commons
+* OpenRefine project files : [ZimmermanEnSpacePodcast-episodes1-92-xlsx.openrefine.tar.gz](ZimmermanEnSpacePodcast-episodes1-92-xlsx.openrefine.tar.gz)
+
+
+### Wikimedia Commons
+#### Category
 * [Category:Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
+
+#### SPARQL 
+Structured data has been added to all files, so we can do some (basic) semantic searching via SPARQL queries.
+* [All episodes, sorted by year](https://w.wiki/BDH9)
+* [All episodes about Mars]() - to do
 
 ### Wikidata
 * Hens Zimmerman Wikidata item : https://www.wikidata.org/wiki/Q130279350 
+
+
 
 ## Copyright 
 All episodes 1-92 of the *Zimmerman en Space* podcast have been licensed under the [Creative Commons CC0 1.0 license](http://creativecommons.org/publicdomain/zero/1.0), as stated in the shownotes of each episode.
