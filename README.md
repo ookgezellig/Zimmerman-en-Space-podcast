@@ -1,10 +1,18 @@
 # Zimmerman en Space go Wiki
 Webscrape of the [Zimmerman en Space](https://www.buzzsprout.com/2096278) podcast, and (re)publication on Wikimedia Commons (and Zenodo in the future). High 5 for CC0 licenses, space, astronomy and nerds!
 
+*Latest update* : 17 September 2024
+
 ![afbeelding](https://github.com/user-attachments/assets/80910b8e-0c9c-4df1-a3a3-1dc60e1fa426)
 
+##  Main result
+Episodes 1 - 92 are now available on Wikimedia Commons: 
+* Category: [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
+* Gallery, grouped by year, sorted by date : [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Zimmerman_en_Space_podcast)
+
+-----------------------
+
 ## Step by step process
-*Latest update* : 16 September 2024
 
 ### Make initial scrape map 
 * *Zimmerman en Space* podcast URL list, Season 1, Episodes 1 to 92 : [https://ookgezellig.github.io/Zimmerman-en-Space-podcast/episodes.html](https://ookgezellig.github.io/Zimmerman-en-Space-podcast/episodes.html)
@@ -35,9 +43,8 @@ Wikimedia Commons:
 * Excel file as source for OpenRefine project, to bulk upload the .oga files and metadata to Wikimedia Commons: see Excel above, this includes all columns needed for the OpenRefine project.
 * OpenRefine project files : [ZimmermanEnSpacePodcast-episodes1-92-xlsx.openrefine.tar.gz](ZimmermanEnSpacePodcast-episodes1-92-xlsx.openrefine.tar.gz)
 
-
 ### Wikimedia Commons
-#### Category
+#### Category & gallery
 * Category: [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
 * Gallery, grouped by year, sorted by date : [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Zimmerman_en_Space_podcast)
 
@@ -50,6 +57,8 @@ Structured data has been added to all files, so we can do some (basic) semantic 
 * Hens Zimmerman : https://www.wikidata.org/wiki/Q130279350 
 * Zimmerman en Space podcast: https://www.wikidata.org/wiki/Qxxxxxx
 * Should each episode get its own Wikidata item?
+
+-----------------------------
 
 ## Copyright 
 All episodes 1-92 of the *Zimmerman en Space* podcast have been licensed under the [Creative Commons CC0 1.0 license](http://creativecommons.org/publicdomain/zero/1.0), as stated in the shownotes of each episode.
