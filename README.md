@@ -48,6 +48,13 @@ Wikimedia Commons:
 * Category: [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
 * Gallery, grouped by year, sorted by date : [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Zimmerman_en_Space_podcast)
 
+#### API
+* [Request info about all episodes, as JSON](https://commons.wikimedia.org/w/api.php?action=query&generator=categorymembers&gcmlimit=max&gcmtitle=Category:Zimmerman%20en%20Space%20podcast&prop=info&gcmtype=file)
+
+Request info about [AI en Chat GPT in de sterrenkunde](https://commons.wikimedia.org/wiki/File:AI_en_Chat_GPT_in_de_sterrenkunde_-_Zimmerman_en_Space_-_S01E14_-_2023-03-07_-_12392457.oga) (episode 14)
+* [Structured data, as JSON](https://commons.wikimedia.org/w/api.php?action=wbgetentities&format=json&ids=M152723347)
+* [Wikitext, as XML](https://magnus-toolserver.toolforge.org/commonsapi.php?image=File:AI%20en%20Chat%20GPT%20in%20de%20sterrenkunde%20-%20Zimmerman%20en%20Space%20-%20S01E14%20-%202023-03-07%20-%2012392457.oga&meta&format=xml)
+
 #### SPARQL 
 Structured data has been added to all files, so we can do some (basic) semantic searching via SPARQL queries.
 * [All episodes, sorted by year](https://w.wiki/BDH9)
@@ -55,7 +62,7 @@ Structured data has been added to all files, so we can do some (basic) semantic 
 
 ### Wikidata
 * Hens Zimmerman : https://www.wikidata.org/wiki/Q130279350 
-* Zimmerman en Space podcast: https://www.wikidata.org/wiki/Qxxxxxx
+* Zimmerman en Space podcast: https://www.wikidata.org/wiki/Qxxxxxx --> Create {{Wikidata infobox}} on Category page
 * Should each episode get its own Wikidata item?
 
 -----------------------------
