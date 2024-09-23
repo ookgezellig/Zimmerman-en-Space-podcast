@@ -1,5 +1,5 @@
 # Zimmerman en Space go Wiki
-Webscrape of the [Zimmerman en Space](https://www.buzzsprout.com/2096278) podcast, and (re)publication on Wikimedia Commons (and Zenodo in the future). High 5 for CC0 licenses, space, astronomy and nerds!
+Webscrape of the [Zimmerman en Space](https://zimmerman-en-space.buzzsprout.com/) podcast, and (re)publication on Wikimedia Commons (and Zenodo in the future). High 5 for CC0 licenses, space, astronomy and nerds!
 
 *Latest update* : 17 September 2024
 
@@ -51,7 +51,7 @@ Wikimedia Commons:
 #### API
 * [Request info about all episodes, as JSON](https://commons.wikimedia.org/w/api.php?action=query&generator=categorymembers&gcmlimit=max&gcmtitle=Category:Zimmerman%20en%20Space%20podcast&prop=info&gcmtype=file)
 
-Request info about [AI en Chat GPT in de sterrenkunde](https://commons.wikimedia.org/wiki/File:AI_en_Chat_GPT_in_de_sterrenkunde_-_Zimmerman_en_Space_-_S01E14_-_2023-03-07_-_12392457.oga) (episode 14)
+Request info about episode 14, [AI en Chat GPT in de sterrenkunde](https://commons.wikimedia.org/wiki/File:AI_en_Chat_GPT_in_de_sterrenkunde_-_Zimmerman_en_Space_-_S01E14_-_2023-03-07_-_12392457.oga) 
 * [Structured data, as JSON](https://commons.wikimedia.org/w/api.php?action=wbgetentities&format=json&ids=M152723347)
 * [Wikitext, as XML](https://magnus-toolserver.toolforge.org/commonsapi.php?image=File:AI%20en%20Chat%20GPT%20in%20de%20sterrenkunde%20-%20Zimmerman%20en%20Space%20-%20S01E14%20-%202023-03-07%20-%2012392457.oga&meta&format=xml)
 
@@ -61,9 +61,8 @@ Structured data has been added to all files, so we can do some (basic) semantic 
 * [All episodes about Mars]() - to do
 
 ### Wikidata
-* Hens Zimmerman : https://www.wikidata.org/wiki/Q130279350 
-* Zimmerman en Space podcast: https://www.wikidata.org/wiki/Qxxxxxx --> Create {{Wikidata infobox}} on Category page
-* Should each episode get its own Wikidata item?
+* Hens Zimmerman : [https://www.wikidata.org/wiki/Q130279350](https://www.wikidata.org/wiki/Q130279350 ) 
+* Zimmerman en Space podcast: [https://www.wikidata.org/wiki/Q130355362]([https://www.wikidata.org/wiki/Q130355362)
 
 -----------------------------
 
