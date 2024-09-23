@@ -61,8 +61,9 @@ Structured data has been added to all files, so we can do some (basic) semantic 
 * [All episodes about Mars]() - to do
 
 ### Wikidata
-* Hens Zimmerman : [https://www.wikidata.org/wiki/Q130279350](https://www.wikidata.org/wiki/Q130279350 ) 
-* Zimmerman en Space podcast: [https://www.wikidata.org/wiki/Q130355362]([https://www.wikidata.org/wiki/Q130355362)
+* Zimmerman en Space podcast: [https://www.wikidata.org/wiki/Q130355362](https://www.wikidata.org/wiki/Q130355362)
+* Hens Zimmerman : [https://www.wikidata.org/wiki/Q130279350](https://www.wikidata.org/wiki/Q130279350) 
+
 
 -----------------------------
 
