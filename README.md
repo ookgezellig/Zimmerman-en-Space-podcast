@@ -3,7 +3,7 @@ Webscrape of the [Zimmerman en Space](https://zimmerman-en-space.buzzsprout.com/
 
 *Latest update* : 17 September 2024
 
-![afbeelding](https://github.com/user-attachments/assets/80910b8e-0c9c-4df1-a3a3-1dc60e1fa426)
+![afbeelding](images/Zimmerman_en_Space_podcast_logo1.png)
 
 ##  Main result
 Episodes 1 - 92 are now available on Wikimedia Commons: 
@@ -47,6 +47,7 @@ Wikimedia Commons:
 #### Category & gallery
 * Category: [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
 * Gallery, grouped by year, sorted by date : [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Zimmerman_en_Space_podcast)
+* Category: [Hens Zimmerman](https://commons.wikimedia.org/wiki/Category:Hens_Zimmerman)
 
 #### API
 * [Request info about all episodes, as JSON](https://commons.wikimedia.org/w/api.php?action=query&generator=categorymembers&gcmlimit=max&gcmtitle=Category:Zimmerman%20en%20Space%20podcast&prop=info&gcmtype=file)
