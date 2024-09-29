@@ -43,9 +43,6 @@ Wikimedia Commons:
 * Excel file as source for OpenRefine project, to bulk upload the .oga files and metadata to Wikimedia Commons: see Excel above, this includes all columns needed for the OpenRefine project.
 * OpenRefine project files : [ZimmermanEnSpacePodcast-episodes1-92-xlsx.openrefine.tar.gz](ZimmermanEnSpacePodcast-episodes1-92-xlsx.openrefine.tar.gz)
 
-
-
-
 ### Wikimedia Commons
 #### Category & gallery
 * Category: [Zimmerman en Space podcast](https://commons.wikimedia.org/wiki/Category:Zimmerman_en_Space_podcast)
@@ -55,15 +52,16 @@ Wikimedia Commons:
 #### Stuff in progress
 
 ##### 1 - Audio transcriptions
-Full-text audio transcriptions are being added bit by bit to the Commons files in the coming months. For current status, see [this issue](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/issues/2). 
-
-For a fully worked example, see S01E01 [Tsunami's op Mars](https://commons.wikimedia.org/wiki/File:Tsunami%27s_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga#%7B%7Bint%3Afiledesc%7D%7D)
+Full-text audio transcriptions are being added bit by bit to the Commons files in the coming months. 
+* For the ChatGPT corrected transcribed texts of each episode, see the [transcripts/chatgpt-corrected](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/tree/main/transcripts/chatgpt-corrected) folder. Files are in Markdown (.md) format.
+* For a first, fully worked example on Commons, see S01E01 [Tsunami's op Mars](https://commons.wikimedia.org/wiki/File:Tsunami%27s_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga).
+* For current status, see [this issue](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/issues/2). 
 
 ##### 2 - Structured file data / main subject
 To the structured data of each Commons file, [main subject (P921)](https://www.wikidata.org/wiki/Special:EntityPage/P921) will be added bit by bit in the coming months. These episode subjects/keywords will be extracted from the title and full-text audio transcriptions using Named Entity Recognition (NER) techniques and subsequent reconciliation of the found entities against Wikidata.
 For current status, see [this issue](https://github.com/ookgezellig/Zimmerman-en-Space-podcast/issues/1).
 
-For a fully worked example, see S01E01 [Tsunami's op Mars](https://commons.wikimedia.org/wiki/File:Tsunami%27s_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga#%7B%7Bint%3Afiledesc%7D%7D)
+For a fully worked example, see S01E01 [Tsunami's op Mars](https://commons.wikimedia.org/wiki/File:Tsunami%27s_op_Mars_-_Zimmerman_en_Space_-_S01E01_-_2022-12-09_-_11845039.oga).
 
 #### API
 * [Request info about all episodes, as JSON](https://commons.wikimedia.org/w/api.php?action=query&generator=categorymembers&gcmlimit=max&gcmtitle=Category:Zimmerman%20en%20Space%20podcast&prop=info&gcmtype=file)
