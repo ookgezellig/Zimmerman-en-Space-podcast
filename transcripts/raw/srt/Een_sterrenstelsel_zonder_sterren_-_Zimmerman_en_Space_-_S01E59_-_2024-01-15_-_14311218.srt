@@ -1,0 +1,892 @@
+1
+00:00:00,000 --> 00:00:01,420
+Ik weet het niet.
+
+2
+00:00:01,520 --> 00:00:03,680
+U luistert naar Zimmerman & Space.
+
+3
+00:00:03,860 --> 00:00:04,600
+All right.
+
+4
+00:00:05,060 --> 00:00:08,260
+Een astronomische ontdekking doen door een typfout.
+
+5
+00:00:08,420 --> 00:00:09,540
+Hoe bijzonder is dat?
+
+6
+00:00:10,440 --> 00:00:15,000
+Het overkwam astronoom Karen O'Neill van het Green Bank Observatorium...
+
+7
+00:00:15,560 --> 00:00:19,720
+onlangs in haar zoektocht naar low surface brightness sterrenstelsels.
+
+8
+00:00:19,960 --> 00:00:22,400
+Dit vraagt, denk ik, om wat extra uitleg.
+
+9
+00:00:22,580 --> 00:00:23,760
+De naam zegt het al.
+
+10
+00:00:23,820 --> 00:00:24,160
+Hoezo?
+
+11
+00:00:24,860 --> 00:00:27,440
+Sterrenstelsels die weinig licht uitstralen.
+
+12
+00:00:27,480 --> 00:00:29,040
+Aha, zo zit het dus.
+
+13
+00:00:29,040 --> 00:00:33,700
+Om te begrijpen waarom iemand daar specifiek onderzoek naar zou willen doen...
+
+14
+00:00:33,700 --> 00:00:39,540
+pakken we een artikel uit juli 2023 erbij van diezelfde O'Neill en collega's...
+
+15
+00:00:39,540 --> 00:00:40,420
+met de titel...
+
+16
+00:00:40,420 --> 00:00:44,080
+Searching in H1 for Massive Low Surface Brightness Galaxies.
+
+17
+00:00:44,560 --> 00:00:46,900
+Samples from Hyperlita and the UGC.
+
+18
+00:00:47,220 --> 00:00:51,080
+In dit artikel kunnen we lezen hoe O'Neill en haar team...
+
+19
+00:00:51,080 --> 00:00:54,040
+350 sterrenstelsels onder de loep namen...
+
+20
+00:00:54,040 --> 00:00:58,040
+om uit te komen op een subset van 41 exemplaren...
+
+21
+00:00:58,040 --> 00:01:02,520
+die zowel een lage helderheid als toch een grote massa hebben.
+
+22
+00:01:02,520 --> 00:01:08,400
+De aanwezigheid van dergelijke sterrenstelsels is enigszins raadselachtig...
+
+23
+00:01:08,400 --> 00:01:13,220
+want waarom behouden dergelijke zware objecten zo'n laag aantal sterren?
+
+24
+00:01:14,220 --> 00:01:18,760
+Elders in het hele hal zien we dat er aan de lopende band sterren geboren worden...
+
+25
+00:01:18,760 --> 00:01:21,320
+maar hier dus om een of andere reden niet.
+
+26
+00:01:21,320 --> 00:01:28,500
+Waar er al sterren worden gezien in dit soort Low Surface Brightness sterrenstelsels...
+
+27
+00:01:28,500 --> 00:01:31,260
+zijn het vaak blauwe, metaalarme sterren.
+
+28
+00:01:32,040 --> 00:01:37,580
+Ook dat is een indicatie dat deze plaatsen in ons heelal opvallend veel minder haast hebben...
+
+29
+00:01:37,580 --> 00:01:40,860
+om te evolueren dan de rest van de sterrenstelsels.
+
+30
+00:01:41,400 --> 00:01:46,320
+Want naarmate sterren geboren worden en sterven in supernova-explosies...
+
+31
+00:01:46,780 --> 00:01:50,080
+ontstaan er steeds meer complexe elementen.
+
+32
+00:01:50,080 --> 00:01:52,700
+Dat is een raar gegeven.
+
+33
+00:01:53,320 --> 00:01:57,740
+We hebben de dood van sterren nodig om ons eigen leven verrijkt te zien.
+
+34
+00:01:58,520 --> 00:02:01,920
+Maar dat hoeven we natuurlijk niet gelijk parasiter op te vatten.
+
+35
+00:02:02,060 --> 00:02:03,360
+Daar zit je niet op te wachten.
+
+36
+00:02:03,720 --> 00:02:09,500
+Ook in onze aardse levens kan de dood van een van onze sterren of vrienden of familieleden...
+
+37
+00:02:09,500 --> 00:02:11,680
+behalve het ervaren van verdriet...
+
+38
+00:02:11,680 --> 00:02:15,000
+ons ook wijzen op iets wat wij nog moeten of mogen doen.
+
+39
+00:02:15,600 --> 00:02:19,840
+In die zin is de dood niet uitsluitend duister en akelig.
+
+40
+00:02:19,840 --> 00:02:22,320
+Maar ook iets wat gewoon bij het bestaan hoort.
+
+41
+00:02:23,380 --> 00:02:27,800
+Maar ja, om sterren te kunnen zien sterven moeten ze wel geboren worden.
+
+42
+00:02:27,960 --> 00:02:29,400
+Ja, dat is logisch.
+
+43
+00:02:29,560 --> 00:02:30,840
+Het mag duidelijk zijn.
+
+44
+00:02:31,460 --> 00:02:37,340
+Astronomen snappen nog niet waarom deze op zich veelbelovende gaswolken zo diffuus blijven.
+
+45
+00:02:38,200 --> 00:02:41,140
+Een logische vraag die u nu kunt hebben is...
+
+46
+00:02:41,140 --> 00:02:43,920
+Hoezo zijn deze objecten dan toch heel zwaar?
+
+47
+00:02:44,060 --> 00:02:45,100
+Inderdaad, hoe kan dat?
+
+48
+00:02:45,260 --> 00:02:48,680
+Dat is een combinatie van gas en donkere materie.
+
+49
+00:02:49,500 --> 00:02:55,140
+Voor ons buitenstaanders en salongeleerden klinkt het mogelijk wat vreemd om donkere materie...
+
+50
+00:02:55,680 --> 00:02:58,000
+waarvan we niet eens weten wat het is...
+
+51
+00:02:58,000 --> 00:03:00,140
+lukraak te gebruiken in dergelijke beweringen.
+
+52
+00:03:00,140 --> 00:03:05,140
+Maar voor de astronomie is het een feit dat een groot deel van de massa van sterrenstelsels...
+
+53
+00:03:06,260 --> 00:03:10,740
+niet in fysiek waarneembare objecten, gas of stof besloten ligt.
+
+54
+00:03:11,520 --> 00:03:16,420
+En dan is het aan het eind van de dag gewoon een gegeven waarmee verder gerekend kan worden.
+
+55
+00:03:17,520 --> 00:03:20,140
+Of we ooit precies zullen weten wat donkere materie is...
+
+56
+00:03:20,140 --> 00:03:23,120
+dat zal de tijd ons hopelijk leren.
+
+57
+00:03:23,260 --> 00:03:24,500
+Tuurlijk, dat zal we niet.
+
+58
+00:03:24,780 --> 00:03:28,320
+Er is één ding waar we niet te snel overheen moeten springen.
+
+59
+00:03:28,660 --> 00:03:31,940
+In de titel van het artikel van O'Neill horen we...
+
+60
+00:03:31,940 --> 00:03:33,200
+Searching in H1.
+
+61
+00:03:34,080 --> 00:03:38,480
+H1 staat voor de spectrale lijn van neutrale waterstof.
+
+62
+00:03:38,720 --> 00:03:39,060
+Oké.
+
+63
+00:03:39,200 --> 00:03:42,280
+In ons helal komen we erg veel waterstof tegen.
+
+64
+00:03:42,860 --> 00:03:47,420
+Dat is dan ook het meest eenvoudige element met één proton en elektron.
+
+65
+00:03:47,420 --> 00:03:51,220
+Maar met zo'n waterstofatoom is iets geks aan de hand.
+
+66
+00:03:51,780 --> 00:03:57,760
+Als we voor nu even aannemen dat zowel de proton als het elektron in zo'n waterstofatoom...
+
+67
+00:03:57,760 --> 00:04:00,480
+een eigenschap hebben die we spin kunnen noemen...
+
+68
+00:04:00,480 --> 00:04:06,820
+dan bestaan er precies twee mogelijkheden voor hoe de protonspin en elektronspin zich tot elkaar verhouden.
+
+69
+00:04:07,420 --> 00:04:09,320
+Parallel of antiparallel.
+
+70
+00:04:10,140 --> 00:04:12,420
+En gemiddeld elke elf miljoen jaar...
+
+71
+00:04:13,020 --> 00:04:16,160
+flipt de spin van het elektron de andere kant op.
+
+72
+00:04:16,160 --> 00:04:17,760
+Spontaan.
+
+73
+00:04:18,700 --> 00:04:21,440
+Lagen de beide spinrichtingen parallel...
+
+74
+00:04:21,440 --> 00:04:23,940
+dan staan ze dan opeens antiparallel.
+
+75
+00:04:24,600 --> 00:04:25,860
+En omgekeerd.
+
+76
+00:04:27,100 --> 00:04:30,500
+Gebeurt dit alleen spontaan en eens in de elf miljoen jaar?
+
+77
+00:04:30,760 --> 00:04:31,080
+Wel?
+
+78
+00:04:31,480 --> 00:04:32,360
+Nee, niet helemaal.
+
+79
+00:04:33,200 --> 00:04:36,160
+Wanneer waterstof getroffen wordt er een ander deeltje...
+
+80
+00:04:36,160 --> 00:04:40,900
+kan het elektron ook daardoor in sommige gevallen van spinrichting veranderen.
+
+81
+00:04:40,900 --> 00:04:47,380
+Omdat er zoveel waterstof in bijvoorbeeld een sterrenstalsel aanwezig is...
+
+82
+00:04:47,380 --> 00:04:52,720
+kan de ruis van al die heel soms omflippende elektronen in waterstofatomen...
+
+83
+00:04:52,720 --> 00:04:55,820
+met radiotelescopen op aarde waargenomen worden.
+
+84
+00:04:56,820 --> 00:05:01,480
+En wel op de 21,106 centimeter golflengte.
+
+85
+00:05:01,960 --> 00:05:05,020
+Dat is een frequentie van 1,42 gigahertz.
+
+86
+00:05:05,020 --> 00:05:06,620
+Oh ja, inderdaad.
+
+87
+00:05:06,860 --> 00:05:10,500
+Die 21 centimeter waterstoflijn, zoals we die noemen...
+
+88
+00:05:10,500 --> 00:05:13,380
+is een belangrijk instrument in de astronomie...
+
+89
+00:05:13,380 --> 00:05:16,200
+met name bij het bestuderen van sterrenstalsels.
+
+90
+00:05:16,840 --> 00:05:20,880
+Want hiermee kunnen astronomen de massa van sterrenstalsels bepalen...
+
+91
+00:05:20,880 --> 00:05:22,540
+door middel van het Doppler-effect.
+
+92
+00:05:22,540 --> 00:05:26,180
+Het Doppler-effect houdt in dit geval in...
+
+93
+00:05:26,180 --> 00:05:29,540
+dat de frequentie van die waterstofruis iets verandert...
+
+94
+00:05:30,100 --> 00:05:35,280
+wanneer de bron, dus de waterstof, in beweging is ten opzichte van de waarnemer.
+
+95
+00:05:35,560 --> 00:05:37,540
+Dat zijn wij op aarde met de radiotelescoop.
+
+96
+00:05:38,980 --> 00:05:41,700
+In het geval van de 21 centimeter lijn...
+
+97
+00:05:41,700 --> 00:05:45,540
+wordt de frequentie beïnvloed door de relatieve snelheid van de waterstofwolken...
+
+98
+00:05:46,500 --> 00:05:48,860
+die in een sterrenstalsel ronddraaien...
+
+99
+00:05:48,860 --> 00:05:51,420
+ten opzichte van de radiotelescoop op aarde.
+
+100
+00:05:51,420 --> 00:05:52,620
+Dat was een lange zin.
+
+101
+00:05:52,880 --> 00:05:56,260
+Het plaatje bij deze podcast laat een regenboog zien.
+
+102
+00:05:57,260 --> 00:05:59,280
+Dat is natuurlijk weer te mooi voor woorden...
+
+103
+00:05:59,280 --> 00:06:01,560
+en is dan ook een artistieke impressie...
+
+104
+00:06:01,560 --> 00:06:05,320
+maar het idee is wel ongeveer in overeenstemming met wat we hier bedoelen.
+
+105
+00:06:07,160 --> 00:06:09,860
+Waterstofatomen in een ver weggelegen sterrenstalsel...
+
+106
+00:06:09,860 --> 00:06:12,680
+die van ons afbewegen, worden wat roder...
+
+107
+00:06:12,680 --> 00:06:14,740
+en die naar ons toe bewegen wat blauwer.
+
+108
+00:06:15,780 --> 00:06:17,680
+Dat moeten we niet letterlijk zo lezen.
+
+109
+00:06:18,300 --> 00:06:20,100
+Waterstof zelf is onzichtbaar.
+
+110
+00:06:20,100 --> 00:06:25,940
+Het enige wat dit betekent is dat de frequentie van de 21 centimeter radiolijn...
+
+111
+00:06:25,940 --> 00:06:29,260
+wat zakt als waterstof van ons afbeweegt...
+
+112
+00:06:29,260 --> 00:06:31,600
+en stijgt als het naar ons toe beweegt.
+
+113
+00:06:32,480 --> 00:06:35,440
+Bij het onderzoek naar ver weggelegen sterrenstalsels...
+
+114
+00:06:35,440 --> 00:06:38,360
+met grote massa en weinig sterren...
+
+115
+00:06:38,360 --> 00:06:40,320
+is er een interessante uitdaging.
+
+116
+00:06:41,200 --> 00:06:45,380
+Namelijk, wat staat er tussen de waarnemer en zo'n sterrenstalsel in?
+
+117
+00:06:45,380 --> 00:06:51,060
+Wordt de waarneming misschien vervuild door een waterstofwolk die dichter bij ons staat?
+
+118
+00:06:51,720 --> 00:06:56,720
+Een dergelijke waterstofwolk kan natuurlijk ook van ons af of naar ons toe bewegen...
+
+119
+00:06:56,720 --> 00:06:58,400
+en de waarneming in de war schoppen.
+
+120
+00:06:59,540 --> 00:07:02,720
+Een andere uitdaging bij het uitlijnen van een radiotelescoop...
+
+121
+00:07:03,560 --> 00:07:05,860
+is de juiste coördinaten intypen.
+
+122
+00:07:05,860 --> 00:07:11,320
+Een radiotelescoop kijkt namelijk maar naar een heel klein stukje van de hemel.
+
+123
+00:07:12,100 --> 00:07:12,680
+Hoe klein?
+
+124
+00:07:13,300 --> 00:07:15,780
+Dat kunnen we bij benadering wel uitrekenen.
+
+125
+00:07:16,440 --> 00:07:19,140
+De straalbreedte van een radiotelescoop...
+
+126
+00:07:19,140 --> 00:07:22,280
+is de golflengte van het waar te nemen verschijnsel...
+
+127
+00:07:22,280 --> 00:07:24,880
+gedeeld door de diameter van de reflector.
+
+128
+00:07:25,860 --> 00:07:30,200
+De golflengte van waterstof weten we al 21 centimeter...
+
+129
+00:07:30,200 --> 00:07:32,340
+oftewel 0,21 meter.
+
+130
+00:07:33,360 --> 00:07:36,480
+En de breedte van de Green Bank radiotelescoop...
+
+131
+00:07:36,480 --> 00:07:39,240
+is afhankelijk van welke telescoop we kiezen.
+
+132
+00:07:40,080 --> 00:07:43,560
+Er staan drie actieve radiotelescopen bij Green Bank.
+
+133
+00:07:44,220 --> 00:07:49,380
+Laten we de 100 meter brede Robert C. Byrd Green Bank telescoop kiezen.
+
+134
+00:07:50,200 --> 00:07:52,140
+Die gebruikte Karen O'Neill ook.
+
+135
+00:07:52,140 --> 00:07:57,040
+Dan komen we uit op een straalbreedte van 0,21...
+
+136
+00:07:57,040 --> 00:08:00,300
+gedeeld door 100 is 0,0021.
+
+137
+00:08:00,540 --> 00:08:01,540
+Wat betekent dat?
+
+138
+00:08:01,700 --> 00:08:03,140
+Maar dat antwoord is in radians.
+
+139
+00:08:03,940 --> 00:08:08,200
+Dus als we dat naar wat gebruikelijkere boogseconden willen omrekenen...
+
+140
+00:08:08,200 --> 00:08:13,340
+moeten we het nog weer vermenigvuldigen met 206.265.
+
+141
+00:08:13,800 --> 00:08:18,580
+En dan komen we uit op een stukje hemel van 433 boogseconden.
+
+142
+00:08:18,580 --> 00:08:24,560
+Maar in werkelijkheid is een radiotelescoop niet over het hele oppervlak bruikbaar...
+
+143
+00:08:24,560 --> 00:08:26,720
+dus dat getal is maar bij benadering.
+
+144
+00:08:28,120 --> 00:08:30,340
+Voor wie het na zit te rekenen en denkt...
+
+145
+00:08:30,340 --> 00:08:33,580
+hoe komt hij nou bij 206.265?
+
+146
+00:08:34,400 --> 00:08:35,740
+Ja, het is echt gênant.
+
+147
+00:08:35,940 --> 00:08:40,280
+Dat is eenvoudigweg hoeveel boogseconden er in één radians zitten.
+
+148
+00:08:40,460 --> 00:08:41,600
+Ah, dat!
+
+149
+00:08:41,760 --> 00:08:43,580
+Waar het op neerkomt is dat de radiotelescoop...
+
+150
+00:08:44,320 --> 00:08:47,440
+dus op een heel klein stukje van de hemel uitgericht staat.
+
+151
+00:08:47,440 --> 00:08:51,640
+Om ver weggelegen sterrenstelsels te bestuderen...
+
+152
+00:08:51,640 --> 00:08:54,420
+moet het apparaat dan dus wel goed afgesteld staan.
+
+153
+00:08:55,420 --> 00:08:58,340
+Maar bij de zoektocht van Karen O'Neill...
+
+154
+00:08:58,340 --> 00:09:02,180
+werd per ongeluk een verkeerde hemelcoördinaat ingevoerd.
+
+155
+00:09:03,320 --> 00:09:08,920
+De radiotelescoop keek uiteraard braaf in de richting van wat was ingevoerd...
+
+156
+00:09:08,920 --> 00:09:11,800
+voor wat betreft rechte klimming en declinatie...
+
+157
+00:09:11,800 --> 00:09:16,000
+en gelukkig hadden de astronomen van dienst de tegenwoordigheid van geest...
+
+158
+00:09:16,000 --> 00:09:20,140
+om goed te kijken naar wat er per ongeluk werd waargenomen.
+
+159
+00:09:21,500 --> 00:09:25,000
+Een sterrenstelsel waarin helemaal geen sterren voorkomen.
+
+160
+00:09:26,460 --> 00:09:28,900
+Iets wat nog nooit eerder was gezien.
+
+161
+00:09:30,000 --> 00:09:34,000
+Het object kreeg de naam J0613 plus 52...
+
+162
+00:09:34,000 --> 00:09:40,060
+en is eigenlijk de ultieme vorm van dat waar op dat moment door O'Neill naar gezocht werd.
+
+163
+00:09:40,280 --> 00:09:40,460
+Oh?
+
+164
+00:09:40,960 --> 00:09:43,740
+Lichtzwakke sterrenstelsels met een grote massa.
+
+165
+00:09:44,900 --> 00:09:47,300
+Dit sterrenstelsel was wel heel lichtzwak...
+
+166
+00:09:47,300 --> 00:09:49,060
+want er komen geen sterren in voor.
+
+167
+00:09:50,000 --> 00:09:51,900
+Dat is dus dubbel toevallig.
+
+168
+00:09:52,640 --> 00:09:58,040
+Deze blop van gas staat op een afstand van 270 miljoen lichtjaar van ons vandaan.
+
+169
+00:09:58,040 --> 00:10:00,440
+U denkt misschien...
+
+170
+00:10:00,440 --> 00:10:04,320
+hoezo krijgt zoiets überhaupt de klassificatie sterrenstelsel...
+
+171
+00:10:04,320 --> 00:10:08,060
+als het alleen maar een gaswolk is en er geen sterren in voorkomen?
+
+172
+00:10:08,760 --> 00:10:10,840
+Dat is op zich een goede gedachte.
+
+173
+00:10:11,740 --> 00:10:14,060
+Maar gaswolken kennen we in dit heelal.
+
+174
+00:10:15,520 --> 00:10:21,720
+J0613 plus 52 heeft echter de platte vorm en de rotatie van een heus sterrenstelsel.
+
+175
+00:10:21,720 --> 00:10:28,720
+Zouden we bij wijze van spreken alle sterren wegtoveren uit ons eigen melkwegstelsel...
+
+176
+00:10:29,760 --> 00:10:34,220
+dan blijft er daadwerkelijk zoiets over als J0613 plus 52.
+
+177
+00:10:35,620 --> 00:10:40,720
+Vooralsnog is dit sterrenstelsel uitsluitend waargenomen met de Green Bank radiotelescoop.
+
+178
+00:10:42,300 --> 00:10:46,860
+In het radiospectrum was de dopplerverschuiving van waterstof te zien...
+
+179
+00:10:46,860 --> 00:10:50,960
+precies zoals bij een ronddraaiend spiraalmelkwegstelsel het geval is.
+
+180
+00:10:51,720 --> 00:10:57,880
+Het levert heel misschien nog nieuwe inzichten op...
+
+181
+00:10:57,880 --> 00:11:01,440
+als er op andere frequenties naar dit punt aan de hemel gekeken wordt.
+
+182
+00:11:01,960 --> 00:11:04,600
+Maar daar hou ik persoonlijk mijn hart niet voor vast.
+
+183
+00:11:05,960 --> 00:11:11,300
+Dit alles is nog bijzonder prilnieuws en er is praktisch niks over gepubliceerd.
+
+184
+00:11:11,800 --> 00:11:15,220
+Toch irriteerde het mij wel dat ik u niet eens kon zeggen...
+
+185
+00:11:15,220 --> 00:11:20,100
+waar aan de hemel dit merkwaardige sterloze sterrenstelsel zich bevindt.
+
+186
+00:11:20,100 --> 00:11:22,260
+Ik weet niet hoe het u vergaat...
+
+187
+00:11:22,260 --> 00:11:26,260
+maar ik wil van al dat astronomische nieuws altijd graag weten...
+
+188
+00:11:26,260 --> 00:11:28,260
+waar het aan de hemel staat...
+
+189
+00:11:28,260 --> 00:11:31,140
+hoe ver van ons af en dus in het verleden...
+
+190
+00:11:31,140 --> 00:11:35,040
+en of het in de nabije toekomst mijn lunch zal kunnen bederven.
+
+191
+00:11:36,400 --> 00:11:38,260
+Gelukkig had ik wel een optische sterrenfoto...
+
+192
+00:11:38,260 --> 00:11:43,620
+sterrenfoto van het gebied van Karen O'Neill gevonden op de website van Science Alert.
+
+193
+00:11:43,860 --> 00:11:45,280
+Link in de show notes.
+
+194
+00:11:45,540 --> 00:11:49,960
+En die heb ik in de Nova Astronometry Net Resolver ingevoerd.
+
+195
+00:11:50,460 --> 00:11:51,480
+En met succes.
+
+196
+00:11:51,700 --> 00:11:51,920
+J.
+
+197
+00:11:51,920 --> 00:11:56,080
+J0613 plus 52, het sterrenstelsel zonder sterren...
+
+198
+00:11:56,080 --> 00:11:59,780
+vinden we enigszins in de buurt van het sterrenbeeld Voerman.
+
+199
+00:12:00,320 --> 00:12:02,880
+Dat sterrenbeeld met die heldere ster Capella.
+
+200
+00:12:03,840 --> 00:12:06,680
+En dan een beetje in de richting van het sterrenbeeld de links.
+
+201
+00:12:07,800 --> 00:12:12,080
+Een link naar de World Wide Telescope pagina met die coördinaten...
+
+202
+00:12:12,080 --> 00:12:13,260
+vindt u in de show notes.
+
+203
+00:12:13,260 --> 00:12:17,900
+Astromometry Net is trouwens een leuke gratis tool...
+
+204
+00:12:17,900 --> 00:12:20,640
+als u eens met een foto van de sterrenhemel zit...
+
+205
+00:12:20,640 --> 00:12:22,800
+en geen idee heeft waar u naar kijkt.
+
+206
+00:12:24,000 --> 00:12:26,000
+Het werkt natuurlijk niet altijd...
+
+207
+00:12:26,000 --> 00:12:30,460
+maar ik heb eigen vakantiefoto's wel vaak goed kunnen duiden met deze tool.
+
+208
+00:12:31,500 --> 00:12:34,700
+En met een sterrenhemel die maar zo traag verandert...
+
+209
+00:12:34,700 --> 00:12:38,160
+kunt u natuurlijk ook een historische foto op de scanner leggen...
+
+210
+00:12:38,160 --> 00:12:43,240
+en de JPEG die daaruit rolt als voer gebruiken voor Nova Astronometry Net.
+
+211
+00:12:43,260 --> 00:12:48,620
+Dus, nu zitten we met een sterrenstelsel zonder sterren.
+
+212
+00:12:49,340 --> 00:12:54,720
+Een veelbelovende gaswolk die al miljarden jaren weigert geboorte te geven aan sterren.
+
+213
+00:12:55,360 --> 00:13:00,460
+Dit doet natuurlijk vermoeden dat er iets nodig is om sterrengeboorte in gang te zetten...
+
+214
+00:13:00,460 --> 00:13:02,320
+wat in dit geval niet opgaat.
+
+215
+00:13:03,000 --> 00:13:06,000
+Het kan zijn dat de gaswolk toch de eil is.
+
+216
+00:13:06,240 --> 00:13:09,000
+Maar het is ook goed mogelijk dat we nog iets niet weten...
+
+217
+00:13:09,640 --> 00:13:12,960
+wat cruciaal is om sterrengeboorte op gang te helpen.
+
+218
+00:13:13,780 --> 00:13:18,780
+Zo kan het zijn dat J0613 plus 52 te geïsoleerd ligt...
+
+219
+00:13:18,780 --> 00:13:21,720
+ten opzichte van externe zwaartekracht invloeden.
+
+220
+00:13:22,600 --> 00:13:27,660
+Of er nog meer van dit soort vreemde sterrenstelsels zonder sterrenbestaan weten we nog niet.
+
+221
+00:13:28,360 --> 00:13:31,160
+Erg opvallen in de waarnemingen doen ze natuurlijk niet.
+
+222
+00:13:31,560 --> 00:13:37,420
+Des te magischer dat we nu van het bestaan van eentje weten dankzij iemands diepfout.
+
+223
+00:13:37,960 --> 00:13:39,260
+Tot de volgende keer.
+

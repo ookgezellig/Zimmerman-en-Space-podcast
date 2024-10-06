@@ -1,0 +1,163 @@
+U luistert naar Zimmerman & Space.
+Het is alweer een flinke tijd geleden dat we in deze podcast samen luisterden naar ruimtegeluiden.
+Inmiddels heb ik weer een aantal mooie nieuwe en oude sonificaties voor u gevonden.
+Nou, blij om dat te horen.
+Voordat we daarna gaan luisteren is het misschien wel aardig om te weten waar we eigenlijk naar luisteren.
+Het achterliggende idee is in alle gevallen hetzelfde.
+Iets wat voor ons in eerste instantie niet hoorbaar is, toch vertalen naar geluidsgolven die wel door ons gehoord kunnen worden.
+Dat kan zijn door radiogolven te transcoderen naar geluidsgolven.
+Maar we kunnen ook punten in een grafiek heel erg versnellen.
+En ik heb ook een voorbeeld waarbij de pixels in een afbeelding van boven naar beneden omgezet worden in tonen die binnen een bepaalde diatonische toonladder vallen.
+Dat laatste kan natuurlijk wel erg gefingeerd op ons overkomen.
+Waar heb je het over?
+Sowieso is het maar de vraag in hoeverre sonificaties überhaupt bijdragen aan de wetenschap zouden we kunnen denken.
+Toch is die gedachte ook een beetje kort door de bocht.
+Wetenschap, dat zelfregulerend orgaan van waarheidsvinding, wordt grotendeels betaald door u, de belastingbetaler.
+Daar moet natuurlijk wel wat tegenover staan.
+Uiteraard plukken we allemaal de vruchten van bijzondere uitvindingen.
+Bijvoorbeeld sterke grondstoffen, elektronisch vernuft, medische doorbraken en het gebrek aan dijkdoorbraken.
+En tussendoor mogen we zonder daar veel moeite voor te doen, genieten van adembenemend mooie foto's die met de nieuwste ruimtetelescopen genomen worden.
+Maar wat nou als u niet of niet goed kunt zien?
+Ja, dat is de vraag.
+Liz Landau van NASA's Astrophysics Division van NASA Headquarters legt uit dat sonificaties in eerste instantie werden gemaakt...
+om ook visueel beperkte mensen te laten meegenieten van ruimtefoto's.
+Speciaal voor dit doel maakte NASA de documentaire Listen to the Universe.
+Een link vindt u in het bijschrift van deze aflevering.
+En er is nog iets aardigs aan sonificaties.
+Alhoewel we het er in vergelijking met bepaalde diersoorten bekaait van afbrengen qua gehoor...
+is ons geëvolueerde gehoor wel in staat patronen in de tijd te herkennen.
+Patronen die ons in datatabellen of grafieken mogelijk zouden ontgaan.
+Met deze toegegeven iets wat lange introductie zijn we gereed om naar wat mooie en soms ook spooky sonificaties te gaan luisteren.
+We beginnen met wat sonificaties die redelijk recent zijn gemaakt op basis van onderzoek van de Parker Solar Probe.
+Dit op 12 augustus 2018 gelanceerde ruimtevaartuig onderzoekt de zon van zeer dichtbij.
+Aflevering 230 van Zimmerman In Space ging over de Parker Solar Probe.
+Het eerste geluid wat u hoort is een sonificatie van plasmaoscillaties, ook wel Langmoer golven genoemd.
+Het verschil in toonhoogte correspondeert met fluctuaties in de dichtheid van elektronen die de Parker Solar Probe tegenkomt in de tijd.
+De volgende twee geluiden zijn sonificaties van zogenaamde whistler waves, eveneens geregistreerd door de Parker Solar Probe.
+Whistler waves zijn VLF of Very Low Frequency radiosignalen die kunnen ontstaan in plasma's.
+Allee, mag het ook in het Nederlands?
+Een plasma is trouwens een geioniseerd gas. De vierde staat waarin een stof kan verkeren, naast vast, vloeibaar en gasvormig.
+Oh ja, inderdaad.
+Whistler waves ontstaan wanneer elektronen uit de corona van de zon schieten.
+Ze volgen daarbij de magneetlijnen rond de zon, want inderdaad, ook de zon heeft een magneetveld.
+Nu kan het voorkomen dat deze rondschietende elektronen trillen op een frequentie die versterkt wordt in het plasma.
+Dan is er sprake van whistler waves.
+Op aarde worden vergelijkbare whistlers soms waargenomen als het bliksemd.
+Astronomen hebben ze ook in de magneetosfeer van planeet Mercurius waargenomen.
+En ook in het plasma rond de zon ontstaan dergelijke fluittonen dus, en die klinken dan bijvoorbeeld zo,
+wanneer de frequenties binnen ons gehoorbereik gebracht worden.
+En hier is nog een whistler van de Parker Solar Probe.
+U luistert dus naar radiostraling die ontstaat door interacties in de zonneatmosfeer.
+Trouwens, wie ooit naar de science fiction serie Doctor Who keek,
+zal deze whistlers verdacht veel vinden lijken op het geluid van de TARDIS.
+Dat laatste was dus een geluid uit de BBC's science fiction serie Doctor Who.
+In het plasma rond de zon ontstaat ook een fenomeen dat we zonnewind noemen.
+Dicht bij de zon hoort de Parker Solar Probe dat de golfverschijnselen binnen dat plasma soms snel van frequentie wisselen.
+Wat het effect van deze frequentie wisselingen is op de zonnewind zelf is nog niet bekend,
+volgens astronoom David Malaspina die de gegevens van de Parker Solar Probe onderzoekt.
+Laten we eens luisteren naar deze frequentie wisselingen die wetenschappers dispersive chirping waves noemen.
+Als laatste geluid van de Parker Solar Probe kunnen we rechtstreeks horen hoe het ruimtevaartuig gebombardeerd wordt door stofdeeltjes.
+Dit zijn stofdeeltjes die ontstaan wanneer asteroïden en kometen door de zwaartekracht van de zon worden ingevangen en tot gruzelement worden getrokken.
+De Parker Solar Probe wordt veel meer geraakt door dergelijke stofdeeltjes dan was gedacht.
+Ja, dat klinkt niet lekker.
+Geschat wordt dat de deeltjes met een snelheid van rond de 400.000 kilometer per uur tegen het ruimtevaartuig knallen.
+Ze vallen dan gelijk uiteen in atoomkernen, protonen en elektronen.
+Ook raakt de Parker Solar Probe bij elke botsing met zo'n stofdeeltje een klein beetje beschadigd.
+Het klinkt zo.
+Misschien is het nu tijd voor een wat mooier geluid waar ik het in het begin ook al over had.
+Nou, dat duurde lang.
+Wat nu volgt is een sonificatie van de afbeelding van Supernova Rest IC443, ook wel bekend als de Jellyfish Nebula of Kwalnevel.
+Het geluidsbeeld ontstaat door van boven naar onder door het plaatje te scannen.
+De helderheid van pixels bepaalt het volume, de kleur de frequentie en de achtergrondsterren zijn als een soort waterdruppels hoorbaar gemaakt.
+De afbeelding is gemaakt in het rundgebreik met gecombineerde gegevens van het Chandra X-ray Observatory en de Rosat X-ray Telescope.
+U luisterde dus naar een sonificatie van rundgestralen.
+Dat kan je je toch niet voorstellen?
+Als u meer van dergelijke speelse sonificaties wilt horen staan er nog een heleboel op de webpagina A Universe of Sound,
+waarnaar u een link vindt in het bijschrift van deze aflevering.
+Dan gaan we nu naar de planeet Mars.
+The Mars incident?
+Wat u zo hoort is een sonificatie van seismische informatie zoals geregistreerd door de InSight Marslander op 7 april 2019.
+Het begint met de wind op Mars.
+Dan volgt nu waarschijnlijk een Marsbeving.
+En tot slot de robotarm van de Marslander.
+In deze sonificatie is het verloop van de tijd identiek aan hoe een en ander is opgenomen.
+Alleen horen wij met onze oren geen seismische gegevens, dus die zijn omhoog verteld naar tonen die binnen ons gehoorbereid liggen.
+Het volgende geluidsfragment is een sonificatie van radiogolven die uitgezonden worden in het noorder- en zuiderlicht van de planeet Saturnus.
+Het is nogal een lange clip, dus u hoort deze al op de achtergrond.
+De radiogolven werden door het Cassini-ruimtevaartuig waargenomen op 22 november 2003 tussen de 30 en 80 kHz.
+En we blijven nog even meereizen met het Cassini-ruimtevaartuig.
+Veel later, en wel op 18 december 2016, bewoog het Cassini-ruimtevaartuig door een dunner deel van Saturnus ringensysteem.
+Het radio- en plasma-meetinstrument aan boord van het ruimtevaartuig registreerde inslagen van stof- en gruisdeeltjes van deze ring tijdens de manoeuvre.
+Om het ruimtevaartuig niet nodeloos bloot te stellen aan inslagen, bewogen door een dunner gedeelte van de ringen in het baanvlak van Saturnus-manen Janus en Epi-Meet thuis.
+U kunt heel goed horen dat gruis en stof eerst toenemen en dan weer afnemen.
+Dat is letterlijk het gevolg van de passage van het Cassini-ruimteschip door de ring.
+Stijn met poluig기도 Kanon naam wagen.
+***
+Op 5 maart 1982 landde de Russische Venera 14 capsule op de planeet Venus.
+Deze buurplaneet van ons is nogal een onherbergzame plek.
+De Venera 14 hield het ook maar 57 minuten vol op het oppervlak...
+waar het op dat moment 465 graden Celsius was bij een druk van 94 atmosfeer.
+***
+Interessant genoeg hadden de Russische ruimtevaartdeskundigen een microfoon aangebracht...
+die geluid heeft opgenomen op het oppervlak van Venus.
+Wat we nu horen is de afdaling door de Venusatmosfeer.
+***
+En dan volgt nu de landing.
+***
+Vervolgens wordt de lenskap pyrotechnisch verwijderd.
+***
+En dit is het geluid van boren in de Venusbodem.
+***
+Dit is een echte geluidsopname.
+Een microfoon is in de meeste gevallen een membraan...
+dat heen en weer rammelt in de omstandigheden waaraan de microfoon wordt blootgesteld.
+Als aan beide zijden van het membraan een luchtdruk van 94 atmosfeer heerst...
+kan deze dus gewoon nog geluid registreren.
+De planeet Venus kunt u trouwens geregeld zelf zien...
+maar staat op dit moment april 2024 te dicht bij de zon om waargenomen te kunnen worden.
+Zo tegen het einde van het jaar wordt het weer een avondobject.
+Misschien is het nu tijd om naar iets rustgevenders te luisteren.
+De natuurlijke vibratie van de zon.
+Deze sonificatie die u al op de achtergrond hoort...
+is gemaakt op basis van waarnemingen met het SOHO ruimtevaartuig.
+SOHO staat voor...
+Solar and Heliospheric Observatory.
+Wat u hoort zijn Doppler-metingen aan de fotosfeer rond de zon...
+sterk versneld in de tijd en binnen het gehoorbereik gebracht.
+Aardig aan een sonificatie als deze is...
+dat daarmee lange termijn schommelingen inzichtelijker worden...
+of eigenlijk hoorbaar worden.
+Het volgende geluidsfragment vertegenwoordigt geluidsgolven...
+die door het vroege universum reisten...
+en later min of meer gehoord werden door het plankruimtevaartuig.
+We luisteren zo dus naar iets uit een ver, ver verleden.
+Voordat er sterren of sterrenstelsels waren...
+13,8 miljard jaar geleden...
+was ons universum een bal van plasma.
+Daar hebben we het woord nog een keer.
+In dit plasma was sprake van minuscule schommelingen...
+die we geluidsgolven zouden kunnen noemen.
+Terwijl deze geluidsgolven zich door het jonge universum voortplanten...
+lieten ze afdrukken achter op de materie en het licht...
+net zoals patronen die ontstaan door golven op het oppervlak van een vijver...
+waarin een steen is gegooid.
+Deze patronen werden afgedrukt...
+als iets helderder en donkerder vlekken in het licht.
+Door dit oude licht in kaart te brengen...
+dat door de ruimte en de tijd naar ons is toegereist...
+kan plank in feite de geluidsecho's van het vroege universum zien.
+De trillingen die plank registreerde...
+lagen zo'n 47 octaven onder onze gehoorgrens.
+Zoveel?
+Door deze trillingen gigantisch te versnellen in zowel tijd als frequentie...
+ontstaat het volgende geluid.
+Luister naar de begindagen van ons heelal.
+Drie keer achter elkaar hetzelfde stuk.
+En tot slot keren we weer terug naar de aarde.
+Het laatste geluid is een sonificatie van het aardmagnetisch veld.
+Dit geluidsbestand werd gemaakt door onderzoekers...
+van de Deense Technische Universiteit.
+Ze gebruikten meetgegevens van Esas 3 Swarm satellieten hiervoor.
+Wat u hoort is de interactie van de zonnewind met het magnetisch veld rond de aarde...
+vertaald naar voor ons hoorbaar geluid.
+Tot de volgende keer.

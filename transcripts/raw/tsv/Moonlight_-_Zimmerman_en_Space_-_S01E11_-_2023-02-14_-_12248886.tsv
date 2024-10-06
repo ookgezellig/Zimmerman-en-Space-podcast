@@ -1,0 +1,204 @@
+start	end	text
+0	11180	Dit is onze commemoration dat we hier zijn tot iemand zoals ons, tot sommigen van jullie die de volgende zijn, komen terug naar het weer terug te leren.
+11520	14800	En om verder de expiratie en de meaning van Apollo.
+15380	19400	Dat waren de laatste woorden die vanaf de maan werden uitgesproken.
+19400	30660	Op 14 december 1972 steeg astronauten Eugene Cernan en Harrison Schmid op uit de Taurus-Litro-Vallei op de maan om terug te keren naar de aarde.
+31120	44080	Toen zij samen met collega-astronaut Ron Evans op 19 december 1972 in de stille oceaan landen begon een lange stilte in de bemande ruimtevaart voorbij onze planeet aarde.
+44080	51080	Nooit meer reisten astronauten verder dan in een baan rond de aarde sinds die december 1972.
+51500	52740	Dat is toch niet te geloven?
+52960	58220	Maar wie het ruimtenieuws een beetje volgt weet dat dat allemaal op het punt staat te gaan veranderen.
+59100	63100	Nog dit decennium zullen astronauten terugkeren naar de maan.
+63520	69440	Waar de Apollo-maanreizen van de vorige eeuw op zichzelfstaande korte heen- en weervluchten waren,
+69440	74400	ligt het in de verwachtingen dat we permanent bewoonde maanbasis gaan krijgen.
+74820	79360	En een permanent om de maan cirkelend ruimtestation, de Lunar Gateway.
+80960	88260	Meerdere mogendheden zullen vestigingen op de maan bouwen en daar weken, maanden of zelfs jarenlang verblijven.
+88900	93340	Dat roept al snel de subtiele, maar even zozeer fundamentele vraag op.
+94580	96420	Hoe laat is het op de maan?
+96420	100200	Nou ja, net zo laat als op aarde zouden we kunnen denken.
+100640	103900	Maar zo eenvoudig liggen de kaarten helaas niet.
+104040	109380	Hij heeft de klokhoorn luiden, maar weet niet waar de klepel hangt.
+109460	112420	Als meerdere vestigingen op de maan onderling willen communiceren,
+113580	117140	willen navigeren op de maan zoals we dat op aarde kunnen met gps,
+117660	121420	en contact willen kunnen onderhouden met ruimtevaartuigen die om de maan cirkelen,
+121420	128300	dan ontstaat de behoefte aan atoomklokken die een centraal gereguleerde maantijd aanhouden.
+128800	133420	Het is niet per se voor de hand liggend hoe een dergelijke klok de tijd moet gaan bijhouden.
+134640	140640	De definitie van een seconde is wel ondubbelzinnig vastgelegd in het International System of Units.
+140640	147340	Deze definitie kennen we sinds 1967 en is niet meer gekoppeld aan de rotatie van de aarde.
+147860	153820	Toch gaan er geluiden op om de seconde nogmaals te herdefiniëren naar een nog preciezere standaard.
+154520	157480	Of u en ik dat mee gaan maken is echter maar zeer de vraag.
+158400	162980	Goed, voorlopig weten we allemaal waar we het over hebben als we het woord seconde gebruiken.
+162980	169320	Maar alleen al op aarde is het vastleggen en bijhouden van de tijd één groot wespennest.
+170320	176000	We zullen het niet helemaal hier uit de doeken doen, want dan zou dit een meerdelige aflevering moeten worden.
+176440	179500	Maar een paar uitdagingen zijn wel leuk om te begrijpen.
+179560	182020	Neemt uw papier en potlood erbij.
+182280	185980	Op aarde onderscheiden we grofweg civiele tijd aan atoomkloktijd.
+185980	192980	Officieel heet de atoomkloktijd TAI, wat staat voor Trans Atomic International.
+195020	201700	Maar als u dacht dat ergens op aarde één atoomklok staat die de baas over de tijd is, dan moet ik u helaas teleurstellen.
+204160	211140	TAI is het gewogen gemiddelde van de tijd van 450 atoomklokken verdeeld over 80 landen.
+211260	212980	Ja, dat klinkt niet lekker.
+212980	221060	De civiele tijd, die van uw horloge, is wel weer gebaseerd op deze atoomtijd, maar blijft in de pas lopen met de aardrotatie.
+221880	227220	En die aardrotatie op zich is weer onderhevig aan variaties die we niet kunnen beïnvloeden.
+227980	233580	De civiele tijd is gebaseerd op UTC, wat staat voor Coordinated Universal Time.
+233920	240140	De wakkere luisteraar zal dan concluderen dat de letters van deze afkorting niet in de goede volgorde staan.
+240400	241440	Dat is correct.
+241440	249420	UTC is een compromis tussen het door de Engels sprekende aangedragen CUT en de Franse variant DUC.
+250180	256140	En waar internationaal over standaarden wordt vergaderd, moeten helaas altijd compromissen worden gesloten.
+256660	260260	Of de verschillende partijen houden de hakken natuurlijk stevig in het zand,
+260380	267280	waardoor verschillende standaarden ontstaan en conversies moeten worden gepleegd om van het ene in het andere systeem te komen.
+267280	268920	Gaat u rustig zitten.
+269340	275280	Omdat de aarde niet exact in 24 uur rond haar as draait en zelfs over de jaren hierin varieert,
+276020	283520	moet de UTC met schrikkelseconde, of het achterwege blijven daarvan, van tijd tot tijd gesynchroniseerd worden met de TAI.
+283520	287520	En omdat computersystemen weer in de war kunnen raken door schrikkelseconde,
+288420	290940	hanteert Google bijvoorbeeld een andere tijd.
+291500	292460	Google Smeer.
+293180	296520	Hierin wordt de schrikkelseconde over het hele jaar uitgesmeerd.
+296520	304560	Als u uw computer synchroniseert met time.apple.com en ik met time.google.com,
+305000	307520	allebei gratis te gebruiken NTP Timesurvers,
+308560	312600	dan zijn we het dus maar heel soms heel kort eens over hoe laat het is.
+313500	318040	En dit is nog maar een klein gedeelte van het dilemma van het bijhouden van de tijd,
+318300	322060	en vooral het alle klokken met elkaar in de pas laten lopen op aarde.
+322060	329960	Als u dit interessant vindt, bestaat er een boek wat het allemaal aardig uitlegt van Dennis McCarthy en Kenneth Seidelman.
+330420	333740	Het heet Time from Earth Rotation to Atomic Physics,
+333940	337340	en u kunt het zowel als hardcover als op de Kindle lezen.
+337840	343420	Dit boek is zowel super leesbaar als onbegrijpelijk diep, dus echt weer iets voor de liefhebbers.
+343540	344620	Ben je zo'n nerd, Hens?
+345140	347320	Maar goed, dit is alleen nog op aarde.
+347320	353940	Het wordt pas echt een uitdaging als we de klokken op de maan en op Mars met elkaar in de pas willen laten blijven lopen.
+354760	357580	Om ongelukken en ruzies hierover voor te zijn,
+358020	362500	zijn NASA en ESA al begonnen met het definiëren van afspraak hierover.
+363260	370060	Volgens Cheryl Gramling van het positie Navigatie en Tijdteam van NASA's Goddard Space Flight Center,
+370400	373540	staan we nog maar aan het begin van een universele maantijd.
+373540	379020	Een groot dilemma is het feit dat de klok niet hetzelfde tikt op de maan als op de aarde,
+379120	381300	vanwege relativistische effecten.
+381780	384700	De massa van de aarde is groter dan die van de maan,
+384800	388740	wat betekent dat een horloge op de maan iets sneller tikt dan op aarde.
+389360	396780	Volgens Gramling wint de klok op de maan elke 24 uur zo'n 56 microseconden vergeleken met de klok op aarde.
+397040	397400	Bizar.
+397400	404540	Dit toegegeven bizarre gegeven kan door de sterk toegenomen precisie van wetenschappelijke meetinstrumenten
+404540	407340	ook op de kleine schaal op aarde worden gemeten.
+408060	411980	De tijd tikt sneller voor iemand op een berg dan voor iemand in het dal.
+413080	417400	Op aarde zijn deze verschillen dusdanig klein dat we ons wel doorheen atoomklokken.
+418400	420600	Maar voor de maan wordt het een andere kwestie,
+420600	425080	vooral als we blijven communiceren met de aarde waar een andere klok tikt.
+425080	432280	En om te voorkomen dat over een paar jaar uw pizza bestelling op de maan bij het verkeerde adres wordt bezorgd,
+432420	439800	heeft de Europese ruimtevaartorganisatie ESA samen met industriële partners project Moonlight in het leven geroepen.
+440540	445220	In de praktijk zal dit bestaan uit een constellatie van enkele maansatellieten
+445220	452080	die samen zorgdragen voor dataverbindingen en een maanvariant van wat op aarde GPS-navigatie heet.
+452080	457620	De technische naam hiervoor is Lunar GNSS,
+457800	462440	waarbij GNSS staat voor Global Navigation Satellite System.
+463260	466360	Details als atoomklokken en het aantal satellieten
+466360	469740	worden op dit moment onder de loep genomen door ESA en haar partners.
+470560	475040	De hoop is dat het systeem rond 2027 gelanceerd zal worden.
+475540	481440	Project Moonlight heeft een aantal grote voordelen voor maanexploratie in de nabije toekomst.
+481440	485060	1. De communicatie met planeet aarde onderhouden.
+485460	491540	Met een constellatie van maansatellieten zal er altijd een rechtstreeks radioverbinding met aarde mogelijk zijn,
+491780	495200	terwijl de constellatiesatellieten onderling ook kunnen communiceren.
+495440	502860	2. Het Lunar GNSS-systeem zal ruimtevaartuigen in staat stellen op exacte locaties te landen
+502860	505580	en op exacte tijden te navigeren.
+505580	509980	Dat is natuurlijk extreem belangrijk voor zaken als rendezvous en docking,
+510260	516340	als een ruimtevaartuig opstijgt vanaf het maanoppervlak om te koppelen aan de Lunar Gateway bijvoorbeeld.
+517460	523320	Rovers op het maanoppervlak zullen bemand of onbemand precies weten waar ze zich op de maan bevinden.
+523460	524980	In 400 meters.
+524980	541300	3. Radioastronomie op de achterzijde van de maan zal gebruik kunnen maken van de Moonlight-constellatie
+541300	546300	om gegevens heen en weer te sturen naar de aarde of naar wetenschappers op een maanbasis.
+546300	553860	En radioastronomie door middel van interferometrie staat en valt met afspraken over de exacte tijd.
+554080	558800	Bij de volgende toon is het 17 uur 11 minuten precies.
+560560	567000	In eerste instantie worden de Moonlight-constellatie-satellieten in een speciale baan rond de maan gebracht
+567000	570940	om optimaal gebruikt te kunnen worden op de zuidpool van de maan.
+571280	574840	Al dus Jurg Haan, ESA-engineer van project Moonlight.
+574840	576720	Maar waarom de Zuidpool?
+577260	580640	Hier zullen de eerste missies zich op concentreren.
+581180	585240	De Zuidpool is nooit bezocht tijdens de Apollo-missies van de vorige eeuw.
+585480	590860	Maar precies hier zijn kraters aanwezig waarvan delen permanent in duisternis verkeren
+590860	593040	en waar waterijs aanwezig is.
+594380	598560	Dit is geen hypothese, maar iets wat proefronden vind ik al is vastgesteld.
+598680	599920	Oh ja, inderdaad.
+599920	607220	Een van de grote uitdagingen van maanexpedities is het langer verblijven en gebruikmaken van grondstoffen ter plekke.
+607640	610640	De zogenaamde in-situ resource utilization.
+612020	615980	Behalve drinkwater kunt u dan ook denken aan grondstoffen om mee te bouwen,
+616700	621520	energie en zuurstof uit te winnen en gewassen mee te laten groeien.
+622560	628880	Bij langer verblijven op de maan wordt het ondoenlijk alle benodigdheden altijd maar vanaf de aarde naar de maan te brengen.
+628880	630500	Ja, dat is logisch.
+630880	634360	Maar welke klok gaat dan lopen op de atoomklok op de maan?
+635560	641320	Uiteindelijk zal daarover een knoop moeten worden doorgehakt om project Moonlight een kans van slagen te geven.
+641860	646880	Net als op aarde wordt zo standaard mogelijk in de wielen gereden door geopolitieke oneenigheden.
+648300	650580	Deels zullen we dat misschien voor lief moeten nemen.
+651260	656720	Als China of Rusland bijvoorbeeld een eigen klok willen aanhouden die afwijkt van die van ESA en NASA,
+657480	658520	jammer maar helaas.
+658520	660960	Dit zijn ook geen onoverkomelijkheden.
+661560	667120	Wie heeft er niet eens moeten kijken hoe laat het is voor die collega of dat familielid in een andere tijdzone?
+668340	676080	Sowieso ontstaat op de maan de uitdaging dat de maan-etmaal 29,5 dag duurt en niet 24 uur.
+676080	684520	Wij houden op aarde een strikt 24 uur durend etmaal aan door onze civiele tijd steeds synchroon te laten lopen met de aardrotatie
+684520	694320	en door onze wekker te zetten en zelfs met tegenzin uit bed te klauteren en er met vergelijkbare tegenzin op tijd weer in te kruipen als we eigenlijk nog helemaal niet moe zijn.
+694320	724320	
+724320	732300	Moet de klok ter plekke dezelfde 24 uur cyclus aanhouden en moeten we met kunstlicht mensen herinneren aan dag en nacht op aarde?
+732300	746340	Of mag iedereen lekker uitslapen en wennen aan een eigen dag-nachtritme wat mogelijk afwijkt van het kunstmatig op aarde in stand gehouden circadisch ritme van exact 24 uur per etmaal?
+746340	752680	Dat klinkt natuurlijk heel comfortabel, maar werkt natuurlijk weer minder goed als mensen moeten samenwerken.
+753640	760640	Om een gecoördineerde maantijd in het leven te roepen zullen minstens drie atoomklokken op de maan moeten worden geïnstalleerd
+760640	766720	die net als op aarde met een gewogen stemming overeen komen wat de maan-atoomtijd van dat moment is.
+767480	776000	Dan hebben we het tikken van seconden in het ruimtetijdreferentiekader van de maan, wat dus iets afwijkt van dat op aarde, in ieder geval geregeld.
+776340	776960	Maar dan?
+777940	784520	Heeft het zin om dit referentiesysteem dan periodiek te synchroniseren met de UTC-tijd op aarde?
+784660	785600	Ah, I don't know.
+785680	787280	Of is dat alleen maar lastig?
+788160	794960	Het is voor ons al te gemakkelijk om te roepen dat het waanzin is om de maantijd uit de pas te laten lopen met de tijd op aarde.
+794960	800400	Want hoe gaan we dit aanpakken als we bijvoorbeeld naar Mars gaan en ons daar permanent gaan vestigen?
+800920	803420	Ook op Mars loopt de tijd anders dan op aarde.
+803420	809760	En de afstand tussen de aarde en Mars is, anders dan die tussen aarde en maan, ernstig variabel.
+810320	815160	Van 54,6 miljoen kilometer tot 401 miljoen kilometer.
+815860	822800	Dat komt omdat zowel de aarde als Mars in niet-circoufformige banen met verschillende omlooptijden om de zon draaien.
+822800	832320	Zo eens in de ongeveer 16 jaar staat Mars in oppositie, zodat we Mars goed en lang aan de nachtelijke hemel zien.
+832880	836200	Dit is een moment dat Mars relatief dicht bij de aarde staat.
+836940	843460	Toch doen radiosignalen er dan altijd nog ruim drie minuten over om van de aarde naar Mars of andersom te reizen.
+843460	850120	Een handenschudden tussen twee computers om de klokken synchroon te zetten duurt dan dus minstens zes minuten.
+850720	853880	En dat is alleen als de planeten heel dicht bij elkaar staan.
+854600	862540	In het andere extreme geval doet een radiosignaal er ruim 22 minuten over om de afstand tussen de twee planeten te overbruggen.
+862540	868080	En het synchroniseren van twee computers op beide planeten duurt dan drie kwartier.
+869160	874980	De verschillen in tijd die door die afstanden weer optreden kunnen wel overbrugd worden met wat rekenwerk.
+875520	880580	Maar de vraag blijft of er behoefte bestaat om de klokken met elkaar in de pas te laten lopen.
+881360	887780	En ook de vraag of de klok op aarde wel de baas moet blijven spelen over de tijd en de rest van het zonnestelsel.
+887960	890640	Ja, dat is wel een hele interessante vraag.
+890640	898440	Aan het begin van deze eeuw werd er al over nagedacht wat resulteerde in het Proximity One protocol van het CSSDS.
+899180	902620	Of Consulting Committee on Space Data Systems.
+903280	910980	Dit protocol werd bedacht als oplossing voor het sturen van internet timing gegevens tussen verschillende plaatsen in het zonnestelsel.
+911060	913280	En remember thousands of lives are at stake.
+913280	915980	Het is u misschien ontgaan, en mij trouwens ook.
+915980	926640	Maar NTP, het Network Time Protocol van het aardse internet, werd ook experimenteel al toegepast in een aantal AMSAT satellieten en aan boord van de Space Shuttle.
+927400	934480	NASA JPL zag al beren op de weg in het aanhouden van tijd tussen verschillende hemellichamen door middel van NTP.
+935280	942500	Het idee was om het Proximity One protocol te eiken met een zonnestelselcentrische tijd, dus los van de aarde.
+942500	954020	Voor dat doel zou de atoomklok die bijvoorbeeld op Mars dikt, eerst naar wat men noemt barycentrische J2000 tijd moeten worden geconverteerd en zou dat ook voor de aardse tijd moeten worden gedaan.
+954320	955460	Wat een gedoe.
+955700	968320	In het artikel hierover, waarvan u een link vindt in de show notes, lezen we al dat de vraag blijft hoe dit praktisch uitvoerbaar wordt met ruimtevaartuigen die in elliptische banen rond verschillende hemellichamen draaien.
+968320	968760	Ah.
+969160	971940	Of überhaupt niet om hemellichamen heen draaien.
+973220	975640	Voorlopig richten we ons eerst nog maar even op de maan.
+976440	980740	De vraag is nu waar op de maan de atoomklokken geplaatst moeten gaan worden.
+981320	993140	De maan heeft nogal een grillig zwaartekrachtveld, dus het maakt wel degelijk uit of een atoomklok op de bodem van de Taurus-Litro-Vallei geparkeerd staat of op Mons-Huygens, de hoogste berg op de maan.
+993140	1003580	Wellicht is het zinnig de atoomklokken alleen aan boord van de Moonlight Maan-satellieten van ESA te plaatsen voor een iets sneller tikkende, maar wellicht extractere klok.
+1004420	1010420	Parallel aan deze uitdagingen loopt het initiatief voor kartering en coördinatie van het maanoppervlak.
+1011160	1019140	Dat wordt op dit moment besproken door ESA, NASA en de United Nations International Committee on Global Satellite Navigation Systems.
+1019140	1028100	Want behalve hoe laat is het op de maan willen we natuurlijk ook kunnen zeggen waar bevind ik me op de maan en waar moet mijn pizza naartoe?
+1029300	1035140	In samenwerking met ESA ontwikkelt NASA een eigen standaard voor communicatie op de maan met de naam Lunanet.
+1035140	1052640	U raadt het al, Lunanet wordt internet op de maan.
+1053240	1058040	Het ligt voor de hand dat communicatie tussen het aardse internet en Lunanet mogelijk wordt.
+1058040	1070040	En als het over een paar jaar krioelt van de mensen op de maan, dan zullen ook op de maan NTP tijdsurvers in het leven worden geroepen om de laptops en mobiele telefoons ter plekke aan de maantijd te synchroniseren.
+1070980	1071920	Wat die dan ook is.
+1072760	1077500	Voor onze kinderen en kleinkinderen zal maantourisme waarschijnlijk gewoon een optie worden.
+1077500	1091660	En dan willen we onze mobiele telefoons natuurlijk ook meenemen en ter plekke kunnen gebruiken voor maans selfies of Insta en TikTok filmpjes van vrienden die grappig struikelen of een dansje doen in een zesde van de aardse zwaartekracht.
+1092280	1096420	De samenwerking tussen NASA en ESA verloopt doorgaans heel goed.
+1096620	1106500	Dus Lunanet en project Moonlight zullen, wanneer deze systeem allebei volledig geïmplementeerd zijn, waarschijnlijk één groter systeem dienen en dezelfde kloktijd weergeven.
+1106500	1110800	Welke tijd dat exact wordt laat nog een paar jaar op zich wachten.
+1111540	1117820	Maar dat u en ik, of althans onze kinderen en kleinkinderen ervan zullen profiteren, dat staat vast.
+1118420	1122060	Tot de volgende keer, wat weer over een aardse week zal zijn.
+1122680	1130540	En dan laat ik u tot slot achter met de toekomstvoorspelling van astrofysicus Neil deGrasse Tyson voor het jaar 2050.
+1136500	1140820	Deze van de verandering van de human minden wordt zo advanced dat mental illnessen wordt geïnst,
+1141260	1144560	leaving psychologisch en psychiatristen niet zonder jobs.
+1144720	1150000	In een shift dat echter de rapid conversion van de horen naar automobiles in de early 20e century,
+1150460	1156080	self-driving elektricke vehicles will fully replaceen alle cars en trucks op de weg.
+1156340	1159720	De human space programen wordt volledig geïmplementeerd naar een space industry,
+1159720	1166080	supported niet bij tax dollars, maar bij tourism en iets anders dat mensen in de space dreamt.
+1166300	1170000	We developen een perfect antiviral serum en cure cancer.
+1170320	1174360	Medicines will tailor het je eigen DNA, leaving geen adverse side effects.
+1174700	1178320	We will learn hoe to regrow lost limbs en failing organs,
+1178820	1182580	bringing ons op to de level van andere regenerating animals on Earth,
+1182580	1186160	zoals salamanders, starfish en lobsters.

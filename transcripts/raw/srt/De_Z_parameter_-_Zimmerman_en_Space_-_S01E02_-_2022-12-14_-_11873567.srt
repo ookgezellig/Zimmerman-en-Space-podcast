@@ -1,0 +1,660 @@
+1
+00:00:00,000 --> 00:00:02,140
+In just a minute please.
+
+2
+00:00:30,000 --> 00:00:30,860
+Dat noem me zelf.
+
+3
+00:00:31,260 --> 00:00:34,120
+Om te voorkomen dat ik muziekrechten moet afdragen.
+
+4
+00:00:35,440 --> 00:00:40,200
+En als laatste is deze podcast vanaf de naamswisseling veel meer van u.
+
+5
+00:00:40,400 --> 00:00:41,060
+Het publiek.
+
+6
+00:00:42,240 --> 00:00:45,280
+Dat betekent dat u mee kunt beslissen over de inhoud.
+
+7
+00:00:45,600 --> 00:00:47,840
+Zelf geluidsfragmenten kunt insturen.
+
+8
+00:00:47,920 --> 00:00:48,320
+Cute.
+
+9
+00:00:48,480 --> 00:00:52,600
+Of zelfs Pod Save Music die u geschikt acht als achtergrondmuziek.
+
+10
+00:00:53,940 --> 00:00:58,600
+En ook dat u mij kunt uitnodigen voor een bezoek aan uw instelling of bedrijf.
+
+11
+00:00:58,600 --> 00:01:03,900
+En dat de afleveringen onder een Creative Commons CC0 licentie uitgegeven worden.
+
+12
+00:01:04,020 --> 00:01:05,500
+Mag het in het Nederlands?
+
+13
+00:01:05,620 --> 00:01:08,560
+De geluidsbestanden vallen dus onder het publieke domein.
+
+14
+00:01:08,680 --> 00:01:10,160
+En u kunt ermee doen wat u wilt.
+
+15
+00:01:12,920 --> 00:01:17,540
+Vandaag behandelen we een interessant onderwerp waar meermalen om werd gevraagd.
+
+16
+00:01:17,660 --> 00:01:18,700
+De Z-factor.
+
+17
+00:01:20,560 --> 00:01:24,980
+Dit getal komen we regelmatig tegen in astronomische publicaties.
+
+18
+00:01:24,980 --> 00:01:28,520
+En vertelt ons iets over de afstand en de afgelegde tijd.
+
+19
+00:01:28,600 --> 00:01:32,460
+Maar wat precies is mogelijk enigszins in nevelen gehuld.
+
+20
+00:01:33,660 --> 00:01:37,360
+Z staat overigens niet voor Zimmerman, mocht u dat denken.
+
+21
+00:01:38,160 --> 00:01:41,840
+Z kunnen we ook uitdrukken als de roodverschuivingsfactor.
+
+22
+00:01:42,560 --> 00:01:47,000
+Deze term, roodverschuiving, is op zichzelf al iets wat cryptisch.
+
+23
+00:01:47,000 --> 00:01:53,560
+Het ongewapende oor zou het kunnen opvatten als dat er iets aan het rode licht verschoven zou zijn.
+
+24
+00:01:53,780 --> 00:01:55,700
+Maar dat is natuurlijk niet correct.
+
+25
+00:01:56,500 --> 00:02:01,440
+Om het hopelijk helemaal te begrijpen haal ik onze passerende auto er maar weer even bij.
+
+26
+00:02:02,560 --> 00:02:04,420
+Dit noemen we ook wel het Doppler effect.
+
+27
+00:02:04,540 --> 00:02:07,100
+Dat de toonhoogte van hoog naar laag gaat.
+
+28
+00:02:07,100 --> 00:02:15,720
+In het geval van een passerende auto betreft het de geluidsgolven die respectievelijk in elkaar worden gedrukt en dan uitgerekt.
+
+29
+00:02:16,240 --> 00:02:22,840
+Maar hetzelfde effect gaat op voor alle periodieke golfverschijnselen die in de ruimte en de tijd propageren.
+
+30
+00:02:23,680 --> 00:02:29,040
+Dat in elkaar drukken en uitrekken van golven zegt ons dat het verschijnsel relatief is.
+
+31
+00:02:29,040 --> 00:02:31,940
+Dus plaatsvindt ten opzichte van de waarnemer.
+
+32
+00:02:31,940 --> 00:02:41,220
+Als u in een bocht staat bij de TT in Assen en u hoort dit, dan hoort iemand die een kilometer verderop staat iets heel anders.
+
+33
+00:02:43,640 --> 00:02:48,180
+Ditzelfde geldt voor elektromagnetische straling die onze instrumenten bereikt.
+
+34
+00:02:49,120 --> 00:02:56,740
+Als we daarbij aan datzelfde Doppler effect, dus het uitreken of inkrimpen van de golven, een getal kunnen hangen...
+
+35
+00:02:56,740 --> 00:03:00,900
+dan kunnen we iets zeggen over de tijd dat de straling onderweg is geweest naar ons.
+
+36
+00:03:01,940 --> 00:03:06,420
+Dat is voor de goede orde niet hetzelfde als de afstand van het object tot de waarnemer.
+
+37
+00:03:07,100 --> 00:03:11,300
+We kijken namelijk in het verleden omdat de straling een tijd onderweg is geweest.
+
+38
+00:03:13,220 --> 00:03:19,360
+In een heelal dat uitdijdt is de kans dus groot dat het object inmiddels verder van ons af staat.
+
+39
+00:03:20,380 --> 00:03:26,220
+Een enkeling denkt misschien, staan objecten niet sowieso verder van ons af als het heelal uitdijdt?
+
+40
+00:03:26,220 --> 00:03:29,660
+Maar met zo'n bewering moeten we voorzichtig zijn.
+
+41
+00:03:30,180 --> 00:03:36,960
+Voor objecten die bij ons in de buurt staan kan het effect van de zwaartekracht groter zijn dan het effect van een uitdijend heelal.
+
+42
+00:03:37,700 --> 00:03:44,960
+Dat blijkt te gelden voor ongeveer honderd sterrenstelsels in onze lokale groep, waaronder M31, de Andromeda-nevel.
+
+43
+00:03:44,960 --> 00:03:52,200
+M31 is trouwens een van de meest dankbare objecten om eens te bekijken in een verrekijker of telescoop.
+
+44
+00:03:52,680 --> 00:03:56,940
+Bovendien is M31 op dit moment van het jaar heel goed aan de hemel te vinden.
+
+45
+00:03:57,640 --> 00:04:04,100
+Aan het begin van de avond staat deze Andromeda-nevel hoog in het zuiden en gaat dan pas helaas nachts onder.
+
+46
+00:04:04,100 --> 00:04:11,780
+Dus als het eens kraakhelder is en u niks beters te doen heeft, probeer dan zelf eens dit buurmelkwegstelsel te vinden.
+
+47
+00:04:12,920 --> 00:04:20,900
+Bij objecten als M31, die dus naar ons toe bewegen, zullen we geen roodverschuiving maar blauwverschuiving waarnemen.
+
+48
+00:04:21,120 --> 00:04:22,560
+Ja, dat is logisch.
+
+49
+00:04:23,100 --> 00:04:31,160
+Roodverschuiving betekent dat alle elektromagnetische straling die ons bereikt, verschoven is in frequentie in de richting van blauw naar rood.
+
+50
+00:04:31,160 --> 00:04:34,280
+Blauwverschuiving is precies het omgekeerde.
+
+51
+00:04:34,960 --> 00:04:42,260
+Als de straling die wij van een object meten rood verschoven is, betekent dit dat de afstand tussen het object en ons groter wordt.
+
+52
+00:04:43,100 --> 00:04:47,300
+Immers de straling beweegt met exacte lichtsnelheid door de lege ruimte.
+
+53
+00:04:47,620 --> 00:04:55,480
+In een statisch helal, waar dus niks verandert, zou de frequentie van die straling bij aankomst hetzelfde zijn als bij verzending.
+
+54
+00:04:55,480 --> 00:05:04,480
+Maar omdat ons helal uitdijdt, rekt de straling tijdens de reis tussen verzenden en ontvangen uit en daalt de frequentie.
+
+55
+00:05:05,120 --> 00:05:08,700
+En als de frequentie daalt, neemt de golflengte uiteraard weer toe.
+
+56
+00:05:09,580 --> 00:05:12,620
+Hier is het dat die z-parameter in beeld komt.
+
+57
+00:05:13,380 --> 00:05:21,200
+We kunnen die roodverschuiving, die we voor de meeste objecten in het helal zullen waarnemen, uitdrukken met z door een eenvoudige formule.
+
+58
+00:05:21,200 --> 00:05:22,560
+Pak de rekenmachine er maar bij.
+
+59
+00:05:22,740 --> 00:05:30,080
+Z is het verschil tussen de gemeten golflengte en de oorspronkelijke golflengte, gedeeld door die oorspronkelijke golflengte.
+
+60
+00:05:30,900 --> 00:05:36,600
+Voordat we bij het bepalen van die oorspronkelijke golflengte komen, eerst even een voorbeeld.
+
+61
+00:05:37,520 --> 00:05:45,500
+Een deeltje wordt in het zichtbare licht uitgezonden in een ster ver van ons vandaan, met een golflengte van 420 nanometer.
+
+62
+00:05:46,140 --> 00:05:48,080
+Dat is voor ons oog violet licht.
+
+63
+00:05:48,080 --> 00:05:54,300
+Maar als we het licht ontvangen bij ons op aarde, heeft het een golflengte van 650 nanometer.
+
+64
+00:05:54,960 --> 00:05:57,040
+Dat is voor ons oog oranje licht.
+
+65
+00:05:57,680 --> 00:05:59,240
+En dit is maar een voorbeeld, hè.
+
+66
+00:06:00,100 --> 00:06:06,380
+Deze straling is rood verschoven omdat de frequentie ervan kleiner is geworden en de golflengte groter.
+
+67
+00:06:07,220 --> 00:06:12,200
+Het verschil in golflengtes is 650 min 420, dat is 230.
+
+68
+00:06:12,680 --> 00:06:16,700
+En dat delen we weer door 420, de oorspronkelijke golflengte.
+
+69
+00:06:16,700 --> 00:06:23,120
+Onze waarde voor zet is dan 230 delen van 420 is ongeveer 0,55.
+
+70
+00:06:24,040 --> 00:06:27,260
+De vraag is dan natuurlijk wat we aan dit getal hebben.
+
+71
+00:06:27,360 --> 00:06:28,280
+Hey, what is this?
+
+72
+00:06:28,420 --> 00:06:34,820
+Het is belangrijk om te beseffen dat zet ons alleen iets vertelt over hoe lang het licht onderweg is geweest naar ons toe.
+
+73
+00:06:35,280 --> 00:06:39,040
+En niet rechtstreeks zegt hoe ver het object in kwestie op dit moment van ons afstaat.
+
+74
+00:06:39,780 --> 00:06:40,800
+Ja, schiet nou maar op.
+
+75
+00:06:40,800 --> 00:06:44,080
+Want wat we waarnemen is een moment uit een ver verleden.
+
+76
+00:06:44,800 --> 00:06:49,620
+In een uitdijend helal staat het oorspronkelijke object inmiddels veel verder van ons af.
+
+77
+00:06:50,320 --> 00:06:57,620
+Er bestaat gelukkig wel een tabel die we kunnen raadplegen om bij benadering en met de kennis van nu een bewering te doen over dit object.
+
+78
+00:06:57,620 --> 00:07:08,920
+In die tabel vinden we dat het licht van een ster met een zet van 0,55 iets meer dan 5 miljard jaar onderweg is geweest om dusdanig te zijn uitgerekt.
+
+79
+00:07:10,200 --> 00:07:16,040
+Maar het object staat dus niet automatisch op een afstand van iets meer dan 5 miljard lichtjaar van ons vandaan.
+
+80
+00:07:16,600 --> 00:07:20,880
+In werkelijkheid staat het object al 6 miljard lichtjaar van ons vandaan.
+
+81
+00:07:21,060 --> 00:07:21,800
+Dat zou kunnen, ja.
+
+82
+00:07:21,800 --> 00:07:23,060
+Denken we tenminste.
+
+83
+00:07:23,780 --> 00:07:28,220
+Om het uitdijen van het helal in getallen uit te drukken gebruiken we de Hubble-factor.
+
+84
+00:07:29,240 --> 00:07:33,880
+Die staat op dit moment op 70 kilometer per seconde per megaparsec.
+
+85
+00:07:34,480 --> 00:07:37,700
+Waarbij een parsec dan weer een afstand van ruim 3 lichtjaar is.
+
+86
+00:07:38,740 --> 00:07:42,360
+Ik zet de zet-tabel wel in de show notes van deze aflevering.
+
+87
+00:07:42,580 --> 00:07:44,920
+We vragen ons af wat we hier nu verder mee moeten.
+
+88
+00:07:44,920 --> 00:07:51,100
+De onzekerheid over de afstand van objecten heeft te maken met onze huidige onzekerheid over ons helal.
+
+89
+00:07:51,320 --> 00:07:52,260
+Ah, I don't know.
+
+90
+00:07:52,380 --> 00:07:55,840
+Het is nog niet helemaal duidelijk wat de Hubble-constante precies is.
+
+91
+00:07:56,360 --> 00:08:00,180
+Hoe deze varieert over de tijd en misschien zelfs in de rest van het helal.
+
+92
+00:08:00,680 --> 00:08:04,300
+En wat op de grote schaal de kromming van de ruimtetijd is.
+
+93
+00:08:04,500 --> 00:08:06,180
+Ik denk dat iedereen dit ongemakkelijk vindt.
+
+94
+00:08:06,300 --> 00:08:10,920
+Naarmate ons zetgetal groter wordt, worden de onzekerheden ook groter.
+
+95
+00:08:10,920 --> 00:08:16,820
+Met een zet onder de 0.1 zijn de verschillende modellen over het helal het nog wel met elkaar eens.
+
+96
+00:08:17,800 --> 00:08:19,840
+Nu weet u dus wat zet inhoudt.
+
+97
+00:08:19,860 --> 00:08:21,980
+Het is natuurlijk eigenlijk een heel simpel verhaal.
+
+98
+00:08:22,120 --> 00:08:25,420
+Dan beantwoorden we nu nog wat vragen die hiermee samenhangen.
+
+99
+00:08:25,960 --> 00:08:28,280
+En die ik de afgelopen tijd binnen heb gekregen.
+
+100
+00:08:28,860 --> 00:08:32,220
+Eerst maar even die oorspronkelijke frequentie of golflengte.
+
+101
+00:08:32,860 --> 00:08:36,320
+Want hoe weten we nou met welke frequentie iets werd uitgezonden.
+
+102
+00:08:36,320 --> 00:08:40,680
+Als we alleen het miljarden jaren oude verwrongen beeld daarvan kunnen ontvangen.
+
+103
+00:08:40,920 --> 00:08:43,580
+Ja, dat is wel een hele interessante vraag.
+
+104
+00:08:43,860 --> 00:08:48,100
+Dit heeft te maken met de absorptie- en emissielijnen in het spectrum van licht.
+
+105
+00:08:49,000 --> 00:08:52,560
+Hier waren de afgelopen maanden wel vragen over binnengekomen.
+
+106
+00:08:53,280 --> 00:09:00,180
+Emissie- en absorptielijnen zien we in het spectrum van licht door het toedoen van gasvormige of geioniseerde bronnen.
+
+107
+00:09:00,180 --> 00:09:07,640
+Voorbeelden hiervan die we in het hele helal tegenkomen zijn recombinatielijnen van geioniseerd waterstof,
+
+108
+00:09:08,040 --> 00:09:12,080
+de rotatielijnen van polaire moleculen zoals koolstofmonoxide,
+
+109
+00:09:12,640 --> 00:09:16,780
+en de 21 centimeter lijn van interstellaire waterstof.
+
+110
+00:09:17,560 --> 00:09:22,220
+Deze lijnen zijn getuigenissen van kwantumverschijnselen in de natuur om ons heen.
+
+111
+00:09:22,220 --> 00:09:26,320
+Een emissielijn ontstaat bijvoorbeeld als een waterstofatoom,
+
+112
+00:09:26,760 --> 00:09:30,540
+dat om een of andere reden in een hogere energiestaat is gekomen,
+
+113
+00:09:31,180 --> 00:09:33,560
+terugvalt naar een lagere energiestaat.
+
+114
+00:09:34,900 --> 00:09:38,220
+Bij dat proces komt dan energievrij in de vorm van een foton.
+
+115
+00:09:39,000 --> 00:09:43,240
+En als dat in een bepaald object zoals een ster heel veel gebeurt,
+
+116
+00:09:43,720 --> 00:09:47,300
+dan zien we een duidelijke heldere lijn in het spectrum van die ster.
+
+117
+00:09:47,300 --> 00:09:52,180
+Aangezien veel van dit soort lijnen voorspelbare frequenties hebben,
+
+118
+00:09:52,320 --> 00:09:56,460
+omdat bijvoorbeeld alle hoofdreeks sterren waterstof fuseren tot helium,
+
+119
+00:09:57,080 --> 00:10:01,220
+kunnen we ook zien wanneer en hoeveel die lijnen in frequentie zijn gezakt.
+
+120
+00:10:02,240 --> 00:10:06,540
+Ik kreeg de vraag of er zoiets als een prisma bestaat voor radiostraling,
+
+121
+00:10:06,540 --> 00:10:12,060
+en of in radiostraling ook dit soort emissie- en absorptielijnen kunnen worden waargenomen.
+
+122
+00:10:12,060 --> 00:10:18,600
+De huis-, tuin- en keuken-radiontvanger is een voorbeeld van een soort prisma voor radiostraling.
+
+123
+00:10:19,700 --> 00:10:23,220
+Als u afstemt op bijvoorbeeld 95 MHz,
+
+124
+00:10:23,740 --> 00:10:27,420
+kijkt uw radiontvanger in werkelijkheid naar een stukje radiostraling
+
+125
+00:10:27,420 --> 00:10:32,360
+met een bandbreedte van ongeveer 200 kHz of 0,2 MHz.
+
+126
+00:10:33,060 --> 00:10:35,620
+Voor een radiotelescoop geldt hetzelfde.
+
+127
+00:10:35,620 --> 00:10:40,740
+Men stemt deze af op een bepaalde frequentieband met een onder- en een bovengrens,
+
+128
+00:10:41,140 --> 00:10:45,200
+en binnen die band kan de hoeveelheid energie worden gemeten per frequentie.
+
+129
+00:10:46,060 --> 00:10:51,800
+En zo kan ook de equivalent van absorptie- en emissielijnen worden waargenomen in radiostraling.
+
+130
+00:10:52,620 --> 00:10:56,940
+Sterker nog, als straling zich maar lang genoeg door het heelal weet te verplaatsen,
+
+131
+00:10:57,160 --> 00:11:00,460
+dan zullen de absorptie- en emissielijnen van het zichtbare licht
+
+132
+00:11:00,460 --> 00:11:05,600
+op de lange duur uitgerekt zijn tot pieken en dalen in een stukje radiostraling.
+
+133
+00:11:05,680 --> 00:11:07,160
+Hens, ik twijfel hieraan.
+
+134
+00:11:07,320 --> 00:11:11,080
+Ik dacht dat het misschien wel aardig zou zijn om als einde van deze column
+
+135
+00:11:11,080 --> 00:11:14,420
+terug te keren bij het oorspronkelijke onderwerp, Z.
+
+136
+00:11:15,280 --> 00:11:18,980
+We kunnen ons namelijk afvragen of het heelal wel oud genoeg is
+
+137
+00:11:18,980 --> 00:11:21,700
+om radiotelescopen in staat te stellen,
+
+138
+00:11:22,000 --> 00:11:24,160
+emissielijnen uit het zichtbare licht
+
+139
+00:11:24,160 --> 00:11:28,500
+van een of ander ver weggelegen object als radiostraling waar te nemen.
+
+140
+00:11:28,500 --> 00:11:32,800
+Er zit met andere woorden een grens aan wat Z kan zijn.
+
+141
+00:11:33,480 --> 00:11:38,820
+Een Z van 10 betekent dat de straling ruim 13 miljard jaar onderweg is geweest,
+
+142
+00:11:39,080 --> 00:11:41,560
+wat ook zo'n beetje het begin van ons heelal was.
+
+143
+00:11:42,780 --> 00:11:48,560
+Dus stel dat we een golflengte van, ik noem maar wat, 540 nanometer groen licht
+
+144
+00:11:48,560 --> 00:11:50,280
+in onze Z-formule pluggen.
+
+145
+00:11:50,540 --> 00:11:55,820
+Bij een Z van 10, wat is dan de golflengte van de waargenomen straling?
+
+146
+00:11:56,020 --> 00:11:57,340
+Pak de rekenmachine er maar bij.
+
+147
+00:11:57,340 --> 00:12:05,520
+Wie mee wil rekenen, 10 is dan gelijk aan tussen haakjes x-540 gedeeld door 540.
+
+148
+00:12:06,080 --> 00:12:11,720
+Dan komen we uit op een waargenomen golflengte van 5950 nanometer,
+
+149
+00:12:12,320 --> 00:12:13,880
+oftewel 6 micrometer.
+
+150
+00:12:14,920 --> 00:12:19,220
+Straling met die golflengte zit nog comfortabel in het mid-infrarood
+
+151
+00:12:19,220 --> 00:12:21,400
+en is nog lang geen radiostraling.
+
+152
+00:12:22,540 --> 00:12:26,820
+Dus het heelal is nog niet oud genoeg voor het waarnemen van radiostraling,
+
+153
+00:12:26,960 --> 00:12:29,340
+die ooit als zichtbaar licht werd uitgezonden.
+
+154
+00:12:29,460 --> 00:12:30,940
+Dat kan je je toch niet voorstellen?
+
+155
+00:12:31,440 --> 00:12:35,260
+Blijft u met vragen zitten of wilt u meepraten over deze podcast?
+
+156
+00:12:35,600 --> 00:12:36,120
+Dat kan.
+
+157
+00:12:36,240 --> 00:12:38,340
+We hebben een Discord-server.
+
+158
+00:12:38,460 --> 00:12:39,400
+Maar wel een beetje nerderig.
+
+159
+00:12:39,400 --> 00:12:43,640
+Het adres daarvan vindt u in de show notes van deze podcast.
+
+160
+00:12:44,400 --> 00:12:46,520
+U kunt natuurlijk ook gewoon e-mailen.
+
+161
+00:12:46,720 --> 00:12:48,360
+Mail dan naar Hans Zimmerman...
+
+162
+00:12:48,360 --> 00:12:49,440
+Nou, kut. Sorry.
+
+163
+00:12:49,780 --> 00:12:52,640
+Mail dan naar hanszimmerman.gmail.com
+
+164
+00:12:52,640 --> 00:12:55,760
+Bedankt voor het luisteren en tot de volgende keer.
+
+165
+00:12:57,100 --> 00:13:04,180
+De Zimmerman & Space podcast is gelicenseerd onder een Creative Commons CC01.0 licentie.
+

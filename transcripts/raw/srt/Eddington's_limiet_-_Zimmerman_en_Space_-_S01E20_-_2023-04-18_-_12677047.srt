@@ -1,0 +1,928 @@
+1
+00:00:00,000 --> 00:00:03,040
+Op een dinsdagochtend bij de tandarts.
+
+2
+00:00:07,960 --> 00:00:10,340
+Ik vertrouw het toch niet helemaal, nee.
+
+3
+00:00:11,000 --> 00:00:12,500
+We gaan even een fotootje maken.
+
+4
+00:00:14,580 --> 00:00:15,820
+Even goed bijten.
+
+5
+00:00:19,820 --> 00:00:23,460
+Ach, die heerlijke bezoekjes aan de tandarts.
+
+6
+00:00:24,080 --> 00:00:28,400
+En dan dat moment dat de Ivoordokter en haar assistentenruimte verlaten
+
+7
+00:00:28,400 --> 00:00:32,860
+en u daar moederziel alleen achterblijft voor het röntgenbombardement.
+
+8
+00:00:34,680 --> 00:00:39,400
+Elektromagnetische straling met een golflengte van 12 nanometer tot 1 picometer
+
+9
+00:00:39,960 --> 00:00:41,600
+noemen we röntgenstraling.
+
+10
+00:00:42,640 --> 00:00:48,580
+Röntgenstraling heeft een hogere frequentie en dus kleinere golflengte dan ultraviolette straling.
+
+11
+00:00:49,140 --> 00:00:52,700
+Nog sneller fluctuerende fotonen noemen we gamma-straling.
+
+12
+00:00:52,940 --> 00:00:54,340
+Nou, blij om dat te horen.
+
+13
+00:00:54,340 --> 00:00:57,340
+Het ding waar we het vandaag over gaan hebben heet ULX,
+
+14
+00:00:57,340 --> 00:01:01,520
+ULX, wat staat voor Ultraluminous X-Ray Source.
+
+15
+00:01:01,920 --> 00:01:04,280
+Een extreem heldere röntgenbron.
+
+16
+00:01:06,280 --> 00:01:12,200
+Waar de tandarts een röntgentoestel gebruikt om kunstmatig röntgenstraling te produceren,
+
+17
+00:01:12,360 --> 00:01:15,000
+zien we in het heelal ook veel natuurlijke röntgenbronnen.
+
+18
+00:01:16,740 --> 00:01:20,940
+Zo'n ULX is een beetje een raadselachtig verschijnsel.
+
+19
+00:01:20,940 --> 00:01:25,740
+Om dat te begrijpen gaan we iets meer dan een eeuw terug in de tijd.
+
+20
+00:01:26,380 --> 00:01:29,280
+In die tijd leefde de astronoom Arthur Eddington,
+
+21
+00:01:29,480 --> 00:01:32,840
+die de astronomie van die tijd grote stappen vooruit hielp.
+
+22
+00:01:33,620 --> 00:01:38,800
+Zo rond 1920 was nog helemaal niet bekend hoe sterren van binnen functioneren.
+
+23
+00:01:39,520 --> 00:01:44,060
+Eddington suggereerde dat kernfusie een mogelijke motor was voor sterren.
+
+24
+00:01:44,060 --> 00:01:46,480
+Iets wat jaren later bevestigd werd.
+
+25
+00:01:47,240 --> 00:01:51,240
+Eddington was ook aanhanger van de relativiteitstheorie van Einstein
+
+26
+00:01:51,240 --> 00:01:56,140
+en wist deze nieuwe natuurkunde uit te leggen aan een groter publiek in zijn boek
+
+27
+00:01:56,140 --> 00:01:58,540
+Mathematical Theory of Relativity.
+
+28
+00:01:59,200 --> 00:02:01,620
+Ook het concept van de pijl van de tijd,
+
+29
+00:02:01,760 --> 00:02:05,040
+waar we moeten erkennen dat de tijd altijd één kant op beweegt,
+
+30
+00:02:05,260 --> 00:02:06,200
+komt van Eddington.
+
+31
+00:02:06,200 --> 00:02:10,060
+Maar in de context van de aflevering van vandaag,
+
+32
+00:02:10,280 --> 00:02:13,060
+keren we nog even terug naar de werking van sterren.
+
+33
+00:02:13,580 --> 00:02:17,600
+Eddington zag geheel juist dat in sterren een balans bestaat
+
+34
+00:02:17,600 --> 00:02:20,960
+tussen de zwaartekracht die naar het centrum van massa wijst
+
+35
+00:02:20,960 --> 00:02:24,420
+en de stralingsdruk die juist de andere kant op wijst.
+
+36
+00:02:25,320 --> 00:02:30,020
+Als de inwaartse zwaartekracht de uitwaartse stralingsdruk overwint,
+
+37
+00:02:30,220 --> 00:02:33,400
+implodeert een ster tot bijvoorbeeld een neutronenster.
+
+38
+00:02:33,400 --> 00:02:37,300
+Maar als de uitwaartse stralingsdruk zo hoog wordt
+
+39
+00:02:37,300 --> 00:02:39,880
+dat deze de inwaartse zwaartekracht overwint,
+
+40
+00:02:40,000 --> 00:02:43,360
+wordt materie van de ster weggeblazen in een gebeurtenis
+
+41
+00:02:43,360 --> 00:02:45,380
+die meer weg heeft van een explosie.
+
+42
+00:02:47,280 --> 00:02:50,640
+Het maximum aan mogelijke uitwaartse stralingsdruk
+
+43
+00:02:50,640 --> 00:02:52,820
+staat bekend als de Eddington-limiet
+
+44
+00:02:52,820 --> 00:02:55,100
+en verklaart waarom we geen sterren zien
+
+45
+00:02:55,100 --> 00:02:57,620
+vanaf een bepaalde maximale helderheid.
+
+46
+00:02:58,440 --> 00:03:02,240
+Tot er dus iets opduikt als de voornomde ULX.
+
+47
+00:03:02,240 --> 00:03:06,140
+Dit is geen sterexplosie of supernova,
+
+48
+00:03:06,140 --> 00:03:08,540
+maar een object wat blijft stralen.
+
+49
+00:03:09,780 --> 00:03:12,300
+En dan wel zo'n honderd keer zo helder
+
+50
+00:03:12,300 --> 00:03:15,400
+als mogelijk zou kunnen zijn volgens Eddington's limiet.
+
+51
+00:03:16,160 --> 00:03:19,220
+Dan hebben we het over een slordige 10 miljoen keer
+
+52
+00:03:19,220 --> 00:03:21,140
+de energie die de zon gemiddeld uitstraalt.
+
+53
+00:03:21,140 --> 00:03:26,440
+Met het oog op de huidige energiecrisis
+
+54
+00:03:26,440 --> 00:03:30,220
+ergens wel zonde dat al die energie de ruimte in geslingerd wordt
+
+55
+00:03:30,220 --> 00:03:32,520
+in de vorm van röntgenstraling, nietwaar?
+
+56
+00:03:32,600 --> 00:03:34,400
+Dwaai je niet een beetje af van het onderwerp?
+
+57
+00:03:34,620 --> 00:03:35,800
+Ja, ja, sorry.
+
+58
+00:03:35,960 --> 00:03:37,300
+Ik begon al in slaap te vallen.
+
+59
+00:03:37,820 --> 00:03:40,420
+Het instrument waarmee deze waarneming werd gedaan
+
+60
+00:03:40,420 --> 00:03:43,380
+is de NuSTAR ruimtetelescoop van NASA.
+
+61
+00:03:44,180 --> 00:03:48,140
+Deze röntgentelescoop werd al op 13 juni 2012 gelanceerd
+
+62
+00:03:48,140 --> 00:03:50,960
+en functioneert nog altijd prima.
+
+63
+00:03:52,240 --> 00:03:53,940
+NuSTAR staat overigens voor
+
+64
+00:03:53,940 --> 00:03:57,180
+Nuclear Spectroscopic Telescope Array.
+
+65
+00:03:58,020 --> 00:04:00,280
+Dit ruimtevaartuig werd met name ontwikkeld
+
+66
+00:04:00,280 --> 00:04:04,400
+om te kunnen scherpstellen op hoogenergetische bronnen in ons helal.
+
+67
+00:04:04,940 --> 00:04:08,160
+Dan hebben we het met name over röntgenstraling van bronnen
+
+68
+00:04:08,160 --> 00:04:11,660
+zoals zwarte gaten, quasars en neutronensterren.
+
+69
+00:04:12,220 --> 00:04:14,600
+En dus ook ULX-objecten.
+
+70
+00:04:14,600 --> 00:04:18,240
+Het is wel aardig om een keer op een verloren moment
+
+71
+00:04:18,240 --> 00:04:21,780
+een afbeelding op te zoeken van het NuSTAR ruimtevaartuig.
+
+72
+00:04:21,900 --> 00:04:25,780
+Het ziet er namelijk nogal atypisch uit
+
+73
+00:04:25,780 --> 00:04:29,020
+met een uitklapbare mast van 10 meter lengte.
+
+74
+00:04:31,020 --> 00:04:34,540
+In die mast zit de optiek waarmee scherp gesteld kan worden
+
+75
+00:04:34,540 --> 00:04:35,760
+op de röntgenstraling.
+
+76
+00:04:36,540 --> 00:04:40,960
+Om kosten te besparen werd de mast in ingeklapte staat gelanceerd.
+
+77
+00:04:40,960 --> 00:04:44,960
+En eenmaal uitgevouwen in de ruimte werden lasers gebruikt
+
+78
+00:04:44,960 --> 00:04:47,580
+om onscherpte bij foto's tegen te gaan
+
+79
+00:04:47,580 --> 00:04:50,340
+als gevolg van eventuele bewegingen in die mast.
+
+80
+00:04:51,240 --> 00:04:55,480
+Het object waar we het vandaag over hebben heet M82X2
+
+81
+00:04:55,480 --> 00:04:59,780
+en we vinden het vanuit ons gezien in het sterrenbeeld Ursa Major,
+
+82
+00:04:59,920 --> 00:05:00,720
+de grote beer.
+
+83
+00:05:01,360 --> 00:05:04,800
+Maar waar de grote beersterren relatief dicht bij ons staan
+
+84
+00:05:04,800 --> 00:05:07,320
+en onderdeel uitmaken van onze eigen melkweg,
+
+85
+00:05:07,580 --> 00:05:11,740
+vinden we onze ULX of Ultraluminous X-ray Source
+
+86
+00:05:11,740 --> 00:05:17,000
+12 miljoen lichtjaar verderop in een spiraalstelsel met de naam M82.
+
+87
+00:05:17,980 --> 00:05:22,060
+Met een redelijke amateur-telescoop is M82 trouwens wel te zien
+
+88
+00:05:22,060 --> 00:05:25,080
+vanuit onze Belgische of Nederlandse achtertuinen
+
+89
+00:05:25,080 --> 00:05:28,220
+tijdens een heldere nacht die niet overspoeld wordt
+
+90
+00:05:28,220 --> 00:05:29,800
+door maanlicht of straatlantaarns.
+
+91
+00:05:29,800 --> 00:05:35,740
+Op 21 januari 2014 werd in dit sterrenstelsel
+
+92
+00:05:35,740 --> 00:05:40,200
+bij toeval de supernova SN 2014j ontdekt
+
+93
+00:05:40,200 --> 00:05:42,720
+door astronomie-docent Steve Fossi
+
+94
+00:05:42,720 --> 00:05:45,440
+die aan zijn studenten uitlegde hoe zij konden werken
+
+95
+00:05:45,440 --> 00:05:49,020
+met de 14-inch-telescoop van de Londense Universiteit.
+
+96
+00:05:49,800 --> 00:05:51,920
+Bij verder onderzoek aan die supernova
+
+97
+00:05:51,920 --> 00:05:57,280
+vonden astronomen M82X2 als bijvangst in hun waarnemingen.
+
+98
+00:05:57,280 --> 00:06:02,300
+M82X2 is de helderste pulsar ooit ontdekt.
+
+99
+00:06:02,960 --> 00:06:06,840
+We weten inmiddels dat deze pulsar een binair systeem is
+
+100
+00:06:06,840 --> 00:06:11,120
+waarbij de eigenlijke pulsar elke 1,37 seconden
+
+101
+00:06:11,120 --> 00:06:12,720
+een rondje om haar as draait
+
+102
+00:06:12,720 --> 00:06:16,780
+en in 2,5 dagen om een donkere begeleider draait.
+
+103
+00:06:18,220 --> 00:06:20,740
+U kunt nu misschien denken, wat doet dat er nou toe?
+
+104
+00:06:21,120 --> 00:06:22,560
+Maar dat wordt zo duidelijk.
+
+105
+00:06:22,560 --> 00:06:25,940
+Misschien is het ook wel aardig om nog even stil te staan
+
+106
+00:06:25,940 --> 00:06:27,840
+bij wat dit nou voor een object is.
+
+107
+00:06:28,360 --> 00:06:31,980
+Een röntgenpulsar nemen wij van grote afstand waar
+
+108
+00:06:31,980 --> 00:06:34,940
+als een in de tijd pulserende röntgenbron.
+
+109
+00:06:35,720 --> 00:06:38,260
+Dit is het restant van een overleden ster
+
+110
+00:06:38,260 --> 00:06:40,780
+die niet genoeg massa had om een zwart gat te worden
+
+111
+00:06:40,780 --> 00:06:44,420
+maar wel genoeg massa om te imploderen tot een neutronenster.
+
+112
+00:06:44,420 --> 00:06:48,520
+Deze neutronenster draait om een begeleider
+
+113
+00:06:48,520 --> 00:06:52,860
+en slurpt daarbij door de intense zwaartekracht materie weg
+
+114
+00:06:52,860 --> 00:06:54,820
+die, net als bij een zwart gat,
+
+115
+00:06:55,160 --> 00:06:58,760
+in een accretieschijf rond de neutronenster terechtkomt
+
+116
+00:06:58,760 --> 00:07:02,400
+en vanuit daar richting het oppervlak van de neutronenster beweegt.
+
+117
+00:07:03,140 --> 00:07:05,240
+Behalve die belachelijke zwaartekracht
+
+118
+00:07:05,240 --> 00:07:09,000
+die ons als een pannenkoek om de neutronenster zou uitsmeren
+
+119
+00:07:09,000 --> 00:07:10,920
+als we erop probeerden rond te lopen
+
+120
+00:07:10,920 --> 00:07:14,780
+heeft de neutronenster ook een extreem sterk magneetveld.
+
+121
+00:07:16,280 --> 00:07:19,320
+Dit magneetveld weet de verwrongen materie
+
+122
+00:07:19,320 --> 00:07:20,920
+die van de andere ster wordt geroofd
+
+123
+00:07:21,520 --> 00:07:25,720
+in een noord- en zuidpool van de neutronenster te kanaliseren.
+
+124
+00:07:26,620 --> 00:07:29,860
+Hierdoor ontstaan dan twee plekken op de neutronenster
+
+125
+00:07:29,860 --> 00:07:32,960
+waar extra veel röntgenstraling wordt uitgezonden.
+
+126
+00:07:33,800 --> 00:07:37,060
+Door het elke 1,37 seconden ronddraaien
+
+127
+00:07:37,060 --> 00:07:40,600
+komen die polen vanuit ons gezien steeds in beeld
+
+128
+00:07:40,600 --> 00:07:42,080
+en draai je er dan weer uit.
+
+129
+00:07:42,800 --> 00:07:45,400
+Dit is het pulseren dat wij kunnen waarnemen.
+
+130
+00:07:46,020 --> 00:07:49,320
+Aangezien dat gewoon een waarde is die in de tijd fluctueert
+
+131
+00:07:49,320 --> 00:07:51,440
+kunnen we die ook omzetten in geluid.
+
+132
+00:07:55,840 --> 00:07:58,580
+U zou het kunnen vergelijken met een vuurtoren
+
+133
+00:07:58,580 --> 00:08:01,620
+die u in de verte waarneemt als u over het strand loopt.
+
+134
+00:08:02,300 --> 00:08:04,180
+Ook met deze pulsar is het zo
+
+135
+00:08:04,180 --> 00:08:08,780
+dat onze toevallige oriëntatie ten opzichte van de röntgenhotspots
+
+136
+00:08:08,780 --> 00:08:11,840
+maakt dat we een en ander zo waarnemen als we doen.
+
+137
+00:08:12,420 --> 00:08:16,800
+Voor buitenaardse wezens die elders in het heelal naar deze pulsar kijken
+
+138
+00:08:16,800 --> 00:08:18,880
+zou het kunnen zijn dat ze helemaal niets zien.
+
+139
+00:08:19,500 --> 00:08:22,300
+Zoals een meeuw die precies bovenop een vuurtoren zit
+
+140
+00:08:22,300 --> 00:08:25,860
+en geen idee heeft dat er sprake is van een ronddraaiend licht.
+
+141
+00:08:26,860 --> 00:08:30,360
+Dat is wat mij betreft wel een mooi aspect van de sterrenkunde.
+
+142
+00:08:30,360 --> 00:08:34,080
+Veel van wat ontdekt wordt is wat er op een gegeven moment
+
+143
+00:08:34,080 --> 00:08:36,560
+toevallig vanuit ons zichtbaar is.
+
+144
+00:08:37,220 --> 00:08:40,880
+Allerlei exoplaneten zullen we misschien nooit ontdekken bijvoorbeeld
+
+145
+00:08:40,880 --> 00:08:44,640
+omdat ze vanuit ons gezien nooit voor hun zon langs bewegen.
+
+146
+00:08:45,340 --> 00:08:47,580
+Maar ik dwaal zoals wel vaker weer af.
+
+147
+00:08:48,240 --> 00:08:54,420
+In 2014 was de heldere ULX met de naam M82X2 dus al in beeld.
+
+148
+00:08:54,420 --> 00:08:59,540
+Maar het was niet duidelijk waarom deze pulsar zoveel straling kon uitstralen
+
+149
+00:08:59,540 --> 00:09:01,680
+zonder uit elkaar te worden geblazen.
+
+150
+00:09:03,420 --> 00:09:07,960
+Dit was een overtreding van Eddingtons duidelijk gestelde limiet.
+
+151
+00:09:08,600 --> 00:09:13,160
+In oktober vorig jaar verscheen hierover een artikel in de Astrophysical Journal
+
+152
+00:09:13,160 --> 00:09:13,920
+met de titel
+
+153
+00:09:13,920 --> 00:09:16,420
+Orbital Decay in M82X2
+
+154
+00:09:16,420 --> 00:09:21,740
+Orbital Decay wil zeggen dat er verval kan worden waargenomen
+
+155
+00:09:21,740 --> 00:09:26,580
+in de omloopbaan van M82X2 rond haar donkere begeleider.
+
+156
+00:09:27,360 --> 00:09:30,540
+Ook bij onze aarde is soms sprake van Orbital Decay
+
+157
+00:09:30,540 --> 00:09:33,380
+wanneer een satelliet na jaren van trouwendienst
+
+158
+00:09:33,380 --> 00:09:35,980
+toch steeds dichter bij de aarde rondjes draait
+
+159
+00:09:35,980 --> 00:09:39,340
+om uiteindelijk op te fikken in de aardatmosfeer.
+
+160
+00:09:40,420 --> 00:09:42,920
+Iets dergelijks wordt dus ook waargenomen
+
+161
+00:09:42,920 --> 00:09:46,400
+bij onze röntgenpulser M82X2.
+
+162
+00:09:47,260 --> 00:09:50,880
+Om te verklaren waarom dit geval zoveel straling uitzend
+
+163
+00:09:50,880 --> 00:09:54,440
+moet eerst worden vastgesteld wat er eigenlijk waargenomen wordt.
+
+164
+00:09:54,440 --> 00:09:56,100
+Ja, dat is logisch.
+
+165
+00:09:56,360 --> 00:10:01,260
+Astronomen denken aan twee plausibele scenario's, twee hypotheses dus.
+
+166
+00:10:02,080 --> 00:10:06,640
+Allereerst kan het zijn dat er sprake is van lenswerking of gezichtsbedrog.
+
+167
+00:10:07,200 --> 00:10:10,220
+Door allerlei natuurkundige verschijnselen kan het zo zijn
+
+168
+00:10:10,220 --> 00:10:14,260
+dat de röntgenstraling die wij waarnemen sterker gebundeld wordt
+
+169
+00:10:14,260 --> 00:10:18,260
+dan deze in werkelijkheid per oppervlakteeenheid wordt uitgezonden.
+
+170
+00:10:19,000 --> 00:10:22,380
+Als u op een zomerse dag uw hand door de zon laat opwarmen
+
+171
+00:10:22,380 --> 00:10:25,060
+voelt u hooguit een aangename warmte.
+
+172
+00:10:26,100 --> 00:10:28,740
+Maar met een loep valt het zonlicht te bundelen
+
+173
+00:10:28,740 --> 00:10:31,280
+tot iets waar u een blaar van zou kunnen krijgen.
+
+174
+00:10:32,180 --> 00:10:35,420
+Geometrische bundeling van het röntgenlicht dus.
+
+175
+00:10:35,420 --> 00:10:40,340
+En ten tweede kan het zijn dat er daadwerkelijk zoveel röntgenstraling
+
+176
+00:10:40,340 --> 00:10:43,780
+uitgezonden wordt door de in de pulser vallende materie
+
+177
+00:10:43,780 --> 00:10:46,680
+maar moet er ook heel veel materie van de donkere ster
+
+178
+00:10:46,680 --> 00:10:48,740
+naar de pulser worden getransporteerd.
+
+179
+00:10:49,300 --> 00:10:52,240
+De mass transfer rate noemen de auteurs dit.
+
+180
+00:10:52,800 --> 00:10:57,740
+Deze mass transfer rate valt af te leiden uit het verval van de omloopbaan.
+
+181
+00:10:58,080 --> 00:10:58,600
+Tuurlijk!
+
+182
+00:10:58,600 --> 00:11:04,220
+En dat verval werd gemeten door acht jaar waarnemingen aan M82X2 te doen
+
+183
+00:11:04,220 --> 00:11:07,880
+met behulp van voornoemde New Star ruimtetelescoop.
+
+184
+00:11:08,560 --> 00:11:11,760
+Hiermee werd aangetoond dat het eerste scenario
+
+185
+00:11:11,760 --> 00:11:15,480
+geometrische bundeling niet is wat hier plaatsvindt
+
+186
+00:11:15,480 --> 00:11:18,680
+en dat de Eddington-limiet wel degelijk wordt overschreden.
+
+187
+00:11:19,460 --> 00:11:20,900
+Dan rest natuurlijk de vraag
+
+188
+00:11:20,900 --> 00:11:23,840
+hoe is dat mogelijk?
+
+189
+00:11:23,840 --> 00:11:30,100
+En daar komt het extreme magneetvat van M82X2 misschien om de hoek kijken.
+
+190
+00:11:30,900 --> 00:11:34,680
+In de populair wetenschappelijke artikelen over deze ontdekking
+
+191
+00:11:34,680 --> 00:11:36,040
+lezen we dat niet echt.
+
+192
+00:11:36,540 --> 00:11:39,480
+Daar moeten we doen met superlatieven zoals wat er gebeurt
+
+193
+00:11:39,480 --> 00:11:42,740
+als men een marshmallow op een neutronenster zou gooien.
+
+194
+00:11:47,360 --> 00:11:50,300
+Maar in het artikel in die Astrophysical Journal
+
+195
+00:11:50,300 --> 00:11:54,680
+lezen we gelukkig nog wat details die vertellen wat hier mogelijk gaande is.
+
+196
+00:11:55,260 --> 00:12:00,140
+Zo werd gemeten dat de frequentie van deze pulser over de jaren wat varieert
+
+197
+00:12:00,140 --> 00:12:02,600
+en naar een equilibrium lijkt te bewegen.
+
+198
+00:12:03,120 --> 00:12:05,440
+Dit noemen de auteurs het propellerregime
+
+199
+00:12:05,440 --> 00:12:09,260
+waarbij de pulser met een bepaalde rotatiesnelheid in staat is
+
+200
+00:12:09,260 --> 00:12:13,160
+materie in de accretieschijf rond de pulser weg te zwiepen
+
+201
+00:12:13,160 --> 00:12:15,400
+zodat deze de pulser niet bereikt.
+
+202
+00:12:15,400 --> 00:12:20,280
+Bovendien lezen we dat het extreem sterke magneet valt rond de pulser
+
+203
+00:12:20,280 --> 00:12:24,460
+in staat is een front te vormen waar materie door wordt tegengehouden.
+
+204
+00:12:25,800 --> 00:12:30,800
+Een extra barrière dus die zorgt dat de Eddington-limiet dan wel wordt overschreden
+
+205
+00:12:30,800 --> 00:12:33,080
+maar het systeem toch stabiel blijft.
+
+206
+00:12:33,960 --> 00:12:37,840
+En zo kan dit binaire systeem nog miljoenen jaren actief zijn.
+
+207
+00:12:37,960 --> 00:12:39,220
+Heb je dat wel onderzocht?
+
+208
+00:12:39,740 --> 00:12:42,600
+Neutronensterren hebben op zich al een lange levensverwachting.
+
+209
+00:12:42,600 --> 00:12:48,300
+Volgens een webpagina van de Case Western Reserve University in Cleveland, Ohio
+
+210
+00:12:48,300 --> 00:12:50,320
+zo'n 10 tot de zevende jaar.
+
+211
+00:12:50,840 --> 00:12:54,980
+Natuurlijk zit er wel een eind aan het leeg slurpen van de donkere begeleider
+
+212
+00:12:54,980 --> 00:12:58,820
+maar dat betekent niet per se het einde van M82X2.
+
+213
+00:12:59,500 --> 00:13:02,200
+En bovendien duurt dat proces ook nog wel even.
+
+214
+00:13:02,480 --> 00:13:04,440
+Oké, pak de rekenmachine er maar bij.
+
+215
+00:13:04,660 --> 00:13:05,180
+Precies.
+
+216
+00:13:05,640 --> 00:13:09,960
+Volgens het artikel in de Astrophysical Journal is de donormassa,
+
+217
+00:13:09,960 --> 00:13:14,320
+dat is die donkere begeleider, ongeveer 8 miljoen keer die van onze zon.
+
+218
+00:13:14,980 --> 00:13:21,800
+En de massaverplaatsing, de transferrate, gebeurt met min 4.7 maal 10 tot de min 6 miljoen keer
+
+219
+00:13:21,800 --> 00:13:23,800
+de massa van onze zon per jaar.
+
+220
+00:13:24,320 --> 00:13:29,340
+Die min geeft alleen de richting aan, dus we kunnen de absolute waarde nemen voor onze deling.
+
+221
+00:13:29,820 --> 00:13:37,020
+Dan komen we uit op nog 1.7 maal 10 tot de 12e jaar aan donormassa voor M82X2.
+
+222
+00:13:37,020 --> 00:13:44,080
+Dat is alleen in het naïeve geval dat er precies een lineaire verplaatsing van massa plaatsvindt.
+
+223
+00:13:44,140 --> 00:13:48,520
+Maar linksom of rechtsom is dat toch rustig een biljoen jaar aan materie.
+
+224
+00:13:49,320 --> 00:13:53,120
+Het zegt mij maar weer hoe groot en ontzagwekkend dit heelal is.
+
+225
+00:13:53,700 --> 00:13:57,300
+Hoe er ook steeds weer mysterieuze objecten waargenomen worden,
+
+226
+00:13:57,500 --> 00:14:01,280
+die in eerste instantie een natuurkundig enigma blijken te zijn,
+
+227
+00:14:01,580 --> 00:14:05,800
+en dan toch langs onvoorstelbaar grote parameters blijken te kloppen.
+
+228
+00:14:05,800 --> 00:14:10,020
+Dat moet natuurlijk ook wel, anders zouden we niet waarnemen wat we waarnemen.
+
+229
+00:14:10,500 --> 00:14:14,860
+Maar het maakt ons gekonkel op deze planeet kleiner dan klein voor het geestesoog.
+
+230
+00:14:15,960 --> 00:14:21,500
+Tot de volgende keer en luister vooral ook naar de sterrenstofpodcast van Anko van Hal,
+
+231
+00:14:21,780 --> 00:14:26,820
+of was het alleen al omdat ik binnenkort aan mag schuiven in de jubileum aflevering.
+
+232
+00:14:26,820 --> 00:14:32,360
+En toen kwam er een varkentje met een lange snuit en die blies het verhaaltje uit.
+

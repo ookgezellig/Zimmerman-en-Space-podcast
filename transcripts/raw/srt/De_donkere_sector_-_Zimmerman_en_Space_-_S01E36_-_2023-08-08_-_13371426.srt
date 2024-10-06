@@ -1,0 +1,592 @@
+1
+00:00:00,000 --> 00:00:12,860
+Al vaker hebben we het gehad over donkere materie, dat mysterieuze spul dat de massa van het voor ons bekende heelal domineert, maar wat we nog niet rechtstreeks hebben kunnen waarnemen.
+
+2
+00:00:13,600 --> 00:00:19,280
+Misschien krijgt u er inmiddels wel een punthoofd van, dan is deze aflevering mogelijk niet voor u.
+
+3
+00:00:19,900 --> 00:00:26,180
+Wat we vandaag bespreken houdt rechtstreeks verband met die donkere materie, maar is bovendien groter dan dat.
+
+4
+00:00:26,180 --> 00:00:42,900
+Meer en meer raken astronomen en deeltjesfysici ervan overtuigd dat er echt zoiets als donkere materie moet bestaan en ontstaat het vermoeden dat er mogelijk nog iets veel groters buiten onze waarneming bestaat, waarvan donkere materie maar een subset is.
+
+5
+00:00:43,140 --> 00:00:52,680
+We zouden het de donkere sector kunnen noemen, een gedeelte van de natuurkunde waar we alleen zijdelings mee te maken hebben, maar waar nog veel valt te ontdekken.
+
+6
+00:00:53,380 --> 00:00:55,660
+Klinkt speculatief? Zeker.
+
+7
+00:00:56,180 --> 00:01:01,100
+Maar er zijn ook wetenschappelijke aanwijzingen dat zo'n donkere sector kan bestaan.
+
+8
+00:01:01,820 --> 00:01:03,300
+Laten we er twee pakken.
+
+9
+00:01:04,020 --> 00:01:06,720
+De eerste aanwijzing ligt eigenlijk heel erg voor de hand.
+
+10
+00:01:07,380 --> 00:01:15,960
+In de wel voor ons zichtbare en meetbare wereld van materie en straling zien we een heleboel verschillende deeltjes die met elkaar reageren.
+
+11
+00:01:15,960 --> 00:01:22,060
+Soms botsen deze deeltjes rechtstreeks met elkaar, zoals moleculen of atoomkernen.
+
+12
+00:01:22,800 --> 00:01:35,840
+Soms echter zijn de reacties zeldzaam, zoals bij neutrino's die dwars door alles heen scheezen en slechts mondjesmaat waar te nemen zijn als ze heel af en toe reageren met ijs- of watermoleculen.
+
+13
+00:01:35,840 --> 00:02:05,840
+
+
+14
+00:02:05,840 --> 00:02:35,840
+
+
+15
+00:02:35,840 --> 00:03:05,840
+
+
+16
+00:03:05,840 --> 00:03:10,760
+Maar goed, dat zijn deeltjes die in het heelal of in deeltjesversnellers worden waargenomen.
+
+17
+00:03:10,760 --> 00:03:14,520
+De lijst met deeltjes in het standaardmodel groeit nog altijd.
+
+18
+00:03:15,380 --> 00:03:23,520
+Sinds ongeveer de jaren zeventig van de vorige eeuw zijn er bijvoorbeeld de topkwark, de touwneutrino en de hix-bozon bijgekomen.
+
+19
+00:03:23,520 --> 00:03:33,280
+Soms worden deeltjes al lange tijd voorspeld te moeten bestaan en pas veel later experimenteel aangetoond in bijvoorbeeld deeltjesversnellers.
+
+20
+00:03:34,140 --> 00:03:40,720
+Toch is het al lange tijd duidelijk dat dit standaardmodel niet volstaat om alles wat waargenomen wordt te beschrijven.
+
+21
+00:03:41,300 --> 00:03:42,860
+We noemden de zwaartekracht al.
+
+22
+00:03:43,600 --> 00:03:50,860
+Het versneld uitdijen van het heelal, wat toegeschreven wordt aan donkere energie, wordt ook niet verklaard met alleen het standaardmodel.
+
+23
+00:03:50,860 --> 00:03:53,640
+Maar er is nog veel meer.
+
+24
+00:03:54,440 --> 00:03:59,080
+In het standaardmodel worden neutrino's als deeltjes zonder massa beschreven.
+
+25
+00:03:59,720 --> 00:04:06,420
+Maar in bepaalde experimenten is de uitkomst stevast dat neutrino's een heel klein beetje massa moeten bevatten.
+
+26
+00:04:07,200 --> 00:04:19,040
+Hoe deze neutrino's dan aan hun massa komen is nog niet goed bekend en kan niet klakkeloos aan het standaardmodel worden toegevoegd zonder tot allerlei theoretische inconsistenties te leiden.
+
+27
+00:04:19,040 --> 00:04:23,040
+Er is ook nog het probleem van de missende antimaterie.
+
+28
+00:04:23,840 --> 00:04:24,700
+Waar ben je?
+
+29
+00:04:25,040 --> 00:04:27,800
+Daar hebben we het in het verleden wel eens vaker over gehad.
+
+30
+00:04:28,580 --> 00:04:39,940
+Als we ervan uitgaan dat er voor de oerknal niks was, dan zou uit een spontane fluctuatie in dat niets een gelijke hoeveelheid materie en antimaterie kunnen zijn ontstaan.
+
+31
+00:04:39,940 --> 00:04:44,940
+Maar als we om ons heen kijken zien we veel te weinig antimaterie.
+
+32
+00:04:46,520 --> 00:04:48,360
+Dus waar is deze gebleven?
+
+33
+00:04:49,180 --> 00:04:52,720
+Of bestaat er nog een heelal waar de balans precies om gekeerd is?
+
+34
+00:04:52,720 --> 00:05:01,660
+Er is nog een lijst met discrepanties die ook veel te ver gaat om in een bescheiden podcastaflevering langs te lopen.
+
+35
+00:05:01,660 --> 00:05:13,360
+Maar het grote raadsel dat wetenschappers doet denken dat er zoiets als een donkere sector moet bestaan, staat bekend als de anomalie van het magnetische moment van de muon.
+
+36
+00:05:13,680 --> 00:05:15,460
+Dus die zal ik trachten te beschrijven.
+
+37
+00:05:16,280 --> 00:05:18,260
+Een magneet kennen we allemaal natuurlijk.
+
+38
+00:05:18,800 --> 00:05:21,400
+Wellicht heeft u er wel eentje op uw ijskast zitten.
+
+39
+00:05:22,180 --> 00:05:27,740
+Minder bekend is mogelijk dat bijna elk deeltje, groot of klein, beschouwd kan worden als een magneetje.
+
+40
+00:05:27,740 --> 00:05:31,500
+Men zegt dan dat het magnetisch dipolmoment heeft.
+
+41
+00:05:32,240 --> 00:05:41,860
+Dus niet alleen planeten of meteorieten, maar ook moleculen, atomen en zelfs bijna alle elementaire deeltjes kennen een magnetisch dipolmoment.
+
+42
+00:05:42,520 --> 00:05:47,780
+Zoiets kan gemeten worden door te kijken hoe iets zich oriënteert in een magnetisch veld.
+
+43
+00:05:48,460 --> 00:05:53,480
+Een elektron heeft bijvoorbeeld een negatief magnetisch dipolmoment, een neutron ook.
+
+44
+00:05:53,480 --> 00:05:57,940
+Maar een proton heeft juist weer een positief magnetische dipolmoment.
+
+45
+00:05:58,760 --> 00:06:00,560
+En dan is er de muon.
+
+46
+00:06:02,340 --> 00:06:04,720
+Dit is ook een elementair deeltje.
+
+47
+00:06:05,260 --> 00:06:09,420
+Dat wil zeggen dat het waarschijnlijk niet uit nog kleinere deeltjes is opgebouwd.
+
+48
+00:06:09,900 --> 00:06:15,260
+Een muon lijkt in veel opzicht op een elektron, maar heeft een veel grotere massa.
+
+49
+00:06:16,260 --> 00:06:23,060
+Muons komen we bijvoorbeeld tegen als kosmische straling uit het heelal door onze aardatmosfeer geabsorbeerd wordt.
+
+50
+00:06:23,720 --> 00:06:29,800
+We kennen muons sinds 1936 en ze worden ook in deeltjesversnellers gezien.
+
+51
+00:06:30,620 --> 00:06:39,120
+Muons komen we niet tegen in huis, tuin en keukenatomen, maar met wat kunst en vliegwerk kunnen ze wel de rol van elektronen overnemen in atomen.
+
+52
+00:06:39,800 --> 00:06:45,720
+Dan krijgen we bijvoorbeeld muonisch waterstof of muonisch helium, maar dat terzijde.
+
+53
+00:06:46,580 --> 00:06:50,400
+Met het magnetisch dipolmoment van dat muon is een probleem.
+
+54
+00:06:50,400 --> 00:06:59,300
+Keer op keer wordt gemeten dat een muon een ander magnetisch dipolmoment heeft dan dat dit volgens de theorie zou moeten zijn.
+
+55
+00:06:59,300 --> 00:07:15,380
+Beroemde experimenten aan het magnetisch dipolmoment van de muon zijn het E821-experiment in het Brookhaven National Laboratory in het begin van deze eeuw en het muon G2-experiment in het Fermilab in 2021.
+
+56
+00:07:15,380 --> 00:07:28,120
+De gevonden afwijking in het magnetisch dipolmoment van het muon is dusdanig significant dat theoretici denken dat dit alleen nog kan worden verklaard met een nog onbekende natuurkunde.
+
+57
+00:07:28,120 --> 00:07:33,060
+Een belangrijke aanwijzing voor het bestaan van de donkere sector.
+
+58
+00:07:36,020 --> 00:07:44,820
+We harken dus allemaal nog niet rechtstreeks waargenomen hypothetische deeltjes en krachten bijeen in iets wat we de donkere sector noemen.
+
+59
+00:07:44,820 --> 00:07:52,820
+Het is misschien merkwaardig om dit helemaal serieus te nemen, maar het is beslist een theoretisch bouwwerk met wetenschappelijke waarden.
+
+60
+00:07:53,600 --> 00:08:00,420
+Het Higgs-deeltje werd ook eerst alleen maar door theorie beschreven en pas vele jaren later experimenteel aangetroffen.
+
+61
+00:08:00,420 --> 00:08:09,820
+We noemden al een aantal van deze hypothetische donkere zaken te weten donkere fotonen, steriele neutrino's en axionen.
+
+62
+00:08:10,340 --> 00:08:16,920
+Donkere fotonen worden verondersteld te kunnen bestaan als overbrengers van krachten tussen donkere deeltjes.
+
+63
+00:08:17,560 --> 00:08:26,840
+In het standaardmodel kennen we gewone fotonen die licht en andere elektromagnetische straling gebruiken om energie over te brengen tussen deeltjes.
+
+64
+00:08:26,840 --> 00:08:36,700
+Op vergelijkbare wijze zouden donkere fotonen kunnen fungeren als overbrengers van informatie en energie tussen donkere deeltjes.
+
+65
+00:08:37,140 --> 00:08:40,880
+Dan zou er dus zoiets als donkere straling kunnen bestaan.
+
+66
+00:08:42,000 --> 00:08:53,020
+We zullen het per se geen donker elektromagnetisme noemen omdat er nog geen aanwijzingen zijn dat deze donkere fotonen, als ze überhaupt bestaan, elektromagnetisme kennen.
+
+67
+00:08:53,020 --> 00:09:06,680
+Wat mijns inziens uiterst interessant is, is dat bij waarnemingen aan de kosmische achtergrondstraling een afwijking gevonden wordt die verklaard zou kunnen worden met donkere straling, dus donkere fotonen.
+
+68
+00:09:07,320 --> 00:09:20,700
+Voor wie een opfrisser nodig heeft, de kosmische achtergrondstraling is de belangrijkste ontdekking die het bestaan van de oerknal bevestigt en is een overblijfsel van de eerste straling na die oerknal.
+
+69
+00:09:20,700 --> 00:09:30,080
+Waarom dit mijns inziens interessant is, is omdat er dus misschien wel interactie bestaat tussen de ons bekende wereld en de donkere sector.
+
+70
+00:09:31,140 --> 00:09:36,500
+Wie weet hoeveel raadsels verklaard zouden kunnen worden met donkere deeltjes en donkere krachten.
+
+71
+00:09:38,140 --> 00:09:43,000
+We walsen in de astronomie vaak langs zaken die volstrekt mysterieus zijn.
+
+72
+00:09:43,900 --> 00:09:44,900
+Een klein voorbeeld.
+
+73
+00:09:45,600 --> 00:09:50,080
+In het nieuws over astronomie wordt vaak gesproken over het uitdijen van het heelal.
+
+74
+00:09:50,700 --> 00:09:54,440
+Dat dit versneld gebeurt, wijten we dan aan donkere energie.
+
+75
+00:09:55,000 --> 00:10:01,460
+En daarmee is de kous dan af en kunnen we weer nadenken over wat er vanavond in de spaghettisaus gaat.
+
+76
+00:10:02,700 --> 00:10:08,320
+Maar als een heelal uitdijdt, dan ontstaat er dus aan de lopende band nieuwe ruimte.
+
+77
+00:10:09,260 --> 00:10:14,780
+En we weten dat deze ruimte niet helemaal leeg is, maar zoiets als vacuümenergie kent.
+
+78
+00:10:14,780 --> 00:10:20,920
+Waar komt deze nieuwe ruimte en daarmee de vacuümenergie dan vandaan?
+
+79
+00:10:22,300 --> 00:10:25,840
+Misschien nog iets wat met de donkere sector verklaard zou kunnen worden?
+
+80
+00:10:27,580 --> 00:10:29,780
+We noemden ook al steriele neutrino's.
+
+81
+00:10:30,640 --> 00:10:34,780
+Dit zijn voor de goede orde dus ook alleen nog maar hypothetische deeltjes.
+
+82
+00:10:35,500 --> 00:10:39,780
+Maar er bestaan wel voorzichtige aanwijzingen voor het bestaan van steriele neutrino's.
+
+83
+00:10:39,780 --> 00:10:44,820
+We noemden in het begin al het probleem van de massa van neutrino's.
+
+84
+00:10:45,420 --> 00:10:49,780
+Als u er meer over wilt weten, in 1998 verscheen het artikel...
+
+85
+00:10:49,780 --> 00:10:52,700
+Evidence for Oscillation of Atmospheric Neutrinos.
+
+86
+00:10:52,780 --> 00:10:57,640
+...van Fucuda en collega's waarin uiteengezet wordt dat er een afwerking bestaat...
+
+87
+00:10:57,640 --> 00:11:01,640
+tussen de door het standaardmodel aangenomen afwezige massa van neutrino's...
+
+88
+00:11:02,500 --> 00:11:04,640
+en de gemeten massa van trillende neutrino's.
+
+89
+00:11:06,000 --> 00:11:10,640
+Die naam, steriele neutrino's, is in het leven geroepen om ze te onderscheiden...
+
+90
+00:11:10,640 --> 00:11:14,920
+van gewone neutrino's die de zwakke kernkracht als interactie hebben.
+
+91
+00:11:15,820 --> 00:11:20,640
+Mogelijk zouden steriele neutrino's uitsluitend de zwaartekracht als middelijke kracht kennen...
+
+92
+00:11:21,260 --> 00:11:23,040
+maar dat is nog niet vastgesteld.
+
+93
+00:11:23,940 --> 00:11:25,640
+En dan zijn er tot slot nog actionen.
+
+94
+00:11:25,640 --> 00:11:26,280
+Actionen.
+
+95
+00:11:26,400 --> 00:11:27,500
+Mag het in het Nederlands?
+
+96
+00:11:27,720 --> 00:11:31,040
+Ook dit zijn slechts veronderstelde elementaire deeltjes...
+
+97
+00:11:31,040 --> 00:11:33,520
+die we voor nu indelen bij de donkere sector.
+
+98
+00:11:34,800 --> 00:11:37,640
+Actionen werden al in 1977 verondersteld...
+
+99
+00:11:38,460 --> 00:11:41,740
+door natuurkundigen Helen Quinn en Robert Pekei...
+
+100
+00:11:41,740 --> 00:11:45,980
+en kregen in 1978 een naam van collega Frank Wilczek.
+
+101
+00:11:46,980 --> 00:11:50,860
+Sindsdien wordt er gezocht naar deze deeltjes, maar ze zijn nog niet gevonden.
+
+102
+00:11:50,860 --> 00:11:57,260
+Er gaan stemmen op dat actionen mogelijk de donkere materiedeeltjes zijn waarnaar gezocht wordt.
+
+103
+00:11:57,620 --> 00:11:58,960
+Maar zo ver zijn we nog niet.
+
+104
+00:11:59,120 --> 00:12:01,980
+Nou, het is weer teleurstelling op teleurstelling, hens.
+
+105
+00:12:02,140 --> 00:12:07,860
+Wederom is het interessant dat actionen mogelijk een zwakke interactie kennen met de onze bekende materie.
+
+106
+00:12:07,860 --> 00:12:12,860
+Behalve dat ze op die wijze misschien ooit ontdekt worden...
+
+107
+00:12:12,860 --> 00:12:17,080
+is het ook spannend dat er dus nog onbekende deeltjes zouden kunnen zijn...
+
+108
+00:12:17,080 --> 00:12:21,060
+die zich bemoeien met oorzaak en gevolg in onze gewone wereld.
+
+109
+00:12:21,620 --> 00:12:25,880
+Dat werpt weer een heel ander licht op zoiets als determinisme en vrije wil.
+
+110
+00:12:25,880 --> 00:12:32,660
+Alhoewel de uitdrukking een licht werpen op misschien wat raar is binnen deze donkere discussie.
+
+111
+00:12:33,700 --> 00:12:36,400
+Er is nog iets aan actionen wat onderzocht wordt.
+
+112
+00:12:37,240 --> 00:12:42,880
+Het is mogelijk dat gewone fotonen, zoals die van uw gloeilamp of uw favoriete radio-uitzending...
+
+113
+00:12:43,520 --> 00:12:48,160
+in actionen kunnen veranderen als ze door een sterk magnetisch veld reizen.
+
+114
+00:12:49,360 --> 00:12:53,960
+En wellicht ook andersom dat actionen weer in fotonen kunnen veranderen.
+
+115
+00:12:53,960 --> 00:13:00,800
+Een en ander wordt momenteel onderzocht in experimenten zoals ALPS 1 en 2...
+
+116
+00:13:00,800 --> 00:13:03,400
+maar vooralsnog zonder positief resultaat.
+
+117
+00:13:05,580 --> 00:13:11,980
+Het is misschien nog interessant om te weten dat de schaal van de donkere sector nog in het geheel niet bekend is.
+
+118
+00:13:11,980 --> 00:13:15,400
+Met andere woorden, het kan gaan om heel zwakke deeltjes...
+
+119
+00:13:15,400 --> 00:13:19,980
+in het 10 tot de min zesde elektronvolts elektrozwakke regime...
+
+120
+00:13:19,980 --> 00:13:25,680
+of misschien ook al om deeltjes in het mega- of gigaelektronvolts elektrosterke regime.
+
+121
+00:13:25,860 --> 00:13:26,460
+Tuurlijk!
+
+122
+00:13:26,640 --> 00:13:31,860
+De komende jaren zal zowel in de praktijk van het heelal als in deeltjesversnellers op aarde...
+
+123
+00:13:31,860 --> 00:13:37,180
+van alles worden uitgeprobeerd om de enigmatische donkere sector beter te leren kennen.
+
+124
+00:13:38,260 --> 00:13:41,320
+Het is vrijwel zeker dat er iets dergelijks bestaat...
+
+125
+00:13:41,320 --> 00:13:44,380
+maar hoe deze donkere sector precies is opgebouwd...
+
+126
+00:13:44,380 --> 00:13:48,700
+en wat voor interacties er mogelijk zijn, moet allemaal nog uitgevogeld worden.
+
+127
+00:13:49,760 --> 00:13:52,800
+Wie meer wil lezen over deeltjesfysica wordt...
+
+128
+00:13:52,800 --> 00:13:58,120
+net als ik misschien wel gauw duizelig van de vele afkortingen die dit veld nu eenmaal kent.
+
+129
+00:13:58,520 --> 00:14:04,160
+In de show notes van deze aflevering vindt u onder andere een gratis te downloaden pdf...
+
+130
+00:14:04,160 --> 00:14:07,280
+met een enorme lijst afkortingen en hun verklaringen.
+
+131
+00:14:07,280 --> 00:14:09,200
+En hoe zit het met de boekverloting?
+
+132
+00:14:09,540 --> 00:14:14,000
+Ik heb al heel veel reacties gekregen op de verloting van vijf gesigneerde boeken...
+
+133
+00:14:14,000 --> 00:14:17,540
+van Marjolein van Heemstra met de titel Wat is ruimte waard?
+
+134
+00:14:17,980 --> 00:14:21,340
+We hadden nog geen uiterste datum afgesproken...
+
+135
+00:14:21,340 --> 00:14:25,520
+maar laten we zeggen dat u nog tot 1 september van dit jaar een mailtje kunt sturen...
+
+136
+00:14:25,520 --> 00:14:30,420
+naar henszimmerman.gmail.com als u mee wilt dingen naar een boek.
+
+137
+00:14:31,340 --> 00:14:36,280
+Ik zal dan op 1 september 2023 vijf gelukkige winnaars trekken...
+
+138
+00:14:36,280 --> 00:14:41,040
+door middel van een uiterst betrouwbare en onpartijdige kwantumdobbelsteen.
+
+139
+00:14:41,740 --> 00:14:43,100
+Oh, en daar is Amito.
+
+140
+00:14:43,820 --> 00:14:48,060
+Mijn naam is Amito Haruis, directeur van Rijksmuseum Boerhaven in Leiden.
+
+141
+00:14:48,520 --> 00:14:53,500
+Samen met Hens Zimmerman en Lemke Kraan maken we ook de podcastserie Grote Vragen.
+
+142
+00:14:54,180 --> 00:14:57,160
+In de nieuwste aflevering beantwoorden we de vraag...
+
+143
+00:14:57,160 --> 00:14:58,560
+van wie is de ruimte?
+
+144
+00:14:58,560 --> 00:15:02,740
+Deze aflevering van de Grote Vragen podcast sluit mooi aan...
+
+145
+00:15:02,740 --> 00:15:05,580
+bij de vorige aflevering van Zimmerman in Space.
+
+146
+00:15:06,160 --> 00:15:10,240
+U vindt ook de Grote Vragen podcast in uw favoriete podcast-app.
+
+147
+00:15:10,660 --> 00:15:14,560
+Veel luisterplezier, een fijne zomer en tot de volgende keer.
+
+148
+00:15:14,560 --> 00:15:29,400
+...
+

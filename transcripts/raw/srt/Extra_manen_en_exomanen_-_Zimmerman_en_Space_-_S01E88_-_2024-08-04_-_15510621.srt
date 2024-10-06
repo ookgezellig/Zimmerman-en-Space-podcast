@@ -1,0 +1,984 @@
+1
+00:00:00,000 --> 00:00:03,600
+U luistert naar Zimmerman & Space.
+
+2
+00:00:04,400 --> 00:00:07,000
+Als we wat rondneuzen in ons eigen zonnestelsel...
+
+3
+00:00:07,780 --> 00:00:10,540
+zien we dat veel van onze planeten manen hebben.
+
+4
+00:00:11,120 --> 00:00:14,640
+Pluto, die dwergenplaneet, heeft vijf bekende manen.
+
+5
+00:00:15,180 --> 00:00:18,860
+Neptunus heeft er zestien, waarvan Triton de grootste is.
+
+6
+00:00:19,440 --> 00:00:22,680
+Bij Uranus kennen we op dit moment 28 manen.
+
+7
+00:00:23,300 --> 00:00:26,380
+Saturnus heeft 146 bekende manen.
+
+8
+00:00:26,700 --> 00:00:27,460
+Zoveel?
+
+9
+00:00:27,460 --> 00:00:28,900
+Jupiter, 95.
+
+10
+00:00:28,900 --> 00:00:32,280
+Mars heeft er maar twee, Vogels en Dijmels...
+
+11
+00:00:32,280 --> 00:00:34,280
+en onze aarde heeft maar één maan.
+
+12
+00:00:35,180 --> 00:00:38,900
+Maar u hoort de aarzeling waarschijnlijk wel al in mijn stem.
+
+13
+00:00:39,680 --> 00:00:42,200
+Dit zijn alleen de manen die we op dit moment kennen.
+
+14
+00:00:43,060 --> 00:00:47,560
+Dat we er geen hebben waargenomen bij de binnenplaneten Mercurius en Venus...
+
+15
+00:00:47,560 --> 00:00:50,640
+wil natuurlijk niet per se zeggen dat deze niet bestaan.
+
+16
+00:00:51,660 --> 00:00:54,720
+Wetenschap is een continu proces van aanpassingen...
+
+17
+00:00:54,720 --> 00:00:57,040
+wanneer nieuwe inzichten verkregen worden...
+
+18
+00:00:57,040 --> 00:00:59,700
+waardoor de informatie steeds nauwkeuriger wordt.
+
+19
+00:01:00,820 --> 00:01:05,420
+Ooit in die tijd dat conducteur nog een grotendeels veilig beroep was...
+
+20
+00:01:05,420 --> 00:01:08,220
+kreeg ik van Sinterklaas een boekje met de titel...
+
+21
+00:01:08,220 --> 00:01:10,420
+Elseviers, gids van sterren en planeten.
+
+22
+00:01:10,420 --> 00:01:14,720
+Hierin zie ik bij de beknopte overzichtjes van de planeten...
+
+23
+00:01:14,720 --> 00:01:18,580
+mijn correcties geklad over de aantallen manen bij de planeten.
+
+24
+00:01:18,960 --> 00:01:19,520
+Interessant.
+
+25
+00:01:19,720 --> 00:01:22,800
+Zo staat er bij Saturnus gedrukt 10 manen...
+
+26
+00:01:22,800 --> 00:01:24,800
+wat mijn driftige pen heeft doorgestreept...
+
+27
+00:01:24,800 --> 00:01:27,420
+waardoor er nu 12 manen staat.
+
+28
+00:01:28,180 --> 00:01:31,700
+Dit is even voor perspectief nog geen halve eeuw geleden.
+
+29
+00:01:32,780 --> 00:01:38,080
+Zelfs bij onze planeet Aarde is die ene maan niet het laatste wat we daarover kunnen zeggen.
+
+30
+00:01:38,520 --> 00:01:40,920
+Om iets een maan te kunnen noemen...
+
+31
+00:01:40,920 --> 00:01:45,180
+moet het een natuurlijk object zijn dat ingevangen is in de zwaartekracht van een planeet...
+
+32
+00:01:45,840 --> 00:01:47,420
+zodat het daaromheen cirkelt.
+
+33
+00:01:47,420 --> 00:01:50,520
+Maar dat kan ook tijdelijk zijn.
+
+34
+00:01:51,400 --> 00:01:56,560
+En er is natuurlijk ook een grens aan wat we nog kunnen waarnemen met onze huidige instrumenten.
+
+35
+00:01:56,660 --> 00:01:59,420
+Dat roept mogelijk de vraag op...
+
+36
+00:02:00,040 --> 00:02:04,720
+kan een stofdeeltje ter grootte van een broodkruimel om de aarde cirkelen...
+
+37
+00:02:04,720 --> 00:02:06,320
+en moeten we het dan een maan noemen?
+
+38
+00:02:07,080 --> 00:02:08,660
+In theorie kan dat zeker.
+
+39
+00:02:09,180 --> 00:02:13,520
+Er is geen magische grootte voor objecten om elkaar heen te kunnen cirkelen.
+
+40
+00:02:13,520 --> 00:02:18,400
+Een omwenteling ontstaat als de zwaartekracht van planeet Aarde...
+
+41
+00:02:18,400 --> 00:02:23,120
+exact in balans is met het impulsmoment van het maanachtige object...
+
+42
+00:02:23,120 --> 00:02:26,100
+of dat nou een enorme bal of een stofdeeltje is.
+
+43
+00:02:27,060 --> 00:02:32,600
+Het problematische aan een heel klein stofdeeltje is dat het van zichzelf weinig massa heeft...
+
+44
+00:02:32,600 --> 00:02:38,540
+en dus ook heel snel uit haar baan getrokken kan worden door de zwaartekrachtinvloed van een ander object...
+
+45
+00:02:38,540 --> 00:02:42,780
+zoals bijvoorbeeld die grote maan die we regelmatig aan onze hemel zien staan.
+
+46
+00:02:43,520 --> 00:02:49,680
+In de praktijk zien we dus ook dat de aarde stofdeeltjes min of meer permanent heeft ingevangen...
+
+47
+00:02:49,680 --> 00:02:55,140
+in met name de Lagrange-punten L4 en L5 van het aardemaanstelsel.
+
+48
+00:02:55,260 --> 00:02:56,440
+Mag het in het Nederlands?
+
+49
+00:02:56,700 --> 00:03:01,400
+Die L4 en L5 Lagrange-punten kunt u voor uw geestesoog zien...
+
+50
+00:03:01,400 --> 00:03:05,120
+als punten in dezelfde baan rond de aarde als onze maan...
+
+51
+00:03:05,120 --> 00:03:08,480
+alleen lopen ze 60 graden voor en achter op de maan.
+
+52
+00:03:08,480 --> 00:03:14,640
+De hele cirkel om de aarde waarin de maan en deze L4 en L5 punten zich bevinden...
+
+53
+00:03:14,640 --> 00:03:17,200
+is dan uiteraard 360 graden.
+
+54
+00:03:18,000 --> 00:03:22,480
+Deze stofwolken die gratis met de maan meeliften rond de aarde...
+
+55
+00:03:22,480 --> 00:03:24,680
+noemen we ook wel Cordilevsky-wolken.
+
+56
+00:03:25,320 --> 00:03:28,820
+Deze Cordilevsky-wolken zijn dynamische systemen...
+
+57
+00:03:28,820 --> 00:03:31,760
+waar stofdeeltjes op den duur ook weer uit kunnen verdwijnen.
+
+58
+00:03:32,560 --> 00:03:37,080
+En dan kennen we ook nog tijdelijke manen die iets groter zijn dan stofdeeltjes.
+
+59
+00:03:37,880 --> 00:03:42,640
+De door de mens gelanceerde kunstmanen en aanverwante menselijke vuilnis...
+
+60
+00:03:42,640 --> 00:03:45,720
+in een baan rond de aarde laten we dan even buiten beschouwing.
+
+61
+00:03:45,840 --> 00:03:46,380
+Dat is goed.
+
+62
+00:03:47,100 --> 00:03:52,720
+In 2006 hadden we de eerste gedetecteerde extra maan in een baan rond de aarde.
+
+63
+00:03:53,300 --> 00:03:57,380
+Dit was een 6 meter breed rotsblok met de naam RH120.
+
+64
+00:03:57,380 --> 00:04:02,100
+Gedurende 18 maanden cirkelde RH120 om de aarde.
+
+65
+00:04:02,700 --> 00:04:06,380
+Maar zoals dat gaat in zwaartekrachtsystemen zoals ons zonnestelsel...
+
+66
+00:04:06,960 --> 00:04:10,860
+zette RH120 op een gegeven moment de reis weer voort...
+
+67
+00:04:10,860 --> 00:04:12,680
+en verliet de baan rond de aarde.
+
+68
+00:04:14,260 --> 00:04:19,580
+Van 2017 tot 2020 hadden we een vergelijkbaar object...
+
+69
+00:04:19,580 --> 00:04:23,400
+als quasimaan of tijdelijke maan rond onze planeet draaien.
+
+70
+00:04:23,400 --> 00:04:30,760
+Dit was een rotsblok van 3,5 meter breed dat de naam 2020 CD3 kreeg.
+
+71
+00:04:31,520 --> 00:04:33,440
+En wat zijn dit voor rotsblokken?
+
+72
+00:04:33,820 --> 00:04:36,080
+Of zijn het eigenlijk wel rotsblokken?
+
+73
+00:04:37,840 --> 00:04:42,400
+Rond de zon cirkelt van alles aan restanten van de begindagen van ons zonnestelsel...
+
+74
+00:04:42,400 --> 00:04:46,040
+en overblijfselen van onderlinge botsingen.
+
+75
+00:04:47,620 --> 00:04:50,400
+Als een meteoriet inslaat op een ander hemellichaam...
+
+76
+00:04:51,160 --> 00:04:53,980
+kan daarmee ejecta, zoals we dat noemen, wegschieten.
+
+77
+00:04:54,520 --> 00:04:57,220
+En ook wanneer asteroïden tegen elkaar rammen...
+
+78
+00:04:57,220 --> 00:04:58,700
+kan iets dergelijks gebeuren.
+
+79
+00:04:58,700 --> 00:05:07,160
+Het rotsblok van die quasimaan RH120 is goed onderzocht...
+
+80
+00:05:07,160 --> 00:05:09,700
+en geclassificeerd als Apollo-klasse asteroïden.
+
+81
+00:05:10,380 --> 00:05:12,780
+Dit vraagt, denk ik, om wat extra uitleg.
+
+82
+00:05:12,940 --> 00:05:16,620
+Dat zijn rotsblokken die de baan van de aarde rond de zon door kruisen.
+
+83
+00:05:17,460 --> 00:05:21,620
+We kennen op dit moment ruim 1,3 miljoen van dit soort rotsblokken.
+
+84
+00:05:22,540 --> 00:05:26,700
+En wie nu denkt, hoe kun je zo zeker zijn dat het echt een rotsblok was...
+
+85
+00:05:26,700 --> 00:05:28,520
+heeft op zich een punt.
+
+86
+00:05:29,300 --> 00:05:32,860
+Het zou interessant zijn om zo'n rotsblok van dichtbij te onderzoeken.
+
+87
+00:05:33,420 --> 00:05:37,880
+En alleen dan, door het van dichtbij te fotograferen en erin te boren...
+
+88
+00:05:37,880 --> 00:05:40,740
+zouden we echt zeker weten dat het maar een rotsblok was.
+
+89
+00:05:41,560 --> 00:05:45,200
+Maar dergelijk onderzoek zou ook een kostbare missie inhouden...
+
+90
+00:05:45,200 --> 00:05:47,520
+en we kunnen het geld maar één keer uitgeven.
+
+91
+00:05:48,180 --> 00:05:50,360
+Terwijl er nog zoveel te ontdekken valt.
+
+92
+00:05:51,120 --> 00:05:56,140
+Bijvoorbeeld exomanen, zoals de titel van deze podcastaflevering al beloofde.
+
+93
+00:05:56,140 --> 00:05:57,500
+Oh ja, inderdaad.
+
+94
+00:05:58,140 --> 00:05:59,280
+Exomanen, jawel.
+
+95
+00:05:59,580 --> 00:06:03,840
+Manen die rond planeten draaien in andere zonnestolsels dan het onze.
+
+96
+00:06:04,680 --> 00:06:07,140
+Om maar gelijk de angel uit de wesp te halen...
+
+97
+00:06:07,940 --> 00:06:12,320
+we hebben nog geen enkele exomaan ontdekt in augustus 2024.
+
+98
+00:06:15,180 --> 00:06:20,140
+Daarmee riskeert deze podcast ook dat deze aflevering niet heel erg tijdloos zal zijn...
+
+99
+00:06:20,140 --> 00:06:26,020
+want het is slechts een kwestie van aftellen eer de eerste exomaan ontdekking een feit is.
+
+100
+00:06:26,960 --> 00:06:30,140
+Zoals de toegegeven wat lange inleiding van deze aflevering...
+
+101
+00:06:31,000 --> 00:06:33,140
+hopelijk uit en ten na duidelijk heeft gemaakt...
+
+102
+00:06:33,780 --> 00:06:36,140
+zijn manen meer regel dan uitzondering.
+
+103
+00:06:36,140 --> 00:06:42,080
+Aangezien een zonnestelsel niks meer is dan een willekeurig en planloos touwgetrek...
+
+104
+00:06:42,080 --> 00:06:45,140
+met wat toevallig bij elkaar geklonterde materie...
+
+105
+00:06:45,140 --> 00:06:47,420
+ontstaan er al dan niet wat planeten...
+
+106
+00:06:47,420 --> 00:06:51,900
+en blijft er een hoop rots en gruis over om als potentiële manen te dienen.
+
+107
+00:06:53,200 --> 00:06:59,280
+Volgens ESA zijn er tussen de 10 tot de macht 22 en 10 tot de macht 24 sterren...
+
+108
+00:06:59,280 --> 00:07:00,900
+in het voor ons zichtbare helal.
+
+109
+00:07:01,020 --> 00:07:01,900
+Zoé, wat veel!
+
+110
+00:07:02,120 --> 00:07:03,860
+Dat is uiteraard maar een schatting.
+
+111
+00:07:04,560 --> 00:07:09,340
+En niemand weet hoe het helal nog verder strekt voorbij onze waarnemingshorizon.
+
+112
+00:07:13,280 --> 00:07:17,180
+Aangezien we het voorlopig moeten stellen met het voor ons zichtbare helal...
+
+113
+00:07:17,180 --> 00:07:19,280
+zullen we dat maar als uitgangspunt nemen.
+
+114
+00:07:19,460 --> 00:07:19,800
+Oké.
+
+115
+00:07:20,380 --> 00:07:22,600
+10 tot de macht 24 sterren.
+
+116
+00:07:23,040 --> 00:07:25,000
+De bovengrens van ESA's schatting.
+
+117
+00:07:25,560 --> 00:07:28,240
+Dat zijn maar liefst een kwadriljoen sterren.
+
+118
+00:07:29,280 --> 00:07:32,240
+Kijk een astronome naar sterren...
+
+119
+00:07:32,240 --> 00:07:35,420
+dan vinden ze stevast dat er planeten omheen cirkelen.
+
+120
+00:07:36,540 --> 00:07:37,660
+Exoplaneten noemen we die.
+
+121
+00:07:38,440 --> 00:07:44,040
+Omdat het lastig en tijdrovend is exoplaneten met stellige zekerheid aan te wijzen...
+
+122
+00:07:44,040 --> 00:07:50,460
+staat de teller in augustus 2024 nog maar op 5288 exemplaren.
+
+123
+00:07:50,600 --> 00:07:51,380
+Dat is ook niet veel.
+
+124
+00:07:51,640 --> 00:07:54,700
+Dit volgens de Open Exoplanet Catalogus.
+
+125
+00:07:54,700 --> 00:07:59,840
+Met zoveel sterren en waarschijnlijk een veelvoud van een kwadriljoen exoplaneten...
+
+126
+00:08:00,840 --> 00:08:05,420
+is de kans op exomanen veilig in de buurt van de 100,0 procent.
+
+127
+00:08:06,560 --> 00:08:08,980
+Maar goed, hoe ontdekt men een exomaan?
+
+128
+00:08:09,100 --> 00:08:10,080
+Dat is de vraag.
+
+129
+00:08:10,340 --> 00:08:14,840
+Een heel goede optische telescoop zou zo'n maan rechtstreeks kunnen waarnemen...
+
+130
+00:08:14,840 --> 00:08:18,200
+maar dat punt van technologie hebben we nog net niet bereikt.
+
+131
+00:08:18,200 --> 00:08:21,940
+Of het zou echt een enorme exomaan moeten zijn.
+
+132
+00:08:22,480 --> 00:08:27,060
+Dan zouden we die met behulp van een coronagraaf die de ster afdekt...
+
+133
+00:08:27,060 --> 00:08:28,460
+eventueel wel kunnen zien.
+
+134
+00:08:29,560 --> 00:08:34,380
+Maar omdat manen doorgaans nog veel kleiner zijn dan de planeten waar ze omheen draaien...
+
+135
+00:08:34,380 --> 00:08:38,060
+moeten astronomen andere trucs uit hun hoge hoed zien te toveren.
+
+136
+00:08:38,060 --> 00:08:44,080
+Wat ze dan proberen waar te nemen is de invloed die zo'n exomaan uitoefent...
+
+137
+00:08:44,080 --> 00:08:50,120
+op de lichtcurve van de ster of op de baan van de exoplaneet waar deze exomaan omheen cirkelt.
+
+138
+00:08:50,220 --> 00:08:51,980
+Hens, kan je dit iets beter uitleggen?
+
+139
+00:08:52,140 --> 00:08:56,060
+Onder die lichtcurve verstaan we dan de lichtcurve van een ster...
+
+140
+00:08:56,060 --> 00:09:02,260
+die periodiek verstoord wordt door een exoplaneet die vanuit ons gezien voor die ster langs beweegt.
+
+141
+00:09:02,920 --> 00:09:05,820
+Dat levert een soort mini-zonsverduistering op.
+
+142
+00:09:05,820 --> 00:09:12,520
+In die periodieke sterverduistering hopen astronomen extra informatie te vinden...
+
+143
+00:09:12,520 --> 00:09:15,220
+die duidt op de aanwezigheid van een exomaan.
+
+144
+00:09:16,200 --> 00:09:19,980
+Die extra informatie valt op te delen in drie varianten.
+
+145
+00:09:20,540 --> 00:09:23,840
+Transit timing variaties of TTV's.
+
+146
+00:09:24,300 --> 00:09:27,400
+Transit duur variaties, DDV's.
+
+147
+00:09:27,800 --> 00:09:32,740
+En schijnbare planetaire transit radius variaties, DRV's.
+
+148
+00:09:32,740 --> 00:09:38,440
+Het idee hierachter is dat exoplaneet en exomaan om elkaar heen draaien...
+
+149
+00:09:38,440 --> 00:09:42,440
+en dat deze wisselwerking invloed heeft op de waargenomen lichtcurve.
+
+150
+00:09:43,040 --> 00:09:47,940
+Vanuit ons gezien zien we bij zo'n transit altijd alleen de nachtzijde van een exoplaneet...
+
+151
+00:09:48,660 --> 00:09:51,780
+en van een eventuele exomaan alleen de nieuwe maan.
+
+152
+00:09:51,780 --> 00:09:55,480
+Maar omdat de exomaan om de exoplaneet draait...
+
+153
+00:09:55,480 --> 00:09:59,800
+kan de diameter van het totale bedekkende object...
+
+154
+00:09:59,800 --> 00:10:02,480
+dat is dus de exoplaneet plus die exomaan...
+
+155
+00:10:03,000 --> 00:10:04,780
+ook periodiek wat verschillen.
+
+156
+00:10:05,820 --> 00:10:10,600
+In 2020 werd hier overal gepubliceerd in een artikel met de titel...
+
+157
+00:10:10,600 --> 00:10:14,100
+Exomaan Indicators in High Precision Transit Light Curves.
+
+158
+00:10:14,300 --> 00:10:18,600
+In dit artikel noemen de auteurs exoplaneet Kepler 856b...
+
+159
+00:10:19,600 --> 00:10:22,560
+waarbij iets is waargenomen dat alle schijn heeft...
+
+160
+00:10:22,560 --> 00:10:27,500
+van een schijnbare planetaire transit radius variatie of DRV.
+
+161
+00:10:28,420 --> 00:10:32,640
+Maar de zekerheid om exomaan te roepen ontbreekt helaas nog.
+
+162
+00:10:33,120 --> 00:10:35,320
+Wat is de Kepler Ruimtetelescoop, Hens?
+
+163
+00:10:35,320 --> 00:10:39,740
+De Kepler Ruimtetelescoop is een door NASA ontwikkeld ruimtevaartuig...
+
+164
+00:10:39,740 --> 00:10:45,400
+dat van 2009 tot 2018 een duidelijk afgebakend stuk sterrenhemel...
+
+165
+00:10:45,400 --> 00:10:48,080
+doorzocht op de aanwezigheid van exoplaneten.
+
+166
+00:10:48,880 --> 00:10:53,560
+In 2018 was de brandstof op en werd het instrument uitgeschakeld.
+
+167
+00:10:54,620 --> 00:10:57,700
+Het hangt momenteel functieloos in een baan rond de zon.
+
+168
+00:10:58,700 --> 00:11:03,320
+Met de Kepler Ruimtetelescoop werden ruim 2600 exoplaneten ontdekt...
+
+169
+00:11:03,320 --> 00:11:04,260
+Zoveel?
+
+170
+00:11:04,260 --> 00:11:06,640
+Waaronder Kepler 856b.
+
+171
+00:11:07,640 --> 00:11:11,500
+Maar dat is niet de enige exoplaneet waarbij het vermoeden bestaat...
+
+172
+00:11:11,500 --> 00:11:13,780
+dat er een exomaan omheen draait.
+
+173
+00:11:14,600 --> 00:11:17,340
+Zo kennen we ook bijvoorbeeld Kepler 1625b...
+
+174
+00:11:18,200 --> 00:11:22,060
+waarover in 2018 al werd gepubliceerd in het artikel...
+
+175
+00:11:22,060 --> 00:11:26,280
+Evidence for a large exomoon orbiting Kepler 1625b.
+
+176
+00:11:26,280 --> 00:11:31,340
+Dit betreft een vrij forse maan ongeveer ter grootte van planeet Uranus...
+
+177
+00:11:31,340 --> 00:11:35,420
+die om exoplaneet Kepler 1625b zou kunnen draaien.
+
+178
+00:11:36,220 --> 00:11:41,660
+De exoplaneet Kepler 1625b is op zijn beurt ook een joekel van een exoplaneet...
+
+179
+00:11:41,660 --> 00:11:44,160
+ongeveer ter grootte van planeet Jupiter.
+
+180
+00:11:44,160 --> 00:11:47,540
+Die mogelijke exomaan rond Kepler 1625b...
+
+181
+00:11:47,540 --> 00:11:54,020
+wordt verondersteld uit transit timing variaties of DTV's.
+
+182
+00:11:54,860 --> 00:11:58,920
+In het artikel schrijven de auteurs dat zo'n eerste exomaan ontdekking...
+
+183
+00:11:58,920 --> 00:12:01,000
+met extra skepsis wordt bekeken.
+
+184
+00:12:01,000 --> 00:12:04,580
+Dat is een beetje het lot van de eerste van iets zijn.
+
+185
+00:12:05,520 --> 00:12:08,180
+Er is nog een aantal kandidaat exomanen...
+
+186
+00:12:08,180 --> 00:12:12,720
+veelal afkomstig uit de Kepler-catalogus van ontdekte exoplaneten.
+
+187
+00:12:13,720 --> 00:12:16,620
+Het Wikipedia-artikel over exomanen...
+
+188
+00:12:16,620 --> 00:12:20,060
+heeft referenties naar literatuur over dergelijke zoektochten.
+
+189
+00:12:20,220 --> 00:12:21,140
+Oh, gelukkig!
+
+190
+00:12:21,340 --> 00:12:24,420
+Voordat we een accolade zetten achter deze aflevering...
+
+191
+00:12:24,420 --> 00:12:28,260
+kunnen we nog wel wat zeggen over de toekomstige ontdekkingen van exomanen.
+
+192
+00:12:28,260 --> 00:12:31,800
+Ik ben er namelijk van overtuigd dat die gaan komen.
+
+193
+00:12:32,580 --> 00:12:36,260
+De kans is klein dat we exomanen zullen vinden rond exoplaneten...
+
+194
+00:12:36,940 --> 00:12:38,680
+die dicht om een ster draaien.
+
+195
+00:12:39,400 --> 00:12:41,760
+Dergelijke exoplaneten hebben de neiging...
+
+196
+00:12:41,760 --> 00:12:44,640
+in een getijde vergrendeling met hun ster te raken.
+
+197
+00:12:45,160 --> 00:12:48,580
+Dat betekent dat ze altijd met dezelfde zijde naar de ster kijken.
+
+198
+00:12:49,360 --> 00:12:54,100
+Deze getijde vergrendeling heeft een effect op de stabiele baan van een exomaan.
+
+199
+00:12:54,420 --> 00:12:57,320
+De straal van de baan van die exomaan...
+
+200
+00:12:57,320 --> 00:13:01,560
+komt daarmee voorbij de zogenaamde heel radius van de exoplaneet te liggen.
+
+201
+00:13:02,360 --> 00:13:07,320
+Een exomaan moet in de praktijk ver binnen de heel radius van een exoplaneet liggen...
+
+202
+00:13:07,880 --> 00:13:11,060
+om voornamelijk de zwaartekracht van de exoplaneet te voelen.
+
+203
+00:13:11,960 --> 00:13:16,320
+Draait een exomaan verder weg dan ongeveer de helft of een derde van de heel radius...
+
+204
+00:13:17,200 --> 00:13:18,320
+dan is de baan onstabiel...
+
+205
+00:13:19,200 --> 00:13:22,680
+en zal zo'n exomaan al snel weer het hazenpad kiezen...
+
+206
+00:13:22,680 --> 00:13:24,960
+en geen exomaan meer genoemd kunnen worden.
+
+207
+00:13:25,240 --> 00:13:25,940
+Ik haak af hoor.
+
+208
+00:13:26,220 --> 00:13:28,920
+Dit alles is overigens een woest ingewikkeld onderwerp...
+
+209
+00:13:28,920 --> 00:13:33,160
+dat zich wellicht beter leent voor een lezing met een flip-over...
+
+210
+00:13:33,160 --> 00:13:37,500
+dan voor een aflevering van deze toch al vaak wat complexe podcast.
+
+211
+00:13:37,960 --> 00:13:40,220
+Ja hallo, dat is jouw schuld hoor.
+
+212
+00:13:40,700 --> 00:13:44,160
+Ik voer momenteel overleg met de host van de sterrenstoffenpodcast...
+
+213
+00:13:44,840 --> 00:13:48,260
+Anko van Hal om sterrenkundige lezingen te gaan houden.
+
+214
+00:13:48,960 --> 00:13:53,120
+Als u daarvan op de hoogte wilt blijven, stuur dan gerust een mail naar...
+
+215
+00:13:53,120 --> 00:13:54,020
+Hens Zimmerman!
+
+216
+00:13:54,220 --> 00:13:55,160
+Atjewel.com
+
+217
+00:13:55,160 --> 00:13:59,720
+Exomanen moeten we dus verder weg van de ster in kwestie gaan zoeken...
+
+218
+00:13:59,720 --> 00:14:04,120
+en voorlopig zal de zoektocht meer succes hebben bij de wat grotere exemplaren.
+
+219
+00:14:04,320 --> 00:14:05,380
+Weet je dat wel zeker?
+
+220
+00:14:05,620 --> 00:14:08,160
+Alhoewel daar wel een kanttekening bij moet worden geplaatst...
+
+221
+00:14:08,980 --> 00:14:13,260
+omdat we tegenwoordig ook al behoorlijk kleine exoplaneten kunnen detecteren.
+
+222
+00:14:13,260 --> 00:14:18,460
+Dan hebben we het over gevallen met een massa die kleiner is dan die van onze aarde.
+
+223
+00:14:19,580 --> 00:14:24,600
+Hoe lang moeten we nog gaan wachten op het bericht dat de eerste exomaan gevonden is?
+
+224
+00:14:24,740 --> 00:14:26,420
+Wij hebben lang op u gewacht.
+
+225
+00:14:26,660 --> 00:14:31,540
+In theorie zou het definitieve bewijs al in de Kepler-data gevonden kunnen worden.
+
+226
+00:14:32,120 --> 00:14:34,260
+En daar zijn astronomen ook nog druk mee bezig.
+
+227
+00:14:35,620 --> 00:14:38,260
+Echter de grootste kans op een exomaanontdekking...
+
+228
+00:14:38,260 --> 00:14:42,260
+hebben we waarschijnlijk met de nog te lanceren Plato-ruimtetelescoop.
+
+229
+00:14:43,260 --> 00:14:47,700
+Dit is een missie van de Europese ruimtevaartorganisatie ESA.
+
+230
+00:14:48,860 --> 00:14:54,140
+Plato wordt op dit moment ontwikkeld en wordt hopelijk in 2026 gelanceerd.
+
+231
+00:14:54,460 --> 00:14:59,100
+3, 2, 1, top, décollage.
+
+232
+00:15:00,100 --> 00:15:04,500
+Plato is in ingeklapte staat een grotendeels vierkant ruimtevaartuig...
+
+233
+00:15:04,500 --> 00:15:07,840
+van 3,5 bij 3,6 bij 3,7 meter.
+
+234
+00:15:08,740 --> 00:15:13,500
+Eenmaal aangekomen in het L2-Lagrange-punt worden de zonnepanelen uitgevouwd...
+
+235
+00:15:14,140 --> 00:15:16,460
+en is Plato dan 9 meter breed.
+
+236
+00:15:17,340 --> 00:15:20,500
+Dit ruimtevaartuig beschikt over maar liefst 26 camera's...
+
+237
+00:15:21,220 --> 00:15:25,660
+en zal hopelijk minstens 8,5 jaar op zoek gaan naar exoplaneten...
+
+238
+00:15:25,660 --> 00:15:27,720
+en wellicht dus ook exomanen.
+
+239
+00:15:28,780 --> 00:15:30,760
+Wilt u er meer over te weten komen...
+
+240
+00:15:30,760 --> 00:15:33,860
+dan vindt u links in het bijschrift van deze aflevering.
+
+241
+00:15:34,380 --> 00:15:38,080
+En als u nog vakantieplannen heeft en wilt weten wat er zoal te zien is...
+
+242
+00:15:38,080 --> 00:15:40,040
+vanaf uw vakantielocatie...
+
+243
+00:15:40,040 --> 00:15:42,860
+luister dan ook eens naar de Sterrenstof-podcast.
+
+244
+00:15:43,460 --> 00:15:47,400
+Elke maand legt Anko uit wat er te zien valt aan het firmament.
+
+245
+00:15:47,960 --> 00:15:49,180
+Tot de volgende keer.
+
+246
+00:15:49,180 --> 00:16:19,160
+TV Gelderland 2021
+

@@ -1,0 +1,764 @@
+1
+00:00:00,000 --> 00:00:05,140
+Het kan zijn dat u er al over heeft gehoord in het nieuws.
+
+2
+00:00:05,700 --> 00:00:12,040
+De ontdekking van een gigantisch zwart gat dat een sliert van nieuwgeboren sterren achter zich laat.
+
+3
+00:00:24,040 --> 00:00:28,940
+Ik kwam het bericht tegen op zowel CNN als NASA's nieuwsfeed.
+
+4
+00:00:28,940 --> 00:00:33,680
+Laten we vandaag samen eens kijken naar het hoe en wat van deze ontdekking.
+
+5
+00:00:34,280 --> 00:00:36,940
+Het officiële artikel hierover heeft als titel...
+
+6
+00:00:41,620 --> 00:00:46,620
+...van auteur Pieter van Dokkum en een hele lijst collega's.
+
+7
+00:00:47,500 --> 00:00:52,280
+Het verscheen op 6 april van dit jaar in The Astrophysical Journal Letters.
+
+8
+00:00:53,160 --> 00:00:58,180
+Het is een open access artikel, dus u kunt het gratis raadplegen als dat u pleziert.
+
+9
+00:00:58,940 --> 00:01:02,620
+Een link vindt u uiteraard in de show notes van deze aflevering.
+
+10
+00:01:02,840 --> 00:01:03,780
+Oh, gelukkig!
+
+11
+00:01:03,780 --> 00:01:10,220
+Het fenomeen werd bij toeval ontdekt als een streep op een foto van de Hubble-ruimtetelescoop.
+
+12
+00:01:10,860 --> 00:01:18,360
+Op 5 september vorig jaar werd met die Hubble-telescoop gekeken naar het dwergsterrenstelsel RCB-28.
+
+13
+00:01:19,420 --> 00:01:25,640
+Bij het corrigeren en combineren van de foto's viel op dat er een streep in een foto zichtbaar werd.
+
+14
+00:01:25,640 --> 00:01:31,720
+In eerste instantie werd gedacht dat dit een artefact van kosmische straling was.
+
+15
+00:01:31,860 --> 00:01:32,620
+Cosmic radiation.
+
+16
+00:01:32,780 --> 00:01:37,060
+Iets wat wel vaker gezien wordt op foto's die buiten onze dampkring genomen worden.
+
+17
+00:01:37,820 --> 00:01:44,080
+Als een hoog energetisch geladen deeltje met hoge snelheid de CCD-chip van een ruimtetelescoop treft...
+
+18
+00:01:44,080 --> 00:01:47,680
+zal er een stip of streep zichtbaar kunnen worden op één foto.
+
+19
+00:01:48,180 --> 00:01:53,160
+En de Hubble-ruimtetelescoop draait dan wel in een lage baan rond de aarde...
+
+20
+00:01:53,160 --> 00:01:56,340
+op een oogte van zo'n 540 kilometer...
+
+21
+00:01:56,340 --> 00:01:59,620
+maar is daar zeker niet ongevoelig voor kosmische straling.
+
+22
+00:02:00,200 --> 00:02:05,860
+Maar de streep was zichtbaar op meerdere foto's die achter elkaar in de tijd genomen waren.
+
+23
+00:02:06,280 --> 00:02:09,520
+En dan hebben we het over iets heel anders dan kosmische straling.
+
+24
+00:02:09,520 --> 00:02:13,680
+Dat is sowieso hoeveel astronomische fotografie gebeurt.
+
+25
+00:02:14,340 --> 00:02:20,660
+Maak een heleboel losse foto's en combineer de beste exemplaren met software tot één nieuwe foto.
+
+26
+00:02:21,460 --> 00:02:26,520
+De software kan dan corrigeren dat de sterren ten opzichte van de telescoop aan de hemel iets verdraaien...
+
+27
+00:02:27,320 --> 00:02:33,220
+en strepen van kosmische straling of dooie pixels van de CCD-camera kunnen verwijderd worden.
+
+28
+00:02:33,220 --> 00:02:38,660
+Zo'n stapel van foto's is dan als het ware één veel langer belichte foto...
+
+29
+00:02:38,660 --> 00:02:43,600
+met meer detail en licht dynamiek dan met een kort belichte foto mogelijk zou zijn.
+
+30
+00:02:43,760 --> 00:02:45,360
+Aha, zo zit het dus!
+
+31
+00:02:46,040 --> 00:02:50,440
+De streep bleef dus achter na het combineren van vele foto's...
+
+32
+00:02:50,440 --> 00:02:53,220
+die ook nog eens met verschillende filters gemaakt waren.
+
+33
+00:02:54,060 --> 00:02:59,880
+Vanaf de aarde gezien ligt deze merkwaardige streep in het sterrenbeeld Cetus, de walvis.
+
+34
+00:02:59,880 --> 00:03:03,880
+Dit sterrenbeeld is in Nederland en België overigens goed zichtbaar...
+
+35
+00:03:04,560 --> 00:03:08,360
+maar de streep is veel te licht zwak om voor ons zichtbaar te zijn.
+
+36
+00:03:09,420 --> 00:03:13,260
+Alleen met de beste observatoria op aarde is zoiets te zien...
+
+37
+00:03:13,260 --> 00:03:16,320
+en dan ook nog onder uiterst gunstige omstandigheden.
+
+38
+00:03:17,300 --> 00:03:21,880
+Van Dokkum en zijn team waren geïntrigeerd door deze lineaire verschijning...
+
+39
+00:03:22,460 --> 00:03:28,040
+en keken er op 1 oktober vorig jaar nogmaals naar met de aardse Kek-telescoop op Hawaii.
+
+40
+00:03:28,040 --> 00:03:32,160
+En ja hoor, de lijn was ook hiermee zichtbaar.
+
+41
+00:03:32,880 --> 00:03:37,180
+Door middel van spectroscopie kon al een hoop gezegd worden over de streep.
+
+42
+00:03:37,740 --> 00:03:42,160
+De streep lijkt te wijzen naar nog een onregelmatig sterrenstelsel...
+
+43
+00:03:42,160 --> 00:03:46,320
+en de roodverschuiving van zowel de streep als dat sterrenstelseltje...
+
+44
+00:03:46,320 --> 00:03:50,040
+als mede de aangetroffen spectrale lijnen voor waterstof en zuurstof...
+
+45
+00:03:50,560 --> 00:03:54,480
+doen vermoeden dat deze op dezelfde afstand van ons verwijderd staan.
+
+46
+00:03:54,480 --> 00:03:55,720
+Dat was een lange zin.
+
+47
+00:03:56,260 --> 00:03:58,440
+Zoals ik in het begin al heb verklapt...
+
+48
+00:03:58,440 --> 00:04:02,700
+is de heersende hypothese dat het hier een superzwaar zwart gat betreft...
+
+49
+00:04:02,700 --> 00:04:07,100
+dat door de ruimte schaes van het onregelmatige sterrenstelseltje af.
+
+50
+00:04:07,700 --> 00:04:08,280
+Hoe snel?
+
+51
+00:04:08,640 --> 00:04:12,580
+Dan hebben we het over ongeveer 1600 kilometer per seconde.
+
+52
+00:04:13,320 --> 00:04:17,860
+Wie aan het rekenen slaat zal opmerken dat het mainstream nieuws...
+
+53
+00:04:17,860 --> 00:04:19,480
+hierover fout informeert.
+
+54
+00:04:19,480 --> 00:04:24,000
+Want overal lezen we dat dit zwarte gat in maar liefst 14 minuten...
+
+55
+00:04:24,000 --> 00:04:26,200
+de afstand aard en maan zou overbruggen.
+
+56
+00:04:26,840 --> 00:04:31,360
+Maar met 1600 kilometer per seconde doet het er maar vier minuten over.
+
+57
+00:04:31,680 --> 00:04:32,140
+Echt waar?
+
+58
+00:04:32,620 --> 00:04:36,800
+Dit zegt ons maar weer dat we nieuws altijd met een korreltje zout moeten lezen...
+
+59
+00:04:36,800 --> 00:04:39,440
+en het beste naar de bron van het nieuws kunnen zoeken.
+
+60
+00:04:39,600 --> 00:04:40,680
+Eh, even kijken.
+
+61
+00:04:41,040 --> 00:04:45,420
+Het is jammer dat ons nieuws vaak het sensatiegedeelte van informatie...
+
+62
+00:04:45,420 --> 00:04:47,660
+voorrang geeft boven de droge feiten.
+
+63
+00:04:47,660 --> 00:04:51,560
+Zo vond ik op YouTube een Engelse video met als titel...
+
+64
+00:04:51,560 --> 00:04:54,960
+NASA warns of supermassive black hole ripping through the universe.
+
+65
+00:04:55,100 --> 00:04:59,520
+Maar de titel van het originele NASA nieuwsbericht is veel minder dreigend.
+
+66
+00:04:59,800 --> 00:05:03,660
+Hubble sees possible runaway black hole creating a trail of stars.
+
+67
+00:05:04,280 --> 00:05:08,660
+Ook NASA maakt zich trouwens in dit artikel schuldig aan sensatiezucht...
+
+68
+00:05:08,660 --> 00:05:11,780
+door het zwarte gat een onzichtbaar monster te noemen.
+
+69
+00:05:13,500 --> 00:05:16,980
+En noemt ook de 14 minuten van de aarde tot de maan.
+
+70
+00:05:16,980 --> 00:05:18,400
+Dat is toch niet te geloven?
+
+71
+00:05:18,660 --> 00:05:22,840
+Ik heb NASA een mail gestuurd, dus hoop dat deze fout spoedig hersteld wordt.
+
+72
+00:05:22,940 --> 00:05:24,680
+Everything is going to be alright.
+
+73
+00:05:25,240 --> 00:05:29,000
+Maar goed, er gaat dus beslist geen waarschuwing uit van NASA...
+
+74
+00:05:29,000 --> 00:05:31,940
+en een en ander gebeurt zo ver van ons verwijderd...
+
+75
+00:05:31,940 --> 00:05:34,320
+dat u zich absoluut geen zorgen hoeft te maken.
+
+76
+00:05:34,540 --> 00:05:34,880
+Alright.
+
+77
+00:05:36,040 --> 00:05:36,820
+That's it we agree.
+
+78
+00:05:37,420 --> 00:05:39,940
+En er is dus nog iets bijzonders aan de hand...
+
+79
+00:05:39,940 --> 00:05:43,800
+want een verdwaald zwart gat in de lege ruimte op zich is niet zichtbaar...
+
+80
+00:05:44,440 --> 00:05:48,460
+terwijl hier dus een grote streep wordt waargenomen achter het zwarte gat.
+
+81
+00:05:51,340 --> 00:05:55,780
+Deze streep is in werkelijkheid zo'n 62 kilo per sec lang.
+
+82
+00:05:56,240 --> 00:05:57,800
+Oftewel 200.000 lichtjaar.
+
+83
+00:05:58,540 --> 00:06:00,860
+Ik weet niet of het daar echt duidelijker van wordt.
+
+84
+00:06:00,860 --> 00:06:04,940
+En deze streep bestaat uit stervormende regio's...
+
+85
+00:06:04,940 --> 00:06:07,580
+waarbij daadwerkelijk aanwijzingen zijn gevonden...
+
+86
+00:06:07,580 --> 00:06:11,020
+dat de regio het dichtst bij het zwarte gat het jongste is.
+
+87
+00:06:11,760 --> 00:06:13,440
+Dus wat is hier aan de hand?
+
+88
+00:06:14,300 --> 00:06:17,040
+We weten dat het heelal niet overal leeg is.
+
+89
+00:06:17,560 --> 00:06:21,200
+Het superzware zwarte gat ploegt met grote snelheid...
+
+90
+00:06:21,200 --> 00:06:23,920
+door het daar aanwezige interstellaire gas...
+
+91
+00:06:23,920 --> 00:06:27,560
+waardoor er een schokgolf ontstaat aan de voorkant van de beweging.
+
+92
+00:06:29,400 --> 00:06:34,620
+Het researchartikel van Van Dokkum noemt dit gas ook al het Circumgalactic Medium.
+
+93
+00:06:36,000 --> 00:06:39,920
+We hebben het hier dus over gas dat aanwezig is in de buurt van een sterrenstelsel.
+
+94
+00:06:40,600 --> 00:06:42,060
+Ja, dat is logisch.
+
+95
+00:06:42,800 --> 00:06:46,140
+Niet overal in het heelal is de gasdichtheid hetzelfde.
+
+96
+00:06:46,720 --> 00:06:48,920
+We zien duidelijke stervormende regio's...
+
+97
+00:06:49,620 --> 00:06:50,920
+maar ook plekken van grotere leegte.
+
+98
+00:06:50,920 --> 00:06:56,160
+De voids waar we het in het verleden in deze reeks verhandelingen al eens over hebben gehad.
+
+99
+00:06:56,860 --> 00:07:00,660
+Een deel van deze circumgalactische materie op de route...
+
+100
+00:07:00,660 --> 00:07:03,760
+zal allicht door het zwarte gat verzwolgen worden...
+
+101
+00:07:03,760 --> 00:07:05,920
+maar als een speedboot die door het water vaart...
+
+102
+00:07:06,440 --> 00:07:10,100
+ontstaat er ook een straalstroom van gas achter het zwarte gat.
+
+103
+00:07:11,900 --> 00:07:16,580
+En dit is bijzonder genoeg een impuls voor de formatie van jonge sterren.
+
+104
+00:07:16,580 --> 00:07:21,040
+We zien hier dus dat een zwart gat niet alleen maar gezien kan worden...
+
+105
+00:07:21,040 --> 00:07:22,820
+als een allesverzwelgend monster...
+
+106
+00:07:23,720 --> 00:07:25,820
+als een stofzager van kosmische omvang...
+
+107
+00:07:26,760 --> 00:07:30,040
+maar ook juist als de initiator van nieuwe sterren...
+
+108
+00:07:30,040 --> 00:07:32,780
+en daarmee onherroepelijk ook nieuwe planeten.
+
+109
+00:07:34,220 --> 00:07:36,640
+Op de genomen foto's is zoals gezegd...
+
+110
+00:07:36,640 --> 00:07:39,320
+ook een enigszins misvormd sterrenstelsel zichtbaar.
+
+111
+00:07:39,320 --> 00:07:45,640
+De hypothese van Van Dokkum en collega's is dat hier miljoenen jaren geleden...
+
+112
+00:07:45,640 --> 00:07:47,320
+drie sterrenstelsels zijn samengekomen...
+
+113
+00:07:48,260 --> 00:07:50,720
+als gevolg van hun onderlinge zwaartekracht.
+
+114
+00:07:51,160 --> 00:07:54,640
+Elk met hun eigen superzware zwarte gat in het centrum.
+
+115
+00:07:56,660 --> 00:07:59,660
+In het touwgetrek van de onderlinge zwaartekracht...
+
+116
+00:07:59,660 --> 00:08:03,260
+wat erop volgde is één van deze superzware zwarte gaten...
+
+117
+00:08:03,260 --> 00:08:05,320
+weggeschoten uit het sterrenstelsel...
+
+118
+00:08:05,320 --> 00:08:09,320
+om met hoge snelheid door het interstellaire medium te gaan reizen...
+
+119
+00:08:10,460 --> 00:08:13,240
+en tot de geboorte van nieuwe sterren te leiden.
+
+120
+00:08:14,260 --> 00:08:17,320
+Dit is de allereerste keer dat dit fenomeen is waargenomen...
+
+121
+00:08:18,340 --> 00:08:21,700
+maar astronomen gaan ervan uit dat het vaker zal voorkomen.
+
+122
+00:08:22,440 --> 00:08:26,320
+De in het oog springende visuele verschijning, een streep van sterren...
+
+123
+00:08:27,060 --> 00:08:31,420
+maakt dat zoiets op toekomstige foto's redelijk gemakkelijk te herkennen zal zijn.
+
+124
+00:08:31,420 --> 00:08:35,420
+Van Dokkum en collega's denken dat het superzware zwarte gat...
+
+125
+00:08:35,940 --> 00:08:40,420
+ongeveer 39 miljoen jaar geleden los is geschoten uit het sterrenstelsel...
+
+126
+00:08:41,120 --> 00:08:43,160
+waar de streep naartoe lijkt te wijzen.
+
+127
+00:08:43,920 --> 00:08:46,420
+Als we de lengte van de streep delen door deze tijd...
+
+128
+00:08:47,080 --> 00:08:51,900
+komen we ook uit op een snelheid van bijna 1600 kilometer per seconde trouwens.
+
+129
+00:08:52,120 --> 00:08:53,120
+Ja, schiet nou maar op.
+
+130
+00:08:53,420 --> 00:08:57,420
+We lezen gelukkig ook nog wat voorzichtigheid in het artikel van Van Dokkum...
+
+131
+00:08:57,420 --> 00:09:03,020
+over het principe waarmee interstellair gas een schok ondergaat die tot stervorming leidt.
+
+132
+00:09:03,600 --> 00:09:07,420
+Wat waargenomen wordt is een heldere knoop van geioniseerde zuurstof...
+
+133
+00:09:08,200 --> 00:09:10,040
+dicht in de buurt van het zwarte gat.
+
+134
+00:09:11,240 --> 00:09:14,420
+Deze kan ontstaan door de schok die het zwarte gat veroorzaakt...
+
+135
+00:09:15,120 --> 00:09:17,960
+door met zo'n hoge snelheid tegen het gas te rammen.
+
+136
+00:09:18,880 --> 00:09:22,420
+Maar als alternatief het zou ook kunnen zijn dat een en ander ontstaat...
+
+137
+00:09:22,420 --> 00:09:27,300
+staat er straling van de accretieschil die om het zwarte gat aangetroffen wordt.
+
+138
+00:09:28,160 --> 00:09:31,240
+Duidelijk is in ieder geval dat meer onderzoek nodig is...
+
+139
+00:09:31,240 --> 00:09:34,620
+om met grotere waarschijnlijkheid te kunnen weten wat hier gebeurt.
+
+140
+00:09:35,460 --> 00:09:38,420
+Behalve de altijd nog functionerende Hubble Ruimtetelescoop...
+
+141
+00:09:38,980 --> 00:09:40,420
+kunnen ook de James Webb Ruimtetelescoop...
+
+142
+00:09:41,280 --> 00:09:44,420
+en het nog te lanceren Nancy Grace Roman Ruimtetelescoop...
+
+143
+00:09:45,420 --> 00:09:49,080
+ingezet gaan worden om naar vergelijkbare objecten te speuren.
+
+144
+00:09:49,080 --> 00:09:55,260
+Sowieso is nog vrij weinig bekend over superzware zwarte gaten.
+
+145
+00:09:56,160 --> 00:09:59,900
+We praten er nu misschien een beetje over alsof het gewoon tuinkabouters zijn...
+
+146
+00:10:00,480 --> 00:10:04,400
+maar deze gigantische objecten zijn nog uiterst mysterieus.
+
+147
+00:10:05,240 --> 00:10:09,180
+Een zwart gat dat de massa heeft van minstens honderdduizend keer...
+
+148
+00:10:09,180 --> 00:10:14,380
+die van onze zon noemen astronomen een SMBH of Supermassive Black Hole.
+
+149
+00:10:14,380 --> 00:10:20,020
+Als onze fantasie op hol slaat of wij te veel mainstream nieuws tot ons nemen...
+
+150
+00:10:20,020 --> 00:10:24,320
+dan zouden we misschien gaan denken dat het hele helal uiteindelijk verzwolgen wordt...
+
+151
+00:10:24,320 --> 00:10:26,980
+door dit soort altijd maar groeiende zwarte gaten.
+
+152
+00:10:27,560 --> 00:10:30,260
+Maar de wetenschap houdt het hoofd gelukkig koel...
+
+153
+00:10:30,260 --> 00:10:34,940
+en zo lezen we in een artikel uit 2016 van Andrew King met de titel...
+
+154
+00:10:34,940 --> 00:10:36,480
+Hoe groot kan een zwarte gat worden?
+
+155
+00:10:36,480 --> 00:10:41,460
+Dat er een theoretische limiet is aan hoe groot een zwart gat überhaupt kan worden.
+
+156
+00:10:42,360 --> 00:10:46,540
+Ook is het enigszins tegenintuïtief dat u met uw ruimteschip...
+
+157
+00:10:46,540 --> 00:10:50,480
+gemakkelijk door de waarnemingshorizon of zwart shield radius...
+
+158
+00:10:50,480 --> 00:10:52,840
+van een superzware zwart gat zou kunnen reizen...
+
+159
+00:10:52,840 --> 00:10:55,940
+terwijl u aan boord van uw ruimteschip een film zit te kijken...
+
+160
+00:10:55,940 --> 00:10:58,020
+en wat ruimtevoedsel zit te snacken.
+
+161
+00:10:58,920 --> 00:11:02,340
+U komt nooit meer uit het superzware zwarte gat, dat is waar...
+
+162
+00:11:02,340 --> 00:11:08,000
+Maar spagettificatie treedt pas veel later op als u uw film al lang uit heeft gekeken.
+
+163
+00:11:08,120 --> 00:11:10,140
+Ik zag u een stukje uit op de party, Jim.
+
+164
+00:11:10,600 --> 00:11:15,300
+Als u dit soort zaken met uw leerlingen of studenten wil onderzoeken of narekenen...
+
+165
+00:11:15,300 --> 00:11:20,640
+heeft NASA allerlei mooie pdf's die u hiervoor kunt gebruiken voor alle leeftijdgroepen.
+
+166
+00:11:21,260 --> 00:11:26,480
+Ik zet wel een link naar de stempagina van NASA in de show notes van deze aflevering.
+
+167
+00:11:27,460 --> 00:11:31,520
+Maak bijvoorbeeld deze maanfase rekenmiddel met uw leerlingen...
+
+168
+00:11:31,520 --> 00:11:34,240
+of laat ze een maanjournal bijhouden of...
+
+169
+00:11:34,240 --> 00:11:36,040
+Dwaai niet een beetje af van het onderwerp.
+
+170
+00:11:36,220 --> 00:11:37,180
+Ja, dat is waar.
+
+171
+00:11:37,780 --> 00:11:40,260
+We hadden het over superzware zwarte gaten.
+
+172
+00:11:41,020 --> 00:11:43,980
+Hoe deze objecten zijn ontstaan is nog een raadsel.
+
+173
+00:11:44,640 --> 00:11:46,520
+Er bestaan wel verschillende theorieën...
+
+174
+00:11:47,220 --> 00:11:53,700
+maar er zijn ook superzware zwarte gaten zoals J03131806 waargenomen...
+
+175
+00:11:53,700 --> 00:11:56,520
+die bijzonder snel na de oerknal moeten zijn ontstaan.
+
+176
+00:11:57,300 --> 00:11:57,600
+Hm.
+
+177
+00:11:57,600 --> 00:11:59,600
+En dat is een probleem.
+
+178
+00:11:59,700 --> 00:12:00,940
+Dat is inderdaad een probleem.
+
+179
+00:12:01,060 --> 00:12:05,780
+Want zo'n groot zwart gat kan onmogelijk zijn ontstaan uit het vergaan van sterren...
+
+180
+00:12:05,780 --> 00:12:09,540
+omdat er niet genoeg sterren waren om tot een dergelijke massa te groeien...
+
+181
+00:12:09,540 --> 00:12:11,780
+zo vroeg in de geschiedenis van het heelal.
+
+182
+00:12:12,680 --> 00:12:14,320
+Dan moeten we met een andere hypothese komen...
+
+183
+00:12:14,320 --> 00:12:20,480
+zoals bijvoorbeeld dat J03131806 ontstaan is uit donkere materie.
+
+184
+00:12:21,660 --> 00:12:26,660
+Maar u zult begrijpen dat het stapelen van de ene hypothese bovenop de andere...
+
+185
+00:12:26,660 --> 00:12:29,040
+de bewering iets aan kracht doet verliezen.
+
+186
+00:12:29,040 --> 00:12:33,620
+Zoveel valt er nog te ontdekken.
+
+187
+00:12:34,400 --> 00:12:39,100
+Wellicht komen we er ooit nog achter waarom zo'n beetje elk spiraalvormig sterrenstelsel...
+
+188
+00:12:39,100 --> 00:12:41,420
+een superzwaar zwart gat in het centrum kent.
+
+189
+00:12:42,160 --> 00:12:47,380
+En misschien wijst de onlangs ontdekte streep wel enigszins in de richting van het antwoord.
+
+190
+00:12:48,180 --> 00:12:52,140
+Voor nu wens ik u heldere nachten en hopelijk tot de volgende keer.
+
+191
+00:12:52,140 --> 00:12:53,140
+***
+

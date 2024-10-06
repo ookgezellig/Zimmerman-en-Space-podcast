@@ -1,0 +1,652 @@
+1
+00:00:00,260 --> 00:00:03,640
+U luistert naar Zimmerman & Space.
+
+2
+00:00:04,280 --> 00:00:10,160
+Het is alweer een flinke tijd geleden dat we in deze podcast samen luisterden naar ruimtegeluiden.
+
+3
+00:00:11,200 --> 00:00:16,160
+Inmiddels heb ik weer een aantal mooie nieuwe en oude sonificaties voor u gevonden.
+
+4
+00:00:16,460 --> 00:00:17,880
+Nou, blij om dat te horen.
+
+5
+00:00:18,240 --> 00:00:23,440
+Voordat we daarna gaan luisteren is het misschien wel aardig om te weten waar we eigenlijk naar luisteren.
+
+6
+00:00:24,200 --> 00:00:27,660
+Het achterliggende idee is in alle gevallen hetzelfde.
+
+7
+00:00:27,660 --> 00:00:35,240
+Iets wat voor ons in eerste instantie niet hoorbaar is, toch vertalen naar geluidsgolven die wel door ons gehoord kunnen worden.
+
+8
+00:00:35,900 --> 00:00:40,040
+Dat kan zijn door radiogolven te transcoderen naar geluidsgolven.
+
+9
+00:00:40,800 --> 00:00:43,740
+Maar we kunnen ook punten in een grafiek heel erg versnellen.
+
+10
+00:00:44,220 --> 00:00:53,940
+En ik heb ook een voorbeeld waarbij de pixels in een afbeelding van boven naar beneden omgezet worden in tonen die binnen een bepaalde diatonische toonladder vallen.
+
+11
+00:00:53,940 --> 00:00:57,940
+Dat laatste kan natuurlijk wel erg gefingeerd op ons overkomen.
+
+12
+00:00:58,600 --> 00:00:59,420
+Waar heb je het over?
+
+13
+00:00:59,680 --> 00:01:06,780
+Sowieso is het maar de vraag in hoeverre sonificaties überhaupt bijdragen aan de wetenschap zouden we kunnen denken.
+
+14
+00:01:07,300 --> 00:01:10,220
+Toch is die gedachte ook een beetje kort door de bocht.
+
+15
+00:01:11,180 --> 00:01:18,240
+Wetenschap, dat zelfregulerend orgaan van waarheidsvinding, wordt grotendeels betaald door u, de belastingbetaler.
+
+16
+00:01:18,240 --> 00:01:21,500
+Daar moet natuurlijk wel wat tegenover staan.
+
+17
+00:01:22,280 --> 00:01:25,240
+Uiteraard plukken we allemaal de vruchten van bijzondere uitvindingen.
+
+18
+00:01:26,120 --> 00:01:33,600
+Bijvoorbeeld sterke grondstoffen, elektronisch vernuft, medische doorbraken en het gebrek aan dijkdoorbraken.
+
+19
+00:01:35,340 --> 00:01:44,000
+En tussendoor mogen we zonder daar veel moeite voor te doen, genieten van adembenemend mooie foto's die met de nieuwste ruimtetelescopen genomen worden.
+
+20
+00:01:44,000 --> 00:01:47,980
+Maar wat nou als u niet of niet goed kunt zien?
+
+21
+00:01:48,160 --> 00:01:49,660
+Ja, dat is de vraag.
+
+22
+00:01:49,880 --> 00:01:58,000
+Liz Landau van NASA's Astrophysics Division van NASA Headquarters legt uit dat sonificaties in eerste instantie werden gemaakt...
+
+23
+00:01:58,520 --> 00:02:02,000
+om ook visueel beperkte mensen te laten meegenieten van ruimtefoto's.
+
+24
+00:02:03,400 --> 00:02:07,700
+Speciaal voor dit doel maakte NASA de documentaire Listen to the Universe.
+
+25
+00:02:08,240 --> 00:02:11,420
+Een link vindt u in het bijschrift van deze aflevering.
+
+26
+00:02:11,420 --> 00:02:14,760
+En er is nog iets aardigs aan sonificaties.
+
+27
+00:02:15,400 --> 00:02:21,220
+Alhoewel we het er in vergelijking met bepaalde diersoorten bekaait van afbrengen qua gehoor...
+
+28
+00:02:21,220 --> 00:02:25,960
+is ons geëvolueerde gehoor wel in staat patronen in de tijd te herkennen.
+
+29
+00:02:26,800 --> 00:02:30,820
+Patronen die ons in datatabellen of grafieken mogelijk zouden ontgaan.
+
+30
+00:02:31,860 --> 00:02:40,200
+Met deze toegegeven iets wat lange introductie zijn we gereed om naar wat mooie en soms ook spooky sonificaties te gaan luisteren.
+
+31
+00:02:40,200 --> 00:02:47,580
+We beginnen met wat sonificaties die redelijk recent zijn gemaakt op basis van onderzoek van de Parker Solar Probe.
+
+32
+00:02:48,160 --> 00:02:54,500
+Dit op 12 augustus 2018 gelanceerde ruimtevaartuig onderzoekt de zon van zeer dichtbij.
+
+33
+00:02:55,360 --> 00:03:00,500
+Aflevering 230 van Zimmerman In Space ging over de Parker Solar Probe.
+
+34
+00:03:00,500 --> 00:03:08,060
+Het eerste geluid wat u hoort is een sonificatie van plasmaoscillaties, ook wel Langmoer golven genoemd.
+
+35
+00:03:08,820 --> 00:03:16,480
+Het verschil in toonhoogte correspondeert met fluctuaties in de dichtheid van elektronen die de Parker Solar Probe tegenkomt in de tijd.
+
+36
+00:03:16,480 --> 00:03:30,460
+De volgende twee geluiden zijn sonificaties van zogenaamde whistler waves, eveneens geregistreerd door de Parker Solar Probe.
+
+37
+00:03:31,220 --> 00:03:38,500
+Whistler waves zijn VLF of Very Low Frequency radiosignalen die kunnen ontstaan in plasma's.
+
+38
+00:03:38,600 --> 00:03:40,300
+Allee, mag het ook in het Nederlands?
+
+39
+00:03:40,300 --> 00:03:49,280
+Een plasma is trouwens een geioniseerd gas. De vierde staat waarin een stof kan verkeren, naast vast, vloeibaar en gasvormig.
+
+40
+00:03:49,460 --> 00:03:50,720
+Oh ja, inderdaad.
+
+41
+00:03:50,880 --> 00:03:55,000
+Whistler waves ontstaan wanneer elektronen uit de corona van de zon schieten.
+
+42
+00:03:55,940 --> 00:04:01,020
+Ze volgen daarbij de magneetlijnen rond de zon, want inderdaad, ook de zon heeft een magneetveld.
+
+43
+00:04:02,080 --> 00:04:08,160
+Nu kan het voorkomen dat deze rondschietende elektronen trillen op een frequentie die versterkt wordt in het plasma.
+
+44
+00:04:08,160 --> 00:04:10,900
+Dan is er sprake van whistler waves.
+
+45
+00:04:11,700 --> 00:04:15,880
+Op aarde worden vergelijkbare whistlers soms waargenomen als het bliksemd.
+
+46
+00:04:17,640 --> 00:04:21,920
+Astronomen hebben ze ook in de magneetosfeer van planeet Mercurius waargenomen.
+
+47
+00:04:22,920 --> 00:04:28,680
+En ook in het plasma rond de zon ontstaan dergelijke fluittonen dus, en die klinken dan bijvoorbeeld zo,
+
+48
+00:04:28,980 --> 00:04:32,240
+wanneer de frequenties binnen ons gehoorbereik gebracht worden.
+
+49
+00:04:32,240 --> 00:04:44,520
+En hier is nog een whistler van de Parker Solar Probe.
+
+50
+00:04:44,520 --> 00:04:58,500
+U luistert dus naar radiostraling die ontstaat door interacties in de zonneatmosfeer.
+
+51
+00:04:59,360 --> 00:05:03,000
+Trouwens, wie ooit naar de science fiction serie Doctor Who keek,
+
+52
+00:05:03,120 --> 00:05:07,320
+zal deze whistlers verdacht veel vinden lijken op het geluid van de TARDIS.
+
+53
+00:05:07,320 --> 00:05:19,120
+Dat laatste was dus een geluid uit de BBC's science fiction serie Doctor Who.
+
+54
+00:05:20,320 --> 00:05:24,760
+In het plasma rond de zon ontstaat ook een fenomeen dat we zonnewind noemen.
+
+55
+00:05:25,400 --> 00:05:32,260
+Dicht bij de zon hoort de Parker Solar Probe dat de golfverschijnselen binnen dat plasma soms snel van frequentie wisselen.
+
+56
+00:05:32,260 --> 00:05:37,660
+Wat het effect van deze frequentie wisselingen is op de zonnewind zelf is nog niet bekend,
+
+57
+00:05:37,800 --> 00:05:43,000
+volgens astronoom David Malaspina die de gegevens van de Parker Solar Probe onderzoekt.
+
+58
+00:05:43,740 --> 00:05:50,060
+Laten we eens luisteren naar deze frequentie wisselingen die wetenschappers dispersive chirping waves noemen.
+
+59
+00:05:50,060 --> 00:06:19,200
+Als laatste geluid van de Parker Solar Probe kunnen we rechtstreeks horen hoe het ruimtevaartuig gebombardeerd wordt door stofdeeltjes.
+
+60
+00:06:19,200 --> 00:06:28,360
+Dit zijn stofdeeltjes die ontstaan wanneer asteroïden en kometen door de zwaartekracht van de zon worden ingevangen en tot gruzelement worden getrokken.
+
+61
+00:06:29,100 --> 00:06:34,220
+De Parker Solar Probe wordt veel meer geraakt door dergelijke stofdeeltjes dan was gedacht.
+
+62
+00:06:34,540 --> 00:06:36,320
+Ja, dat klinkt niet lekker.
+
+63
+00:06:36,540 --> 00:06:43,080
+Geschat wordt dat de deeltjes met een snelheid van rond de 400.000 kilometer per uur tegen het ruimtevaartuig knallen.
+
+64
+00:06:43,860 --> 00:06:47,920
+Ze vallen dan gelijk uiteen in atoomkernen, protonen en elektronen.
+
+65
+00:06:47,920 --> 00:06:53,920
+Ook raakt de Parker Solar Probe bij elke botsing met zo'n stofdeeltje een klein beetje beschadigd.
+
+66
+00:06:55,000 --> 00:06:55,860
+Het klinkt zo.
+
+67
+00:06:55,860 --> 00:07:08,620
+Misschien is het nu tijd voor een wat mooier geluid waar ik het in het begin ook al over had.
+
+68
+00:07:08,760 --> 00:07:09,840
+Nou, dat duurde lang.
+
+69
+00:07:09,840 --> 00:07:19,700
+Wat nu volgt is een sonificatie van de afbeelding van Supernova Rest IC443, ook wel bekend als de Jellyfish Nebula of Kwalnevel.
+
+70
+00:07:20,740 --> 00:07:24,860
+Het geluidsbeeld ontstaat door van boven naar onder door het plaatje te scannen.
+
+71
+00:07:25,640 --> 00:07:33,560
+De helderheid van pixels bepaalt het volume, de kleur de frequentie en de achtergrondsterren zijn als een soort waterdruppels hoorbaar gemaakt.
+
+72
+00:07:33,560 --> 00:07:43,120
+De afbeelding is gemaakt in het rundgebreik met gecombineerde gegevens van het Chandra X-ray Observatory en de Rosat X-ray Telescope.
+
+73
+00:07:43,120 --> 00:08:13,100
+U luisterde dus naar een sonificatie van rundgestralen.
+
+74
+00:08:13,120 --> 00:08:14,860
+Dat kan je je toch niet voorstellen?
+
+75
+00:08:15,180 --> 00:08:22,460
+Als u meer van dergelijke speelse sonificaties wilt horen staan er nog een heleboel op de webpagina A Universe of Sound,
+
+76
+00:08:22,680 --> 00:08:26,380
+waarnaar u een link vindt in het bijschrift van deze aflevering.
+
+77
+00:08:27,260 --> 00:08:29,280
+Dan gaan we nu naar de planeet Mars.
+
+78
+00:08:29,400 --> 00:08:30,360
+The Mars incident?
+
+79
+00:08:30,600 --> 00:08:39,500
+Wat u zo hoort is een sonificatie van seismische informatie zoals geregistreerd door de InSight Marslander op 7 april 2019.
+
+80
+00:08:40,820 --> 00:08:43,060
+Het begint met de wind op Mars.
+
+81
+00:08:43,120 --> 00:08:51,180
+Dan volgt nu waarschijnlijk een Marsbeving.
+
+82
+00:08:51,180 --> 00:09:05,400
+En tot slot de robotarm van de Marslander.
+
+83
+00:09:05,400 --> 00:09:14,840
+In deze sonificatie is het verloop van de tijd identiek aan hoe een en ander is opgenomen.
+
+84
+00:09:15,240 --> 00:09:22,240
+Alleen horen wij met onze oren geen seismische gegevens, dus die zijn omhoog verteld naar tonen die binnen ons gehoorbereid liggen.
+
+85
+00:09:22,240 --> 00:09:32,040
+Het volgende geluidsfragment is een sonificatie van radiogolven die uitgezonden worden in het noorder- en zuiderlicht van de planeet Saturnus.
+
+86
+00:09:32,580 --> 00:09:36,020
+Het is nogal een lange clip, dus u hoort deze al op de achtergrond.
+
+87
+00:09:36,020 --> 00:09:45,060
+De radiogolven werden door het Cassini-ruimtevaartuig waargenomen op 22 november 2003 tussen de 30 en 80 kHz.
+
+88
+00:09:45,060 --> 00:10:07,340
+En we blijven nog even meereizen met het Cassini-ruimtevaartuig.
+
+89
+00:10:07,340 --> 00:10:16,260
+Veel later, en wel op 18 december 2016, bewoog het Cassini-ruimtevaartuig door een dunner deel van Saturnus ringensysteem.
+
+90
+00:10:17,080 --> 00:10:26,640
+Het radio- en plasma-meetinstrument aan boord van het ruimtevaartuig registreerde inslagen van stof- en gruisdeeltjes van deze ring tijdens de manoeuvre.
+
+91
+00:10:26,640 --> 00:10:38,460
+Om het ruimtevaartuig niet nodeloos bloot te stellen aan inslagen, bewogen door een dunner gedeelte van de ringen in het baanvlak van Saturnus-manen Janus en Epi-Meet thuis.
+
+92
+00:10:39,620 --> 00:10:44,300
+U kunt heel goed horen dat gruis en stof eerst toenemen en dan weer afnemen.
+
+93
+00:10:44,700 --> 00:10:49,280
+Dat is letterlijk het gevolg van de passage van het Cassini-ruimteschip door de ring.
+
+94
+00:10:49,280 --> 00:10:54,800
+Stijn met poluig기도 Kanon naam wagen.
+
+95
+00:10:54,800 --> 00:10:55,800
+***
+
+96
+00:11:24,800 --> 00:11:34,640
+Op 5 maart 1982 landde de Russische Venera 14 capsule op de planeet Venus.
+
+97
+00:11:35,360 --> 00:11:38,820
+Deze buurplaneet van ons is nogal een onherbergzame plek.
+
+98
+00:11:40,100 --> 00:11:44,540
+De Venera 14 hield het ook maar 57 minuten vol op het oppervlak...
+
+99
+00:11:44,540 --> 00:11:50,240
+waar het op dat moment 465 graden Celsius was bij een druk van 94 atmosfeer.
+
+100
+00:11:50,240 --> 00:11:51,240
+***
+
+101
+00:11:51,240 --> 00:11:56,580
+Interessant genoeg hadden de Russische ruimtevaartdeskundigen een microfoon aangebracht...
+
+102
+00:11:56,580 --> 00:11:59,660
+die geluid heeft opgenomen op het oppervlak van Venus.
+
+103
+00:12:03,100 --> 00:12:06,780
+Wat we nu horen is de afdaling door de Venusatmosfeer.
+
+104
+00:12:06,780 --> 00:12:06,840
+***
+
+105
+00:12:06,840 --> 00:12:21,480
+En dan volgt nu de landing.
+
+106
+00:12:21,480 --> 00:12:22,480
+***
+
+107
+00:12:22,480 --> 00:12:29,480
+Vervolgens wordt de lenskap pyrotechnisch verwijderd.
+
+108
+00:12:29,480 --> 00:12:30,480
+***
+
+109
+00:12:30,480 --> 00:12:48,840
+En dit is het geluid van boren in de Venusbodem.
+
+110
+00:12:48,840 --> 00:12:49,340
+***
+
+111
+00:12:49,340 --> 00:12:53,920
+Dit is een echte geluidsopname.
+
+112
+00:12:54,400 --> 00:12:57,200
+Een microfoon is in de meeste gevallen een membraan...
+
+113
+00:12:57,200 --> 00:13:01,500
+dat heen en weer rammelt in de omstandigheden waaraan de microfoon wordt blootgesteld.
+
+114
+00:13:01,500 --> 00:13:06,760
+Als aan beide zijden van het membraan een luchtdruk van 94 atmosfeer heerst...
+
+115
+00:13:06,760 --> 00:13:09,380
+kan deze dus gewoon nog geluid registreren.
+
+116
+00:13:09,380 --> 00:13:14,380
+De planeet Venus kunt u trouwens geregeld zelf zien...
+
+117
+00:13:14,380 --> 00:13:19,720
+maar staat op dit moment april 2024 te dicht bij de zon om waargenomen te kunnen worden.
+
+118
+00:13:20,580 --> 00:13:23,800
+Zo tegen het einde van het jaar wordt het weer een avondobject.
+
+119
+00:13:23,800 --> 00:13:29,080
+Misschien is het nu tijd om naar iets rustgevenders te luisteren.
+
+120
+00:13:29,700 --> 00:13:31,880
+De natuurlijke vibratie van de zon.
+
+121
+00:13:32,640 --> 00:13:36,080
+Deze sonificatie die u al op de achtergrond hoort...
+
+122
+00:13:36,080 --> 00:13:40,180
+is gemaakt op basis van waarnemingen met het SOHO ruimtevaartuig.
+
+123
+00:13:40,920 --> 00:13:41,880
+SOHO staat voor...
+
+124
+00:13:41,880 --> 00:13:44,120
+Solar and Heliospheric Observatory.
+
+125
+00:13:44,120 --> 00:13:57,800
+Wat u hoort zijn Doppler-metingen aan de fotosfeer rond de zon...
+
+126
+00:13:57,800 --> 00:14:01,560
+sterk versneld in de tijd en binnen het gehoorbereik gebracht.
+
+127
+00:14:01,560 --> 00:14:09,500
+Aardig aan een sonificatie als deze is...
+
+128
+00:14:09,500 --> 00:14:13,040
+dat daarmee lange termijn schommelingen inzichtelijker worden...
+
+129
+00:14:13,040 --> 00:14:14,580
+of eigenlijk hoorbaar worden.
+
+130
+00:14:21,040 --> 00:14:24,840
+Het volgende geluidsfragment vertegenwoordigt geluidsgolven...
+
+131
+00:14:24,840 --> 00:14:26,880
+die door het vroege universum reisten...
+
+132
+00:14:26,880 --> 00:14:30,660
+en later min of meer gehoord werden door het plankruimtevaartuig.
+
+133
+00:14:31,660 --> 00:14:35,040
+We luisteren zo dus naar iets uit een ver, ver verleden.
+
+134
+00:14:35,980 --> 00:14:38,600
+Voordat er sterren of sterrenstelsels waren...
+
+135
+00:14:38,600 --> 00:14:40,760
+13,8 miljard jaar geleden...
+
+136
+00:14:40,760 --> 00:14:43,040
+was ons universum een bal van plasma.
+
+137
+00:14:43,620 --> 00:14:45,060
+Daar hebben we het woord nog een keer.
+
+138
+00:14:46,300 --> 00:14:49,540
+In dit plasma was sprake van minuscule schommelingen...
+
+139
+00:14:49,540 --> 00:14:51,540
+die we geluidsgolven zouden kunnen noemen.
+
+140
+00:14:52,360 --> 00:14:56,200
+Terwijl deze geluidsgolven zich door het jonge universum voortplanten...
+
+141
+00:14:56,200 --> 00:14:59,080
+lieten ze afdrukken achter op de materie en het licht...
+
+142
+00:14:59,080 --> 00:15:03,140
+net zoals patronen die ontstaan door golven op het oppervlak van een vijver...
+
+143
+00:15:03,140 --> 00:15:04,640
+waarin een steen is gegooid.
+
+144
+00:15:05,600 --> 00:15:07,020
+Deze patronen werden afgedrukt...
+
+145
+00:15:07,020 --> 00:15:10,660
+als iets helderder en donkerder vlekken in het licht.
+
+146
+00:15:11,240 --> 00:15:13,400
+Door dit oude licht in kaart te brengen...
+
+147
+00:15:13,400 --> 00:15:15,460
+dat door de ruimte en de tijd naar ons is toegereist...
+
+148
+00:15:16,180 --> 00:15:20,400
+kan plank in feite de geluidsecho's van het vroege universum zien.
+
+149
+00:15:21,280 --> 00:15:23,340
+De trillingen die plank registreerde...
+
+150
+00:15:23,340 --> 00:15:26,460
+lagen zo'n 47 octaven onder onze gehoorgrens.
+
+151
+00:15:26,460 --> 00:15:28,180
+Zoveel?
+
+152
+00:15:28,300 --> 00:15:32,740
+Door deze trillingen gigantisch te versnellen in zowel tijd als frequentie...
+
+153
+00:15:32,740 --> 00:15:34,360
+ontstaat het volgende geluid.
+
+154
+00:15:34,780 --> 00:15:36,980
+Luister naar de begindagen van ons heelal.
+
+155
+00:15:37,240 --> 00:15:39,180
+Drie keer achter elkaar hetzelfde stuk.
+
+156
+00:15:39,180 --> 00:15:51,820
+En tot slot keren we weer terug naar de aarde.
+
+157
+00:15:52,300 --> 00:15:56,260
+Het laatste geluid is een sonificatie van het aardmagnetisch veld.
+
+158
+00:15:57,160 --> 00:15:59,520
+Dit geluidsbestand werd gemaakt door onderzoekers...
+
+159
+00:15:59,520 --> 00:16:01,680
+van de Deense Technische Universiteit.
+
+160
+00:16:02,420 --> 00:16:06,880
+Ze gebruikten meetgegevens van Esas 3 Swarm satellieten hiervoor.
+
+161
+00:16:06,880 --> 00:16:12,800
+Wat u hoort is de interactie van de zonnewind met het magnetisch veld rond de aarde...
+
+162
+00:16:12,800 --> 00:16:14,980
+vertaald naar voor ons hoorbaar geluid.
+
+163
+00:16:14,980 --> 00:16:32,260
+Tot de volgende keer.
+

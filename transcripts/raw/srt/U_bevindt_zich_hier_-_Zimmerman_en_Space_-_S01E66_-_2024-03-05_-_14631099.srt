@@ -1,0 +1,832 @@
+1
+00:00:00,260 --> 00:00:05,100
+U luistert naar Zimmerman & Space, een podcast over astronomie.
+
+2
+00:00:05,820 --> 00:00:12,140
+Heeft u dat ook wel eens, dat u ergens aanbeland bent en echt geen flauw idee meer heeft waar u bent?
+
+3
+00:00:12,280 --> 00:00:13,000
+Ja, het is echt gênant.
+
+4
+00:00:13,720 --> 00:00:16,980
+Tegenwoordig met Google Maps natuurlijk niet meer zo actueel.
+
+5
+00:00:17,240 --> 00:00:22,780
+En toch kan het van tijd tot tijd prettig zijn zo'n bord met u bevindt zich hier tegen te komen.
+
+6
+00:00:23,680 --> 00:00:28,320
+Dan weet u bijvoorbeeld aan welke kant u in een metrostation terecht bent gekomen,
+
+7
+00:00:28,320 --> 00:00:34,600
+terwijl Google Maps naastig op zoek is naar gps-satellieten om een plaatsbepaling uit te kunnen voeren.
+
+8
+00:00:35,640 --> 00:00:41,180
+Daar staat u dan, moederziel alleen, bij een bord met een versleten inscriptie.
+
+9
+00:00:41,360 --> 00:00:42,160
+You are here.
+
+10
+00:00:42,360 --> 00:00:47,580
+Ik voel me altijd een beetje dommig als ik dan in eerste instantie niet eens weet waar ik naar kijk,
+
+11
+00:00:47,800 --> 00:00:50,180
+of wat noord, zuid, west of oost is.
+
+12
+00:00:51,120 --> 00:00:55,320
+Is dit lijntje die grote weg die zich schijnbaar achter mij bevindt?
+
+13
+00:00:55,320 --> 00:00:58,540
+Of is dat de weg waar ik nu aan sta?
+
+14
+00:00:59,180 --> 00:01:03,940
+En hoe kan ik dat überhaupt weten in een metrostation zo diep onder de grond?
+
+15
+00:01:05,220 --> 00:01:06,560
+U bevindt zich hier.
+
+16
+00:01:07,180 --> 00:01:13,460
+Een semi-prettige manier om uw nietigheid in de vluchtigheid van het bestaan maar weer eens te benadrukken.
+
+17
+00:01:14,680 --> 00:01:19,100
+Vandaag een you are here met betrekking tot uw plaats in dit heelal.
+
+18
+00:01:19,700 --> 00:01:21,220
+Wellicht heeft u er nog wat aan.
+
+19
+00:01:21,220 --> 00:01:30,860
+Een uitdaging van mens zijn is namelijk hoe lastig het is om ons adequaat te realiseren hoe onsignificant wij zijn op de kosmische schaal.
+
+20
+00:01:31,740 --> 00:01:37,780
+Veel van ons lijden komt voort uit onze gehechtheid aan uitkomsten die we als goed of slecht evalueren.
+
+21
+00:01:38,760 --> 00:01:41,360
+Uitkomsten die er voor ons schijnbaar heel veel toe doen.
+
+22
+00:01:42,080 --> 00:01:44,800
+Een soort schromelijke zelfoverschatting eigenlijk.
+
+23
+00:01:45,600 --> 00:01:49,560
+We maken ons zorgen over die keer dat we te hard treden en geflitst werden.
+
+24
+00:01:49,560 --> 00:01:55,620
+Hoeveel geld we verdienen en hoeveel we volgens onszelf eigenlijk verdienen.
+
+25
+00:01:59,620 --> 00:02:03,740
+Hoe onsuccesvol onze carrière of ons pensioenplan zijn.
+
+26
+00:02:04,680 --> 00:02:10,460
+En of we een rib uit het lijf moeten betalen om de druppelende kraan in de douche te laten repareren.
+
+27
+00:02:11,460 --> 00:02:15,160
+We maken ons tegenwoordig natuurlijk ook zorgen over natuurrampen.
+
+28
+00:02:15,160 --> 00:02:19,140
+Te veel of te weinig water.
+
+29
+00:02:20,520 --> 00:02:24,040
+Raddraaiers die met energiedrankjes en messen lopen te zwiepen.
+
+30
+00:02:24,640 --> 00:02:27,220
+En dreigende taal van regeringsleiders.
+
+31
+00:02:27,220 --> 00:02:31,200
+Dat zijn tevens de minst geschikte personen voor die posities.
+
+32
+00:02:31,900 --> 00:02:39,220
+Op hogere sociaal-economische niveaus maken we ons druk over het afvinken van items op onze bucketlist.
+
+33
+00:02:39,220 --> 00:02:44,220
+Het bezoeken van voldoende schitterende locaties voor onze instastories.
+
+34
+00:02:45,260 --> 00:02:51,920
+En het ondernemen van de juiste cultureel verrijkende activiteiten om ons begrip van de wereld te vergroten.
+
+35
+00:02:52,820 --> 00:02:55,440
+En of anderen wel zien hoe geweldig wij zijn.
+
+36
+00:02:55,720 --> 00:02:59,280
+Of althans niet laten zien waar we steken laten vallen natuurlijk.
+
+37
+00:03:00,280 --> 00:03:05,200
+Met heimwee hangen we aan ons verleden dat ooit was, waarin alles veiliger was.
+
+38
+00:03:05,200 --> 00:03:08,360
+Of tenminste, zo herinneren we ons dat.
+
+39
+00:03:09,080 --> 00:03:11,140
+En de toekomst die is griezelig.
+
+40
+00:03:11,920 --> 00:03:12,780
+Wat als?
+
+41
+00:03:14,660 --> 00:03:20,460
+We zijn primitieve zoogdieren op een kleine planeet die rond een onbenullige ster draait...
+
+42
+00:03:20,460 --> 00:03:25,300
+in een alledaags zonnestelsel aan de rand van een uitgestrekt melkwegstelsel...
+
+43
+00:03:25,300 --> 00:03:27,520
+waarvan we niet eens een fractie begrijpen.
+
+44
+00:03:28,500 --> 00:03:31,580
+Dit sterrenstelsel is 100.000 lichtjaar breed.
+
+45
+00:03:31,920 --> 00:03:34,940
+30 kilo per sec zou een astronoom liever zeggen.
+
+46
+00:03:35,200 --> 00:03:39,280
+En bevat ongeveer 300 miljard sterren, al weten we dat niet zeker.
+
+47
+00:03:40,000 --> 00:03:46,200
+De dichtstbijzijnde ster, Alpha Centauri, is ongeveer 4.4 lichtjaar van ons verwijderd.
+
+48
+00:03:46,900 --> 00:03:51,240
+Met geen mogelijkheid gaat u in uw leven nog meemaken dat we die ster bezoeken.
+
+49
+00:03:51,700 --> 00:03:53,820
+Laat staan dat we nog verder zullen reizen.
+
+50
+00:03:53,820 --> 00:04:02,700
+Er zijn waarschijnlijk minstens 100 miljard exoplaneten alleen al in ons melkwegstelsel.
+
+51
+00:04:03,500 --> 00:04:08,240
+Daarvan zijn er vandaag de dag in een combinatie van toeval en hard werken...
+
+52
+00:04:08,240 --> 00:04:12,820
+maar 5.288 ontdekt volgens de Open Exoplanet Catalogus.
+
+53
+00:04:13,620 --> 00:04:14,580
+Nou, dat is ook niet veel.
+
+54
+00:04:14,580 --> 00:04:18,940
+De melkweg is een volkomen gewoon sterrenstelsel in het universum...
+
+55
+00:04:18,940 --> 00:04:22,880
+dat waarschijnlijk minstens 100 miljard andere sterrenstelsels bevat.
+
+56
+00:04:23,580 --> 00:04:28,580
+Het voor ons zichtbare gedeelte van het helal is ongeveer 93 miljard lichtjaar breed...
+
+57
+00:04:29,380 --> 00:04:32,760
+wat gelijk staat aan 28.5 gigaparsec.
+
+58
+00:04:32,760 --> 00:04:36,840
+Niemand weet of het helal nog veel groter is dan dat...
+
+59
+00:04:36,840 --> 00:04:40,040
+en er is waarschijnlijk geen mogelijkheid daar ooit achter te komen.
+
+60
+00:04:40,860 --> 00:04:46,060
+Ook weten we niet of dit het enige helal is of dat er een veelheid aan helallen bestaat.
+
+61
+00:04:47,400 --> 00:04:51,760
+Er kunnen miljarden andere levensvormen zijn op miljarden andere planeten...
+
+62
+00:04:51,760 --> 00:04:54,640
+die wellicht worstelen met dezelfde problemen als wij.
+
+63
+00:04:57,180 --> 00:04:59,200
+Of we kunnen alleen zijn.
+
+64
+00:04:59,200 --> 00:05:03,960
+Wij alleen op één planeet waarvan het klimaat op dit moment...
+
+65
+00:05:03,960 --> 00:05:06,420
+in hoog tempo uit de rails aan het lopen is.
+
+66
+00:05:06,600 --> 00:05:09,620
+Je kunt het historisch noemen in de zin van zeer bijzonder...
+
+67
+00:05:09,620 --> 00:05:13,620
+want de temperatuur kwam op veel plaatsen boven de 40 graden uit.
+
+68
+00:05:13,940 --> 00:05:19,480
+Vandaag nog kunt u met een goed glas wijn in een lavendelbad naar Nora Jones luisteren...
+
+69
+00:05:19,480 --> 00:05:23,480
+en morgen kunt u als klimaatvluchteling met stinkende vermoeide voeten...
+
+70
+00:05:23,480 --> 00:05:26,700
+arriveren in een asielzoekerscentrum in een buurland...
+
+71
+00:05:26,700 --> 00:05:31,620
+wanneer we ons toch stelselmatig hadden vergist met betrekking tot de zeespiegelstijging.
+
+72
+00:05:33,200 --> 00:05:37,240
+Met weemoed denkt u dan opeens terug aan hoe goed uw Tesla optrok...
+
+73
+00:05:37,240 --> 00:05:40,080
+terwijl u nu in de rij staat voor de aardappelprak...
+
+74
+00:05:40,080 --> 00:05:42,720
+die wordt uitgedeeld aan u en uw lotgenoten.
+
+75
+00:05:43,960 --> 00:05:49,720
+We kunnen slechts een minuscule fractie van de beschikbare golflengte van licht en energie waarnemen.
+
+76
+00:05:49,720 --> 00:05:56,580
+En we kunnen slechts een klein deel van de pulserende golven die we geluid noemen, detecteren en verwerken.
+
+77
+00:05:57,220 --> 00:06:01,760
+We filteren deze minimale hoeveelheid informatie vervolgens door onze hersenen.
+
+78
+00:06:02,740 --> 00:06:07,720
+Informatie die verder wordt vervormd door onze overtuigingen, ongetherapeerde persoonlijkheden...
+
+79
+00:06:08,640 --> 00:06:11,720
+en de gebruikelijke cognitieve vooroordelen en misverstanden.
+
+80
+00:06:11,720 --> 00:06:19,520
+We schrijven of spreken dan over deze dingen in de hoop dat anderen zaten te wachten op ons ongevraagd advies.
+
+81
+00:06:20,260 --> 00:06:24,720
+Onze hersenschimmen vol met taalfouten worden dan weer gefilterd door iemand anders hersenen...
+
+82
+00:06:25,400 --> 00:06:27,820
+met precies diezelfde beperkingen als de onze.
+
+83
+00:06:28,020 --> 00:06:29,740
+Ja, dat klinkt niet lekker.
+
+84
+00:06:29,940 --> 00:06:31,960
+En opeens hebben we ruzie om niks.
+
+85
+00:06:32,760 --> 00:06:36,720
+Om een gebroken koekje, terwijl we ook in verwondering buiten hadden kunnen rondlopen...
+
+86
+00:06:37,260 --> 00:06:41,080
+om oog in oog te staan met een specht of een eekhoorn.
+
+87
+00:06:41,720 --> 00:06:44,180
+Of een woedend wild zwijn.
+
+88
+00:06:49,560 --> 00:06:52,680
+En dan hebben we het nog niet eens over de tijd gehad.
+
+89
+00:06:55,520 --> 00:07:00,100
+13,8 miljard jaar geleden was er niets, is wat we nu denken.
+
+90
+00:07:00,700 --> 00:07:02,040
+En toen was er ineens iets.
+
+91
+00:07:03,180 --> 00:07:06,580
+Zonder dat wij daar van tevoren over geconsulteerd waren.
+
+92
+00:07:06,580 --> 00:07:15,140
+4,5 miljard jaar geleden ontstond de planeet waar u nu op staat, fietst, rijdt, ligt, loopt...
+
+93
+00:07:15,140 --> 00:07:20,260
+in uw hangmat ligt of in een vliegtuig overheen zweeft uit een gaswolk rond een sterretje.
+
+94
+00:07:21,060 --> 00:07:26,420
+Dit alles gebeurde in een betrekkelijk rustige omgeving aan de rand van dat onbeduidende melkwegstelsel...
+
+95
+00:07:26,420 --> 00:07:28,560
+waar wij ons toevallig in bevinden.
+
+96
+00:07:28,560 --> 00:07:32,800
+3,8 miljard jaar geleden begon het leven.
+
+97
+00:07:33,800 --> 00:07:38,280
+2,6 miljoen jaar geleden begonnen wezensgereedschap te gebruiken.
+
+98
+00:07:39,240 --> 00:07:44,960
+Toegegeven nog geen handig gevormd nagelschaartje van de etos of NVIDIA GPU...
+
+99
+00:07:44,960 --> 00:07:50,260
+maar meer een stompe hamer om iets of een onderdeel van iemands anatomie mee te verbreizelen.
+
+100
+00:07:50,260 --> 00:07:54,600
+150,000 jaar geleden ontstond er taal.
+
+101
+00:07:55,640 --> 00:08:00,920
+Waarschijnlijk om te voorkomen dat we te vaak stompe primitieve werktuigen hoefden op te pakken...
+
+102
+00:08:00,920 --> 00:08:03,540
+om een onderdeel van iemands anatomie te verbreizelen.
+
+103
+00:08:03,900 --> 00:08:08,160
+Nu konden we opeens zeggen hoeveel kost 400 gram kaas...
+
+104
+00:08:08,160 --> 00:08:11,000
+zonder gelijk in een conflict situatie te belanden.
+
+105
+00:08:11,760 --> 00:08:13,240
+Maar het risico blijft.
+
+106
+00:08:13,240 --> 00:08:19,200
+En met de taal kwamen onze zogenaamde linkse hobby's, kunst en cultuur...
+
+107
+00:08:19,200 --> 00:08:22,560
+omdat niemand weet waarom dit heelal er is met ons erin...
+
+108
+00:08:22,560 --> 00:08:26,140
+en omdat velen van ons toch wel eens wat vrije tijd over hebben...
+
+109
+00:08:26,140 --> 00:08:31,520
+als we niet lopen te piekeren over het uitblijven van resultaten van dat laatste zelfhulpboek...
+
+110
+00:08:31,520 --> 00:08:34,480
+waar we ons doorheen hebben geploegd zonder de oefeningen te doen.
+
+111
+00:08:35,240 --> 00:08:40,220
+Als we de complete geschiedenis van het heelal zouden vergelijken met de lengte van één dag...
+
+112
+00:08:40,220 --> 00:08:44,460
+zou de complete geschiedenis van de mensheid in de laatste seconde passen.
+
+113
+00:08:45,380 --> 00:08:47,660
+Zo kort zijn we er eigenlijk nog maar.
+
+114
+00:08:48,380 --> 00:08:51,440
+Uw leven daarin duurt nog eens zo'n 2000 keer korter.
+
+115
+00:08:52,780 --> 00:08:55,880
+En het malle is, dit heelal is nog maar net begonnen.
+
+116
+00:08:56,780 --> 00:09:01,840
+Zeker is dat onze zon over ongeveer 5 miljard jaar min of meer opgebrand is...
+
+117
+00:09:01,840 --> 00:09:05,460
+en daarmee is onze aarde ook onleefbaar geworden of al vergaan.
+
+118
+00:09:06,160 --> 00:09:08,620
+Voor zover we dat in onze tijd niet zelf al doen.
+
+119
+00:09:08,620 --> 00:09:13,540
+Zoals we het nu kunnen overzien vergaat dit heelal ook op een dag...
+
+120
+00:09:13,540 --> 00:09:16,580
+en dan is er misschien weer de zalige rust van het niets.
+
+121
+00:09:19,940 --> 00:09:21,760
+Niemand weet het natuurlijk zeker...
+
+122
+00:09:21,760 --> 00:09:24,660
+maar misschien is dit wel de enige keer in de geschiedenis...
+
+123
+00:09:24,660 --> 00:09:27,860
+dat er zoiets als een heelal spontaan uit het niets voortspruit...
+
+124
+00:09:28,580 --> 00:09:31,860
+en de enige keer dat er een planeet als de aarde ontstaat...
+
+125
+00:09:31,860 --> 00:09:34,760
+waarop mensen rondlopen die zich bezig moeten houden...
+
+126
+00:09:34,760 --> 00:09:38,000
+met de kleur van een eventuele nieuwe Apple Watch bandje...
+
+127
+00:09:38,000 --> 00:09:41,680
+en of het de moeite waard is 30 eurocent meer te betalen...
+
+128
+00:09:41,680 --> 00:09:43,220
+voor biologische spaghetti.
+
+129
+00:09:44,340 --> 00:09:47,820
+Zeker is dat er in ieder geval maar één versie van u is...
+
+130
+00:09:47,820 --> 00:09:51,140
+met al uw eigen naardigheden en bijzondere vermogens.
+
+131
+00:09:51,400 --> 00:09:52,360
+Oh, gelukkig!
+
+132
+00:09:52,620 --> 00:09:55,960
+Dit is uw speciale eenmalige gift van het leven.
+
+133
+00:09:56,880 --> 00:09:59,760
+Hoe sneu sommige aspecten ervan ook uit hebben gepakt...
+
+134
+00:09:59,760 --> 00:10:01,000
+dit is het.
+
+135
+00:10:01,660 --> 00:10:03,240
+Niks meer en niks minder.
+
+136
+00:10:03,980 --> 00:10:06,460
+Een eenmalige kans om er iets van te maken.
+
+137
+00:10:07,240 --> 00:10:09,540
+Het is ook over voordat u er erg in hebt.
+
+138
+00:10:10,360 --> 00:10:13,920
+Ik ben zelf al 57 en word daarmee steeds minder relevant.
+
+139
+00:10:14,720 --> 00:10:18,860
+Of compleet irrelevant als u het aan iemand van Gen Z vraagt.
+
+140
+00:10:19,920 --> 00:10:20,320
+Oké!
+
+141
+00:10:20,580 --> 00:10:23,080
+Ik ben al ouder dan de koning, de koningin...
+
+142
+00:10:23,080 --> 00:10:25,520
+en de demissionaire minister-president.
+
+143
+00:10:25,520 --> 00:10:30,520
+Als mijn NextDNS, dat mij beschermt tegen de funzigheid...
+
+144
+00:10:30,520 --> 00:10:33,520
+die internetreclame heet, per ongeluk uitstaat...
+
+145
+00:10:33,520 --> 00:10:37,700
+krijg ik per abuis toch reclame te zien over dentale implantaten.
+
+146
+00:10:37,980 --> 00:10:39,520
+Een prettig geregelde uitvaart.
+
+147
+00:10:40,380 --> 00:10:44,360
+Trapliften in Beeldhoven en datingsites voor 50-plussers.
+
+148
+00:10:44,740 --> 00:10:47,580
+Compleet met foto's van mensen die nooit hebben bestaan.
+
+149
+00:10:47,680 --> 00:10:49,220
+Wil je mij niet gaan beruilen?
+
+150
+00:10:49,440 --> 00:10:52,560
+U bent misschien jonger of ouder dan ik, maar u bevindt zich hier.
+
+151
+00:10:52,560 --> 00:10:56,940
+Eén leven, één enkele kans om er alsnog wat van te maken.
+
+152
+00:10:57,040 --> 00:10:57,400
+Oké!
+
+153
+00:10:57,940 --> 00:10:59,400
+U heeft assertieve rechten.
+
+154
+00:10:59,860 --> 00:11:01,520
+U heeft waarschijnlijk een paspoort.
+
+155
+00:11:02,380 --> 00:11:05,260
+U heeft vast wel vervelende problemen in uw leven.
+
+156
+00:11:05,840 --> 00:11:08,520
+Maar over honderd jaar bent u er waarschijnlijk niet meer.
+
+157
+00:11:09,160 --> 00:11:12,560
+Over tweehonderd jaar weet niemand meer dat u ooit heeft bestaan...
+
+158
+00:11:12,560 --> 00:11:15,740
+en bestaat er bovendien niemand meer die u ooit heeft gekend.
+
+159
+00:11:16,400 --> 00:11:17,560
+Maak er wat moois van.
+
+160
+00:11:17,560 --> 00:11:22,940
+Dit leven is veel te kort om verspuld te worden door boos te blijven op iemand...
+
+161
+00:11:22,940 --> 00:11:26,940
+of overdreven gehecht te zijn aan een of andere uitkomst of overtuiging.
+
+162
+00:11:27,820 --> 00:11:30,240
+Bel diegene die u nog iets te zeggen hebt.
+
+163
+00:11:30,780 --> 00:11:32,100
+Doe die cursus.
+
+164
+00:11:32,720 --> 00:11:35,140
+We zitten allemaal in hetzelfde predicament.
+
+165
+00:11:35,140 --> 00:11:38,100
+Iedereen heeft behoefte aan een bord met...
+
+166
+00:11:38,100 --> 00:11:39,140
+U bevindt zich hier.
+
+167
+00:11:40,120 --> 00:11:43,360
+En zelfs als we die kaart van het terrein voor ons zien...
+
+168
+00:11:43,360 --> 00:11:47,520
+dan is het nuttig te denken aan wat de Poolse wiskundige Korzybski in 1933...
+
+169
+00:11:47,520 --> 00:11:50,580
+heel Kantiaans al zei.
+
+170
+00:11:51,100 --> 00:11:53,520
+De kaart is niet identiek aan het territorium.
+
+171
+00:11:53,520 --> 00:11:59,080
+Dat we ieder gewapend met onze eigen belabberde kaart van de wereld...
+
+172
+00:11:59,080 --> 00:12:03,480
+alsnog een gesprek kunnen hebben over het weer zonder elkaar de hersens in te slaan...
+
+173
+00:12:03,480 --> 00:12:06,480
+is toch een opsteker voor de welwillendheid van de mens.
+
+174
+00:12:07,000 --> 00:12:10,220
+Iedereen doet wat zij of hij op dat moment het beste acht.
+
+175
+00:12:10,500 --> 00:12:11,820
+Wat u er ook van vindt.
+
+176
+00:12:12,480 --> 00:12:14,900
+Misschien dat ik in plaats van you are here...
+
+177
+00:12:14,900 --> 00:12:17,100
+iets zou kunnen zeggen als don't panic.
+
+178
+00:12:17,840 --> 00:12:19,960
+Minder stress en meer verwondering.
+
+179
+00:12:19,960 --> 00:12:24,160
+En als we het dan toch over verwondering hebben...
+
+180
+00:12:24,160 --> 00:12:27,260
+daar is Anko van Hal van de Sterrenstof-podcast.
+
+181
+00:12:27,460 --> 00:12:27,920
+Dag Hens.
+
+182
+00:12:28,140 --> 00:12:30,140
+Je hebt weer een nieuwe aflevering online, hoorde ik.
+
+183
+00:12:30,280 --> 00:12:32,420
+En jij bent te gast in mijn uitzending weer.
+
+184
+00:12:32,560 --> 00:12:34,360
+Oeh, dat is dan weer even wat minder.
+
+185
+00:12:34,480 --> 00:12:35,340
+Nee, dat is heel leuk.
+
+186
+00:12:35,460 --> 00:12:37,240
+Want dan doe je elke vijf uitzendingen bij mij...
+
+187
+00:12:37,240 --> 00:12:38,400
+en dat vind ik echt heel gezellig.
+
+188
+00:12:38,820 --> 00:12:41,260
+En dan krijg je van mij koffie van het Allerpiersum en koek.
+
+189
+00:12:41,420 --> 00:12:42,520
+Ja, thee tegenwoordig.
+
+190
+00:12:42,640 --> 00:12:43,540
+O ja, je hebt nu thee.
+
+191
+00:12:43,960 --> 00:12:46,820
+En je mag je eigen hoofdonderwerp uitzoeken bij Sterrenstof.
+
+192
+00:12:46,920 --> 00:12:47,340
+En dat is?
+
+193
+00:12:47,340 --> 00:12:51,080
+We hadden het over de ontdekkingen van de James Webb Ruimtetelescoop.
+
+194
+00:12:51,260 --> 00:12:52,660
+Een heel interessant gesprek geworden.
+
+195
+00:12:53,180 --> 00:12:55,320
+Iedereen luistert naar Sterrenstof 35.
+
+196
+00:12:55,560 --> 00:12:56,880
+Die gaat 1 maart online.
+
+197
+00:12:57,100 --> 00:12:58,300
+Dus die is nu al te vinden.
+
+198
+00:12:58,500 --> 00:12:59,340
+Via alle podcastplatformen.
+
+199
+00:13:00,360 --> 00:13:01,500
+Fantastisch. Bedankt Anko.
+
+200
+00:13:01,640 --> 00:13:02,400
+Jij ook bedankt Hens.
+
+201
+00:13:02,500 --> 00:13:03,200
+Tot de volgende keer weer.
+
+202
+00:13:03,220 --> 00:13:05,200
+En zeker tot de volgende keer.
+
+203
+00:13:05,360 --> 00:13:07,400
+Dan zullen we het weer over wetenschap hebben.
+
+204
+00:13:07,540 --> 00:13:09,720
+Wat een ego-drammerij dit.
+
+205
+00:13:09,900 --> 00:13:11,840
+En dit slaat toch allemaal helemaal nergens op eigenlijk.
+
+206
+00:13:12,000 --> 00:13:12,320
+Toen zw Taken.
+
+207
+00:13:13,760 --> 00:13:14,280
+Puigень.
+
+208
+00:13:17,280 --> 00:13:29,380
+Tuсе on
+

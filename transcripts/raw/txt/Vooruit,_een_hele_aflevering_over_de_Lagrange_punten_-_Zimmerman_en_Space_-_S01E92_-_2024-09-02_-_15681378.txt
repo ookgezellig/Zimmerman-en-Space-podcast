@@ -1,0 +1,161 @@
+U luistert naar Zimmerman & Space.
+Misschien heeft u wel eens gehoord dat de James Webb ruimtetelescoop zich in het L2 Lagrange punt bevindt.
+De zogenaamde Lagrange punten roepen regelmatig vragen van luisteraars op.
+Bijvoorbeeld de vraag hoe groot zo'n punt is en of men er ongestraft ruimteschepen in kan hangen zonder dat die tegen elkaar aanbotsen.
+Laten we vandaag eens wat dieper in deze materie duiken.
+En voor wie vreest dat dit weer een...
+Pak de rekenmachine er maar bij.
+...onderwerp wordt? Wees gerust, de rekenmachine mag in de tassen blijven.
+Oh, gelukkig!
+Ah, ik hoor de schoolbel al. Zit iedereen op haar of zijn plek?
+Hartstikke mooi. Dan kan de les beginnen.
+Eerst maar eens, wat zijn Lagrange punten?
+Lagrange punten zijn posities in de ruimte waar de zwaartekrachten van een systeem, zoals bijvoorbeeld de zon en de aarde, maar ook de aarde en de maan, versterkte gebieden van aantrekking en afstoting produceren.
+Deze punten kunnen door ruimtevaartuigen worden gebruikt als parkeerplaatsen in de ruimte waar ze met minimaal brandstofverbruik in een vaste positie kunnen blijven hangen.
+Eenmaal in positie reist een ruimtevaartuig, zoals bijvoorbeeld de James Webb ruimtetelescoop, als het ware gratis mee met de baan van de aarde om de zon.
+Dit klinkt natuurlijk weer te goed om waar te zijn en dat moeten we dan ook kritisch bekijken, wat we zo zullen doen.
+Ja, dat zeg jij.
+Er bestaan precies vijf speciale punten in en om de baan van een object dat om een object met een grotere massa draait.
+Een derde object met een veel kleinere massa, zoals bijvoorbeeld een ruimtevaartuig, maar ook een rotsblok, kan dan in een constant patroon meebewegen met de twee objecten met grotere massa's.
+Deze punten ontstaan door de wisselwerking van de zwaartekracht invloeden van de twee objecten met grotere massa.
+We kennen dit als het algemene drie-lichamen-probleem dat werd behandeld door de Italiaans-Franse wiskundige Joseph Louis Lagrange.
+Hij publiceerde er in 1772 over en sindsdien kennen we deze punten als de Lagrange-punten.
+Overigens had de wiskundige Leonard Euler een paar jaar daarvoor al drie Lagrange-punten ontdekt.
+Oh?
+Lagrange zelf beschreef twee extra punten.
+Euler en Lagrange werkten veel samen en Euler was onder de indruk van het werk van Lagrange.
+Heel algemeen kunnen we zeggen dat daar, waar twee hemellichamen om elkaar heen draaien,
+automatisch vijf punten ontstaan waar de onderlinge zwaartekrachten met elkaar in balans zijn.
+Maar de massa van deze objecten en ook de massaverhouding zijn van invloed op de grootte en stabiliteit van deze punten.
+Van de vijf Lagrange-punten die we kennen noemen we er drie instabiel en twee stabiel.
+De instabiele Lagrange-punten, aangeduid als L1, L2 en L3, liggen op de lijn die de twee grote massa's verbindt.
+Dit zijn de punten die Euler al had ontdekt en waarvan er twee voorhuidige ruimtevaarttoepassingen het meest interessant zijn.
+Interessant!
+Voor deze aflevering zullen we de Lagrange-punten van het zon-aarde stelsel als voorbeelden gebruiken,
+maar u kunt onthouden dat we vergelijkbare punten vinden in bijvoorbeeld het aardemaanstelsel,
+het zon-jupiterstelsel,
+of een stelsel waarbij een exoplaneet om een ster draait.
+Het L1-punt van het zon-aardesysteem vinden we tussen de zon en de aarde,
+op een afstand van anderhalf miljoen kilometer van ons vandaan.
+Hier heeft een ruimtevaarttaag een ononderbroken zicht op de zon.
+Dit L1-punt draait dus net als de aarde in precies een jaar rond de zon.
+Het zal ook niet langzaam uit de pas gaan lopen,
+omdat de wisselwerking van de zwaartekracht van de aarde en de zon het bestaansrecht geeft.
+Een voorbeeld van een ruimtevaartuig dat in het L1-punt van het zon-aardesysteem hangt is SOHO.
+Dit staat voor Solar and Heliospheric Observatory.
+Als we in de toekomst te veel last van de zon krijgen,
+ligt het voor de hand een kunstmatig gordijn op te hangen in het L1-Lagrange-punt.
+En als u geniet van de zonsondergang,
+ziet u dus respectievelijk de aardatmosfeer,
+het L1-Lagrange-punt en de zon.
+Maar misschien was uw blik alweer afgegleden naar de Tiki Bar,
+waar een nietsvermoedende eenling net aan een alcoholvrije cocktail was begonnen.
+Het L2-punt van het zon-aardesysteem vinden we precies aan de andere kant van de aarde,
+ook weer anderhalf miljoen kilometer van ons vandaan.
+Een ruimtevaartuig in deze positie staat dus verder weg van de zon dan de aarde,
+maar draait ook weer in precies één jaar rond de zon.
+Vanaf ons gezien bevindt een voorwerp in het L2-Lagrange-punt
+zich dus altijd in de nachtzijde van onze hemel.
+Dit is een ideale positie voor veel ruimteschepen,
+omdat relatief eenvoudig contact met de aarde of de maan kan worden onderhouden
+en er een goed zicht is op de ruimte.
+Voorbeelden van ruimtevaartuigen in het L2-punt van het zon-aardesstelsel
+zijn de James Webb-ruimtetelescoop,
+de Planck-satelliet en de Gaia-satelliet van ESA.
+Vanwege de gunstige omstandigheden van het L2-Lagrange-punt
+zal dit ook het doel zijn van toekomstige missies
+zoals de Nancy Grace Roman-ruimtetelescoop,
+de PLATOMissie en de Ariel-missie.
+Dergelijke ruimteschepen ontvangen in het L2-punt
+nog genoeg zonlicht om van stroom te kunnen worden voorzien
+en zullen hun observaties doorgaans precies afgewend van de zon uitvoeren.
+Voordat we verder uitweiden over de resterende Lagrange-punten
+is het tijd om een vraag te beantwoorden.
+Hoeveel ruimteschepen kunnen ruimtevaartorganisaties straffeloos
+in bijvoorbeeld zo'n L2-punt hangen
+zonder dat deze elkaar gaan hinderen of zelfs tegen elkaar botsen?
+Dat is eigenlijk een goede vraag.
+We zeiden al dat de L1, L2 en L3-Lagrange-punten instabiel zijn.
+Dat wil zoveel zeggen als dat ruimtevaartuigen die hier eenmaal aangekomen zijn
+niet voor altijd passief op hun plek blijven.
+In de praktijk cirkelen ruimtevaartuigen in het L2-Lagrange-punt
+in kleine baantjes, zogenaamde halo- of lisajou-orbits
+en worden ze met brandstof periodiek bijgestuurd om op hun plek te blijven.
+Het grote voordeel van een Lagrange-punt is dat er maar heel weinig brandstof nodig is
+om jarenlang betrouwbaar op die positie te blijven cirkelen.
+Ik weet niet of dat echt een antwoord op de vraag is.
+Nee, dat klopt. Die vraag is...
+Hoe groot is nou zo'n L2-Lagrange-punt?
+Het zou een oneindig klein punt zijn in het ideale geval dat een puntvormige aarde
+een exacte cirkel om een puntvormige zon zou beschrijven.
+Maar daar is uiteraard geen sprake van.
+In werkelijkheid is het L2-punt een zadelvormige locatie
+waar de zwaartekracht wisselwerking van de zon en de aarde een ruimteschip in meesleurt.
+De vorm van dit zadel is net als de baan van de aarde om de zon instabiel en grillig.
+Als we voor elk moment in de tijd een voor dat moment centraal L2-punt zouden aanwijzen,
+dan zien we dat bijvoorbeeld de James Webb-ruimtetelescoop daar in zes maanden tijd ongeveer omheen cirkelt.
+De afstand van de James Webb-ruimtetelescoop tot dat geïdealiseerde punt
+varieert volgens NASA tussen de 250.000 en 832.000 kilometer.
+Zoveel?
+Om in deze baan te blijven vuren kleine raketten aan boord van de James Webb-ruimtetelescoop
+ongeveer elke 21 dagen om een baankorrectie uit te voeren.
+Met andere woorden, het L2-punt van het zon-aardestelsel is in de praktijk honderden duizenden kilometers breed
+en biedt ruimte aan een veelheid aan satellieten die elkaar in alle waarschijnlijkheid nooit zullen treffen.
+Echt supercool.
+Een ruimtevaartuig dat geen brandstof meer heeft of waarmee het contact is verbroken
+zal op den duur uit het L2-punt wegdwarrelen en in een heliocentrische baan terechtkomen.
+In het Nederlands?
+Dat is voor de goede orde een baan rond de zon, net als alle planeten.
+En dan is er nog het L3-lagrangepunt dat Lennart Euler in de 18e eeuw ontdekte.
+Dit ligt voor ons altijd precies achter de zon.
+Er zijn nooit ruimtevaartuigen naar het L3-punt gelanceerd.
+Dit ligt ook niet voor de hand, omdat communicatie met de aarde ingewikkeld is met altijd de zon ertussen.
+Bovendien is het L3-lagrangepunt superonstabiel.
+Een fictief ruimtevaartuig dat daar geparkeerd zou zijn, zou door de aantrekkingskracht van andere planeten eenvoudig uit haar baan kunnen worden getrokken.
+Het enige logische scenario voor het gebruik van het L3-lagrangepunt is wanneer een buitenaardse civilisatie van plan is de aarde uit de weg te ruimen.
+Voorbereidende activiteiten zouden dan mooi buiten het zicht van de aarde in het L3-punt kunnen plaatsvinden.
+De L1- en L2-lagrangepunten van het zonaardestalsel liggen zoals gezegd ieder anderhalf miljoen kilometer van de aarde.
+Het L3-lagrangepunt vinden we 300 miljoen kilometer van ons vandaan.
+U kunt een denkbeeldige rechte lijn trekken van het L3-punt door de zon, door het L1-punt, door de aarde en eindigend in het L2-punt.
+Dat was het geluid van een rechte lijn.
+Lagrange beschreef nog twee extra punten, L4 en L5.
+Deze punten draaien met de aarde mee in de baan rond de zon en zijn veel stabieler dan de punten L1 tot en met L3.
+Voor alle gevallen in ons heelal waar objecten om elkaar heen draaien, bieden deze L4- en L5-punten stabiele banen,
+zolang de massaverhouding tussen de twee grote massa's, bijvoorbeeld de zon en de aarde, groter is dan 25 staat tot 1.
+Deze voorwaarde wordt vervuld door zowel het zon-aarde als het aardemaansysteem en voor vele andere paren van lichamen in ons zonnestelsel.
+Objecten die zich in de L4- en L5-punten bevinden worden vaak Trojanen genoemd naar de drie grote asteroïden Agamemnon, Agilus en Hector,
+die in de L4- en L5-punten van het zon-Jupiter-systeem bewegen.
+Er zijn honderden Trojaanse asteroïden in alleen al ons zonnestelsel.
+De meeste daarvan bewegen met Jupiter mee.
+De stabiliteit van de L4- en L5-lagrange-punten heeft te maken met het Coriolis-effect.
+Zodra een object uit het L4- of L5-punt begint te buitelen,
+treedt het Coriolis-effect in werking en wordt het object weer teruggedwongen
+in een min of meer cirkelvormige baan rond het Lagrange-punt van oorsprong.
+De L4- en L5-punten vinden we in de cirkelbaan 60 graden achter ons en 60 graden voor ons.
+En een cirkel zoals de baan van de aarde om de zon heeft zoals u vast wel weet 360 graden.
+Het L4-punt loopt 60 graden op ons voor en het L5-punt loopt 60 graden op ons achter.
+Het kan zijn dat we in de verre toekomst gebruik zullen maken van de L4- en L5-punten
+om aardse kolonies te stichten.
+Of ons te ontdoen van allemaal vervelende mensen.
+Door de grote stabiliteit van die L4- en L5-punten is er praktisch geen brandstof nodig
+om mensen die daar gaan wonen te voorzien van locaties die ook een jaar van 365 dagen kennen
+en in direct contact met de aarde kunnen blijven.
+Maar dat gaan u en ik niet meer meemaken.
+Hé, daar is Eva.
+Kom op 5 oktober naar de Klokhuis Wereld Erfgoeddag in de Van Nellefrabriek in Rotterdam.
+De nieuwe aflevering over het IJzer IJzinga Planetarium, het nieuwe werelderfgoed, gaat daar in première.
+Er is een Vraag maar Raakshow over sterren en planeten.
+Je kan met ons op de foto en er is echt van alles te doen en te beleven.
+Kijk even op hetklokhuis.nl voor meer informatie.
+En welkomen hè, want dan zien wij jou ook eens.
+Tot de volgende keer.
+En vergeet niet het huiswerk voor de volgende keer.
+Oh, iedereen is al weg.
+Nou ja, dan maar geen huiswerk.
+лу fiveotho-toeaksplant naté.
+Que weakness is al weg.
+Are you?
+Of warrior?
+Is al버 Garage.
+Is al ma Paulo moans 양 기다�л VO TV's voor een paar kilometers.
+Do prostonen werdmy.

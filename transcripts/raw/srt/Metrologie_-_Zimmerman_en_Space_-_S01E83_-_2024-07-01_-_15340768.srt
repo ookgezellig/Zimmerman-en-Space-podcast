@@ -1,0 +1,1068 @@
+1
+00:00:00,180 --> 00:00:03,620
+U luistert naar Zimmerman & Space.
+
+2
+00:00:04,780 --> 00:00:12,380
+Niet alleen in astronomie en ruimtevaart, maar ook in het dagelijks leven hebben we de hele dag met afspraken te maken.
+
+3
+00:00:13,120 --> 00:00:15,620
+Hoe lang moet het perfecte ei koken?
+
+4
+00:00:16,560 --> 00:00:21,240
+Wordt het morgen weer zo'n warme dag met temperaturen boven de 30 graden Celsius?
+
+5
+00:00:22,040 --> 00:00:28,920
+Of komt storm Beryl woed in het eten gooien met windsnelheden van 215 kilometer per uur?
+
+6
+00:00:30,000 --> 00:00:37,000
+In slechts 42 uur groeide deze orkaan uit van een tropische depressie naar een categorie 4 orkaan.
+
+7
+00:00:38,280 --> 00:00:45,620
+En dan fietst u wellicht met u perfect aan uw 230 volt AC stopcontact opgeladen elektrische fiets...
+
+8
+00:00:45,620 --> 00:00:49,820
+waarvan de accu een potentiaal verschil van 36 volt heeft naar uw werk.
+
+9
+00:00:50,340 --> 00:00:55,880
+Op het werk aangekomen print u een verslag van een vergadering uit op A4 papier...
+
+10
+00:00:55,880 --> 00:01:01,080
+en u leest daardoor tijdens de lunch waarbij u een volkoren boterham met pindakaas eet.
+
+11
+00:01:01,980 --> 00:01:08,240
+In deze paar voorgaande regels willekeurige onzin passeerde al een wagonlading afspraken de refu.
+
+12
+00:01:08,440 --> 00:01:08,620
+Oh?
+
+13
+00:01:08,620 --> 00:01:10,200
+Wat is een seconde?
+
+14
+00:01:10,700 --> 00:01:12,500
+Wat is 30 graden Celsius?
+
+15
+00:01:13,040 --> 00:01:14,800
+Wat is volkoren brood?
+
+16
+00:01:14,940 --> 00:01:16,700
+En wat is pindakaas eigenlijk?
+
+17
+00:01:16,920 --> 00:01:18,680
+Of 230 volt AC?
+
+18
+00:01:19,760 --> 00:01:24,620
+Zonder afspraken zou onze soort weer afdalen tot een chaos van stammenoorlogen...
+
+19
+00:01:25,000 --> 00:01:29,620
+met ook onderlinge misverstanden, gemiste afspraken, dood en verderf...
+
+20
+00:01:29,620 --> 00:01:34,960
+en een dag die in het teken zou staan van overleven in plaats van een prettig leven.
+
+21
+00:01:35,100 --> 00:01:37,000
+Well, that doesn't sound good, Hans.
+
+22
+00:01:37,260 --> 00:01:41,260
+Om samen te kunnen werken met collega's, al dan niet in andere landen...
+
+23
+00:01:41,260 --> 00:01:44,460
+en om überhaupt een poging te doen tot eerlijke handel...
+
+24
+00:01:44,460 --> 00:01:47,620
+is het van belang dat we grootheden precies kunnen uitdrukken...
+
+25
+00:01:48,320 --> 00:01:51,000
+in duidelijke, ondubbelzinnige eenheden.
+
+26
+00:01:51,180 --> 00:01:52,660
+Ja, dat is logisch.
+
+27
+00:01:52,780 --> 00:01:56,620
+Dit is natuurlijk weer een veel te groot onderwerp om in 15 minuten te wringen...
+
+28
+00:01:56,620 --> 00:02:00,120
+maar laten we toch samen naar een paar mooie voorbeelden kijken.
+
+29
+00:02:00,400 --> 00:02:07,580
+Het exact kwantificeren van grootheden zoals temperatuur, oppervlakte, volume, tijd en snelheid...
+
+30
+00:02:07,580 --> 00:02:09,720
+is het werkterrein van de metrologie.
+
+31
+00:02:09,920 --> 00:02:13,980
+Niet te verwarren met meteorologie natuurlijk, want dat is weerkunde.
+
+32
+00:02:15,880 --> 00:02:20,700
+Meteorologie, de motorolie die de motor van onze samenleving draaiend houdt...
+
+33
+00:02:20,700 --> 00:02:24,760
+en waar gewone stervelingen zoals u en ik maar nauwelijks mee te maken hebben...
+
+34
+00:02:24,760 --> 00:02:27,300
+al hebben we er de hele dag dus de mond van vol.
+
+35
+00:02:28,240 --> 00:02:32,000
+We kunnen direct een onderscheid maken tussen heel basale grootheden...
+
+36
+00:02:32,000 --> 00:02:34,180
+zoals tijd, lengte en temperatuur...
+
+37
+00:02:34,180 --> 00:02:36,720
+en afgeleide standaarden of normen...
+
+38
+00:02:36,720 --> 00:02:40,020
+zoals wat het exacte formaat van een A4-papier is.
+
+39
+00:02:40,860 --> 00:02:45,860
+Die specifieke afmetingen van papier worden omschreven in ISO-norm 216.
+
+40
+00:02:46,200 --> 00:02:46,720
+Interessant.
+
+41
+00:02:46,720 --> 00:02:53,960
+De ISO-standaards en internationale normen ontwikkeld om de grote hoeveelheid specifieke normen per land terug te dringen...
+
+42
+00:02:53,960 --> 00:02:57,660
+en wereldwijd uniformiteit en duidelijkheid af te dwingen.
+
+43
+00:02:58,160 --> 00:02:59,640
+ISO staat voor...
+
+44
+00:02:59,640 --> 00:03:02,480
+The International Organization for Standardization.
+
+45
+00:03:03,200 --> 00:03:08,960
+Interessant detail is dat de ISO-normering in eerste instantie werd ontwikkeld voor de wapenindustrie.
+
+46
+00:03:09,140 --> 00:03:10,320
+Tuurlijk, zal we niet.
+
+47
+00:03:10,320 --> 00:03:14,280
+Inmiddels is er voor van alles en nog wat een ISO-norm.
+
+48
+00:03:14,460 --> 00:03:17,640
+Ja, dat denk ik wel zo, dat dat echt zo is.
+
+49
+00:03:17,760 --> 00:03:23,260
+Sommige van deze normen zijn doorontwikkeld of overgenomen uit eerder of andere normeringen.
+
+50
+00:03:23,860 --> 00:03:30,280
+Ons A4-papiertje, en trouwens ook A3 en A2, valt dus onder ISO-norm 216.
+
+51
+00:03:30,280 --> 00:03:35,160
+Die zegt dat een A4 210 bij 297 millimeter is.
+
+52
+00:03:35,160 --> 00:03:43,860
+Maar dit formaat was eerder al omschreven in DIN-norm 476, die al uit 1922 stamt.
+
+53
+00:03:44,640 --> 00:03:48,400
+Hier volgen voor de LOL een paar interessante ISO-standaarden.
+
+54
+00:03:49,160 --> 00:03:52,000
+ISO 9660 is de compact disc.
+
+55
+00:03:52,220 --> 00:03:53,220
+Wat betekent dat?
+
+56
+00:03:53,380 --> 00:03:57,340
+Inmiddels brengen we die cd's in grote getalen naar de tweedehands winkel...
+
+57
+00:03:57,340 --> 00:04:02,660
+maar het ooit zo innoverende, glimmende discje staat omschreven in ISO 9660.
+
+58
+00:04:02,660 --> 00:04:08,140
+Misschien heeft u wel eens een lawaaiige oom op een feestje horen uitleggen...
+
+59
+00:04:08,140 --> 00:04:12,940
+dat cloud computing allemaal onzin is en dat niemand precies weet wat ermee wordt bedoeld.
+
+60
+00:04:13,140 --> 00:04:18,040
+Dan is het misschien aardig om te weten dat de taxonomie van cloud computing...
+
+61
+00:04:18,040 --> 00:04:22,760
+volledig staat beschreven in ISO IEC-standaard 22624.
+
+62
+00:04:23,640 --> 00:04:27,980
+Dit 37 pagina's tellende document legt bijvoorbeeld precies uit...
+
+63
+00:04:27,980 --> 00:04:33,460
+wat de consequenties zijn voor het porteren van cloud-based gegevens van een Europese lidstaat...
+
+64
+00:04:33,460 --> 00:04:34,960
+naar de Verenigde Staten.
+
+65
+00:04:35,960 --> 00:04:42,100
+ISO norm 3591 omschrijft exact hoe een standaard wijnglas eruit ziet.
+
+66
+00:04:43,000 --> 00:04:47,080
+ISO standaard 3103 omschrijft het perfecte kopje thee.
+
+67
+00:04:47,820 --> 00:04:50,740
+Zwarte thee staat hierin omschreven als...
+
+68
+00:04:50,740 --> 00:05:11,600
+Ook lees we hierin dat 100 milliliter van wat wij thee zonder melk noemen...
+
+69
+00:05:11,600 --> 00:05:13,480
+een 2 gram T-oplossing bevat.
+
+70
+00:05:14,620 --> 00:05:19,680
+Het is natuurlijk maar de vraag hoe vaak u daadwerkelijk ISO 3103T zet...
+
+71
+00:05:19,680 --> 00:05:20,920
+maar de standaard bestaat.
+
+72
+00:05:22,320 --> 00:05:23,600
+Oké, nog eentje dan.
+
+73
+00:05:24,100 --> 00:05:27,860
+ISO standaard 16 beschrijft de middelste A op de piano...
+
+74
+00:05:27,860 --> 00:05:30,500
+als zijnde een trilling van 440 hertz.
+
+75
+00:05:31,620 --> 00:05:35,120
+Sommige puristen spelen oudere muziek met een andere stemming.
+
+76
+00:05:35,280 --> 00:05:37,180
+Bijvoorbeeld 432 hertz.
+
+77
+00:05:37,180 --> 00:05:42,460
+De 440 hertz standaard stamt uit 1939...
+
+78
+00:05:42,460 --> 00:05:46,500
+en werd tijdens een internationale conferentie in Londen afgesproken.
+
+79
+00:05:47,440 --> 00:05:52,180
+In 1955 werd de concert A op 440 hertz officieel vastgelegd...
+
+80
+00:05:52,740 --> 00:05:54,140
+in ISO standaard 16.
+
+81
+00:05:54,340 --> 00:05:56,120
+Dwaai je niet een beetje af van het onderwerp?
+
+82
+00:05:56,340 --> 00:05:59,200
+Maar eigenlijk wou ik het helemaal niet de hele aflevering...
+
+83
+00:05:59,200 --> 00:06:00,760
+over ISO standaarden hebben.
+
+84
+00:06:00,900 --> 00:06:02,240
+Ik begon al in slaap te vallen.
+
+85
+00:06:02,880 --> 00:06:06,580
+Veel interessanter voor ons salonastronomen zijn de grootheden...
+
+86
+00:06:06,580 --> 00:06:08,640
+die door de metrologie worden beschreven.
+
+87
+00:06:09,220 --> 00:06:11,860
+Waar ISO standaard 8601 bijvoorbeeld vaststelt...
+
+88
+00:06:11,860 --> 00:06:14,900
+hoe computers het onderling eens kunnen zijn...
+
+89
+00:06:14,900 --> 00:06:16,860
+over de omschrijving van een tijdsduur...
+
+90
+00:06:17,400 --> 00:06:19,860
+valt de seconde onder het regime van de SI...
+
+91
+00:06:20,440 --> 00:06:22,660
+het International System of Units.
+
+92
+00:06:23,640 --> 00:06:26,160
+Dit kennen we ook wel als het metrisch systeem.
+
+93
+00:06:26,940 --> 00:06:31,040
+Hierin vinden we 7 eenheden en 22 afgeleide eenheden.
+
+94
+00:06:31,040 --> 00:06:36,320
+Het metrisch systeem werd op 20 mei 1875 ondertekend...
+
+95
+00:06:36,320 --> 00:06:38,800
+door 17 landen waaronder de Verenigde Staten.
+
+96
+00:06:39,740 --> 00:06:43,060
+20 mei is daarmee de Wereldmetrologie Dag.
+
+97
+00:06:43,320 --> 00:06:47,320
+De 7 basis-eenheden waarop het SI-systeem rust zijn...
+
+98
+00:06:47,320 --> 00:06:52,600
+tijd in seconden, lengte in meters, massa in kilogrammen...
+
+99
+00:06:52,600 --> 00:06:57,600
+elektrische stroom in amperes, thermodynamische temperatuur in Kelvin...
+
+100
+00:06:58,280 --> 00:07:03,840
+hoeveelheid van een substantie in mol en lumineuze intensiteit in candela's.
+
+101
+00:07:04,880 --> 00:07:08,600
+Het is prettig voor ons dat deze meet-eenheden zo exact zijn vastgelegd...
+
+102
+00:07:09,340 --> 00:07:13,320
+want daarmee worden bijvoorbeeld wetenschap en eerlijke handel mogelijk gemaakt.
+
+103
+00:07:13,320 --> 00:07:18,280
+Het SI baseert de definities van de 7 basis-eenheden...
+
+104
+00:07:18,280 --> 00:07:20,320
+op eveneens 7 natuurlijke constanten.
+
+105
+00:07:21,580 --> 00:07:24,020
+Dit zijn 7 niet-veranderende waarden...
+
+106
+00:07:24,020 --> 00:07:26,500
+die in de natuur om ons heen gemeten kunnen worden.
+
+107
+00:07:27,220 --> 00:07:29,320
+Naarmate de ontwikkeling van de mensheid voortschrijdt...
+
+108
+00:07:30,060 --> 00:07:34,340
+kan de exacte waarden van dergelijke constanten wel nog beter worden gemeten...
+
+109
+00:07:34,340 --> 00:07:36,320
+waardoor de definitie van bijvoorbeeld een kilogram...
+
+110
+00:07:36,900 --> 00:07:41,500
+over duizend jaar misschien meer getallen achter de comma kent dan nu in 2024.
+
+111
+00:07:41,500 --> 00:07:44,500
+Die 7 constanten zijn...
+
+112
+00:07:45,060 --> 00:07:47,400
+C, de lichtsnelheid in een vacuüm.
+
+113
+00:07:47,960 --> 00:07:54,480
+Deze is 299.792.458 meters per seconde.
+
+114
+00:07:54,900 --> 00:07:56,780
+H, de constante van Planck.
+
+115
+00:07:57,660 --> 00:08:00,720
+Quantum Mechanica leert ons dat energie in processen...
+
+116
+00:08:00,720 --> 00:08:03,800
+wordt uitgewisseld in pakketjes die we ook wel kwanta noemen.
+
+117
+00:08:03,800 --> 00:08:10,260
+De 26ste vergadering van de Algemene Conferentie voor Maten en Gewichten...
+
+118
+00:08:10,260 --> 00:08:14,800
+heeft op 16 november 2018 nieuwe definities van de basis-eenheden aangenomen...
+
+119
+00:08:15,660 --> 00:08:18,300
+die sinds 20 mei 2019 gelden.
+
+120
+00:08:18,860 --> 00:08:22,040
+Volgens die definities bedraagt de constante van Planck...
+
+121
+00:08:22,040 --> 00:08:25,040
+exact 6.62607015...
+
+122
+00:08:25,040 --> 00:08:27,900
+maal 10 tot de min 34ste joules seconde.
+
+123
+00:08:28,540 --> 00:08:31,240
+E, de elementaire lading van een elektron.
+
+124
+00:08:32,540 --> 00:08:38,320
+E is gelijk aan 1.602176634 maal 10 tot de min 19de coulomb.
+
+125
+00:08:39,040 --> 00:08:44,740
+Delta VCS, de hyperfijne transitiefrequentie van C-SIM-133.
+
+126
+00:08:44,740 --> 00:08:52,580
+Delta VCS, de hyperfijne transitiefrequentie van C-SIM-133.
+
+127
+00:08:54,740 --> 00:08:58,840
+C-SIM-133 is een isortoop van het metaal C-SIM.
+
+128
+00:08:59,000 --> 00:09:01,160
+Oh, ik denk dat ik het nu begin te snappen.
+
+129
+00:09:01,520 --> 00:09:05,740
+Met behulp van microgolfstraling kan het buitenste elektron van C-SIM-133...
+
+130
+00:09:06,600 --> 00:09:09,460
+tussen twee staten van energie heen en weer springen.
+
+131
+00:09:09,460 --> 00:09:17,560
+Dit gebeurt bij een frequentie van 9.192.631.770 hertz.
+
+132
+00:09:18,220 --> 00:09:20,160
+K, de Boltzmann-constante.
+
+133
+00:09:20,820 --> 00:09:24,440
+Deze constante verbindt de energie van een object met de temperatuur.
+
+134
+00:09:25,120 --> 00:09:32,380
+De SI-definitie van K bedraagt 1.380649 maal 10 tot de min 23ste joule per kelvin.
+
+135
+00:09:33,220 --> 00:09:35,620
+NA, de Avogrado-constante.
+
+136
+00:09:36,120 --> 00:09:39,420
+Deze omschrijft hoeveel deeltjes er in een mol zitten.
+
+137
+00:09:40,180 --> 00:09:43,100
+Wellicht herinnert u zich dit nog wel van de scheikunde lessen.
+
+138
+00:09:43,920 --> 00:09:51,600
+Volgens de SI-definitie zitten er 6.0, 2, 2, 1, 4, 0, 7, 6, 10 tot de 23ste deeltjes in een mol.
+
+139
+00:09:52,340 --> 00:09:58,460
+En de laatste van de zeven KCD, oftewel de lichtopbrengst van monochromatische straling...
+
+140
+00:09:58,980 --> 00:10:02,640
+op een frequentie van 540 maal 10 tot de 12de hertz.
+
+141
+00:10:02,640 --> 00:10:04,320
+Ik snap hier helemaal niks van.
+
+142
+00:10:04,460 --> 00:10:08,140
+Dit klinkt mogelijk wat arbitrair, maar gaat eigenlijk over ons oog.
+
+143
+00:10:08,280 --> 00:10:09,280
+Well, I don't see it.
+
+144
+00:10:09,280 --> 00:10:14,740
+Monochromatische straling op een frequentie van 540 maal 10 tot de 12de hertz...
+
+145
+00:10:14,740 --> 00:10:16,420
+is eenvoudigweg groen licht.
+
+146
+00:10:16,740 --> 00:10:19,880
+En wel op de frequentie waar ons oog het meest gevoelig is.
+
+147
+00:10:20,000 --> 00:10:20,600
+Did you see it?
+
+148
+00:10:20,600 --> 00:10:27,740
+Met lichtopbrengst bedoelt deze definitie de hoeveelheid zichtbaar licht die een lichtbron produceert...
+
+149
+00:10:27,740 --> 00:10:29,200
+van een bepaalde hoeveelheid vermogen.
+
+150
+00:10:29,200 --> 00:10:35,260
+specifiek staat KCD voor 683 lumen per watt.
+
+151
+00:10:35,260 --> 00:10:42,140
+Die frequentie van 540 maal 10 tot de 12de hertz is misschien wat onderzichtig voor ons.
+
+152
+00:10:42,780 --> 00:10:48,480
+Want doorgaans specificeren we zichtbaar licht in golflengtes met een eenheid van nanometers.
+
+153
+00:10:48,740 --> 00:10:50,000
+Oh ja, inderdaad.
+
+154
+00:10:50,140 --> 00:10:56,260
+Met die eerste constante die we noemden, de lichtsnelheid, kunnen we van de ene eenheid naar de andere eenheid omrekenen.
+
+155
+00:10:56,920 --> 00:10:58,200
+Pak de rekenmachine er maar bij.
+
+156
+00:10:58,400 --> 00:11:02,560
+De golflengte is simpelweg de lichtsnelheid gedeeld door die frequentie.
+
+157
+00:11:03,180 --> 00:11:10,440
+Als we dat in onze rekenmachine invoeren, komen we uit op groen licht met een golflengte van 555 nanometer.
+
+158
+00:11:11,040 --> 00:11:18,760
+Met behulp van deze zeven constanten definieert het SI allerlei eenheden uit ons dagelijks leven bijzonder precies.
+
+159
+00:11:19,300 --> 00:11:21,800
+Maar het is niet altijd zo geweest natuurlijk.
+
+160
+00:11:22,060 --> 00:11:23,520
+Dit wordt toch niet een geschiedenisles?
+
+161
+00:11:23,520 --> 00:11:27,320
+Een enkeling herinnert zich wellicht nog de dienst van het eikwezen.
+
+162
+00:11:28,080 --> 00:11:32,280
+Eikmeesters reisden rond om gewichten te kalibreren en te justeren.
+
+163
+00:11:33,600 --> 00:11:39,340
+Door gebruik, slijtage of roestvorming kon de massa van een gewicht kleiner of groter worden,
+
+164
+00:11:39,460 --> 00:11:42,260
+waardoor het gewicht niet meer aan de wettelijke ijs voldeed.
+
+165
+00:11:42,880 --> 00:11:48,900
+Als bewijs dat het massa stuk aan de wettelijke ijs voldeed, werd een stempel in de gewichten geslagen.
+
+166
+00:11:48,900 --> 00:11:53,820
+Tot 1973 werden hiervoor de letters van het alfabet gebruikt.
+
+167
+00:11:54,340 --> 00:12:00,520
+In 1974 werd in verband met de Europese harmonisatie overgegaan op stempels met jaartallen.
+
+168
+00:12:01,100 --> 00:12:10,140
+Deze Rijksoverheidsdienst functioneerde van 1949 tot 1986, maar het eikwezen was al opgericht in 1873.
+
+169
+00:12:10,140 --> 00:12:13,920
+De dienst van het eikwezen was zoals dat heette...
+
+170
+00:12:13,920 --> 00:12:22,440
+Belast met wettelijk voorgeschreven onderzoeken, keuringen en herkeuringen van mate, gewichten, meet- en weegwerktuigen en meetinstrumenten,
+
+171
+00:12:22,760 --> 00:12:26,380
+zomede met de toezicht op in gebruik zijnde meet- en weegmiddelen.
+
+172
+00:12:26,880 --> 00:12:32,640
+In 1987 ging het eikwezen over in het NMI, het Nederlands Meetinstituut.
+
+173
+00:12:32,640 --> 00:12:42,240
+In 1998 zijn de eikwet en het eikreglement aangepast, waardoor de wettelijk verplichte periodieke herijk van gewichten is afgeschaft.
+
+174
+00:12:43,340 --> 00:12:50,680
+Het is ook interessant om te beseffen dat we heel vaak zaken niet rechtstreeks meten, maar naar een ander fysiek proces kijken.
+
+175
+00:12:50,820 --> 00:12:51,000
+Oh?
+
+176
+00:12:51,320 --> 00:12:52,620
+Neem zoiets als de tijd.
+
+177
+00:12:53,320 --> 00:12:55,760
+We weten niet eens precies wat tijd is.
+
+178
+00:12:55,760 --> 00:13:04,400
+Afgezien van hoe we ervaren dat processen en gebeurtenissen in een bepaalde volgorde gebeuren en met zekere tred voortschrijden.
+
+179
+00:13:05,140 --> 00:13:11,800
+Maar we kunnen geen meetinstrument in de lucht houden en zeggen, ik meet het passeren van 37 seconden.
+
+180
+00:13:12,460 --> 00:13:23,760
+Wat we doen is kijken naar een ander proces dat ook in de tijd voortschrijdt en dan een afspraak maken over wat het betekent als de secondenwijzer van bijvoorbeeld een horloge van de ene waarde naar de andere springt.
+
+181
+00:13:25,760 --> 00:13:27,980
+Een ander mooi voorbeeld is temperatuur.
+
+182
+00:13:28,580 --> 00:13:35,140
+Uw buitentermometer of koortstermometer meet helemaal geen temperatuur, maar een andere fysieke eenheid.
+
+183
+00:13:35,280 --> 00:13:35,720
+Echt?
+
+184
+00:13:35,980 --> 00:13:39,740
+Bijvoorbeeld de weerstand die gemeten wordt in een platinadraadje.
+
+185
+00:13:40,020 --> 00:13:47,120
+Of in een glazen thermometer de expansie of contractie van een vloeistof onder invloed van temperatuurschommelingen.
+
+186
+00:13:47,120 --> 00:13:53,160
+Daarmee is niet gezegd dat temperatuur nooit rechtstreeks zou kunnen worden gemeten.
+
+187
+00:13:53,260 --> 00:14:05,220
+Bij het NIST werken mensen als Daniel Barker, Eric Norgard en Steven Eccle aan het rechtstreeks meet van bewegingen en snelheden van atomen in een gas van rubidium met behulp van lasers.
+
+188
+00:14:05,220 --> 00:14:14,000
+Het zal nog wel even duren voordat u een dergelijke rubidium thermometer bij de DA of het kruidvat haalt, maar er wordt wel aangewerkt.
+
+189
+00:14:14,800 --> 00:14:22,520
+En u zou kunnen zeggen dat als we naar de snelheden van atomen kijken dat we nog steeds niet echt temperatuur meten, maar dat is een andere discussie.
+
+190
+00:14:23,280 --> 00:14:27,000
+Dat NIST is wel eens vaker ter sprake gekomen in deze podcast.
+
+191
+00:14:27,000 --> 00:14:33,500
+NIST staat voor National Institute of Standards and Technology en werd opgericht in 1901.
+
+192
+00:14:34,540 --> 00:14:39,560
+Het NIST is een van de oudste natuurwetenschappelijke laboratoria van de Verenigde Staten.
+
+193
+00:14:40,240 --> 00:14:46,880
+Het werd opgericht om een grote uitdaging voor de industriele concurrentiekracht van de Verenigde Staten te verwijderen.
+
+194
+00:14:46,880 --> 00:14:55,760
+Een tweederangs meet-infrastructuur die achterbleef bij de mogelijkheden van het Verenigd Koninkrijk, Duitsland en andere economische rivalen.
+
+195
+00:14:55,760 --> 00:15:05,560
+Van het slimme elektriciteitsnetwerk en elektronische medische dossiers tot atoomklokken, geavanceerde nanomaterialen en computerchips.
+
+196
+00:15:05,880 --> 00:15:13,520
+Talloze producten en diensten zijn op de een of andere manier afhankelijk van technologie, metingen en normen geleverd door dit NIST.
+
+197
+00:15:13,520 --> 00:15:14,480
+Nou, Hens?
+
+198
+00:15:14,760 --> 00:15:18,660
+Eerder in deze aflevering hadden we het al over een boterham met pindakaas.
+
+199
+00:15:19,600 --> 00:15:23,620
+Ook wat standaard pindakaas is, wordt bijgehouden bij het NIST.
+
+200
+00:15:23,780 --> 00:15:24,380
+Rot op.
+
+201
+00:15:24,380 --> 00:15:28,300
+Standard Reference Material 2387.
+
+202
+00:15:28,780 --> 00:15:29,500
+Peanut butter.
+
+203
+00:15:30,640 --> 00:15:34,600
+Het NIST heeft potjes standaard pindakaas klaar liggen voor fabrikanten.
+
+204
+00:15:35,260 --> 00:15:38,500
+Eén zo'n potje is volgens een medewerker rond de duizend dollar.
+
+205
+00:15:39,160 --> 00:15:39,680
+Zoveel?
+
+206
+00:15:39,680 --> 00:15:51,080
+Niet omdat het zulke lekkere pindakaas is, deze pindakaas is zelfs helemaal niet geschikt voor consumptie, maar omdat het de standaard is waarnaast uw eigen gefabriceerde pindakaas gemeten kan worden.
+
+207
+00:15:51,880 --> 00:15:57,500
+Het gaat hier niet alleen om de hoeveelheid pindaas, zout en vet, al worden die wel gekwantificeerd.
+
+208
+00:15:57,500 --> 00:16:06,960
+Maar ook de hoeveelheid van bepaalde kankerverwekkende gifstoffen, die worden geproduceerd door schimmels op pinda's, zijn gestandardiseerd in de NIST pindakaas.
+
+209
+00:16:07,080 --> 00:16:07,820
+Klinkt niet lekker.
+
+210
+00:16:07,820 --> 00:16:14,860
+Maar bijna alles wat u kan verzinnen wordt in een enorm ware huis door NIST bewaard, zodat er een monster van bestaat.
+
+211
+00:16:15,460 --> 00:16:16,700
+Standaard huisstof?
+
+212
+00:16:17,160 --> 00:16:18,580
+Een stukje dolfijn?
+
+213
+00:16:19,340 --> 00:16:20,620
+Een standaard sigaret?
+
+214
+00:16:21,400 --> 00:16:26,720
+Er is een fantastische YouTube van Veritasium waarin u wordt meegenomen door het NIST.
+
+215
+00:16:27,220 --> 00:16:30,740
+Een link vindt u in het bijschrift van deze podcastaflevering.
+
+216
+00:16:34,200 --> 00:16:37,400
+Nederland heeft haar eigen NIST-achtige bedrijf.
+
+217
+00:16:37,820 --> 00:16:42,280
+We noemden het al eerder het Nederlands Meetinstituut of NMI in Delft.
+
+218
+00:16:43,020 --> 00:16:48,920
+Het NMI is door de Nederlandse overheid aangewezen om bijvoorbeeld erkende keurders te certificeren.
+
+219
+00:16:49,760 --> 00:16:55,140
+In de huidige klimaatdiscussie is het bijvoorbeeld van belang om uitstoot precies te kunnen meten.
+
+220
+00:16:55,540 --> 00:17:01,200
+Een apparaat dat pretendeert uitstoot te kunnen meten moet uiteraard getest en gekeurd kunnen worden.
+
+221
+00:17:01,700 --> 00:17:03,960
+Zie hier de rol van erkende keurders.
+
+222
+00:17:04,640 --> 00:17:06,300
+Maar het NMI doet nog veel meer.
+
+223
+00:17:06,300 --> 00:17:11,440
+Hier worden ook nieuwe standaarden in het leven geroepen als de samenleving hierom vraagt.
+
+224
+00:17:11,440 --> 00:17:18,960
+Ook verzorgt het NMI training voor professionals en kent het testomgeving en methodes voor een veelheid aan tests.
+
+225
+00:17:19,840 --> 00:17:26,440
+Als u een meetinstrument bouwt en wilt weten hoe het apparaat zich gedraagt onder invloed van sterke radiostraling...
+
+226
+00:17:26,440 --> 00:17:29,340
+kunt u een dergelijke test via het NMI aanvragen.
+
+227
+00:17:29,340 --> 00:17:36,720
+Op hetzelfde adres als het NMI vinden we ook het VSL, het Van Zwinden Laboratorium.
+
+228
+00:17:37,300 --> 00:17:40,580
+Dit is het Nationaal Meteorologisch Instituut van Nederland.
+
+229
+00:17:41,440 --> 00:17:46,500
+Het verschil tussen NMI en VSL zit met name in de rijkwijde van deze bedrijven.
+
+230
+00:17:46,500 --> 00:17:54,500
+Het NMI kunnen we definiëren als onafhankelijke specialist voor wettelijke meteorologie, test- en inspectiediensten in Europa...
+
+231
+00:17:55,320 --> 00:17:56,880
+met een wereldwijde functie.
+
+232
+00:17:57,980 --> 00:18:04,500
+Het VSL is door het Ministerie van Economische Zaken aangewezen als onafhankelijke en onpartijdige organisatie...
+
+233
+00:18:05,640 --> 00:18:10,800
+om zorg te dragen voor het verwezenlijke en beheren van de nationale meetstandaarden van Nederland.
+
+234
+00:18:10,800 --> 00:18:17,260
+Deze meetstandaarden maken meetresultaten van bedrijven, laboratoria en instellingen...
+
+235
+00:18:17,260 --> 00:18:23,320
+direct herleidbaar naar internationale standaarden, zoals de SI-eenheden waar we het eerder al over hadden.
+
+236
+00:18:24,040 --> 00:18:29,780
+En als u nog wakker bent, vraagt u zich misschien af wat dit alles met sterrenkunde en ruimtevaart te maken heeft.
+
+237
+00:18:29,940 --> 00:18:30,240
+Voor jou?
+
+238
+00:18:30,460 --> 00:18:31,320
+Bijna alles.
+
+239
+00:18:31,560 --> 00:18:31,740
+Oh.
+
+240
+00:18:32,880 --> 00:18:39,780
+Bij een raketlansering moet er een afspraak bestaan over wat nog een te tolereren hoeveelheid luchtvervuiling is...
+
+241
+00:18:39,780 --> 00:18:44,640
+of hoe hard de capsule mag kunnen trillen zonder dat de apparatuur daarbij beschadigd raakt.
+
+242
+00:18:45,700 --> 00:18:51,280
+Om de snelheid van een raket te kunnen meten, moeten we het eens zijn over afstanden en tijdseenheden.
+
+243
+00:18:51,940 --> 00:18:55,840
+Ook fijn als we precies weten wat de ontsnappingssnelheid van de aarde is...
+
+244
+00:18:55,840 --> 00:18:59,620
+en welk effect brandstof heeft in verhouding tot de massa van een raket.
+
+245
+00:19:00,280 --> 00:19:06,800
+Wanneer bijvoorbeeld een Boeing Starliner gelanceerd wordt en aankoppelt aan het International Space Station...
+
+246
+00:19:06,800 --> 00:19:12,920
+willen we weten wat de standaard is voor lucht om in te ademen tijdens de reis en wat de standaard luchtdruk is.
+
+247
+00:19:13,760 --> 00:19:19,420
+Hoeveel stof er in de lucht mag zitten tijdens een reis, zodat astronauten hier geen hinder van ondervinden.
+
+248
+00:19:19,960 --> 00:19:24,440
+Om aan te koppelen aan het ISS is er een standaard koppelstuk nodig...
+
+249
+00:19:24,440 --> 00:19:28,680
+zodat astronauten veilig van capsule naar het ISS kunnen overstappen.
+
+250
+00:19:29,140 --> 00:19:34,860
+En om überhaupt in de juiste baan te kunnen komen, moeten we precies weten wat de seconde is...
+
+251
+00:19:34,860 --> 00:19:39,360
+en wat er met de tijd gebeurt als een ruimtevaartuig het aardoppervlak heeft verlaten.
+
+252
+00:19:40,280 --> 00:19:43,840
+Om berichten heen en weer te sturen tussen aarde en ISS...
+
+253
+00:19:43,840 --> 00:19:47,780
+moeten we het eens zijn over het type informatie dat heen en weer wordt gestuurd.
+
+254
+00:19:48,520 --> 00:19:53,540
+Om veiligheid en privacy te garanderen, moeten ook daar standaarden over bestaan.
+
+255
+00:19:53,540 --> 00:19:54,760
+En geloof je er zelf in?
+
+256
+00:19:54,960 --> 00:20:00,500
+Voor wetenschappelijk onderzoek moeten we weten welke frequenties absorptielijnen in stoffen hebben...
+
+257
+00:20:00,500 --> 00:20:02,680
+en wat zo'n frequentie precies betekent.
+
+258
+00:20:02,840 --> 00:20:03,820
+Wat betekent dat?
+
+259
+00:20:04,320 --> 00:20:08,980
+Instrumenten zoals CCD en CMOS chips moeten bovendien ook geëikt worden...
+
+260
+00:20:08,980 --> 00:20:12,940
+zodat we weten voor welke frequenties deze instrumenten gevoelig zijn...
+
+261
+00:20:12,940 --> 00:20:16,740
+en welke metingen bij welke frequenties licht verwacht mogen worden.
+
+262
+00:20:17,340 --> 00:20:19,620
+En nog één ding, en dan zal ik echt ophouden.
+
+263
+00:20:19,720 --> 00:20:20,640
+Oh, gelukkig!
+
+264
+00:20:20,640 --> 00:20:26,600
+Voor de mensheid is het van groot belang dat over standaarden internationale consensus bestaat.
+
+265
+00:20:27,180 --> 00:20:31,860
+De enige manier om wetenschappelijke gegevens met elkaar te delen en te vergelijken...
+
+266
+00:20:31,860 --> 00:20:36,060
+is wanneer deze is gebaseerd op dezelfde definities van eenheden.
+
+267
+00:20:37,120 --> 00:20:38,340
+Tot de volgende keer!
+

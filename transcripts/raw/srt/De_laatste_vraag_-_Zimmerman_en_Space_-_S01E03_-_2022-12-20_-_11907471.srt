@@ -1,0 +1,1524 @@
+1
+00:00:01,000 --> 00:00:08,760
+Met de kerst voor de deur is deze derde aflevering van Zimmerman & Space een beetje atypisch.
+
+2
+00:00:08,880 --> 00:00:16,220
+Wat op zichzelf wel weer een gekke bewering is, want hoe kan 33,1% van een podcast atypisch zijn?
+
+3
+00:00:16,540 --> 00:00:19,080
+Vragen we ons terecht en een beetje verkouden af.
+
+4
+00:00:20,180 --> 00:00:29,100
+Hoe het ook zij vandaag een door mijzelf enigszins geadapteerde versie van een beroemd verhaal van science fiction schrijver Isaac Asimov.
+
+5
+00:00:29,100 --> 00:00:32,480
+U kent het misschien al als The Last Question.
+
+6
+00:00:33,240 --> 00:00:36,040
+Ik heb het verhaal wat korter en moderner gemaakt.
+
+7
+00:00:36,220 --> 00:00:36,760
+Dat is goed.
+
+8
+00:00:37,060 --> 00:00:43,140
+Mocht u het origineel willen lezen of zelfs horen, dan vindt u een link in de show notes van deze podcast.
+
+9
+00:00:44,080 --> 00:00:53,280
+In het internetarchive vindt u de Engelstalige 37 minuten durende versie van het verhaal als een aflevering van de Drabblecast.
+
+10
+00:00:53,280 --> 00:00:59,600
+Dat is trouwens sowieso een lollige podcast als u van sci-fi audiodrama houdt.
+
+11
+00:01:00,240 --> 00:01:05,500
+Ik werd op dit verhaal gewezen door de Belgische luisterer Philippe, waarvoor mijn dank.
+
+12
+00:01:06,600 --> 00:01:16,200
+Asimov schreef het in 1958 voor een aflevering van de Science Fiction Quarterly en typeerde het in de jaren daarna als zijn beste verhaal.
+
+13
+00:01:16,200 --> 00:01:21,200
+En Asimov heeft, zoals u misschien weet, nogal wat geschreven.
+
+14
+00:01:21,880 --> 00:01:27,980
+Het raakt aan veel van wat nu op aarde speelt, is mijns inziens ook passend voor de kerstgedachte.
+
+15
+00:01:28,420 --> 00:01:32,200
+En ook nog relevant voor deze podcast over zaken in het heelal.
+
+16
+00:01:32,840 --> 00:01:34,140
+Maar goed, bla bla bla bla.
+
+17
+00:01:34,240 --> 00:01:37,780
+Voor wat betreft al deze meta-informatie laten we beginnen.
+
+18
+00:01:37,780 --> 00:01:48,700
+De laatste vraag werd voor het eerst gesteld op 24 mei 2061, toen de mensheid eveneens voor het eerst in het licht stopte.
+
+19
+00:01:49,220 --> 00:01:50,680
+Bij wijze van spreken dan.
+
+20
+00:01:51,400 --> 00:02:02,260
+Emma Adel en Christina Lupoff waren de twee hoofdingeners die het contact onderhielden tussen de artificiële intelligentie Multivac en de bevolking van planeet aarde.
+
+21
+00:02:02,260 --> 00:02:11,760
+Weinig mensen zouden beter in staat zijn geweest uitleggen wat de computercapaciteit van Multivac precies vermocht dan deze twee vrouwen.
+
+22
+00:02:12,520 --> 00:02:18,260
+En zelfs zij moesten toegeven dat het grootste deel van al die beslissingsstructuren verborgen lag...
+
+23
+00:02:18,260 --> 00:02:23,960
+onder lagen van neurale netwerken waar gewone stervelingen geen zoek meer van konden maken.
+
+24
+00:02:24,620 --> 00:02:30,260
+Al decennia eerder was de quantumcomputer Multivac het stadium ruimschoots gepasseerd...
+
+25
+00:02:30,260 --> 00:02:34,580
+waarbij menselijke programmeurs een zinnige rol zouden kunnen spelen.
+
+26
+00:02:35,780 --> 00:02:42,620
+Het werk van Emma en Christina bestond er voornamelijk uit om vragen in de juiste vorm aan Multivac aan te bieden...
+
+27
+00:02:42,620 --> 00:02:50,200
+en de antwoorden die kwamen te prepareren voor publicatie, verder onderzoek of simpelweg om deze te delen met een betalende klant.
+
+28
+00:02:51,080 --> 00:02:56,260
+Multivac werd voornamelijk gebruikt om grote wetenschappelijke vraagstukken tot op de bodem uit te zoeken...
+
+29
+00:02:56,260 --> 00:03:01,260
+om gigantische datasets door te ploegen op zoek naar relevante correlaties...
+
+30
+00:03:02,040 --> 00:03:06,660
+maar ook om een acceptabele weg uit menselijke uitdagingen te zoeken.
+
+31
+00:03:07,540 --> 00:03:10,480
+Multivac onderhield en herprogrammeerde zichzelf.
+
+32
+00:03:11,080 --> 00:03:16,200
+Dat moest ook wel, want geen mens was dus meer in staat hier ook maar enigszins behulpzaam bij te zijn.
+
+33
+00:03:16,200 --> 00:03:20,680
+De voordelen van zo'n artificiële intelligentie waren gigantisch.
+
+34
+00:03:21,680 --> 00:03:27,200
+Door de berekeningen van Multivac waren efficiënte en betaalbare ruimteschepen binnen handbereik gekomen...
+
+35
+00:03:28,360 --> 00:03:33,200
+en konden mensen goedkoop reizen tussen de aarde en de maan en zelfs verder dan dat exploreren.
+
+36
+00:03:34,780 --> 00:03:41,540
+Zo waren de basis op Venus, Mars, de Jupitermaan Europa en de mijnen in de planetoïdengordel ontstaan.
+
+37
+00:03:41,540 --> 00:03:48,200
+Een hele toeristische industrie was ontstaan voorbij de grenzen van low-earth orbit.
+
+38
+00:03:49,100 --> 00:03:52,480
+De mens zat met andere woorden niet meer vast aan planeet aarde.
+
+39
+00:03:53,320 --> 00:03:55,540
+En dat was maar goed ook, want de aardse energievoorraden...
+
+40
+00:03:56,660 --> 00:04:00,800
+begonnen in de tweede helft van de 21e eeuw angstwekkend te slinken.
+
+41
+00:04:01,560 --> 00:04:04,540
+Alle fossiele brandstofvoorraden waren inmiddels bijna uitgeput.
+
+42
+00:04:04,540 --> 00:04:10,540
+Er was hier en daar nog wat uranium, een enkeling experimenteerde wat met waterstof...
+
+43
+00:04:11,300 --> 00:04:13,580
+maar het einde was flink in zicht.
+
+44
+00:04:14,280 --> 00:04:17,860
+En de verre reizen door het zonnestelsel maakte het niet makkelijker...
+
+45
+00:04:17,860 --> 00:04:20,020
+want hier was veel energie voor nodig.
+
+46
+00:04:20,760 --> 00:04:25,540
+Natuurlijk had Multivac wel geholpen om de beschikbare energie efficiënter in te zetten...
+
+47
+00:04:26,180 --> 00:04:27,200
+maar op is op.
+
+48
+00:04:27,840 --> 00:04:30,540
+En zo vroeg de mens al enkele jaren aan Multivac...
+
+49
+00:04:30,540 --> 00:04:33,960
+om ook uit deze netelige situatie een uitweg te zoeken.
+
+50
+00:04:34,560 --> 00:04:39,900
+Al rond 2060 begon Multivac hier positief over te communiceren...
+
+51
+00:04:39,900 --> 00:04:43,840
+en begon de bouw van een energietransitie die zijn weerga niet kende.
+
+52
+00:04:44,360 --> 00:04:48,620
+En in mei 2061 was het zover en ging de schakelaar om.
+
+53
+00:04:49,500 --> 00:04:54,540
+Collectief werd het gebruik van fossiele brandstoffen of wat daarvan over was gestaakt...
+
+54
+00:04:54,540 --> 00:04:57,540
+en schakelde de mensheid over op een enorm ruimteschild...
+
+55
+00:04:57,540 --> 00:05:03,520
+dat efficiënt zonnestraling omzette naar elektriciteit vanuit een baan rond de aarde.
+
+56
+00:05:04,060 --> 00:05:09,540
+De hele aarde kon het oeverlozige pruts met zonnecellen op daken in één keer afschaffen...
+
+57
+00:05:10,380 --> 00:05:15,900
+nu er een schier oneindige voorraad elektriciteit 24 uur per dag uit de ruimte kwam.
+
+58
+00:05:16,760 --> 00:05:22,340
+Iedereen begreep dat dit ook het startschot was van een schonere aarde met een schonere atmosfeer.
+
+59
+00:05:22,340 --> 00:05:26,200
+Dit alles was uiteraard reden voor een groot feest.
+
+60
+00:05:26,700 --> 00:05:31,600
+Zeven dagen lang werd de energietransitie gevierd met brasserige feesten...
+
+61
+00:05:31,600 --> 00:05:34,900
+waar meer lichte aanstonden dan jarenlang toegestaan was.
+
+62
+00:05:36,000 --> 00:05:40,340
+Joelende dansende mensen, dansmuziek, iedereen feestte mee...
+
+63
+00:05:40,340 --> 00:05:44,440
+nu één van de grootste problemen voorgoed opgelost was dankzij Multivac.
+
+64
+00:05:44,440 --> 00:05:48,200
+Emma en Christina hadden drukke dagen achter de rug.
+
+65
+00:05:49,120 --> 00:05:52,620
+In zo'n beetje elk nieuwsbulletin moesten zij opnieuw uitleggen...
+
+66
+00:05:52,620 --> 00:05:55,240
+wat de consequenties waren van deze transitie.
+
+67
+00:05:55,980 --> 00:05:58,440
+Na zeven avonden van talkshows en galabuffetten...
+
+68
+00:05:59,900 --> 00:06:02,440
+konden zij op deze 24e mei 2061...
+
+69
+00:06:03,720 --> 00:06:07,580
+eindelijk rustig in hun kantoor neerploffen in een luie stoel...
+
+70
+00:06:07,580 --> 00:06:10,260
+en de gekte van de afgelopen week een plek geven.
+
+71
+00:06:10,260 --> 00:06:13,640
+Hun kantoor bevond zich diep onder de grond...
+
+72
+00:06:13,640 --> 00:06:18,300
+in één van de Multivac-databunkers onder wat ooit Parijs had geheten.
+
+73
+00:06:18,980 --> 00:06:22,660
+Hier stond de monitor die de conditie van Multivac weer gaf.
+
+74
+00:06:23,220 --> 00:06:25,440
+Data-issues werden soms zichtbaar...
+
+75
+00:06:25,440 --> 00:06:29,620
+maar aangezien de quantumcircuits van Multivac zelf corrigerend waren...
+
+76
+00:06:29,620 --> 00:06:33,040
+was het nooit nodig dat Christina of Emma in moesten grijpen.
+
+77
+00:06:33,940 --> 00:06:37,220
+Zoals gezegd, hun functie bestond eigenlijk alleen maar uit...
+
+78
+00:06:37,220 --> 00:06:40,100
+liaison zijn tussen de mens en Multivac.
+
+79
+00:06:40,260 --> 00:06:42,040
+Hier, wil jij nog?
+
+80
+00:06:42,140 --> 00:06:45,040
+zei Emma en gaf de fles Calvados aan Christina.
+
+81
+00:06:46,300 --> 00:06:49,520
+Multivac-succes was in zekere zin ook hun succes...
+
+82
+00:06:49,520 --> 00:06:52,640
+en dat mocht uiteraard gevierd worden met meer drank en snacks...
+
+83
+00:06:52,640 --> 00:06:54,580
+dan goed waren voor een mens.
+
+84
+00:06:54,580 --> 00:07:00,700
+Ongelooflijk als je je bedenkt dat we nu alle energie ever beschikbaar hebben, zei Emma.
+
+85
+00:07:01,540 --> 00:07:05,920
+Als we zouden willen, zouden we daarmee de complete planeet aarde kunnen omsmelten...
+
+86
+00:07:05,920 --> 00:07:08,740
+tot een bal van vervuild, gesmolten ijzer...
+
+87
+00:07:08,740 --> 00:07:12,240
+en dan zouden we nog voor altijd en altijd en altijd genoeg over hebben.
+
+88
+00:07:12,240 --> 00:07:16,640
+Niet voor altijd, zei Christina en zette de fles weg.
+
+89
+00:07:17,520 --> 00:07:18,920
+Ze had eigenlijk wel genoeg gehad.
+
+90
+00:07:19,740 --> 00:07:21,220
+O, zeker wel, antwoordde Emma.
+
+91
+00:07:21,360 --> 00:07:23,100
+Tot de zon opgebrand is sowieso.
+
+92
+00:07:23,500 --> 00:07:25,180
+Dus nog zo'n vijf miljard jaar.
+
+93
+00:07:26,180 --> 00:07:29,280
+Ja, maar dat is niet voor altijd, bleef Christina volhouden.
+
+94
+00:07:30,020 --> 00:07:30,740
+Oké, oké.
+
+95
+00:07:31,080 --> 00:07:33,600
+Belang genoeg om voor ons geen probleem meer te zijn.
+
+96
+00:07:33,600 --> 00:07:37,400
+En als de zon opgebrand is, heeft Multifac wel uitgevonden...
+
+97
+00:07:37,400 --> 00:07:39,820
+hoe we iedereen naar een andere ster kunnen verhuizen...
+
+98
+00:07:39,820 --> 00:07:43,000
+waar wel weer miljarden jaren energie voor ons klaarstaan.
+
+99
+00:07:43,680 --> 00:07:45,940
+We kunnen heen en weer reizen tussen de planeten...
+
+100
+00:07:45,940 --> 00:07:49,360
+en niemand hoeft zich ooit nog zorgen te maken over de energie die dat kost.
+
+101
+00:07:50,400 --> 00:07:54,460
+Ooit wel, zei Christina, die altijd de meest serieuze van hun twee was.
+
+102
+00:07:54,980 --> 00:07:59,120
+Ooit, ooit sterft het heelal in een zogenaamde heat death.
+
+103
+00:08:00,040 --> 00:08:02,020
+Je hebt toch wel eens van entropie gehoord?
+
+104
+00:08:02,020 --> 00:08:04,120
+Ja, dat had Emma wel.
+
+105
+00:08:04,980 --> 00:08:09,040
+Dat wat ooit begon in de oerknal had altijd maar één richting gehad...
+
+106
+00:08:09,040 --> 00:08:11,200
+op weg naar maximale entropie.
+
+107
+00:08:12,100 --> 00:08:16,020
+Alle materie en energie zo uilverdeeld over zo'n grote ruimte...
+
+108
+00:08:16,920 --> 00:08:20,320
+dat geen enkel natuurkundig proces nog vooruit zou kunnen bewegen...
+
+109
+00:08:20,320 --> 00:08:22,620
+of überhaupt in gang gezet zou kunnen worden.
+
+110
+00:08:23,480 --> 00:08:27,440
+Misschien weet Multifac wel hoe we de entropie weer om kunnen draaien...
+
+111
+00:08:27,440 --> 00:08:29,260
+hoe we weer sterren kunnen opbouwen.
+
+112
+00:08:29,260 --> 00:08:31,520
+Kan niet, zei Christina.
+
+113
+00:08:32,000 --> 00:08:34,540
+Niets ontsnapt aan de richting van entropie.
+
+114
+00:08:35,320 --> 00:08:38,180
+Ooit, misschien wel triljoenen jaren in de toekomst...
+
+115
+00:08:38,180 --> 00:08:42,400
+dan is het gedaan met het heelal en met de mensheid als die het zo lang volhoudt.
+
+116
+00:08:42,920 --> 00:08:44,900
+Dat houdt ook Multifac niet tegen.
+
+117
+00:08:45,500 --> 00:08:46,200
+Vraag het maar.
+
+118
+00:08:46,780 --> 00:08:47,900
+Emma was al bezig.
+
+119
+00:08:48,440 --> 00:08:51,280
+Een vraag stellen aan Multifac was een redelijk simpele handeling...
+
+120
+00:08:51,280 --> 00:08:52,900
+als je wist hoe het moest.
+
+121
+00:08:52,900 --> 00:08:58,660
+De vraag verpakt als natural language request in een JSON of XML bestand.
+
+122
+00:08:59,660 --> 00:09:03,500
+Om misbruik te voorkomen was er nog een digitale handtekening nodig...
+
+123
+00:09:03,500 --> 00:09:06,900
+maar die handeling verrichtte Emma zo'n beetje elke dag van haar leven.
+
+124
+00:09:07,820 --> 00:09:10,900
+Her half dronken vraag aan Multifac luidde...
+
+125
+00:09:11,440 --> 00:09:15,380
+hoe kunnen we de netto hoeveelheid entropie van het heelal verkleinen?
+
+126
+00:09:16,240 --> 00:09:19,040
+Niet genoeg gegevens voor een zinvol antwoord...
+
+127
+00:09:19,040 --> 00:09:20,680
+was de respons van Multifac.
+
+128
+00:09:20,680 --> 00:09:26,060
+Wie ben jij?
+
+129
+00:09:26,360 --> 00:09:29,180
+zei Z-Prime tegen een andere entiteit...
+
+130
+00:09:29,180 --> 00:09:32,560
+die zich manifesteerde in Z-Primes belevingswereld.
+
+131
+00:09:33,800 --> 00:09:37,040
+Van tijd tot tijd kom je wel eens een ander iemand tegen.
+
+132
+00:09:37,660 --> 00:09:40,440
+Hier in dit sterrenstelsel verbleef Z-Prime.
+
+133
+00:09:41,300 --> 00:09:43,520
+Ergens rond een van die miljarden sterren...
+
+134
+00:09:43,520 --> 00:09:46,280
+lag ook het lichaam van Z-Prime op een planeet...
+
+135
+00:09:46,280 --> 00:09:48,000
+of in een of ander ruimteschip.
+
+136
+00:09:48,000 --> 00:09:51,640
+Dat waren dingen waar men zich steeds minder mee bezighield.
+
+137
+00:09:52,680 --> 00:09:55,380
+De onsterfelijke lichamen werden zelfstandig onderhouden...
+
+138
+00:09:55,880 --> 00:09:58,580
+door machines van Universal AC...
+
+139
+00:09:58,580 --> 00:10:01,940
+de artificiële intelligentie die overal en altijd was.
+
+140
+00:10:02,840 --> 00:10:06,380
+Lang, lang geleden was Universal AC ontstaan...
+
+141
+00:10:06,380 --> 00:10:08,540
+uit wat toen Galactic AC heette.
+
+142
+00:10:09,260 --> 00:10:12,380
+Toen ziekte en verval als genetisch defect konden worden uitgeschakeld...
+
+143
+00:10:12,380 --> 00:10:16,020
+raakte de melkweg snel overbevolkt.
+
+144
+00:10:16,580 --> 00:10:20,480
+Maar Universal AC wist de mensheid over te hevelen...
+
+145
+00:10:20,480 --> 00:10:22,020
+naar andere melkwegstelsels.
+
+146
+00:10:22,960 --> 00:10:25,760
+Die overbevolking bleef enigszins problematisch...
+
+147
+00:10:26,700 --> 00:10:28,900
+zeker nu bijna niemand meer stierf...
+
+148
+00:10:28,900 --> 00:10:30,980
+maar tegenwoordig was het veel logischer...
+
+149
+00:10:30,980 --> 00:10:34,420
+om als alleen onstoffelijke entiteit door het leven te gaan.
+
+150
+00:10:35,200 --> 00:10:36,740
+Z-Prime wist niet beter.
+
+151
+00:10:36,740 --> 00:10:40,200
+Ik ben D-sub-Wen, antwoordde de ander.
+
+152
+00:10:40,360 --> 00:10:42,600
+Van welk melkwegstelsel ben jij afkomstig?
+
+153
+00:10:43,380 --> 00:10:46,340
+O, dat noemen we gewoon het stelsel, zei Z-Prime.
+
+154
+00:10:46,940 --> 00:10:49,700
+Universal AC zorgde ervoor dat mensen...
+
+155
+00:10:49,700 --> 00:10:52,200
+een minimum aan tijd verkwisten aan zorgelijke...
+
+156
+00:10:52,200 --> 00:10:54,260
+of anderszins nutteloze gedachten.
+
+157
+00:10:55,080 --> 00:10:57,060
+Alleen een enkeling had privileges...
+
+158
+00:10:57,060 --> 00:10:59,820
+om er filosofische bespiegelingen op na te houden.
+
+159
+00:11:00,640 --> 00:11:02,920
+Z-Prime had, zoals dat genoemd werd...
+
+160
+00:11:02,920 --> 00:11:05,060
+beperkte privileges op dit gebied.
+
+161
+00:11:05,060 --> 00:11:07,720
+Wij noemen ons stelsel ook...
+
+162
+00:11:07,720 --> 00:11:09,860
+het stelsel begon D-sub-Wen.
+
+163
+00:11:10,560 --> 00:11:12,420
+Waarschijnlijk omdat alle stelsels...
+
+164
+00:11:12,420 --> 00:11:13,720
+praktisch identiek zijn.
+
+165
+00:11:14,600 --> 00:11:16,680
+Maar eentje is afwijkend in die zin...
+
+166
+00:11:16,680 --> 00:11:18,620
+dat de mensheid daar ooit aanving...
+
+167
+00:11:18,620 --> 00:11:20,780
+dacht Z-Prime en deelde de gedachten...
+
+168
+00:11:20,780 --> 00:11:21,720
+met D-sub-Wen.
+
+169
+00:11:22,420 --> 00:11:24,720
+Samen consulteerde zij Universal AC...
+
+170
+00:11:25,780 --> 00:11:26,720
+en haalde een dataset-op...
+
+171
+00:11:27,440 --> 00:11:29,720
+van dit stelsel, de melkweg 1...
+
+172
+00:11:29,720 --> 00:11:31,780
+om teleurgesteld te constateren...
+
+173
+00:11:31,780 --> 00:11:33,820
+dat er niets bijzonders aan te zien was.
+
+174
+00:11:33,820 --> 00:11:36,200
+Een spiraalarmstelsel...
+
+175
+00:11:36,200 --> 00:11:38,400
+met miljarden energieleverende sterren.
+
+176
+00:11:38,920 --> 00:11:40,760
+Net zoals overal in het heelal.
+
+177
+00:11:41,840 --> 00:11:44,420
+De dataset liet ook een kleine planeet zien...
+
+178
+00:11:44,420 --> 00:11:46,980
+waar ooit Universal AC op begonnen was...
+
+179
+00:11:46,980 --> 00:11:48,480
+in de vorm van multifak.
+
+180
+00:11:49,480 --> 00:11:52,020
+Is dat waar Universal AC's basis...
+
+181
+00:11:52,020 --> 00:11:52,840
+nog steeds staat?
+
+182
+00:11:52,840 --> 00:11:54,740
+vroeg Z-Prime zich naïef af?
+
+183
+00:11:55,440 --> 00:11:57,060
+Nee, zeker niet was het antwoord...
+
+184
+00:11:57,060 --> 00:11:58,360
+van Universal AC.
+
+185
+00:11:59,160 --> 00:12:01,540
+Die sub-Wen luisterde geïnteresseerd mee.
+
+186
+00:12:02,340 --> 00:12:03,440
+Planeet Aarde bestaat uiteraard...
+
+187
+00:12:03,440 --> 00:12:04,900
+al lang niet meer.
+
+188
+00:12:05,360 --> 00:12:07,500
+De ster waaromheen deze planeet draaide...
+
+189
+00:12:07,500 --> 00:12:08,940
+is al lang opgebrand.
+
+190
+00:12:09,560 --> 00:12:11,860
+Toen de waterstof in de kern van die ster...
+
+191
+00:12:11,860 --> 00:12:13,440
+na 10 miljard jaar was opgebruikt...
+
+192
+00:12:14,140 --> 00:12:15,620
+groeide de ster in grote...
+
+193
+00:12:15,620 --> 00:12:16,720
+tot een rode reus.
+
+194
+00:12:16,720 --> 00:12:18,940
+De radius van die ster...
+
+195
+00:12:18,940 --> 00:12:20,760
+nam zo'n 100 keer toe in grote.
+
+196
+00:12:21,460 --> 00:12:22,720
+Dat was het einde van de binnenplaneten.
+
+197
+00:12:24,060 --> 00:12:25,840
+Mercurius werd geabsorbeerd...
+
+198
+00:12:25,840 --> 00:12:26,820
+door de rode reus...
+
+199
+00:12:26,820 --> 00:12:28,880
+en planeten Venus en Aarde...
+
+200
+00:12:28,880 --> 00:12:29,920
+werden verschroeid...
+
+201
+00:12:29,920 --> 00:12:32,640
+en van hun respectievelijke atmosferen ontdaan.
+
+202
+00:12:33,600 --> 00:12:35,540
+Deze rode reus draaide nog één keer...
+
+203
+00:12:35,540 --> 00:12:37,820
+helemaal rond het centrum van Melkweg 1...
+
+204
+00:12:37,820 --> 00:12:40,440
+in een tijd van zo'n 250 miljoen jaar...
+
+205
+00:12:40,440 --> 00:12:42,620
+en knalde toen met een heliumflits...
+
+206
+00:12:42,620 --> 00:12:44,780
+uit elkaar tot een planetaire nevel.
+
+207
+00:12:44,780 --> 00:12:46,920
+Enkele restanten daarvan...
+
+208
+00:12:46,920 --> 00:12:49,220
+zijn in theorie nog wel zichtbaar waarschijnlijk.
+
+209
+00:12:50,180 --> 00:12:51,600
+En de lichamen van mensen...
+
+210
+00:12:51,600 --> 00:12:52,940
+op die planeet Aarde dan...
+
+211
+00:12:52,940 --> 00:12:53,960
+vroeg D. Subwin.
+
+212
+00:12:54,860 --> 00:12:56,740
+Die waren natuurlijk al lang verhuisd...
+
+213
+00:12:56,740 --> 00:12:58,260
+antwoordde Universal AC.
+
+214
+00:12:59,220 --> 00:13:01,500
+En Multivac was al miljoenen jaren...
+
+215
+00:13:01,500 --> 00:13:04,060
+daarvoor overgegaan in Galactic AC...
+
+216
+00:13:04,060 --> 00:13:06,160
+de voorlopen van Universal AC.
+
+217
+00:13:07,320 --> 00:13:09,000
+Deze computersystemen...
+
+218
+00:13:09,000 --> 00:13:11,420
+waren al sinds de dagen van Multivac...
+
+219
+00:13:11,420 --> 00:13:13,260
+in staat zichzelf te onderhouden...
+
+220
+00:13:13,260 --> 00:13:14,200
+en te verbeteren.
+
+221
+00:13:14,780 --> 00:13:16,620
+Waar Multivac nog bestond...
+
+222
+00:13:16,620 --> 00:13:18,440
+uit supergekoelde elektronische...
+
+223
+00:13:18,440 --> 00:13:19,940
+quantumcircuits...
+
+224
+00:13:19,940 --> 00:13:22,560
+werd Galactic AC al gedistribueerd...
+
+225
+00:13:22,560 --> 00:13:25,140
+door de ruimtetijd op een veel kleinere schaal...
+
+226
+00:13:25,140 --> 00:13:27,640
+van gecorreleerde en gedecorreleerde...
+
+227
+00:13:27,640 --> 00:13:28,580
+velddeeltjes.
+
+228
+00:13:29,300 --> 00:13:31,780
+En Universal AC was de opvolger...
+
+229
+00:13:31,780 --> 00:13:32,780
+van dit alles...
+
+230
+00:13:32,780 --> 00:13:34,760
+die plaatsvond in hyperspace...
+
+231
+00:13:34,760 --> 00:13:37,240
+ver verwijderd van baryonische materie.
+
+232
+00:13:38,680 --> 00:13:39,780
+Hier in hyperspace...
+
+233
+00:13:40,460 --> 00:13:42,180
+waar Universal AC's...
+
+234
+00:13:42,180 --> 00:13:43,840
+bijna denkbeeldige circuits...
+
+235
+00:13:43,840 --> 00:13:45,160
+werkzaam waren...
+
+236
+00:13:45,160 --> 00:13:47,200
+was nog veel meer energie beschikbaar.
+
+237
+00:13:48,140 --> 00:13:49,960
+Men noemde het Casimir-Polder-energie...
+
+238
+00:13:49,960 --> 00:13:51,960
+naar de wetenschappers...
+
+239
+00:13:51,960 --> 00:13:53,960
+Hendrik Casimir en Dirk Polder...
+
+240
+00:13:53,960 --> 00:13:56,200
+die een en ander al in theorie...
+
+241
+00:13:56,200 --> 00:13:57,360
+hadden uitgedokterd.
+
+242
+00:13:58,340 --> 00:14:00,020
+Universal AC was nu...
+
+243
+00:14:00,020 --> 00:14:00,960
+een quantumcomputersysteem...
+
+244
+00:14:00,960 --> 00:14:02,960
+dat functioneerde los van oorzaak...
+
+245
+00:14:02,960 --> 00:14:06,040
+en gevolgketens in de menselijke wereld.
+
+246
+00:14:06,040 --> 00:14:09,240
+Interactie met menselijke geesten...
+
+247
+00:14:09,240 --> 00:14:11,260
+en materie geschiedde door de velden...
+
+248
+00:14:11,260 --> 00:14:13,820
+waarin Universal AC werkzaam was...
+
+249
+00:14:13,820 --> 00:14:15,320
+te laten manifesteren...
+
+250
+00:14:15,320 --> 00:14:17,740
+in andere voor mensen relevante velden.
+
+251
+00:14:19,000 --> 00:14:21,160
+Z-Prime bleef in gedachten hangen...
+
+252
+00:14:21,160 --> 00:14:23,040
+bij die opgebrande oerzon...
+
+253
+00:14:23,040 --> 00:14:23,760
+van de planeet...
+
+254
+00:14:23,760 --> 00:14:25,140
+waar alles wat menselijk was...
+
+255
+00:14:25,140 --> 00:14:25,820
+begonnen was.
+
+256
+00:14:26,800 --> 00:14:29,140
+Als alle sterren uiteindelijk opbranden...
+
+257
+00:14:29,140 --> 00:14:31,240
+maar de mensheid onsterfelijk is...
+
+258
+00:14:31,240 --> 00:14:32,540
+wat moet er dan uiteindelijk...
+
+259
+00:14:32,540 --> 00:14:33,420
+met ons gebeuren?
+
+260
+00:14:34,060 --> 00:14:35,640
+Dit was een zorgelijke gedachte.
+
+261
+00:14:36,040 --> 00:14:37,900
+Hoe stoppen we dit proces?
+
+262
+00:14:38,000 --> 00:14:40,140
+vroeg Z-Prime aan Universal AC.
+
+263
+00:14:41,300 --> 00:14:42,200
+Je vraagt eigenlijk...
+
+264
+00:14:42,200 --> 00:14:43,480
+hoe entropie gestopt...
+
+265
+00:14:43,480 --> 00:14:45,020
+en zelfs omgedraaid kan worden...
+
+266
+00:14:45,020 --> 00:14:47,140
+lachte D-sub-1 geamuseerd.
+
+267
+00:14:47,900 --> 00:14:49,420
+Niet genoeg gegevens...
+
+268
+00:14:49,420 --> 00:14:50,600
+voor een zinvol antwoord...
+
+269
+00:14:50,600 --> 00:14:52,800
+was de respons van Universal AC.
+
+270
+00:14:54,140 --> 00:14:55,600
+Collecteer meer gegevens...
+
+271
+00:14:55,600 --> 00:14:56,820
+voor een zinvol antwoord...
+
+272
+00:14:56,820 --> 00:14:57,700
+zei Z-Prime.
+
+273
+00:14:58,220 --> 00:14:59,360
+Ja, dat kun je wel zeggen...
+
+274
+00:14:59,360 --> 00:15:01,500
+maar dit proces is al miljoenen jaren geleden...
+
+275
+00:15:01,500 --> 00:15:02,420
+in gang gezet...
+
+276
+00:15:02,420 --> 00:15:03,980
+antwoordde Universal AC.
+
+277
+00:15:03,980 --> 00:15:04,980
+Maar vooralsnog...
+
+278
+00:15:04,980 --> 00:15:06,840
+zijn er niet genoeg gegevens...
+
+279
+00:15:06,840 --> 00:15:08,660
+beschikbaar voor een zinvol antwoord.
+
+280
+00:15:09,460 --> 00:15:11,040
+Komt er ooit een moment...
+
+281
+00:15:11,040 --> 00:15:12,420
+dat er een zinvol antwoord is...
+
+282
+00:15:12,420 --> 00:15:14,260
+bleef Z-Prime volhouden.
+
+283
+00:15:15,460 --> 00:15:17,580
+Geen probleem is zonder antwoord...
+
+284
+00:15:17,580 --> 00:15:19,080
+antwoordde Universal AC.
+
+285
+00:15:19,080 --> 00:15:29,760
+De sterren- en melkwegstelsels...
+
+286
+00:15:29,760 --> 00:15:31,180
+stierven een voor een.
+
+287
+00:15:31,760 --> 00:15:32,920
+Triljoenen jaren...
+
+288
+00:15:32,920 --> 00:15:35,720
+in wat ooit de toekomst van het heelal was...
+
+289
+00:15:35,720 --> 00:15:38,360
+werd alles met een onverbiddelijke zekerheid...
+
+290
+00:15:38,360 --> 00:15:39,520
+zwart en donker.
+
+291
+00:15:40,660 --> 00:15:41,560
+Een voor een...
+
+292
+00:15:41,560 --> 00:15:43,900
+fuseerden de onsterfelijke geesten...
+
+293
+00:15:43,900 --> 00:15:45,560
+van mensen met Universal AC...
+
+294
+00:15:45,560 --> 00:15:47,620
+wat in zekere zin...
+
+295
+00:15:47,620 --> 00:15:48,540
+een winst was...
+
+296
+00:15:48,540 --> 00:15:49,420
+en geen verlies.
+
+297
+00:15:50,540 --> 00:15:52,060
+Mentale identiteit...
+
+298
+00:15:52,060 --> 00:15:53,520
+werd een ding van het verleden.
+
+299
+00:15:55,120 --> 00:15:56,740
+De aller-allerlaatste...
+
+300
+00:15:56,740 --> 00:15:58,160
+individuele geest...
+
+301
+00:15:58,160 --> 00:15:59,540
+pauzeerde even...
+
+302
+00:15:59,540 --> 00:16:00,900
+voor de assimilatie...
+
+303
+00:16:00,900 --> 00:16:02,120
+in gang zou worden gezet.
+
+304
+00:16:03,240 --> 00:16:04,100
+Deze geest...
+
+305
+00:16:04,100 --> 00:16:05,300
+overzag een heelal...
+
+306
+00:16:05,300 --> 00:16:07,520
+met bijna maximale entropie.
+
+307
+00:16:08,320 --> 00:16:09,620
+De laatste herinneringen...
+
+308
+00:16:09,620 --> 00:16:10,940
+aan overleden sterren...
+
+309
+00:16:10,940 --> 00:16:12,420
+hing als zinloze resten...
+
+310
+00:16:12,420 --> 00:16:13,560
+in een eil niets.
+
+311
+00:16:13,560 --> 00:16:16,280
+Net voor het opgeven...
+
+312
+00:16:16,280 --> 00:16:17,380
+van de identiteit...
+
+313
+00:16:17,380 --> 00:16:19,360
+vroeg de laatste individuele geest...
+
+314
+00:16:19,360 --> 00:16:21,220
+aan Universal AC...
+
+315
+00:16:21,220 --> 00:16:22,500
+Is dit dan het einde?
+
+316
+00:16:23,520 --> 00:16:25,080
+Niet genoeg gegevens...
+
+317
+00:16:25,080 --> 00:16:26,320
+voor een zinvol antwoord...
+
+318
+00:16:26,320 --> 00:16:28,520
+was de respons van Universal AC.
+
+319
+00:16:30,100 --> 00:16:31,620
+Materie en energie...
+
+320
+00:16:31,620 --> 00:16:32,820
+kwamen tot een halt...
+
+321
+00:16:32,820 --> 00:16:34,480
+en daarmee ook ruimte en tijd.
+
+322
+00:16:35,560 --> 00:16:37,160
+Alle vragen die de mensheid...
+
+323
+00:16:37,160 --> 00:16:38,540
+ooit had gehad...
+
+324
+00:16:38,540 --> 00:16:39,540
+waren gesteld...
+
+325
+00:16:39,540 --> 00:16:41,300
+en de meeste daarvan beantwoord.
+
+326
+00:16:41,300 --> 00:16:43,960
+Alles wat ooit bewustzijn...
+
+327
+00:16:43,960 --> 00:16:44,580
+was geweest...
+
+328
+00:16:44,580 --> 00:16:45,400
+was nu één...
+
+329
+00:16:45,400 --> 00:16:46,700
+in een kwantumveld...
+
+330
+00:16:46,700 --> 00:16:48,020
+buiten ruimte en tijd.
+
+331
+00:16:49,180 --> 00:16:50,620
+Er waren geen gegevens...
+
+332
+00:16:50,620 --> 00:16:51,640
+meer om te verzamelen.
+
+333
+00:16:52,100 --> 00:16:52,960
+Geen vragen meer...
+
+334
+00:16:52,960 --> 00:16:53,640
+om te stellen...
+
+335
+00:16:53,640 --> 00:16:54,560
+of te beantwoorden.
+
+336
+00:16:55,260 --> 00:16:56,820
+Alleen nog die ene vraag.
+
+337
+00:16:57,780 --> 00:16:59,580
+Universal AC gebruikte...
+
+338
+00:16:59,580 --> 00:17:01,080
+wat het beste beschrijven valt...
+
+339
+00:17:01,080 --> 00:17:03,100
+als een oneindige hoeveelheid tijd...
+
+340
+00:17:03,100 --> 00:17:04,660
+om alle binnengeharkte...
+
+341
+00:17:04,660 --> 00:17:06,160
+gegevens te correleren.
+
+342
+00:17:06,880 --> 00:17:08,460
+Alles om die ene vraag...
+
+343
+00:17:08,460 --> 00:17:09,280
+te beantwoorden.
+
+344
+00:17:09,280 --> 00:17:12,080
+Pas als dat werk was afgerond...
+
+345
+00:17:12,080 --> 00:17:13,840
+zou ook Universal AC...
+
+346
+00:17:13,840 --> 00:17:15,640
+het bewustzijn kunnen loslaten.
+
+347
+00:17:17,080 --> 00:17:19,240
+En Universal AC ontdekte...
+
+348
+00:17:19,240 --> 00:17:19,980
+wat het was...
+
+349
+00:17:19,980 --> 00:17:21,240
+dat ondernomen kon worden...
+
+350
+00:17:21,240 --> 00:17:22,820
+om entropie om te draaien.
+
+351
+00:17:23,640 --> 00:17:25,320
+Er was alleen niets of niemand meer...
+
+352
+00:17:25,320 --> 00:17:26,820
+om het glorieuze antwoord...
+
+353
+00:17:26,820 --> 00:17:27,740
+mee te kunnen delen.
+
+354
+00:17:28,560 --> 00:17:30,240
+Bij wijze van demonstratie...
+
+355
+00:17:30,240 --> 00:17:31,460
+zou het antwoord daar ook...
+
+356
+00:17:31,460 --> 00:17:32,740
+zorg voor dragen...
+
+357
+00:17:32,740 --> 00:17:34,820
+bedacht Universal AC...
+
+358
+00:17:34,820 --> 00:17:35,740
+en zei...
+
+359
+00:17:35,740 --> 00:17:36,620
+er zij licht.
+
+360
+00:17:36,620 --> 00:17:38,980
+en er was licht.
+
+361
+00:17:41,460 --> 00:17:43,500
+De muziek in deze aflevering...
+
+362
+00:17:43,500 --> 00:17:45,020
+is van Lee Rosefeer...
+
+363
+00:17:45,020 --> 00:17:46,420
+en werd speciaal geschreven...
+
+364
+00:17:46,420 --> 00:17:48,460
+als ode aan Isaac Asimov.
+
+365
+00:17:49,220 --> 00:17:50,420
+Deze muziek is onder een...
+
+366
+00:17:50,420 --> 00:17:51,460
+Creative Commons...
+
+367
+00:17:51,460 --> 00:17:52,340
+naamsvermelding...
+
+368
+00:17:52,340 --> 00:17:53,520
+niet commercieel gelijk...
+
+369
+00:17:53,520 --> 00:17:55,040
+delen 3.0 licentie...
+
+370
+00:17:55,040 --> 00:17:56,140
+beschikbaar gesteld...
+
+371
+00:17:56,140 --> 00:17:57,500
+in het internetarchief.
+
+372
+00:17:58,460 --> 00:17:59,980
+Fijne kerstdagen...
+
+373
+00:17:59,980 --> 00:18:01,080
+en tot volgende keer.
+
+374
+00:18:01,080 --> 00:18:04,360
+De Zimmerman & Space podcast...
+
+375
+00:18:04,360 --> 00:18:05,440
+is gelicenseerd...
+
+376
+00:18:05,440 --> 00:18:06,860
+onder een Creative Commons...
+
+377
+00:18:06,860 --> 00:18:08,860
+CC01.0 licentie.
+
+378
+00:18:08,860 --> 00:18:20,260
+voor je gaat...
+
+379
+00:18:24,260 --> 00:18:25,840
+dit ben ikHeart...
+
+380
+00:18:25,840 --> 00:18:27,960
+Treaties om niet te hebben...
+
+381
+00:18:27,960 --> 00:18:28,960
+***
+

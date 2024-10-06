@@ -1,0 +1,142 @@
+Nu laten we een super scientific test maken.
+De SKA zal hopelijk in 2027 volledig in gebruik kunnen worden genomen.
+En de antennes van de SKA zullen behalve in Zuid-Afrika ook in Australië komen te staan.
+En waarom precies daar kunnen we ons afvragen?
+Inderdaad, hoe kan dat?
+Ten eerste is het zicht op onze Melkweg beter op het zuidelijk halfrond dan boven onze Evenaar.
+En ten tweede is het eenvoudiger om radio's stille locaties te vinden ten zuiden van de Evenaar.
+Voor nog meer radio's stilte zullen we dan moeten uitwerken naar onze buurvrouw La Luna.
+En een radiotelescoop moeten bouwen op de achterzijde van de maan.
+Maar goed, daar hebben we het een paar afleveringen geleden al over gehad.
+Ik wil hier eigenlijk helemaal niet naar luisteren man.
+Dit is gewoon onzin wat je nu aan het zeggen bent.
+Het mag duidelijk zijn dat astronomen ambities koesteren om onze Melkweg beter te leren kennen in het radiospectrum.
+En dan met name het centrum van onze Melkweg, waar we ook al speciale aandacht aan hebben besteed in een eerdere aflevering van deze podcast.
+Met wat nu al in gebruik is van de Meerkat radiotelescoop, werd onlangs een foto gemaakt van dat centrum van onze Melkweg met meer detail dan ooit tevoren.
+En op deze foto is iets te zien wat een nieuw licht doet schijnen op een fenomeen dat we al sinds 1984 kennen.
+In dat jaar publiceerde astronoom Farad Youssef Zadeh een artikel met de titel
+Large, highly organized radio structures near the galactic center.
+Met de Very Large Array radiotelescoop werd in die tijd gekeken naar het centrum van onze Melkweg op een radiogolflengte van 20 centimeter, oftewel 1.5 gigahertz.
+Als u ook de frequentie naar de golflengte heen en weer wilt kunnen rekenen...
+Pak de rekenmachine er maar bij.
+De relatie is f keer lambda is c.
+Tuurlijk!
+En daarbij is c de lichtsnelheid, f de frequentie en lambda de golflengte.
+Voor een golflengte van 20 centimeter kunnen we de frequentie uitrekenen door de lichtsnelheid, c, te delen door die golflengte, lambda.
+Dus dat is in dit geval 299.792.458 meter per seconde gedeeld door 0.2 meter.
+Interessant is om te zien hoe de eenheden in zo'n geval ook precies gaan kloppen.
+Want als we meters per seconde delen door meters, kunnen we die meters tegen elkaar wegstrepen en houden we een getal per seconde over.
+En dat is precies wat een frequentie is.
+Maar in plaats van per seconde zeggen we dan hertz, maar dat komt op hetzelfde neer.
+Alleen omdat ons antwoord uit zoveel getallen voor de comma bestaat, delen we het door een miljard om onze uitkomst in gigahertz uit te kunnen drukken.
+Maar even weer terug naar de meerkatfoto's van het centrum van onze melkweg.
+Ik begon al in slaap te vallen.
+Op de foto's werden filamenten, zeg maar slierten, zichtbaar die loodrecht staan op het platte vlak van onze melkweg.
+Youssef Zadet en collega's bleven na die ontdekking in 1984 de individuele filamenten onderzoeken.
+Maar het werd nooit duidelijk waar deze slierten van radiostraling door werden veroorzaakt.
+Op de recentere foto's van de Meerkat-telescoop werden door de verbetering in kwaliteit van de ontvangers veel, maar dan ook veel meer slierten zichtbaar.
+Als u het met eigen ogen wilt zien, is het misschien het beste om het originele research-artikel van dit jaar te downloaden.
+Dit is een pdf met de titel
+Statistical properties of the population of the galactic center filaments.
+The spectral index and equipartition magnetic field.
+Van hoofdauteur Youssef Zadet en collega's.
+U kunt het gratis vinden op de ArcSiv pre-press server en een link vindt u uiteraard in de show notes van deze aflevering.
+De bizarre foto's met slierten erop staan een beetje onderin het artikel.
+Nu weet ik dat ik ook een aantal visueel beperkte luisteraars heb die niet in staat zijn de foto's te bekijken.
+Ik zal mijn best doen te beschrijven hoe het eruit ziet.
+Het centrum van onze melkweg kunnen we ons voorstellen als een op zijn kant liggende vlek.
+Een beetje een rommelige ovaal met een bobbel in het midden.
+Een ei dat op zijn kant ligt.
+De radioslierten die worden waargenomen lopen als strepen van boven naar onder dwars door dat ei.
+En ook links en rechts ervan.
+Ook deze slierten vinden we geconcentreerd in het midden van onze melkweg.
+Rechtsonder op de foto aan de rand waar nog sterren voorkomen in onze melkweg zien we overigens ook twee enorme bubbels.
+Dat zijn radio uitzendingen van supernova resten.
+Sterren die miljoenen jaren geleden ontploften en nog een schil van radiostraling uitstralen.
+Om zo'n gedetailleerde foto te kunnen maken werd informatie van ongeveer 144 uur aan radio observaties samengevoegd tot één beeld.
+In totaal werden 320 losse foto's gemaakt waarvan er 269 gecombineerd konden worden tot één scherper plaatje.
+Deze waarnemingen werden gedaan in de zogenaamde L-band van het radiospectrum.
+Tussen de 856 megahertz en 1712 megahertz.
+Met een centrum op 1,28 gigahertz.
+1280 megahertz als u dat liever zegt.
+De foto waar de lijnen allemaal goed op zichtbaar zijn omspant een gedeelte van onze sterrenhemel met een breedte van ongeveer 3,5 graden en een hoogte van 2,5 graden aan onze sterrenhemel.
+Een grote uitdaging bij het bedrijven van wetenschap op zo'n foto is de oneffenheid van de achtergrond.
+Dit is namelijk een dusdanig groot gedeelte van de sterrenhemel dat niet elke sliert dezelfde achtergrond heeft.
+Om toch zinnige conclusies te kunnen trekken uit de gemeten spectra van de individuele slierten moest die achtergrondinformatie dus eruit gefilterd worden.
+Er werden ook spaghettiachtige kortere lijnen zichtbaar dichter bij het centrum van de melkweg.
+Deze worden in verband gebracht met supernova restanten en de waterstof of moleculaire H2-wolken die we in deze stervormende regio in onze melkweg aantreffen.
+Deze spaghettiachtige structuren worden dus als separaat verschijnsel van de langere radiofilamenten gezien door de onderzoekers.
+Extra merkwaardig is dat veel van de filamenten in groepjes voorkomen als snaren van een harp die parallel naast elkaar gespannen staan.
+Er zijn ook twee bijzonder goed zichtbare slierten en die kregen de naam slang en muis.
+In de show notes van deze podcast aflevering vindt u een link naar een artikel waar de slang en de muis goed inzichtbaar zijn.
+Met de nieuwe gedetailleerde waarnemingen kunnen astronomen voor het eerst goed kijken naar verschillen en overeenkomsten tussen de filamenten,
+bijvoorbeeld in wat er voorkomt in de spectra, de richting van de lijnen ten opzichte van het galactisch vlak en ook magnetische eigenschappen van de lijnen.
+Direct al viel op dat de spectra van de filamenten ernstig afwijken van die van supernova resten.
+Supernova's schijnen ook helder in de radiohemel, maar de sterke verschillen in spectra de informatie doen vermoeden dat de filamenten een andere oorsprong kennen dan supernova's.
+Nu weten we dat zich precies in het midden van onze melkweg een superzwaar zwart gat bevindt, Sagittarius A-star.
+Misschien heeft u de foto wel gezien.
+Alhoewel de vreemde lijnen niet precies in de richting wijzen van dit zwarte gat, wordt wel vermoed dat er een verband bestaat tussen beide verschijnselen.
+Voordat we daarover door gaan emmeren is het misschien nuttig een beeld voor ons geestes oog te construeren van hoe het daaruit ziet daar in het centrum van onze melkweg.
+Allereerst is daar dat superzware zwarte gat in het centrum wat onlangs goed op de foto kwam met behulp van de Event Horizon Telescoop.
+Daaromheen vinden we in het platte vlak het spiraalstelsel dat onze melkweg is.
+De schijf van sterren heeft een diameter van circa 60.000 lichtjaar en een dikte van slechts 6.000 lichtjaar.
+Onze zon en daarmee onze planeet aarde bevindt zich zo'n 26.000 lichtjaar verwijderd van het galactisch centrum, maar maakt dus ook onderdeel uit van de melkweg.
+Wat we op een heldere avond soms als de melkweg waarnemen, is dus het grootste gedeelte van de melkweg.
+In onze melkweg vinden we in het centrum een paar vreemde verschijnselen.
+Aan weerszijden van het zwarte gat in het centrum, dus onder en boven, zien we twee enorme bollen die we ook wel de Fermi-bubbels noemen.
+Deze werden zichtbaar in het gamma-spectrum en steken tot zo'n 25.000 lichtjaar onder en boven de melkweg uit.
+We kennen de gamma-bubbels sinds 2010 toen ze werden ontdekt met de Fermi-ruimtetelescoop.
+Los daarvan zijn er ook dergelijke structuren onder en boven het galactisch centrum waargenomen in het radiospectrum.
+Deze radiobubbels steken ieder zo'n 700 lichtjaar boven en onder onze melkweg uit en zijn dus een stuk kleiner dan de Fermi-bubbels.
+En nu weten we sinds 1984 dus ook dat er allemaal vreemde lijnen in de buurt van dit galactisch centrum van boven naar onder te vinden zijn.
+Deze lijnen zijn zichtbaar in het radio- en in het röntgenspectrum.
+Nu in 2023 weten we dat er heel veel van dit soort lijnen bestaan die ook een soort onderlinge structuren lijken te vertonen.
+De grote vraag is dan dus, kunnen we de bubbels, de lijnen en het superzware zwarte gat op eenvallige manier met elkaar in verbinding brengen?
+Al deze structuren vinden we immers in het centrum van onze melkweg.
+Wat Youssef Zade en collega's hebben gedaan is kijken naar het verloop van de filamenten.
+De spectrale eigenschappen van de lijnen veranderen naarmate ze verder van het galactisch centrum afstaan.
+In elke lijn zien we dus een verloop van het ene punt naar het andere.
+Dit zou verklaard kunnen worden met iets wat synchroton-cooling wordt genoemd.
+De theorie is dan dat er een soort van wind van kosmische straling vanuit onze melkweg naar buiten straalt.
+De deeltjes, het verst van het centrum, zijn dus ook het oudst.
+Als deze kosmische straling langs magneetlijnen beweegt en verouderd, zou het goed kunnen zijn dat de waargenomen verschillen in spectra ontstaan.
+Deze theorie is bovendien consistent met de radiobubbels die eveneens door Youssef Zade en collega's werden ontdekt.
+We weten nog niet wat de oorzaak is van die uitstroom van kosmische straling, maar de kans is redelijk groot dat we daar het zwarte gat eens streng voor moeten aankijken.
+De auteurs van het artikel dat dit jaar verscheen achten die kans groter dan dat supernova's als schuldigen moeten worden aangewezen.
+In de populair wetenschappelijke literatuur horen we keer op keer dat niks uit een zwart gat kan ontsnappen.
+Maar de werkelijkheid is dat een zwart gat juist voor een hoop onheil zorgt in de buurt.
+Als een deel van de omliggende materie, of dat nou sterren, gaswolken, stofwolken of andere zwarte gaten zijn, aangetrokken wordt, zorgt dat voor een hoop frictie.
+De materie die dan misschien niet direct verzwolgen wordt, kan dan extreem vervormd en of verhit worden, waarbij allerlei andere natuurkundige processen gestart worden.
+Als gevolg van dit soort frictie zou in het verleden een hoop kosmische stralingen de ronde kunnen zijn gestrooid.
+Maar het laatste is er uiteraard nog lang niet over gezegd.
+De radioastronomie maakt enorme stappen vooruit, getuigen bijvoorbeeld de recente foto's van zwarte gaten.
+Als die square kilometer array, waar we het in het begin al over hadden, werkelijkheid is, kunnen we nog veel meer leren over de radio sterrenhemel.
+Antwoorden op vragen zoals wat deze slierten zijn en hoe ze ontstaan.
+En er zullen vast en zeker weer nieuwe vragen worden opgeroepen als nieuwe verschijnselen waargenomen worden.
+Ik kan me tot slot voorstellen dat een enkeling van u bijvoorbeeld deze zomervakantie eens wat meer wil lezen over sterrenkunde.
+Als u bijvoorbeeld wat naar het zuiden reist, kunt u wellicht met eigen oog een blik werpen op het centrum van onze melkweg.
+Ik vind zelf de zomer altijd een mooie tijd om wat meer tijd te nemen voor het kijken naar de sterrenhemel.
+Hier zijn wat tips.
+Gratis te downloaden zijn twee pdf's van OpenStax.
+Dit zijn Engelstalige cursusboeken over de sterrenkunde, zowel voor schoolonderwijs als voor zelfstudie.
+Download de pdf's naar uw iPad en u kunt dagen zoet zijn en meer leren over het heelal dan u in deze podcast hoort.
+De pdf's zijn prachtig vormgegeven en worden constant bijgewerkt door mensen die er meer verstand van hebben dan u en ik.
+Wilt u gewoon met een boek in de hand zitten en een wat minder stijle leerkurve bewandelen, dan is er het prachtige handboek Sterrenkunde van Govert Schilling.
+U kunt het bijvoorbeeld bij bol.com kopen, maar uw lokale boekhandel heeft het waarschijnlijk ook wel op de plank staan.
+Ik heb het zelf ook en niemand kan natuurlijk zo mooi vertellen over het heelal als Govert.
+Voor de meer praktische gidsen die u zeggen wat u vanavond kunt zien als u over de camping slentert, maar ook bordenvol tijdloze informatie staan, kunt u kiezen uit verschillende opties.
+De hemelkalender 2023 van Andreas Dill en Christian Stijjaard.
+Sterren en planeten 2023 van Erwin van Ballegooi, Eddie Echternach, Roy Keeres en Edwin Matlener.
+Jaarboek Sterrenkunde 2023 van Govert Schilling.
+Sterrengids 2023, de sterrenhemel van dag tot dag van Mat Drummen.
+Ik zelf ben gezegend met de hemelkalender 2023 van Andreas Dill en Christian Stijjaard,
+maar al deze gidsen zullen u op prettige wijze bij kunnen staan bij uw zoektocht aan de sterrenhemel deze zomer.
+Om wegwijs te vinden in die sterrenhemel is het handig om ook een app te installeren op uw mobiele telefoon
+en er een keer droog mee te oefenen op het moment dat het er niet toe doet,
+zodat u niet gefrustreerd raakt als u eenmaal buiten staat en misschien al een rood wijntje en een stukje camembert verder bent.
+Mijn persoonlijke favoriet is Sky Safari, maar dat is maar één van de vele opties die u heeft.
+Ik wil evangelisatie van mijn eigen random keuzes graag voorkomen
+en vertrouw erop dat de luisteraar van deze podcast zelf goed beslissingen kan nemen.
+Mocht u er toch graag over willen corresponderen, dan kunt u mij gerust mailen.
+Mail dan vooral naar henszimmerman.gmail.com
+Tot de volgende keer waarin we het over een nog groter raadsel gaan hebben.

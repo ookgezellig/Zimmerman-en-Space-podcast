@@ -1,0 +1,253 @@
+Nu kan de les beginnen.
+Onze zon, een gewone ster, cirkelt in zo'n 230 miljoen jaar één keer rond het centrum van onze melkweg.
+En daarmee cirkelt dus ook onze planeet aarde in diezelfde tijd eenmaal rond het centrum van onze melkweg.
+Waar we dat superzware zwarte gat aantreffen, weet u nog?
+De vorige keer dat we dus ongeveer hier ten opzichte van het centrum van de melkweg waren,
+slenterden er nog dinosauriërs over het aardoppervlak.
+Die periode heet het Mesozoicum, het tijdperk van het middenleven.
+De Permtrias massa-extinctie hadden we gelukkig al achter de rug.
+Afhankelijk van waar u woont, ziet u uit uw raam misschien een veelde aan planten en bomen.
+Eiken, ypen, beuken, berken, varens, gras, klimop, Japanse duizendknoop, madeliefjes, krookense, appelbomen.
+Maar 230 miljoen jaar geleden zou u voornamelijk varens en koniveren gezien hebben.
+Wel vervelend als u destijds een hekel had aan koniveren.
+Er zijn voorlopig geen aanwijzingen dat onze zon zal afwijken van die geduldige baan rond het centrum van onze melkweg.
+En eerlijk gezegd zou het ook niet best zijn als we dat er nog eens als probleem bij zouden hebben op dit moment.
+Daar zit je niet op te wachten.
+Toch zijn er wel sterren die, ook al is het meestal niet vrijwillig,
+dwars tegen alles ingaan en als een soort kosmische kogels door onze melkweg heen razen.
+Onlangs werd er weer een aantal van dergelijke objecten gevonden.
+Voordat we naar het hoe en wat daarvan gaan kijken,
+is het misschien wel aardig te weten in hoeverre die vergelijking met een kogel hout snijdt.
+Heel interessant.
+Volgens medium.com schiet een gemiddelde kogel met 2736 kilometer per uur uit een pistool.
+Dus dat is 0,76 kilometer per seconde.
+Altijd nog sneller dan het geluid.
+De snelste echt weggeschoten militaire kogel die ik op het internet kon vinden,
+behaalde een snelheid van Mach 7.3.
+Dus dat is bijna 2,5 kilometer per seconde.
+De sterren waar ik het vandaag met u over wou hebben,
+scheren daadwerkelijk een stukje sneller door onze melkweg.
+De snelste van het stel schaes met 2.285 kilometer per seconde door onze melkweg.
+Dus dat is duizend keer sneller dan de snelste kogel.
+Een en ander kwam in juni van dit jaar in het nieuws op basis van het artikel
+The Fastest Stars in the Galaxy van auteur Karim El Badri en collega's.
+Zij vonden deze afwijkende sterren door een zoektocht in de catalogus van het Gaia ruimtevaartuig.
+Ook u kunt deze catalogus gratis raadplegen en er zelfs ADQL statements op loslaten
+en de resultaten downloaden naar uw computer.
+Als u ooit SQL statements op een database heeft losgelaten, ziet u snel wat er mogelijk is.
+En als u bij die laatste opmerking al afhaakt, niet getreurd.
+Oh, bless je.
+Er is ook de website ESA Sky, waar u in explorer-modus eindeloos kunt rondneuzen
+in echte foto's die van de sterrenhemel zijn gemaakt
+door allerlei verschillende ruimtevaartuigen of telescopen en op alle mogelijke frequentiebanden.
+En in andere nieuws...
+We worden door het huidige media-aanbod soms een beetje passief gemaakt.
+Maar u bent nieuwsgierig genoeg om naar deze podcast te luisteren,
+dus ook wellicht nieuwsgierig genoeg om zelf wat te gaan grasduinen in ESA Sky.
+Wat houdt u bijvoorbeeld tegen om uw scholieren eens een project te laten doen via ESA Sky?
+Laat ze in groepjes een object zoeken dat hen aanspreekt en er meer informatie over opzoeken.
+Waar staat het aan de sterrenhemel? Zouden we het met het blote oog kunnen zien?
+Wanneer is het ontdekt? Misschien kunnen ze er wel een spreekbeurt over houden.
+Een link naar ESA Sky vindt u in de show notes van deze aflevering.
+En mocht u daadwerkelijk een project met uw scholieren doen op basis van ESA Sky,
+dan hoor ik natuurlijk graag hoe dat verlopen is.
+Ik zit toevallig ook in de redactie van het kindertijdschrift over astronomie, de universum,
+dus als uw scholieren project het waard is om daarin gepubliceerd te worden,
+ben ik altijd bereid mee te denken.
+Nou, blij om dat te horen.
+El Badri en collega's zochten in de Gaia database naar heel specifieke objecten.
+De Gaia-satelliet werd al in 2013 gelanceerd en is geparkeerd in het L2 Lagrange-punt,
+waar we bijvoorbeeld ook de James Webb ruimtetelescoop vinden.
+Hier hangt deze telescoop afgeschermd van de zon om een driedimensionale map te maken van het heelal om ons heen.
+Een van de dingen die de Gaia-satelliet mogelijk maakt,
+is het in kaart brengen van de eigen beweging of proper motion van sterren.
+Zo op een avond als het helder weer is,
+lijken de sterren op een gefixeerde plaats aan de hemel te staan.
+En als u de sterrenhemel van vanavond vergelijkt met die van jaren geleden,
+dan ziet u, behalve wat meer lichtvervuiling en Starlink-satellieten, misschien geen veranderingen.
+Toch bewegen sterren ook zelf, de een wat meer dan de ander.
+Edmund Halley ontdekte dit in 1718,
+toen hij zag dat de positie van sommige heldere sterren afweek van wat de Griekse astronoom Hipparchus
+2000 jaar eerder had waargenomen.
+De ster met de grootste bekende eigen beweging is Barnards ster.
+Deze beweegt zo'n 10,3 boogseconde per jaar ten opzichte van de rest van de sterrenhemel.
+Met behulp van de Gaia-telescoop kunnen astronomen een enorme hoeveelheid gegevens
+over de tijd van zo'n 1800 miljoen objecten raadplegen.
+Door gegevens als eigen beweging en afstand te combineren,
+wordt duidelijk hoe de sterrenhemel om ons heen in drie dimensies werkt en verandert
+en ook wat de plaats van onze zon daarin is.
+El Badri zocht naar sterren met een grote eigen beweging of proper motion en een grote parallax.
+Tussen die twee begrippen, proper motion en parallax, zit een subtiel maar belangrijk verschil.
+De proper motion is hoe een ster over de tijd over de hemel kruipt
+en dus niet meer op de voorgaande positie terugkeert.
+Parallax is de schommeling die een ster vertoont ten opzichte van de ver weggelegen achtergrondsterren over de tijd.
+Specifiek kunnen we twee keer per jaar kijken en dan zullen sterren die dicht bij ons aan de hemel staan
+een grote parallax vertonen en na exact een jaar weer min of meer op dezelfde positie staan
+ten opzichte van de achtergrondsterren.
+Tenzij ze natuurlijk ook een eigen beweging vertonen.
+Als we die zoektocht van El Badri loslaten op de Gaia Data Release 3 catalogus,
+rolt er een tabel uit met 25 objecten.
+U kunt het zelf herhalen en de tabel downloaden als bijvoorbeeld een CSV-bestand,
+zodat u het in Excel of in Numbers kunt openen.
+Tuurlijk!
+De exacte query staat in het artikel The Fastest Stars in the Galaxy,
+waarnaar u ook een linkje vindt in de show notes.
+El Badri deed nog iets speciaals en dat was alleen zoeken naar tamelijk blauwe sterren.
+Ah!
+Dat is omdat de interesse vooral uitging naar zogenaamde witte dwergsterren
+die blauwer in de hemel zijn dan de veel meer voorkomende rodere sterren.
+Hier hoort nog een verklaring bij die mijns inziens ook wel interessant is.
+Heel interessant!
+Ontploffende sterren noemen we ook wel supernova's.
+Daar bestaan verschillende soorten van.
+Een supernova type 1a kan plaatsvinden in dubbelster-systemen
+waarvan tenminste één ster een witte dwergster is.
+Zo'n witte dwergster is een bejaarde ster die helemaal opgebrand is
+en waar dus geen kernfusie meer in plaatsvindt.
+Het is wel een speciaal geval, want een witte dwergster mag aan het einde van haar leven
+een massa hebben van 1,4 keer die van onze zon of minder.
+Een zwaardere ster dan dat overschrijdt de zogenaamde Chandra-Sekar-massa
+en wordt dan een neutronenster of zwart gat.
+Een witte dwergster gloeit nog wel een tijdje na.
+Als ook dit nagloeien helemaal op is, noemen we het een zwarte dwergster,
+maar die bestaat nog niet omdat het heelal daar nog niet oud genoeg voor is.
+In bepaalde gevallen zal een witte dwergster ook onderdeel zijn van een binair stelsel.
+Dat betekent dat er nog iets om die witte dwerg heen draait.
+De intense zwaartekracht van de witte dwergster
+kan middels accretie zo'n begeleider langzaam leeg slurpen
+en dan kan er een reactie optreden waarbij de witte dwergster in één keer ontploft
+in zo'n supernova type 1a-explosie.
+Daarbij komt 1 tot 2 maal 10 tot de 44ste joule aan energie vrij.
+Dit klinkt mogelijk een beetje alsof we dit proces uit en daarna door hebben,
+maar in werkelijkheid is het maar een theorie
+en zijn witte dwergen en dan met name witte dwerg-supernova's
+nog buitengewoon mysterieus.
+De witte dwerg het dichtst bij ons is Sirius B,
+de begeleider van die heldere ster Sirius in het sterrenbeeld de grote hond.
+Sirius en ook Sirius B vinden we op een bescheiden afstand van 8,6 lichtjaar van ons vandaan.
+Witte dwergsterren zijn niet heel zeldzaam.
+Zo'n 97% van alle bekende sterren in onze melkweg
+is niet zwaar genoeg om een neutronenster of zwart gat te worden
+en eindigt dan uiteindelijk als witte dwerg.
+Ook onze zon wacht dit lot,
+al zullen wij er niet meer bij zijn om dit te aanschouwen.
+Oh, dat is niet best.
+Onze planeet aarde is dan al lang vergaan,
+omdat de zon eerst nog een rode reus zal worden.
+Inmiddels kennen we een paar duizend witte dwergsterren.
+Maar hoe deze exact tot een supernova 1a-explosie kunnen evolueren
+is nog lang niet duidelijk.
+Vooral natuurlijk ook omdat we er altijd te laat bij zijn.
+We zien de supernova, maar niet wat eraan vooraf ging.
+Een bepaalde theorie staat bekend als het D6-scenario,
+waarbij D6 staat voor Dynamically Driven Double Degenerate Double Detonation.
+Hierbij vinden we een dubbelster van twee witte dwergsterren
+die steeds dichter om elkaar gaan draaien.
+Dat Double Detonation staat voor een dubbele ontploffing
+die dan mogelijk kan plaatsvinden.
+Eerst een heliumontploffing aan het oppervlak van de zwaarste van de twee witte dwergsterren,
+direct gevolgd door een koolstof-explosie in de kern van die zwaarste witte dwergster.
+Het is dan de vraag wat er gebeurt met die lichtere van de twee witte dwergsterren
+als de ander explodeert.
+Ja, dat is wel een hele interessante vraag.
+Het zou kunnen zijn dat de lichtere witte dwergster het voorbeeld volgt en ook ontploft.
+Misschien ook wel in een dubbele ontploffing.
+Van eerst helium en dan koolstof.
+Maar er bestaat ook een theorie die zegt dat de lichtere witte dwergster
+bij deze supernova-explosie wegschiet en een eigen leven gaat leiden.
+Veel astronomen denken dat zo'n wegschietende witte dwergbegeleider
+dan in een rechte lijn beweegt,
+met ongeveer de snelheid waarmee deze eerst om de zwaardere witte dwerg heen draaide.
+Een beetje zoals wanneer u als een discuswerper eerst een paar keer om uw as draait
+en vervolgens de discus loslaat en deze in een rechte lijn over het sportveld schiet.
+Maar het kan natuurlijk ook zo zijn dat zo'n wegschietende witte dwergster
+ook nog een extra zetje krijgt als gevolg van de supernova-explosie.
+Deze wegschietende witte dwergsterren hebben nog een eigenaardige eigenschap.
+Want voordat zij begonnen met hun rechte baan
+werden ze leeggezogen door die zwaardere witte dwergsterren waar ze omheen draaiden.
+Dat betekent dat ze opvallen door de afwezigheid van waterstof
+en mogelijk ook de afwezigheid van helium.
+Wat overblijft is een compacte koolstofbal
+met mogelijk wat zuurstof en koolstof in een atmosfeer eromheen.
+En misschien nog wat elementen als silicium en magnesium.
+El Badri combineerde de Gaia-gegevens
+met aardse spectroscopische waarnemingen van dezelfde objecten.
+Specifiek werden daarvoor de Magellan-Baden-telescoop
+van het Las Capagnes Observatory in Chili
+en de KEK-1-telescoop in Mauna Kea, Hawaii gebruikt.
+De spectra van de zes snelste door onze melkwegschiezende witte dwergsterren
+uit de Gaia-catalogus bleken inderdaad af te wijken,
+met name door het ontbreken van helium.
+Met één uitzondering, dat was object J13323541.
+Toch leiden de andere waargenomen eigenschappen ertoe
+dat El Badri ook dit object aanwijst als kandidaat D6-witte dwergster.
+Mogelijk vond de supernova-explosie in dat ene specifieke geval plaats
+voordat alle helium weggestript was.
+Of kwam er helium vrij bij de supernova,
+waarvan een deel ingevangen werd door de donor-witte dwerg
+voordat deze het hazenpad nam.
+Maar de conclusies van het artikel zijn uiteraard voorzichtig.
+Al met al worden er slechts vier kandidaten aangewezen
+als D6-witte dwergsterren
+en zijn we maar een klein beetje verder gekomen
+in het begrijpen van het proces van type 1a-supernova's.
+Met enige voorzichtigheid kunnen we denken
+dat het dynamically driven double degenerate double detonation scenario
+in ieder geval plausibel is.
+Ah, I don't know.
+En we weten dat er losse sterren met een rotgang door onze melk weg scheezen.
+Zoals wel vaker in de wetenschap is meer onderzoek nodig
+om beter te weten wat er nou precies gebeurt.
+Het zou natuurlijk helemaal mooi zijn om het proces eens live mee te maken,
+nog voordat er sprake is van een supernova.
+Maar dat is een combinatie van een beetje geluk en een heleboel geduld.
+En wat is tot slot de kans dat zo'n witte dwergster
+die rechtlijnig door de melk weg trekt onze aarde treft?
+En wat gebeurt er dan?
+Nou, mocht het gebeuren, dan is dat niet best voor ons.
+Een witte dwergster is dan wel ongeveer zo klein als onze planeet aarde,
+maar heeft nog steeds een massa van een substantieel deel van onze zon.
+En met een temperatuur van bijvoorbeeld 4000 Kelvin op het oppervlak,
+een enorme snelheid ten opzichte van onze planeet en een intense zwaartekracht,
+is een botsing dan wel het einde van al het leven hier.
+Maar de kans is verwaarloosbaar klein dat dat in ons leven staat te gebeuren.
+Oh, gelukkig!
+Er is geen enkele aanwijzing dat de vier nieuw gevonden,
+weggeslingerde D6-objecten het op onze planeet hebben gemunt.
+Het is wel een aardig gedachte-experiment.
+Wat zou u doen als er opeens in alle media het bericht verscheen
+dat een witte dwergster met 2500 kilometer per seconde op de aarde afraast?
+U hebt nog maar een week te leven en met u iedereen en alles op deze planeet.
+Er is bij lange na niet genoeg tijd om een reddingspoging te ondernemen.
+Nou ja, misschien stapt Elon Musk in een van zijn raketten
+en leeft hij nog een paar maanden langer dan de rest van ons
+in een ruimtevaartuig met wat energiedrankjes en blikvoer.
+Maar voor de rest van de mensheid geldt...
+U heeft nog zeven dagen.
+Wat zou u doen?
+Een deel van de mensen zal waarschijnlijk apathisch achterover hangen
+in een luie stoel of niet meer uit bed komen.
+De wereldeconomie zal waarschijnlijk direct in elkaar storten
+omdat niemand nog naar haar of zijn werk zal omkijken
+met nog maar zeven dagen in het vooruitzicht.
+Ik vermoed dat ook een groot aantal mensen over zal stappen
+op plunderingen, verkrachtingen en moordpartijen
+omdat er geen repercussies meer aan verbonden kunnen worden.
+Maar goed, wat de meute doet, dat zal allemaal wel.
+Wat gaat u doen?
+Gaat u langs bij familie of vrienden?
+Of toch nog die cursus Spaans afmaken?
+Me gusta escuchar Simmermani Space Podcast.
+Sus twee akkoorden leren op uw gitaar?
+Elke dag in het bad met bruisballen?
+Alleen al daarover nadenken is soms goed voor ons.
+Want wellicht sprong er wel iemand voor uw geestes oog
+met wie u nog wat te verhapstukken heeft.
+Misschien is vandaag wel een goed moment om haar of hem te bellen.
+Of misschien is het sowieso wel leuk om die cursus Spaans te gaan doen.
+Es divertido aprender Español.
+Vooral ook omdat er voor de meeste van ons geen enkele reden is
+om aan te nemen dat u nog maar zeven dagen te leven heeft.
+Ik wens u er veel plezier mee en tot de volgende keer.
+Dank u wel.
+Eindelijk Olen covenant.

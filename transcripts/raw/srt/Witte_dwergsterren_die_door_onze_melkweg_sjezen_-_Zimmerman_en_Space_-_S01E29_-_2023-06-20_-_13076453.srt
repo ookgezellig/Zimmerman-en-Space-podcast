@@ -1,0 +1,1012 @@
+1
+00:00:00,160 --> 00:00:01,940
+Nu kan de les beginnen.
+
+2
+00:00:02,340 --> 00:00:09,280
+Onze zon, een gewone ster, cirkelt in zo'n 230 miljoen jaar één keer rond het centrum van onze melkweg.
+
+3
+00:00:10,040 --> 00:00:16,340
+En daarmee cirkelt dus ook onze planeet aarde in diezelfde tijd eenmaal rond het centrum van onze melkweg.
+
+4
+00:00:16,580 --> 00:00:19,860
+Waar we dat superzware zwarte gat aantreffen, weet u nog?
+
+5
+00:00:21,700 --> 00:00:27,360
+De vorige keer dat we dus ongeveer hier ten opzichte van het centrum van de melkweg waren,
+
+6
+00:00:27,360 --> 00:00:30,980
+slenterden er nog dinosauriërs over het aardoppervlak.
+
+7
+00:00:32,560 --> 00:00:37,800
+Die periode heet het Mesozoicum, het tijdperk van het middenleven.
+
+8
+00:00:38,700 --> 00:00:42,580
+De Permtrias massa-extinctie hadden we gelukkig al achter de rug.
+
+9
+00:00:44,560 --> 00:00:49,580
+Afhankelijk van waar u woont, ziet u uit uw raam misschien een veelde aan planten en bomen.
+
+10
+00:00:49,580 --> 00:00:58,620
+Eiken, ypen, beuken, berken, varens, gras, klimop, Japanse duizendknoop, madeliefjes, krookense, appelbomen.
+
+11
+00:00:59,240 --> 00:01:04,660
+Maar 230 miljoen jaar geleden zou u voornamelijk varens en koniveren gezien hebben.
+
+12
+00:01:05,300 --> 00:01:08,860
+Wel vervelend als u destijds een hekel had aan koniveren.
+
+13
+00:01:08,860 --> 00:01:27,560
+Er zijn voorlopig geen aanwijzingen dat onze zon zal afwijken van die geduldige baan rond het centrum van onze melkweg.
+
+14
+00:01:28,560 --> 00:01:33,920
+En eerlijk gezegd zou het ook niet best zijn als we dat er nog eens als probleem bij zouden hebben op dit moment.
+
+15
+00:01:33,920 --> 00:01:35,480
+Daar zit je niet op te wachten.
+
+16
+00:01:35,480 --> 00:01:39,620
+Toch zijn er wel sterren die, ook al is het meestal niet vrijwillig,
+
+17
+00:01:39,800 --> 00:01:45,460
+dwars tegen alles ingaan en als een soort kosmische kogels door onze melkweg heen razen.
+
+18
+00:01:46,540 --> 00:01:49,900
+Onlangs werd er weer een aantal van dergelijke objecten gevonden.
+
+19
+00:01:51,020 --> 00:01:53,620
+Voordat we naar het hoe en wat daarvan gaan kijken,
+
+20
+00:01:53,860 --> 00:01:58,900
+is het misschien wel aardig te weten in hoeverre die vergelijking met een kogel hout snijdt.
+
+21
+00:01:59,120 --> 00:01:59,760
+Heel interessant.
+
+22
+00:01:59,760 --> 00:02:07,480
+Volgens medium.com schiet een gemiddelde kogel met 2736 kilometer per uur uit een pistool.
+
+23
+00:02:08,360 --> 00:02:12,000
+Dus dat is 0,76 kilometer per seconde.
+
+24
+00:02:12,220 --> 00:02:13,960
+Altijd nog sneller dan het geluid.
+
+25
+00:02:15,300 --> 00:02:20,060
+De snelste echt weggeschoten militaire kogel die ik op het internet kon vinden,
+
+26
+00:02:20,280 --> 00:02:22,800
+behaalde een snelheid van Mach 7.3.
+
+27
+00:02:23,260 --> 00:02:26,360
+Dus dat is bijna 2,5 kilometer per seconde.
+
+28
+00:02:26,360 --> 00:02:29,920
+De sterren waar ik het vandaag met u over wou hebben,
+
+29
+00:02:30,100 --> 00:02:33,240
+scheren daadwerkelijk een stukje sneller door onze melkweg.
+
+30
+00:02:34,040 --> 00:02:40,340
+De snelste van het stel schaes met 2.285 kilometer per seconde door onze melkweg.
+
+31
+00:02:40,340 --> 00:02:43,700
+Dus dat is duizend keer sneller dan de snelste kogel.
+
+32
+00:02:44,460 --> 00:02:48,280
+Een en ander kwam in juni van dit jaar in het nieuws op basis van het artikel
+
+33
+00:02:48,280 --> 00:02:54,060
+The Fastest Stars in the Galaxy van auteur Karim El Badri en collega's.
+
+34
+00:02:54,060 --> 00:03:00,900
+Zij vonden deze afwijkende sterren door een zoektocht in de catalogus van het Gaia ruimtevaartuig.
+
+35
+00:03:01,600 --> 00:03:07,540
+Ook u kunt deze catalogus gratis raadplegen en er zelfs ADQL statements op loslaten
+
+36
+00:03:07,540 --> 00:03:10,200
+en de resultaten downloaden naar uw computer.
+
+37
+00:03:10,880 --> 00:03:16,420
+Als u ooit SQL statements op een database heeft losgelaten, ziet u snel wat er mogelijk is.
+
+38
+00:03:17,680 --> 00:03:21,540
+En als u bij die laatste opmerking al afhaakt, niet getreurd.
+
+39
+00:03:21,540 --> 00:03:22,540
+Oh, bless je.
+
+40
+00:03:22,740 --> 00:03:29,040
+Er is ook de website ESA Sky, waar u in explorer-modus eindeloos kunt rondneuzen
+
+41
+00:03:29,040 --> 00:03:32,040
+in echte foto's die van de sterrenhemel zijn gemaakt
+
+42
+00:03:32,040 --> 00:03:37,540
+door allerlei verschillende ruimtevaartuigen of telescopen en op alle mogelijke frequentiebanden.
+
+43
+00:03:39,620 --> 00:03:40,540
+En in andere nieuws...
+
+44
+00:03:40,540 --> 00:03:45,020
+We worden door het huidige media-aanbod soms een beetje passief gemaakt.
+
+45
+00:03:46,020 --> 00:03:49,780
+Maar u bent nieuwsgierig genoeg om naar deze podcast te luisteren,
+
+46
+00:03:49,880 --> 00:03:54,960
+dus ook wellicht nieuwsgierig genoeg om zelf wat te gaan grasduinen in ESA Sky.
+
+47
+00:03:55,880 --> 00:04:01,200
+Wat houdt u bijvoorbeeld tegen om uw scholieren eens een project te laten doen via ESA Sky?
+
+48
+00:04:01,900 --> 00:04:07,280
+Laat ze in groepjes een object zoeken dat hen aanspreekt en er meer informatie over opzoeken.
+
+49
+00:04:07,280 --> 00:04:12,140
+Waar staat het aan de sterrenhemel? Zouden we het met het blote oog kunnen zien?
+
+50
+00:04:12,780 --> 00:04:16,820
+Wanneer is het ontdekt? Misschien kunnen ze er wel een spreekbeurt over houden.
+
+51
+00:04:17,560 --> 00:04:21,660
+Een link naar ESA Sky vindt u in de show notes van deze aflevering.
+
+52
+00:04:22,520 --> 00:04:26,980
+En mocht u daadwerkelijk een project met uw scholieren doen op basis van ESA Sky,
+
+53
+00:04:27,200 --> 00:04:29,420
+dan hoor ik natuurlijk graag hoe dat verlopen is.
+
+54
+00:04:29,420 --> 00:04:35,380
+Ik zit toevallig ook in de redactie van het kindertijdschrift over astronomie, de universum,
+
+55
+00:04:35,580 --> 00:04:39,380
+dus als uw scholieren project het waard is om daarin gepubliceerd te worden,
+
+56
+00:04:39,500 --> 00:04:41,260
+ben ik altijd bereid mee te denken.
+
+57
+00:04:41,400 --> 00:04:42,800
+Nou, blij om dat te horen.
+
+58
+00:04:43,100 --> 00:04:48,180
+El Badri en collega's zochten in de Gaia database naar heel specifieke objecten.
+
+59
+00:04:48,940 --> 00:04:54,940
+De Gaia-satelliet werd al in 2013 gelanceerd en is geparkeerd in het L2 Lagrange-punt,
+
+60
+00:04:55,280 --> 00:04:58,340
+waar we bijvoorbeeld ook de James Webb ruimtetelescoop vinden.
+
+61
+00:04:58,340 --> 00:05:06,100
+Hier hangt deze telescoop afgeschermd van de zon om een driedimensionale map te maken van het heelal om ons heen.
+
+62
+00:05:07,080 --> 00:05:10,280
+Een van de dingen die de Gaia-satelliet mogelijk maakt,
+
+63
+00:05:10,420 --> 00:05:14,700
+is het in kaart brengen van de eigen beweging of proper motion van sterren.
+
+64
+00:05:15,200 --> 00:05:17,520
+Zo op een avond als het helder weer is,
+
+65
+00:05:17,680 --> 00:05:21,240
+lijken de sterren op een gefixeerde plaats aan de hemel te staan.
+
+66
+00:05:21,880 --> 00:05:25,980
+En als u de sterrenhemel van vanavond vergelijkt met die van jaren geleden,
+
+67
+00:05:25,980 --> 00:05:31,600
+dan ziet u, behalve wat meer lichtvervuiling en Starlink-satellieten, misschien geen veranderingen.
+
+68
+00:05:32,240 --> 00:05:35,900
+Toch bewegen sterren ook zelf, de een wat meer dan de ander.
+
+69
+00:05:36,620 --> 00:05:39,540
+Edmund Halley ontdekte dit in 1718,
+
+70
+00:05:39,780 --> 00:05:45,480
+toen hij zag dat de positie van sommige heldere sterren afweek van wat de Griekse astronoom Hipparchus
+
+71
+00:05:45,480 --> 00:05:47,640
+2000 jaar eerder had waargenomen.
+
+72
+00:05:47,640 --> 00:05:52,680
+De ster met de grootste bekende eigen beweging is Barnards ster.
+
+73
+00:05:53,480 --> 00:05:58,820
+Deze beweegt zo'n 10,3 boogseconde per jaar ten opzichte van de rest van de sterrenhemel.
+
+74
+00:05:59,540 --> 00:06:04,320
+Met behulp van de Gaia-telescoop kunnen astronomen een enorme hoeveelheid gegevens
+
+75
+00:06:04,320 --> 00:06:08,540
+over de tijd van zo'n 1800 miljoen objecten raadplegen.
+
+76
+00:06:09,340 --> 00:06:12,780
+Door gegevens als eigen beweging en afstand te combineren,
+
+77
+00:06:12,780 --> 00:06:17,500
+wordt duidelijk hoe de sterrenhemel om ons heen in drie dimensies werkt en verandert
+
+78
+00:06:17,500 --> 00:06:20,020
+en ook wat de plaats van onze zon daarin is.
+
+79
+00:06:20,860 --> 00:06:26,980
+El Badri zocht naar sterren met een grote eigen beweging of proper motion en een grote parallax.
+
+80
+00:06:27,820 --> 00:06:33,340
+Tussen die twee begrippen, proper motion en parallax, zit een subtiel maar belangrijk verschil.
+
+81
+00:06:34,120 --> 00:06:38,040
+De proper motion is hoe een ster over de tijd over de hemel kruipt
+
+82
+00:06:38,040 --> 00:06:41,340
+en dus niet meer op de voorgaande positie terugkeert.
+
+83
+00:06:41,340 --> 00:06:48,440
+Parallax is de schommeling die een ster vertoont ten opzichte van de ver weggelegen achtergrondsterren over de tijd.
+
+84
+00:06:49,560 --> 00:06:54,940
+Specifiek kunnen we twee keer per jaar kijken en dan zullen sterren die dicht bij ons aan de hemel staan
+
+85
+00:06:54,940 --> 00:07:00,760
+een grote parallax vertonen en na exact een jaar weer min of meer op dezelfde positie staan
+
+86
+00:07:00,760 --> 00:07:02,840
+ten opzichte van de achtergrondsterren.
+
+87
+00:07:03,240 --> 00:07:06,300
+Tenzij ze natuurlijk ook een eigen beweging vertonen.
+
+88
+00:07:06,300 --> 00:07:13,000
+Als we die zoektocht van El Badri loslaten op de Gaia Data Release 3 catalogus,
+
+89
+00:07:13,240 --> 00:07:16,300
+rolt er een tabel uit met 25 objecten.
+
+90
+00:07:17,240 --> 00:07:22,140
+U kunt het zelf herhalen en de tabel downloaden als bijvoorbeeld een CSV-bestand,
+
+91
+00:07:22,360 --> 00:07:25,180
+zodat u het in Excel of in Numbers kunt openen.
+
+92
+00:07:25,400 --> 00:07:25,980
+Tuurlijk!
+
+93
+00:07:25,980 --> 00:07:30,620
+De exacte query staat in het artikel The Fastest Stars in the Galaxy,
+
+94
+00:07:30,940 --> 00:07:33,380
+waarnaar u ook een linkje vindt in de show notes.
+
+95
+00:07:34,480 --> 00:07:39,540
+El Badri deed nog iets speciaals en dat was alleen zoeken naar tamelijk blauwe sterren.
+
+96
+00:07:39,640 --> 00:07:39,800
+Ah!
+
+97
+00:07:40,680 --> 00:07:45,160
+Dat is omdat de interesse vooral uitging naar zogenaamde witte dwergsterren
+
+98
+00:07:45,160 --> 00:07:49,360
+die blauwer in de hemel zijn dan de veel meer voorkomende rodere sterren.
+
+99
+00:07:49,880 --> 00:07:53,760
+Hier hoort nog een verklaring bij die mijns inziens ook wel interessant is.
+
+100
+00:07:53,900 --> 00:07:54,520
+Heel interessant!
+
+101
+00:07:54,520 --> 00:07:58,200
+Ontploffende sterren noemen we ook wel supernova's.
+
+102
+00:07:58,920 --> 00:08:00,820
+Daar bestaan verschillende soorten van.
+
+103
+00:08:02,140 --> 00:08:07,120
+Een supernova type 1a kan plaatsvinden in dubbelster-systemen
+
+104
+00:08:07,120 --> 00:08:10,160
+waarvan tenminste één ster een witte dwergster is.
+
+105
+00:08:10,800 --> 00:08:14,620
+Zo'n witte dwergster is een bejaarde ster die helemaal opgebrand is
+
+106
+00:08:14,620 --> 00:08:17,500
+en waar dus geen kernfusie meer in plaatsvindt.
+
+107
+00:08:18,020 --> 00:08:22,860
+Het is wel een speciaal geval, want een witte dwergster mag aan het einde van haar leven
+
+108
+00:08:22,860 --> 00:08:26,840
+een massa hebben van 1,4 keer die van onze zon of minder.
+
+109
+00:08:26,840 --> 00:08:32,240
+Een zwaardere ster dan dat overschrijdt de zogenaamde Chandra-Sekar-massa
+
+110
+00:08:32,240 --> 00:08:34,800
+en wordt dan een neutronenster of zwart gat.
+
+111
+00:08:35,800 --> 00:08:38,320
+Een witte dwergster gloeit nog wel een tijdje na.
+
+112
+00:08:39,100 --> 00:08:42,960
+Als ook dit nagloeien helemaal op is, noemen we het een zwarte dwergster,
+
+113
+00:08:43,160 --> 00:08:46,760
+maar die bestaat nog niet omdat het heelal daar nog niet oud genoeg voor is.
+
+114
+00:08:46,760 --> 00:08:52,160
+In bepaalde gevallen zal een witte dwergster ook onderdeel zijn van een binair stelsel.
+
+115
+00:08:52,660 --> 00:08:56,020
+Dat betekent dat er nog iets om die witte dwerg heen draait.
+
+116
+00:08:56,580 --> 00:08:59,620
+De intense zwaartekracht van de witte dwergster
+
+117
+00:08:59,620 --> 00:09:03,660
+kan middels accretie zo'n begeleider langzaam leeg slurpen
+
+118
+00:09:03,660 --> 00:09:08,300
+en dan kan er een reactie optreden waarbij de witte dwergster in één keer ontploft
+
+119
+00:09:08,300 --> 00:09:11,440
+in zo'n supernova type 1a-explosie.
+
+120
+00:09:11,440 --> 00:09:17,400
+Daarbij komt 1 tot 2 maal 10 tot de 44ste joule aan energie vrij.
+
+121
+00:09:18,920 --> 00:09:22,860
+Dit klinkt mogelijk een beetje alsof we dit proces uit en daarna door hebben,
+
+122
+00:09:23,300 --> 00:09:25,280
+maar in werkelijkheid is het maar een theorie
+
+123
+00:09:25,280 --> 00:09:29,120
+en zijn witte dwergen en dan met name witte dwerg-supernova's
+
+124
+00:09:29,120 --> 00:09:30,960
+nog buitengewoon mysterieus.
+
+125
+00:09:31,740 --> 00:09:34,800
+De witte dwerg het dichtst bij ons is Sirius B,
+
+126
+00:09:35,100 --> 00:09:39,300
+de begeleider van die heldere ster Sirius in het sterrenbeeld de grote hond.
+
+127
+00:09:39,300 --> 00:09:46,180
+Sirius en ook Sirius B vinden we op een bescheiden afstand van 8,6 lichtjaar van ons vandaan.
+
+128
+00:09:46,920 --> 00:09:49,280
+Witte dwergsterren zijn niet heel zeldzaam.
+
+129
+00:09:49,740 --> 00:09:53,660
+Zo'n 97% van alle bekende sterren in onze melkweg
+
+130
+00:09:53,660 --> 00:09:57,040
+is niet zwaar genoeg om een neutronenster of zwart gat te worden
+
+131
+00:09:57,040 --> 00:09:59,840
+en eindigt dan uiteindelijk als witte dwerg.
+
+132
+00:10:00,540 --> 00:10:02,400
+Ook onze zon wacht dit lot,
+
+133
+00:10:02,720 --> 00:10:05,440
+al zullen wij er niet meer bij zijn om dit te aanschouwen.
+
+134
+00:10:05,500 --> 00:10:06,460
+Oh, dat is niet best.
+
+135
+00:10:06,460 --> 00:10:09,020
+Onze planeet aarde is dan al lang vergaan,
+
+136
+00:10:09,140 --> 00:10:11,600
+omdat de zon eerst nog een rode reus zal worden.
+
+137
+00:10:12,720 --> 00:10:15,620
+Inmiddels kennen we een paar duizend witte dwergsterren.
+
+138
+00:10:16,160 --> 00:10:20,840
+Maar hoe deze exact tot een supernova 1a-explosie kunnen evolueren
+
+139
+00:10:20,840 --> 00:10:22,340
+is nog lang niet duidelijk.
+
+140
+00:10:22,780 --> 00:10:25,640
+Vooral natuurlijk ook omdat we er altijd te laat bij zijn.
+
+141
+00:10:26,340 --> 00:10:29,220
+We zien de supernova, maar niet wat eraan vooraf ging.
+
+142
+00:10:29,220 --> 00:10:34,060
+Een bepaalde theorie staat bekend als het D6-scenario,
+
+143
+00:10:34,500 --> 00:10:39,840
+waarbij D6 staat voor Dynamically Driven Double Degenerate Double Detonation.
+
+144
+00:10:40,600 --> 00:10:43,780
+Hierbij vinden we een dubbelster van twee witte dwergsterren
+
+145
+00:10:43,780 --> 00:10:46,000
+die steeds dichter om elkaar gaan draaien.
+
+146
+00:10:46,660 --> 00:10:50,240
+Dat Double Detonation staat voor een dubbele ontploffing
+
+147
+00:10:50,240 --> 00:10:52,100
+die dan mogelijk kan plaatsvinden.
+
+148
+00:10:52,100 --> 00:10:58,620
+Eerst een heliumontploffing aan het oppervlak van de zwaarste van de twee witte dwergsterren,
+
+149
+00:10:58,940 --> 00:11:03,940
+direct gevolgd door een koolstof-explosie in de kern van die zwaarste witte dwergster.
+
+150
+00:11:04,640 --> 00:11:09,260
+Het is dan de vraag wat er gebeurt met die lichtere van de twee witte dwergsterren
+
+151
+00:11:09,260 --> 00:11:10,100
+als de ander explodeert.
+
+152
+00:11:10,880 --> 00:11:13,540
+Ja, dat is wel een hele interessante vraag.
+
+153
+00:11:13,540 --> 00:11:18,500
+Het zou kunnen zijn dat de lichtere witte dwergster het voorbeeld volgt en ook ontploft.
+
+154
+00:11:18,720 --> 00:11:20,640
+Misschien ook wel in een dubbele ontploffing.
+
+155
+00:11:20,800 --> 00:11:22,780
+Van eerst helium en dan koolstof.
+
+156
+00:11:23,600 --> 00:11:27,260
+Maar er bestaat ook een theorie die zegt dat de lichtere witte dwergster
+
+157
+00:11:27,260 --> 00:11:31,620
+bij deze supernova-explosie wegschiet en een eigen leven gaat leiden.
+
+158
+00:11:32,460 --> 00:11:35,540
+Veel astronomen denken dat zo'n wegschietende witte dwergbegeleider
+
+159
+00:11:36,260 --> 00:11:37,960
+dan in een rechte lijn beweegt,
+
+160
+00:11:37,960 --> 00:11:42,620
+met ongeveer de snelheid waarmee deze eerst om de zwaardere witte dwerg heen draaide.
+
+161
+00:11:43,540 --> 00:11:48,220
+Een beetje zoals wanneer u als een discuswerper eerst een paar keer om uw as draait
+
+162
+00:11:48,220 --> 00:11:53,280
+en vervolgens de discus loslaat en deze in een rechte lijn over het sportveld schiet.
+
+163
+00:11:54,380 --> 00:11:58,140
+Maar het kan natuurlijk ook zo zijn dat zo'n wegschietende witte dwergster
+
+164
+00:11:58,140 --> 00:12:02,420
+ook nog een extra zetje krijgt als gevolg van de supernova-explosie.
+
+165
+00:12:03,520 --> 00:12:07,620
+Deze wegschietende witte dwergsterren hebben nog een eigenaardige eigenschap.
+
+166
+00:12:07,620 --> 00:12:10,660
+Want voordat zij begonnen met hun rechte baan
+
+167
+00:12:10,660 --> 00:12:15,300
+werden ze leeggezogen door die zwaardere witte dwergsterren waar ze omheen draaiden.
+
+168
+00:12:16,500 --> 00:12:20,220
+Dat betekent dat ze opvallen door de afwezigheid van waterstof
+
+169
+00:12:20,220 --> 00:12:22,540
+en mogelijk ook de afwezigheid van helium.
+
+170
+00:12:23,480 --> 00:12:26,400
+Wat overblijft is een compacte koolstofbal
+
+171
+00:12:26,400 --> 00:12:30,380
+met mogelijk wat zuurstof en koolstof in een atmosfeer eromheen.
+
+172
+00:12:30,380 --> 00:12:33,700
+En misschien nog wat elementen als silicium en magnesium.
+
+173
+00:12:34,940 --> 00:12:37,600
+El Badri combineerde de Gaia-gegevens
+
+174
+00:12:37,600 --> 00:12:41,520
+met aardse spectroscopische waarnemingen van dezelfde objecten.
+
+175
+00:12:42,480 --> 00:12:45,760
+Specifiek werden daarvoor de Magellan-Baden-telescoop
+
+176
+00:12:45,760 --> 00:12:48,640
+van het Las Capagnes Observatory in Chili
+
+177
+00:12:48,640 --> 00:12:52,400
+en de KEK-1-telescoop in Mauna Kea, Hawaii gebruikt.
+
+178
+00:12:53,100 --> 00:12:57,660
+De spectra van de zes snelste door onze melkwegschiezende witte dwergsterren
+
+179
+00:12:57,660 --> 00:13:00,800
+uit de Gaia-catalogus bleken inderdaad af te wijken,
+
+180
+00:13:01,180 --> 00:13:03,200
+met name door het ontbreken van helium.
+
+181
+00:13:03,600 --> 00:13:08,340
+Met één uitzondering, dat was object J13323541.
+
+182
+00:13:09,280 --> 00:13:12,480
+Toch leiden de andere waargenomen eigenschappen ertoe
+
+183
+00:13:12,480 --> 00:13:18,020
+dat El Badri ook dit object aanwijst als kandidaat D6-witte dwergster.
+
+184
+00:13:18,760 --> 00:13:23,520
+Mogelijk vond de supernova-explosie in dat ene specifieke geval plaats
+
+185
+00:13:23,520 --> 00:13:25,960
+voordat alle helium weggestript was.
+
+186
+00:13:25,960 --> 00:13:28,600
+Of kwam er helium vrij bij de supernova,
+
+187
+00:13:28,800 --> 00:13:32,360
+waarvan een deel ingevangen werd door de donor-witte dwerg
+
+188
+00:13:32,360 --> 00:13:34,320
+voordat deze het hazenpad nam.
+
+189
+00:13:35,280 --> 00:13:38,440
+Maar de conclusies van het artikel zijn uiteraard voorzichtig.
+
+190
+00:13:39,160 --> 00:13:42,460
+Al met al worden er slechts vier kandidaten aangewezen
+
+191
+00:13:42,460 --> 00:13:44,440
+als D6-witte dwergsterren
+
+192
+00:13:44,440 --> 00:13:46,860
+en zijn we maar een klein beetje verder gekomen
+
+193
+00:13:46,860 --> 00:13:49,960
+in het begrijpen van het proces van type 1a-supernova's.
+
+194
+00:13:51,340 --> 00:13:53,280
+Met enige voorzichtigheid kunnen we denken
+
+195
+00:13:53,280 --> 00:13:58,180
+dat het dynamically driven double degenerate double detonation scenario
+
+196
+00:13:58,180 --> 00:14:00,380
+in ieder geval plausibel is.
+
+197
+00:14:00,480 --> 00:14:01,420
+Ah, I don't know.
+
+198
+00:14:01,600 --> 00:14:05,880
+En we weten dat er losse sterren met een rotgang door onze melk weg scheezen.
+
+199
+00:14:06,920 --> 00:14:10,340
+Zoals wel vaker in de wetenschap is meer onderzoek nodig
+
+200
+00:14:10,340 --> 00:14:12,940
+om beter te weten wat er nou precies gebeurt.
+
+201
+00:14:13,640 --> 00:14:17,660
+Het zou natuurlijk helemaal mooi zijn om het proces eens live mee te maken,
+
+202
+00:14:17,660 --> 00:14:20,420
+nog voordat er sprake is van een supernova.
+
+203
+00:14:21,040 --> 00:14:24,820
+Maar dat is een combinatie van een beetje geluk en een heleboel geduld.
+
+204
+00:14:26,020 --> 00:14:29,500
+En wat is tot slot de kans dat zo'n witte dwergster
+
+205
+00:14:29,500 --> 00:14:32,760
+die rechtlijnig door de melk weg trekt onze aarde treft?
+
+206
+00:14:32,980 --> 00:14:34,260
+En wat gebeurt er dan?
+
+207
+00:14:34,820 --> 00:14:37,960
+Nou, mocht het gebeuren, dan is dat niet best voor ons.
+
+208
+00:14:38,640 --> 00:14:42,640
+Een witte dwergster is dan wel ongeveer zo klein als onze planeet aarde,
+
+209
+00:14:42,800 --> 00:14:46,620
+maar heeft nog steeds een massa van een substantieel deel van onze zon.
+
+210
+00:14:46,620 --> 00:14:51,220
+En met een temperatuur van bijvoorbeeld 4000 Kelvin op het oppervlak,
+
+211
+00:14:51,640 --> 00:14:56,540
+een enorme snelheid ten opzichte van onze planeet en een intense zwaartekracht,
+
+212
+00:14:56,740 --> 00:14:59,680
+is een botsing dan wel het einde van al het leven hier.
+
+213
+00:15:01,320 --> 00:15:06,300
+Maar de kans is verwaarloosbaar klein dat dat in ons leven staat te gebeuren.
+
+214
+00:15:06,420 --> 00:15:07,320
+Oh, gelukkig!
+
+215
+00:15:07,500 --> 00:15:10,580
+Er is geen enkele aanwijzing dat de vier nieuw gevonden,
+
+216
+00:15:10,720 --> 00:15:14,560
+weggeslingerde D6-objecten het op onze planeet hebben gemunt.
+
+217
+00:15:14,560 --> 00:15:17,880
+Het is wel een aardig gedachte-experiment.
+
+218
+00:15:18,620 --> 00:15:22,160
+Wat zou u doen als er opeens in alle media het bericht verscheen
+
+219
+00:15:22,160 --> 00:15:27,120
+dat een witte dwergster met 2500 kilometer per seconde op de aarde afraast?
+
+220
+00:15:27,760 --> 00:15:32,140
+U hebt nog maar een week te leven en met u iedereen en alles op deze planeet.
+
+221
+00:15:33,000 --> 00:15:36,780
+Er is bij lange na niet genoeg tijd om een reddingspoging te ondernemen.
+
+222
+00:15:36,780 --> 00:15:40,920
+Nou ja, misschien stapt Elon Musk in een van zijn raketten
+
+223
+00:15:40,920 --> 00:15:43,760
+en leeft hij nog een paar maanden langer dan de rest van ons
+
+224
+00:15:43,760 --> 00:15:47,180
+in een ruimtevaartuig met wat energiedrankjes en blikvoer.
+
+225
+00:15:47,340 --> 00:15:48,780
+Maar voor de rest van de mensheid geldt...
+
+226
+00:15:50,380 --> 00:15:52,180
+U heeft nog zeven dagen.
+
+227
+00:15:53,100 --> 00:15:53,920
+Wat zou u doen?
+
+228
+00:15:54,340 --> 00:15:58,120
+Een deel van de mensen zal waarschijnlijk apathisch achterover hangen
+
+229
+00:15:58,120 --> 00:16:00,480
+in een luie stoel of niet meer uit bed komen.
+
+230
+00:16:00,480 --> 00:16:06,040
+De wereldeconomie zal waarschijnlijk direct in elkaar storten
+
+231
+00:16:06,040 --> 00:16:08,700
+omdat niemand nog naar haar of zijn werk zal omkijken
+
+232
+00:16:08,700 --> 00:16:10,900
+met nog maar zeven dagen in het vooruitzicht.
+
+233
+00:16:11,900 --> 00:16:15,340
+Ik vermoed dat ook een groot aantal mensen over zal stappen
+
+234
+00:16:15,340 --> 00:16:18,140
+op plunderingen, verkrachtingen en moordpartijen
+
+235
+00:16:18,140 --> 00:16:20,880
+omdat er geen repercussies meer aan verbonden kunnen worden.
+
+236
+00:16:22,320 --> 00:16:25,020
+Maar goed, wat de meute doet, dat zal allemaal wel.
+
+237
+00:16:25,160 --> 00:16:25,900
+Wat gaat u doen?
+
+238
+00:16:26,400 --> 00:16:28,240
+Gaat u langs bij familie of vrienden?
+
+239
+00:16:28,240 --> 00:16:31,940
+Of toch nog die cursus Spaans afmaken?
+
+240
+00:16:32,060 --> 00:16:34,500
+Me gusta escuchar Simmermani Space Podcast.
+
+241
+00:16:34,740 --> 00:16:37,000
+Sus twee akkoorden leren op uw gitaar?
+
+242
+00:16:39,740 --> 00:16:42,060
+Elke dag in het bad met bruisballen?
+
+243
+00:16:43,620 --> 00:16:46,740
+Alleen al daarover nadenken is soms goed voor ons.
+
+244
+00:16:46,980 --> 00:16:49,880
+Want wellicht sprong er wel iemand voor uw geestes oog
+
+245
+00:16:49,880 --> 00:16:52,080
+met wie u nog wat te verhapstukken heeft.
+
+246
+00:16:52,980 --> 00:16:56,280
+Misschien is vandaag wel een goed moment om haar of hem te bellen.
+
+247
+00:16:58,240 --> 00:17:03,380
+Of misschien is het sowieso wel leuk om die cursus Spaans te gaan doen.
+
+248
+00:17:03,560 --> 00:17:05,720
+Es divertido aprender Español.
+
+249
+00:17:05,860 --> 00:17:09,100
+Vooral ook omdat er voor de meeste van ons geen enkele reden is
+
+250
+00:17:09,100 --> 00:17:12,120
+om aan te nemen dat u nog maar zeven dagen te leven heeft.
+
+251
+00:17:12,800 --> 00:17:16,120
+Ik wens u er veel plezier mee en tot de volgende keer.
+
+252
+00:17:16,380 --> 00:17:21,780
+Dank u wel.
+
+253
+00:17:21,920 --> 00:17:26,480
+Eindelijk Olen covenant.
+

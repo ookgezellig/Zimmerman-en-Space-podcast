@@ -1,0 +1,167 @@
+U luistert naar Zimmerman & Space.
+Zullen we samen zien dat het allemaal niet zo eenvoudig is.
+Oh, gelukkig!
+Het atoommodel waarbij elektronen vrolijk rondjes draaien...
+...rond een kern van protonen en neutronen...
+...staat bekend als het Niels Bohr atoommodel.
+Alhoewel dit voor die tijd, en dan hebben we het over 1913...
+...een hele verbetering was op voorgaande modellen...
+...is het atoommodel van Werner Heisenberg en Edwin Schreudinger...
+...van rond 1927 nauwkeuriger.
+Nog niet compleet, maar nauwkeuriger in het beschrijven...
+...van wat we heden te dagen meemaken in deeltjesversnellers.
+In dit nieuwere model is een elektron geen klein, zelfstandig balletje...
+...maar een zone rond de kern waar het elektron de grootste kans heeft...
+...waargenomen te worden.
+Tot die waarneming gedaan wordt, is het elektron geen discreet deeltje...
+...dat rondjes draait, maar een golf.
+Een volk van mogelijkheden.
+Maar goed, dit verhaal heeft u misschien wel eens eerder gehoord.
+Hij heeft de klok horen luiden, maar weet niet waar de klepel hangt.
+Vandaag dalen we nog dieper naar beneden...
+...en zullen we ons concentreren op één deeltje in de kern van het atoom.
+Het proton.
+Het idee dat een proton een positief geladen balletje is...
+...waar we twee upquarks en één downquark in aantreffen...
+...zullen we moeten loslaten, eenvoudigerweg omdat de experimentele praktijk uitwijst...
+...dat dit geen volledig beeld is van wat een proton is.
+Oh, dat is niet best.
+Net als een elektron is een proton een kwantummechanisch object...
+...dat bestaat uit een zee van mogelijke vormen...
+...totdat het door een waarneming gedwongen wordt...
+...tijdelijk een bepaalde concrete vorm aan te nemen.
+En met de jaren is die zee van mogelijkheden groter en mysterieuzer geworden.
+Zo verscheen op 17 augustus 2022 een artikel in Nature met de titel...
+Evidence for Intrinsic Charm Quarks in the Proton.
+Intrinsieke Charm Quarks in een Proton.
+Dat klinkt op het eerste gehoor heel onschuldig...
+...maar als we er een lijstje met massa's van elementaire deeltjes naast leggen...
+...zien we iets opvallends.
+Die Charm Quarks en Antiquarks hebben veel meer massa...
+...dan de Up-and-Down Quarks waar een proton uit schijnt te bestaan.
+Sterker nog, één Charm Quark heeft meer massa dan een heel proton zelf.
+Dat is vreemd.
+Hoe kan iets dat we in een proton aantreffen...
+...nou meer massa hebben dan het proton zelf?
+De massa van zulke kleine deeltjes meten wetenschappers in mega-electron-volt per c-kwadraat...
+...waarbij c de lichtsnelheid is.
+Waarom die eenheid gebruikt wordt, is onderwerp voor een toekomstige aflevering van deze podcast.
+Ik wil het ook niet nodeloos ingewikkeld maken.
+Hm, dat weet ik nog niet zo zeker.
+En het doet er voor nu ook niet toe of we massa meten in mega-electron-volt per c-kwadraat...
+...in nanogrammen of in konijnen per volle maan.
+Laten we er gewoon wat getallen aan hangen.
+Oké.
+Al doende wordt hopelijk duidelijk wat we daaraan hebben.
+Als eenheid gebruiken we dan een MEF...
+...wat staat voor mega-electron-volt per c-kwadraat.
+Een up-kwark heeft een massa van 1,9 MEF.
+Een down-kwark 4,4 MEF.
+We zeiden al dat een proton twee up-kwarks en één down-kwark kent.
+Dat is samen 8,2 MEF.
+Toch is de massa van één proton 938 MEF.
+Waarom?
+Waarom?
+Dat heeft te maken met nog een deeltje dat kwarks bij elkaar houdt.
+Dit deeltje heet het gluon, een soort lijmdeeltje.
+Een gluon zelf heeft geen massa...
+...maar het gluonveld dat de up-kwarks en de down-kwark in een proton bij elkaar houdt...
+...bevat dusdanig veel energie dat dit 99% van de massa van een proton uitmaakt.
+938 MEF.
+Zo'n gluonveld bestaat uit meerdere gluons.
+En nu is er dus experimenteel vastgesteld...
+...dat er een charm-anti-charm-kwarkpaar in een proton aangetroffen kan worden.
+En niet zomaar eens in een miljoen jaar gedurende een femtoseconde...
+...maar meer permanent.
+Intrinsiek noemt men dat.
+Daarover zometeen meer.
+Maar wat we nu weten is dat we eigenlijk niet meer met goed fatsoen kunnen beweren...
+...dat een proton uitsluitend bestaat uit twee up-kwarks en een down-kwark.
+En het gewicht van zo'n charm-kwark?
+Wow.
+1320 MEF.
+Meer dan het proton zelf.
+Dat kan je je toch niet voorstellen?
+Ik kan me voorstellen dat u als luisteraar misschien vraagtekens bij dit soort onderzoek zet.
+Want is dit geneuzel over deeltjes en anti-deeltjes puur theoretisch?
+We kunnen hier toch niks van onder de microscoop zien?
+Well, I don't see it.
+Dat laatste klopt op zich wel, maar er zijn wel methodes om informatie uit zo'n proton te forceren.
+Al in 1967 lukte het wetenschappers van de Stanford Linear Accelerator Center...
+...om elektronen met heel veel energie af te schieten op protonen in een deeltjesversneller.
+Wat er dan kan gebeuren heet deep inelastic scattering.
+Mag het in het Nederlands?
+Jawel hoor, dat kunnen we vertalen als diepe inelastische verstrooiing.
+Dit proces wordt diep inelastisch genoemd omdat de energieoverdracht tijdens de botsing groot genoeg is...
+...om de interne structuur van het proton tijdelijk even in de war te schoppen.
+Wanneer zo'n proton in een deeltjesversneller wordt geraakt door een elektron...
+...wordt het verstrooid door uitwisseling van virtuele deeltjes met quarks.
+Door die verstrooiingsgegevens te bestuderen...
+...door te kijken hoe deeltjes weer wegschieten uit die verstrooiingsbotsing...
+...kunnen wetenschappers informatie verkrijgen over de verdeling van quarks binnen het proton.
+Tot 1967 was een quark alleen een theoretisch concept.
+De ontdekkingen die met deep inelastic scattering werden gedaan...
+...leverde een Nobelprijs op aan de betrokken wetenschappers.
+Inmiddels zijn er velen van dit soort experimenten gedaan in steeds krachtigere deeltjesversnellers.
+Er kan gevarieerd worden met de hoeveelheid energie van elektronen die op een proton worden afgevuurd.
+Al deze experimenten leren ons meer over de interne structuur van protonen.
+In de Hadron Electron Ring Accelerator of HERA deeltjesversneller in Hamburg, Duitsland...
+...werd rond de eeuwwisseling veel baanbrekend werk gedaan met behulp van deep inelastic scattering.
+Met veel meer energie dan in de Stanford deeltjesversneller ooit mogelijk was...
+...werden protonen onderzocht.
+In één enkel proton werd bij dat onderzoek een zee aan quarks en anti-quarks aangetroffen.
+En dan komen we ook weer even terug bij die gluons, die lijmdeeltjes in een proton.
+Deeltjes visici gaan ervan uit dat een gluon in staat is een deel van de energiehuishouding te regelen...
+...binnen een proton door over te gaan in een quark en een anti-quark.
+Deze twee deeltjes heffen elkaar dan weer op...
+...en zo is een heel klein beetje energie afgevoerd in een uiterst subtiel proces binnenin een proton.
+We zullen het voor nu even hierbij laten en er een grote accolade achter zetten...
+...anders wordt het ook veel te ingewikkeld.
+Resumerend.
+Eén proton, het deeltje dat we in elk atoom in het complete heelal tegenkomen...
+...kent twee permanente up-quarks en één permanente down-quark.
+Dat is van belang, want als dat niet zo was, was het simpelweg geen proton.
+Met twee down-quarks en één up-quark zou het bijvoorbeeld automatisch een neutron zijn...
+...een minstens even gecompliceerd deeltje, maar dat terzijde.
+In het proton vinden we ook intrinsiek een charm- en een anti-charm-quark...
+...die ieder meer massa hebben dan één proton.
+En dan nog een zee van deeltjes en anti-deeltjes, waaronder quarks en anti-quarks.
+Dat die charm- en anti-charm-quark intrinsiek worden genoemd...
+...wil zoveel zeggen als dat ze standaard onderwel zijn van wat een proton is.
+Wetenschappers zouden kunnen zeggen dat ze in bepaalde vorm aanwezig zijn...
+...in de golffunctie van een proton.
+Ik weet niet of het daar echt duidelijker van wordt.
+Dit is allemaal heel vreemd en toch kennelijk noodzakelijk.
+Want zo'n beetje alles bestaat uit protonen.
+Bijna alles, niet alles.
+Op dit moment weten we bijvoorbeeld niet wat donkere materie is...
+...en of deze wel opgebouwd is uit quarks.
+Het zou dus best zo kunnen zijn dat het grootste gedeelte van het heelal uit iets bestaat...
+...dat we nog niet kennen of mogelijk niet uit quarks bestaat.
+Onze dagelijkse materie, die is helemaal opgebouwd uit atomen...
+...met daarin atoomkernen met protonen.
+Dat weten we wel.
+Een gitaarsnaar? Protonen.
+Oude bananenschil? Protonen.
+Een afgeknipte nagel? Protonen.
+Maar dat is natuurlijk nog niet gelijk aan alles.
+Alles is namelijk wel heel erg veel.
+De droom die u had, die bestaat niet uit protonen.
+Uw hersenen, die wel bestaan uit atomen met daarin protonen...
+...maakten de droom mogelijk, maar dat is middelijk.
+Net zoals de klap die u met een hamer uitdeelt niet bestaat uit hamer.
+Hoe langer ik nadenk over deze materie, hoe verbazingwekkender ik het heden vind.
+We kunnen zeggen, wat was er voor de oerknal?
+Of ons altijd maar over dat verre verleden buigen, waarin schijnbaar iets uit niets ontstond.
+En we kunnen met een vergelijkbare verwondering naar het heden kijken.
+In alles wat we de hele dag gebruiken.
+Iedereen die we ontmoeten.
+Hey, how's it going?
+In dat alles functioneert op het allerkleinste niveau een efficiënt en autonoom systeem.
+Een systeem waarin ook aan de lopende band deeltjes uit het niets ontstaan en elkaar weer opheffen.
+En waarom is dat zo?
+Wat gaat daaraan vooraf?
+En was dat iets er ook al voor de oerknal?
+Daar zullen we het in de volgende aflevering over hebben.
+Dus wellicht tot de volgende keer.
+***

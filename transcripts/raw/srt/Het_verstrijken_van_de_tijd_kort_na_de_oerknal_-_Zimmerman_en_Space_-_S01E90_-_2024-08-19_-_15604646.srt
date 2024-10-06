@@ -1,0 +1,856 @@
+1
+00:00:00,000 --> 00:00:03,880
+Yes, machines come in and men go out.
+
+2
+00:00:04,440 --> 00:00:07,720
+U luistert naar Zimmerman & Space.
+
+3
+00:00:10,000 --> 00:00:21,160
+Regelmatig kreeg ik mails over het verstrijken van de tijd en de gedachte dat de tijd in de begindagen van ons helal, vlak na de oerknal, anders verliep dan heden ten dagen.
+
+4
+00:00:21,160 --> 00:00:34,140
+Het idee is dan dat de materie van het complete helal direct na de oerknal dusdanig dicht op elkaar gepakt zat dat de zwaartekrachtinvloed hiervan merkbaar zou zijn op het verstrijken van de tijd.
+
+5
+00:00:34,660 --> 00:00:39,520
+Een effect dat we sinds Einstein kennen en dat we ook al tijddilatatie noemen.
+
+6
+00:00:40,280 --> 00:00:49,300
+De daaraan vaak gekoppelde vraag is, als tijddilatatie echt een ding is, is dit helal dan wel echt 13,8 miljard jaar oud?
+
+7
+00:00:49,300 --> 00:00:51,120
+Is het niet veel ouder?
+
+8
+00:00:52,680 --> 00:00:58,300
+In de aflevering van vandaag zullen we samen kijken naar de zin en onzin van deze redenering.
+
+9
+00:00:59,340 --> 00:01:09,660
+Het klinkt bij aanvang misschien als erg vaag en speculatief, maar wees gerust, er is zelfs een mooi recent artikel over precies dit onderwerp aan te wijzen.
+
+10
+00:01:09,780 --> 00:01:10,780
+Nou, dat is interessant.
+
+11
+00:01:11,400 --> 00:01:16,300
+Om de geschiedenis van het helal te onderzoeken, kijken we eerst naar het helal direct om ons heen...
+
+12
+00:01:16,300 --> 00:01:20,240
+en kijken vervolgens naar steeds verder weg liggende objecten.
+
+13
+00:01:21,000 --> 00:01:27,940
+Daarmee kijken we dus ook steeds verder terug in de tijd, waarmee we recht van spreken krijgen over de toestand van lang geleden.
+
+14
+00:01:28,820 --> 00:01:33,300
+We weten nog maar een eeuw dat het helal niet statisch is, maar uitdijdt...
+
+15
+00:01:33,300 --> 00:01:37,520
+omdat we de roodverschuiving van ver weggelegen objecten kunnen meten.
+
+16
+00:01:37,520 --> 00:01:46,520
+Tot we dat wisten, zo rond 1920, dachten astronomen dat alles haar eigen plek in het helal had en dat daarmee de kous af was.
+
+17
+00:01:47,000 --> 00:01:51,880
+Wat wel een gekke gedachte is, want zwaartekracht was al wel bekend als verschijnsel...
+
+18
+00:01:51,880 --> 00:01:57,740
+en het ligt toch voor de hand dat in een helal waarin alles een beetje aan elkaar trekt met die zwaartekracht...
+
+19
+00:01:57,740 --> 00:02:00,500
+uiteindelijk alles op één hoop zou klonteren.
+
+20
+00:02:01,280 --> 00:02:06,040
+Het bleek andersom te zijn, ontdekte Edwin Hubble ook ongeveer een eeuw geleden.
+
+21
+00:02:06,560 --> 00:02:10,020
+Het helal dijt uit, en wel met een zekere versnelling.
+
+22
+00:02:11,740 --> 00:02:14,740
+Deze versnelling staat ook wel bekend als donkere energie...
+
+23
+00:02:15,300 --> 00:02:19,760
+wat een beetje een knullige manier is om te zeggen dat we nog niet begrijpen wat er aan de hand is.
+
+24
+00:02:19,760 --> 00:02:26,360
+Het idee hierachter is dat om versneld uit te kunnen dijden een toevoer van energie nodig is.
+
+25
+00:02:26,500 --> 00:02:28,000
+Ja, dat is logisch.
+
+26
+00:02:28,340 --> 00:02:33,840
+Om te bepalen hoe oud het helal is kunnen we deze merkwaardige, denkbeeldige film...
+
+27
+00:02:33,840 --> 00:02:37,140
+van een uitdijend helal achterstevoren afspelen.
+
+28
+00:02:39,520 --> 00:02:45,580
+Dan komen we uiteindelijk uit op een punt in de tijd waarin alles te dicht op elkaar gepakt zat.
+
+29
+00:02:45,580 --> 00:02:49,140
+Een soort achterstevoren draaiende oerknal dus.
+
+30
+00:02:49,760 --> 00:02:56,140
+We weten dat alleen de ruimte tussen sterrenstelsels uitdijdt, niet de sterrenstelsels zelf.
+
+31
+00:02:56,280 --> 00:03:02,980
+Die worden door de onderlinge zwaartekracht van sterren en waarschijnlijk ook donkere materie keurig bij elkaar gehouden.
+
+32
+00:03:03,720 --> 00:03:08,020
+Door nu te kijken hoe snel die sterrenstelsels uit elkaar bewegen...
+
+33
+00:03:08,020 --> 00:03:12,280
+en ook hoe grote afstanden tussen die sterrenstelsels inmiddels zijn...
+
+34
+00:03:12,280 --> 00:03:16,660
+kunnen we een aardige schatting maken van de tijd dat dit proces al gaande is.
+
+35
+00:03:17,000 --> 00:03:19,680
+Ook wel bekend als de leeftijd van ons helal.
+
+36
+00:03:19,760 --> 00:03:23,880
+Als we naar een sterrenstelsel ver van ons vandaan kijken...
+
+37
+00:03:23,880 --> 00:03:28,020
+dan is er uiteraard een verband tussen hoe ver het van ons afstaat...
+
+38
+00:03:28,020 --> 00:03:30,720
+en de snelheid waarmee het van ons afbeweegt.
+
+39
+00:03:31,980 --> 00:03:35,400
+Want hoe verder weg, hoe sneller het van ons afbeweegt.
+
+40
+00:03:36,340 --> 00:03:40,140
+Die relatie kunnen we uitdrukken als V is H maal D...
+
+41
+00:03:40,140 --> 00:03:46,180
+waarbij V de snelheid is, D de afstand en H de zogenaamde hubbelconstante.
+
+42
+00:03:46,240 --> 00:03:47,340
+Mag het in het Nederlands?
+
+43
+00:03:47,440 --> 00:03:48,800
+Een constant getal.
+
+44
+00:03:48,940 --> 00:03:51,240
+Ik weet niet of het daar echt duidelijker van wordt.
+
+45
+00:03:51,560 --> 00:03:56,260
+Het is vrij zeker dat die hubbelconstante niet altijd constant is geweest.
+
+46
+00:03:56,260 --> 00:04:01,120
+Het is eveneens vrij onzeker wat de hubbelconstante precies is.
+
+47
+00:04:01,500 --> 00:04:04,140
+Maar het is misschien wel geruststellend om te weten...
+
+48
+00:04:04,140 --> 00:04:09,420
+dat die onzekerheid steeds kleiner wordt door onze steeds beter wordende ruimtetelescopen.
+
+49
+00:04:10,200 --> 00:04:13,560
+Inmiddels denken astronomen dat de expansie van het helal...
+
+50
+00:04:13,560 --> 00:04:18,560
+sinds de oerknal eerst enigszins vertraagde door de grote rol van de zwaartekracht.
+
+51
+00:04:19,240 --> 00:04:25,060
+En daarna begon de versnelde uitdijing vanaf het moment dat de zwaartekracht tussen sterrenstelsels...
+
+52
+00:04:25,060 --> 00:04:28,920
+te gering werd ten opzichte van de afstand tussen sterrenstelsels.
+
+53
+00:04:29,640 --> 00:04:34,700
+Dat was dus het moment dat donkere energie begon te domineren over zwaartekracht.
+
+54
+00:04:35,520 --> 00:04:38,580
+Er bestaan natuurlijk wel lokale uitzonderingen op...
+
+55
+00:04:38,580 --> 00:04:41,940
+zoals bijvoorbeeld de Andromeda-nevel en onze melkweg...
+
+56
+00:04:41,940 --> 00:04:45,720
+die ondanks die versnelde uitdijing toch naar elkaar toebewegen...
+
+57
+00:04:45,720 --> 00:04:48,020
+omdat ze relatief dicht bij elkaar staan.
+
+58
+00:04:48,760 --> 00:04:50,680
+Dan wint de zwaartekracht het weer.
+
+59
+00:04:51,820 --> 00:04:58,240
+Door stom toeval leven we nu in een tijd dat die verminderde uitdijing van het begin van ons helal...
+
+60
+00:04:58,240 --> 00:05:02,360
+en de huidige versnelde uitdijing elkaar min of meer ophef...
+
+61
+00:05:02,360 --> 00:05:05,020
+in onze berekening van de leeftijd van het helal.
+
+62
+00:05:05,840 --> 00:05:10,020
+Die leeftijd van het helal is één gedeeld door de hubbelconstante.
+
+63
+00:05:10,020 --> 00:05:13,940
+Die hubbelconstante die ons zegt hoe snel het helal uitdijdt...
+
+64
+00:05:13,940 --> 00:05:19,800
+is momenteel berekend op 73,8 kilometer per seconde per megaparsec.
+
+65
+00:05:20,280 --> 00:05:22,540
+Al is niet iedereen het daarover eens.
+
+66
+00:05:22,920 --> 00:05:27,540
+En de leeftijd van het helal komt ermee uit op 13,8 miljard jaar.
+
+67
+00:05:28,080 --> 00:05:32,440
+De onzekerheid in deze berekening is maar ongeveer 21 miljoen jaar...
+
+68
+00:05:32,440 --> 00:05:33,560
+volgens het artikel...
+
+69
+00:05:33,560 --> 00:05:37,780
+Plank 2015 results, 13, cosmological parameters.
+
+70
+00:05:38,020 --> 00:05:39,280
+...uit 2015.
+
+71
+00:05:40,420 --> 00:05:45,000
+We zeiden in het begin al dat de tijd in de nabijheid van een object met massa...
+
+72
+00:05:45,000 --> 00:05:48,480
+trager tikt dan wanneer een dergelijk object afwezig is.
+
+73
+00:05:49,540 --> 00:05:50,360
+Dat is nogal een bewering...
+
+74
+00:05:50,360 --> 00:05:55,460
+en het vergt eveneens nogal wat van ons voorstellingsvermogen om dit te bevatten.
+
+75
+00:05:57,600 --> 00:06:00,520
+Tenzij u op uw hoofd staat of plat ligt...
+
+76
+00:06:00,520 --> 00:06:03,600
+wordt uw hoofd dus sneller ouder dan uw voeten.
+
+77
+00:06:05,140 --> 00:06:07,080
+Wacht, spoel ze even terug, Hans.
+
+78
+00:06:09,280 --> 00:06:12,200
+Tenzij u op uw hoofd staat of plat ligt...
+
+79
+00:06:12,200 --> 00:06:15,260
+wordt uw hoofd dus sneller ouder dan uw voeten.
+
+80
+00:06:15,260 --> 00:06:21,660
+Want uw voeten bevinden zich dichter bij het object met massa in kwestie, onze aarde, dan uw hoofd.
+
+81
+00:06:21,740 --> 00:06:23,900
+Oh, ik denk dat ik het nu begin te snappen.
+
+82
+00:06:24,200 --> 00:06:26,880
+Dat verschil is natuurlijk maar heel erg klein.
+
+83
+00:06:27,040 --> 00:06:27,960
+Oh, gelukkig.
+
+84
+00:06:28,240 --> 00:06:30,540
+Bij het nist hebben ze het voor u gemeten.
+
+85
+00:06:30,700 --> 00:06:31,940
+Echt? Hoeveel dan?
+
+86
+00:06:32,060 --> 00:06:35,420
+Als we een lijn loodrecht op het aardoppervlak nemen...
+
+87
+00:06:35,420 --> 00:06:40,260
+dan zien we dat het verschil in tijdse beleving over een afstand van 33 centimeter...
+
+88
+00:06:40,260 --> 00:06:45,960
+90 miljardste van de seconde is na een tijdsduur van 79 jaar.
+
+89
+00:06:46,100 --> 00:06:47,100
+Nou, dat is ook niet veel.
+
+90
+00:06:47,380 --> 00:06:49,500
+Maar toch interessant om te weten.
+
+91
+00:06:49,740 --> 00:06:51,060
+Nou, interessant.
+
+92
+00:06:51,480 --> 00:06:56,160
+Als u wel eens verzucht dat uw op zolder wonende dochter sneller ouder lijkt te worden...
+
+93
+00:06:56,160 --> 00:06:58,640
+dan uw andere dochter op de eerste etage...
+
+94
+00:06:58,640 --> 00:07:00,080
+dan heeft u dus toch gelijk.
+
+95
+00:07:01,140 --> 00:07:02,560
+Even samenvattend.
+
+96
+00:07:03,080 --> 00:07:06,900
+In de buurt van een object met massa vertraagt de teut.
+
+97
+00:07:06,900 --> 00:07:10,220
+Dit alles weten we door het werk van Albert Einstein.
+
+98
+00:07:11,000 --> 00:07:15,300
+Heel belangrijk om te beseffen is dat deze effecten geheel relatief zijn.
+
+99
+00:07:16,080 --> 00:07:20,180
+U op aarde ervaart het verstrijken van de tijd exact zoals iemand...
+
+100
+00:07:20,180 --> 00:07:22,900
+die zich een paar miljoen kilometer verderop in de ruimte bevindt.
+
+101
+00:07:23,860 --> 00:07:25,900
+Maar als die ander weer terugkomt op aarde...
+
+102
+00:07:26,520 --> 00:07:29,020
+zal haar horloge voorlopen op dat van u.
+
+103
+00:07:30,580 --> 00:07:33,900
+Dit effect kan op de lange termijn zeker een rol gaan spelen...
+
+104
+00:07:33,900 --> 00:07:38,380
+omdat het dan lastig wordt om over één standaard tijd te spreken.
+
+105
+00:07:39,440 --> 00:07:44,220
+We hadden het eerder in deze podcast al eens over de tijd op onze maan...
+
+106
+00:07:44,220 --> 00:07:46,300
+en hoe deze moet worden bijgehouden...
+
+107
+00:07:46,300 --> 00:07:49,700
+als we ons DZT permanent gaan vestigen op de maan.
+
+108
+00:07:49,820 --> 00:07:50,580
+Waar kan ik dan naartoe?
+
+109
+00:07:50,720 --> 00:07:55,060
+Dat is aflevering 11 van Zimmerman & Space met de titel Moonlight.
+
+110
+00:07:55,240 --> 00:07:56,960
+Mocht u deze willen terugluisteren.
+
+111
+00:07:57,920 --> 00:07:59,900
+Nu zijn we aangekomen bij onze beginvraag.
+
+112
+00:07:59,900 --> 00:08:05,980
+Als alle materie van dit helal direct naar de oerknal...
+
+113
+00:08:05,980 --> 00:08:08,260
+heel dicht op elkaar gepakt zat...
+
+114
+00:08:08,260 --> 00:08:12,180
+was de invloed van de zwaartekracht van die massa dan dusdanig...
+
+115
+00:08:12,180 --> 00:08:16,160
+dat de tijd daadwerkelijk langzamer verstreek dan nu?
+
+116
+00:08:16,280 --> 00:08:17,960
+Het antwoord is ja.
+
+117
+00:08:18,920 --> 00:08:21,480
+Maar dat laat ons nog met een paar vragen achter.
+
+118
+00:08:21,980 --> 00:08:23,160
+Hoe kunnen we dit weten?
+
+119
+00:08:23,580 --> 00:08:27,200
+Is het helal dan eigenlijk ouder dan 13,8 miljard jaar?
+
+120
+00:08:27,200 --> 00:08:32,340
+En ook hoeveel langzamer verstreek de tijd gedurende wat voor periode?
+
+121
+00:08:32,640 --> 00:08:37,020
+Laten we deze vragen in omgekeerde volgorde proberen te beantwoorden.
+
+122
+00:08:37,620 --> 00:08:40,200
+Volgens recente berekeningen, waarover zo meer...
+
+123
+00:08:40,800 --> 00:08:43,200
+verstreek de tijd zo'n vijf keer langzamer...
+
+124
+00:08:43,940 --> 00:08:46,880
+gedurende de eerste miljard jaar na de oerknal.
+
+125
+00:08:46,880 --> 00:08:57,920
+Dat is uiteraard een gemiddelde...
+
+126
+00:08:57,920 --> 00:09:00,540
+want hoe verder de materie van elkaar afbevoog...
+
+127
+00:09:00,540 --> 00:09:02,300
+hoe sneller de tijd ging tikken.
+
+128
+00:09:03,500 --> 00:09:05,200
+Dan rijst de vraag...
+
+129
+00:09:05,200 --> 00:09:08,700
+als het helal eerst een trager tikkende klok kende...
+
+130
+00:09:08,700 --> 00:09:11,460
+is het dan wel echt 13,8 miljard jaar oud?
+
+131
+00:09:11,460 --> 00:09:15,680
+Of is die tijddilatatie zoals we dit verschijnsel noemen...
+
+132
+00:09:15,680 --> 00:09:17,980
+meeberekend in de leeftijd van het helal?
+
+133
+00:09:18,080 --> 00:09:19,260
+Dat is eigenlijk een goede vraag.
+
+134
+00:09:19,520 --> 00:09:22,440
+Om deze vragen adequaat te kunnen beantwoorden...
+
+135
+00:09:22,440 --> 00:09:26,520
+moeten we eerst even stilstaan bij de implicatie van wat we ons afvragen.
+
+136
+00:09:26,960 --> 00:09:31,240
+Want suggereren we dan eigenlijk niet dat de klok zoals die in onze tijd tikt...
+
+137
+00:09:31,240 --> 00:09:34,460
+de standaard is waarnaar we de rest van het helal wensen te kalibreren?
+
+138
+00:09:35,640 --> 00:09:38,740
+Dat is een erg pre-Copernikaanse gedachte.
+
+139
+00:09:38,740 --> 00:09:43,000
+Einstein leerde ons juist dat natuurkundige berekeningen...
+
+140
+00:09:43,000 --> 00:09:44,980
+aan ruimte en tijd relatief zijn.
+
+141
+00:09:45,760 --> 00:09:49,160
+Met andere woorden, we kunnen onze eigen tijd niet verheffen...
+
+142
+00:09:49,160 --> 00:09:51,260
+tot de standaard der standaarden...
+
+143
+00:09:51,260 --> 00:09:55,480
+en beveren dat het helal eigenlijk ouder is dan 13,8 miljard jaar.
+
+144
+00:09:56,340 --> 00:09:58,840
+Als de huidige berekeningen kloppen...
+
+145
+00:09:58,840 --> 00:10:01,860
+dan is het helal 13,8 miljard jaar oud...
+
+146
+00:10:01,860 --> 00:10:04,880
+en is die tijddilatatie daarin verrekend.
+
+147
+00:10:05,660 --> 00:10:08,400
+Daar komt nog eens bij dat we in het geheel niet weten...
+
+148
+00:10:08,400 --> 00:10:10,780
+wat er exact gebeurde bij die oerknal...
+
+149
+00:10:10,780 --> 00:10:13,660
+en de zogenaamde planktijd sinds de oerknal.
+
+150
+00:10:14,260 --> 00:10:16,640
+Dat is ongeveer het tijdsbestek vanaf de oerknal...
+
+151
+00:10:16,640 --> 00:10:19,860
+tot 10 tot de min 43ste seconde.
+
+152
+00:10:20,440 --> 00:10:24,820
+Het is goed mogelijk dat er geen tijd bestond op het moment van de oerknal...
+
+153
+00:10:24,820 --> 00:10:29,540
+en dat deze asymptotisch op gang kwam in de planktijd sinds de oerknal.
+
+154
+00:10:29,540 --> 00:10:30,380
+Oké!
+
+155
+00:10:31,120 --> 00:10:35,480
+U hoort waarschijnlijk wel dat dit alleen al als bewering heel gammel klinkt...
+
+156
+00:10:35,480 --> 00:10:40,240
+want we hebben het over het ontstaan van de tijd gedurende een bepaalde tijdsduur.
+
+157
+00:10:41,600 --> 00:10:46,940
+Dat krijgt als bewering toch een zekere baron van Munchhausen-lading, nietwaar?
+
+158
+00:10:47,460 --> 00:10:52,000
+Maar alleen, het helal is dus echt maar 13,8 miljard jaar oud.
+
+159
+00:10:52,000 --> 00:10:52,520
+Echt?
+
+160
+00:10:52,840 --> 00:10:53,960
+Ja, echt.
+
+161
+00:10:55,080 --> 00:10:58,220
+Dan rest ons voor deze aflevering nog één vraag...
+
+162
+00:10:58,220 --> 00:11:00,180
+en dat is hoe we dit alles kunnen weten.
+
+163
+00:11:00,980 --> 00:11:04,940
+Eerder werk aan het eind van de vorige eeuw en het begin van deze eeuw...
+
+164
+00:11:04,940 --> 00:11:08,660
+werd vooral gedaan aan de roodverschuiving van supernova's.
+
+165
+00:11:09,180 --> 00:11:12,580
+Daar verscheen in 2008 een artikel over met de titel...
+
+166
+00:11:12,580 --> 00:11:16,460
+Time dilation in type 1a supernova spectra at high redshift.
+
+167
+00:11:16,460 --> 00:11:22,060
+Waarin de auteurs beschrijven dat tijddilatatie daadwerkelijk een meetbaar gegeven is...
+
+168
+00:11:22,060 --> 00:11:26,680
+aan de hand van de spectra van 13 ver van ons verwijderde supernova's.
+
+169
+00:11:28,340 --> 00:11:32,680
+Maar supernova's van langer dan zo'n 7 miljard jaar geleden...
+
+170
+00:11:32,680 --> 00:11:37,840
+zijn nou eenmaal te lichtzwak om nog waar te nemen met onze huidige technologische middelen...
+
+171
+00:11:37,840 --> 00:11:42,460
+en dus kon er weinig gezegd worden over de eerste paar miljard jaar na de oerknal.
+
+172
+00:11:42,600 --> 00:11:43,580
+Oh, dat is niet best.
+
+173
+00:11:43,580 --> 00:11:49,920
+Astronomen Lewis en Brewer gingen daarom kijken naar heldere objecten, zogenaamde quasars.
+
+174
+00:11:50,080 --> 00:11:51,840
+En kan je dit iets beter uitleggen?
+
+175
+00:11:51,980 --> 00:11:57,740
+Dat zijn centra van sterrenstelsels die zeer helder oplichten door de activiteit van een zwart gat.
+
+176
+00:11:58,980 --> 00:12:05,500
+Lewis en Brewer bestudeerden de gegevens van 190 quasars over een periode van 20 jaar.
+
+177
+00:12:06,360 --> 00:12:13,160
+De waargenomen quasars lieten het heelal zien van ongeveer 12 miljard jaar geleden tot 2,5 miljard jaar geleden.
+
+178
+00:12:13,940 --> 00:12:19,500
+Elke quasar in dit onderzoek werd een heleboel keer waargenomen op allerlei verschillende lichtfrequenties.
+
+179
+00:12:21,220 --> 00:12:26,180
+In januari 2023 publiceerde ze hierover een artikel met de titel...
+
+180
+00:12:26,180 --> 00:12:29,500
+Detection of the cosmological time dilation of high redshift quasars.
+
+181
+00:12:29,500 --> 00:12:35,840
+Auteur Lewis zegt dat hoe verder we het heelal inkijken en dus hoe verder we teruggaan in de tijd...
+
+182
+00:12:35,840 --> 00:12:38,840
+hoe trager gebeurtenissen voorschrijden.
+
+183
+00:12:39,720 --> 00:12:44,100
+Ook noemt hij hun onderzoek een geval van Einstein had alweer gelijk.
+
+184
+00:12:44,200 --> 00:12:45,380
+Tuurlijk, dat zouden we niet.
+
+185
+00:12:45,380 --> 00:12:49,040
+De tijddilatatie waar we het in deze aflevering over hebben...
+
+186
+00:12:49,040 --> 00:12:54,440
+kan dus worden waargenomen door krachtige telescopen te gebruiken om terug in de tijd te kijken...
+
+187
+00:12:54,440 --> 00:13:00,040
+met behulp van licht dat al ruim 12 miljard jaar naar ons onderweg is vanuit oude quasars.
+
+188
+00:13:00,920 --> 00:13:06,720
+Maar hoe zou u als u in staat zou zijn terug te reizen naar dat moment de voortgang van de tijd ervaren?
+
+189
+00:13:07,460 --> 00:13:08,760
+Daar zit je niet op te wachten.
+
+190
+00:13:08,760 --> 00:13:13,980
+Als u daadwerkelijk 1,5 miljard jaar na de oerknal zou kunnen worden geplaatst...
+
+191
+00:13:13,980 --> 00:13:17,100
+dan zou tijd volkomen normaal aanvoelen, zegt Lewis.
+
+192
+00:13:19,100 --> 00:13:22,460
+1 seconde zou gewoon voelen als 1 seconde...
+
+193
+00:13:22,460 --> 00:13:26,020
+en alles om u heen zou verlopen volgens het tempo dat u kent.
+
+194
+00:13:26,460 --> 00:13:28,640
+Het tempo dat de natuurkunde voorspelt.
+
+195
+00:13:29,700 --> 00:13:35,960
+In dit tijdreisexperiment zou het alleen mogelijk zijn het effect van tijddilatatie waar te nemen...
+
+196
+00:13:35,960 --> 00:13:43,100
+wanneer twee gesynchroniseerde klokken, waarvan één met de tijdreiziger mee naar het vroege tijdwerk van het universum gaat...
+
+197
+00:13:43,100 --> 00:13:46,200
+en de ander in onze tijd blijft, weer bij elkaar worden gebracht.
+
+198
+00:13:46,860 --> 00:13:48,540
+Wat helaas onmogelijk is.
+
+199
+00:13:49,560 --> 00:13:54,960
+Het zal nogal even duren voordat astronomen op zoek kunnen gaan naar een cosmologische tijddilatatie...
+
+200
+00:13:54,960 --> 00:13:59,080
+in een nog vroeger stadium van de geschiedenis van ons heelal.
+
+201
+00:13:59,960 --> 00:14:04,640
+Volgens Lewis bevinden we ons eigenlijk in een soort overgangsfase in de astronomie.
+
+202
+00:14:04,640 --> 00:14:09,640
+We krijgen de komende jaren allerlei nieuwe astronomische faciliteiten tot onze beschikking...
+
+203
+00:14:10,260 --> 00:14:16,860
+en de James Webb ruimtetelescoop begint al kwaasers en sterrenstelsels op belachelijk grote afstanden te vinden.
+
+204
+00:14:17,640 --> 00:14:23,720
+Maar we hebben ook lichtspectra nodig en we moeten weten hoe dingen in de loop van de tijd variëren...
+
+205
+00:14:23,720 --> 00:14:27,820
+en dat kost net als dat onderzoek van Lewis en Brewer decennia.
+
+206
+00:14:27,820 --> 00:14:34,820
+Ik vind het zelf al een verrassend idee dat precies die meetgegevens op dit moment al worden binnengehaald...
+
+207
+00:14:35,440 --> 00:14:37,820
+door onder andere die James Webb ruimtetelescoop.
+
+208
+00:14:39,280 --> 00:14:43,160
+Toekomstige astronomen, wellicht onze kinderen of kleinkinderen...
+
+209
+00:14:43,160 --> 00:14:46,820
+zullen misschien ooit met grote zekerheid uitrekenen en beredeneren...
+
+210
+00:14:47,520 --> 00:14:51,680
+wat er precies gebeurde in die eerste planktijd na de oerknal.
+
+211
+00:14:51,680 --> 00:14:55,420
+Maar ja, daar moeten we dan nog maar even op wachten.
+
+212
+00:14:55,880 --> 00:15:00,460
+Voor nu nog een prettige nacht of dag of misschien bent u al lang in slaap gevallen.
+
+213
+00:15:00,780 --> 00:15:02,020
+En tot de volgende keer.
+
+214
+00:15:02,020 --> 00:15:04,020
+Everything is going to be alright.
+

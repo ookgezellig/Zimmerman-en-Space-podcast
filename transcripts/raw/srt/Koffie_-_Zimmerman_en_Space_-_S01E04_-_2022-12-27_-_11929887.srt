@@ -1,0 +1,704 @@
+1
+00:00:00,000 --> 00:00:29,980
+Koffie in de Morgen
+
+2
+00:00:30,000 --> 00:00:35,700
+Maar ja, soms bevinden we ons in een wachtruimte van het ziekenhuis...
+
+3
+00:00:35,700 --> 00:00:39,220
+op een dinsdagmiddag in de openbare bibliotheek...
+
+4
+00:00:39,220 --> 00:00:42,500
+of gewoon omdat het kan en mag bij de supermarkt...
+
+5
+00:00:42,500 --> 00:00:46,500
+en wordt er toch een bekertje plaatsen en op een knop drukken.
+
+6
+00:00:47,980 --> 00:00:51,380
+Daar druppelt ons bakje troost in een bekertje.
+
+7
+00:00:54,800 --> 00:00:59,620
+De grote vraag is alleen, was dat de laatste druppel?
+
+8
+00:01:00,000 --> 00:01:02,000
+Kunnen we het bekertje...
+
+9
+00:01:02,000 --> 00:01:04,300
+Ah, toch te ongeduldig geweest.
+
+10
+00:01:04,720 --> 00:01:06,980
+En was dit dan de laatste druppel?
+
+11
+00:01:08,160 --> 00:01:10,700
+Ja, u denkt misschien, waar gaat dit heen?
+
+12
+00:01:11,120 --> 00:01:13,420
+Wat heeft dit met astronomie te maken?
+
+13
+00:01:13,780 --> 00:01:16,740
+Maar geen nood, dat wordt allemaal duidelijk.
+
+14
+00:01:16,740 --> 00:01:17,340
+Oké.
+
+15
+00:01:17,560 --> 00:01:20,740
+Die laatste koffiedruppels die in uw beker vallen...
+
+16
+00:01:20,740 --> 00:01:22,580
+volgen een numerieke functie.
+
+17
+00:01:23,360 --> 00:01:27,740
+Het is al te verleidelijk om te beweren dat dat een exponentieel verloop is...
+
+18
+00:01:28,440 --> 00:01:30,220
+maar ik weet niet of dat wel klopt.
+
+19
+00:01:30,780 --> 00:01:33,740
+Ik zat het te simuleren in max, dat is een programmeertaal...
+
+20
+00:01:34,960 --> 00:01:37,100
+met behulp van easingfuncties.
+
+21
+00:01:37,100 --> 00:01:38,660
+Het wordt gemakkelijk over de tijd.
+
+22
+00:01:39,100 --> 00:01:44,100
+En alhoewel het druppelen erg goed klinkt als we het exponentieel laten aflopen...
+
+23
+00:01:44,100 --> 00:01:47,680
+zou het ook nogal kadratisch of kubisch kunnen zijn.
+
+24
+00:01:48,460 --> 00:01:50,860
+We horen dat effect ook wel eens in huis...
+
+25
+00:01:50,860 --> 00:01:54,140
+als de centrale verwarming speelt met houten planken.
+
+26
+00:01:54,140 --> 00:01:59,140
+Toen wij in mijn jeugd als gezin in Groningen woonden in de Kattenhagen...
+
+27
+00:02:00,140 --> 00:02:01,140
+in een bijzonder oud huis...
+
+28
+00:02:01,920 --> 00:02:05,500
+luisterde ik in bed wel eens naar dat aflopende getik...
+
+29
+00:02:05,500 --> 00:02:09,300
+om te wachten tot het moment dat die laatste tik voorbij was.
+
+30
+00:02:10,340 --> 00:02:14,140
+Dat riep onwillekeurig de enigszins filosofische mijmering op...
+
+31
+00:02:14,980 --> 00:02:19,200
+Hoe kun je zeker weten dat dit echt de laatste tik was?
+
+32
+00:02:19,200 --> 00:02:24,760
+Hoezo zou er niet over, zeg, 100 jaar nog een tik komen?
+
+33
+00:02:27,080 --> 00:02:31,280
+Met die anticipatie voor een tik die misschien nooit komt...
+
+34
+00:02:31,280 --> 00:02:33,380
+verwijden we onze blik naar dit heelal.
+
+35
+00:02:33,780 --> 00:02:34,300
+Space.
+
+36
+00:02:36,300 --> 00:02:40,940
+We gaan ervan uit dat het heelal niet altijd zo is geweest als het nu is.
+
+37
+00:02:41,260 --> 00:02:42,940
+Dat weten we zelfs vrij zeker.
+
+38
+00:02:43,160 --> 00:02:43,620
+Echt waar?
+
+39
+00:02:43,860 --> 00:02:46,340
+13,8 miljard jaar geleden...
+
+40
+00:02:46,340 --> 00:02:49,440
+Toen alles wat we nu kennen nog op elkaar gepakt zat...
+
+41
+00:02:49,440 --> 00:02:52,340
+tot iets wat maar een fractie van het huidige heelal was...
+
+42
+00:02:53,020 --> 00:02:57,080
+waren de temperaturen en energieniveaus dusdanig hoog...
+
+43
+00:02:57,080 --> 00:03:00,540
+dat er geen sprake was van de natuurkunde zoals we die nu kennen.
+
+44
+00:03:01,620 --> 00:03:06,620
+Een van de belangrijkste bevindingen met het oog op de column die u nu hoort...
+
+45
+00:03:06,620 --> 00:03:11,340
+is het idee dat de vier fundamentele natuurkrachten die wij vandaag onderscheiden...
+
+46
+00:03:12,060 --> 00:03:14,320
+op dat moment nog één geheel waren.
+
+47
+00:03:14,320 --> 00:03:20,320
+Die vier fundamentele natuurkrachten zijn in volgorde van zwak naar sterk...
+
+48
+00:03:21,100 --> 00:03:27,360
+de zwaartekracht, de zwakke kernkracht, elektromagnetisme en de sterke kernkracht.
+
+49
+00:03:28,100 --> 00:03:33,100
+Hoe zo'n gecombineerde kracht er in de praktijk uitziet is nog een raadsel.
+
+50
+00:03:33,880 --> 00:03:37,320
+Vooral ook omdat ons denkraam werkzaam is in een heelal...
+
+51
+00:03:37,940 --> 00:03:42,460
+waarin die vier fundamentele natuurkrachten onderscheiden van elkaar werkzaam zijn.
+
+52
+00:03:42,460 --> 00:03:46,460
+Als we denken aan een heelal waarin geen zwaartekracht werkzaam is...
+
+53
+00:03:47,300 --> 00:03:50,200
+dan valt alles wat we prettig en bekend vinden in elkaar.
+
+54
+00:03:51,340 --> 00:03:57,340
+Maar er wordt wel al decennia gewerkt aan een grand unification theory of gut.
+
+55
+00:03:57,340 --> 00:04:00,340
+Als ik dat zo tussen neus en lip beweer...
+
+56
+00:04:01,000 --> 00:04:02,680
+dan is het makkelijk om te denken...
+
+57
+00:04:02,680 --> 00:04:04,120
+nou, dat zal dan wel...
+
+58
+00:04:04,120 --> 00:04:10,340
+en zoiets te vereenzelvigen met mensen die voor een schoolbord vol met belachelijk ingewikkelde formules staan...
+
+59
+00:04:10,900 --> 00:04:14,460
+en deeltjes versnellers waarmee experimenten worden ondernomen...
+
+60
+00:04:14,460 --> 00:04:17,320
+die voor ons gewone sterfelingen niet te volgen zijn.
+
+61
+00:04:17,320 --> 00:04:24,740
+Maar het is mijns inziens aardig één onderdeel van dit alles wat beter te begrijpen.
+
+62
+00:04:24,820 --> 00:04:25,360
+Dat is goed.
+
+63
+00:04:26,020 --> 00:04:31,400
+We concludeerden al dat die vier fundamentele natuurkrachten ooit één oerkracht waren.
+
+64
+00:04:31,560 --> 00:04:32,000
+Waarom?
+
+65
+00:04:32,660 --> 00:04:36,320
+Natuurkundigen denken dat zwaartekracht als eerste loskwam van die oerkracht...
+
+66
+00:04:37,120 --> 00:04:38,320
+toen de sterke kernkracht...
+
+67
+00:04:39,120 --> 00:04:44,220
+en dat tot slot elektromagnetisme en de zwakke kernkracht van elkaar loskwamen.
+
+68
+00:04:44,220 --> 00:04:49,620
+En dat laatste is iets wat in experimenten kan worden gesimuleerd.
+
+69
+00:04:49,720 --> 00:04:51,240
+Dat kan je je toch niet voorstellen?
+
+70
+00:04:51,500 --> 00:04:54,120
+In een deeltjes versneller zoals die van CERN...
+
+71
+00:04:54,120 --> 00:04:57,160
+kunnen elektromagnetisme en de zwakke kernkracht...
+
+72
+00:04:57,160 --> 00:05:02,420
+tijdelijk gecombineerd worden tot iets wat we zwak elektromagnetisme zouden kunnen noemen.
+
+73
+00:05:03,340 --> 00:05:07,680
+Dit alles vindt plaats bij temperaturen vanaf 10 tot de 15e Kelvin.
+
+74
+00:05:08,240 --> 00:05:10,860
+Iets wat in een deeltjes versneller bereikt kan worden.
+
+75
+00:05:10,860 --> 00:05:14,360
+Wie al langer naar mijn praatjes luistert...
+
+76
+00:05:14,360 --> 00:05:19,360
+weet dat er een hele reeks van exotische objecten in het heelal kan worden aangetroffen...
+
+77
+00:05:19,880 --> 00:05:22,660
+op plaatsen waar zware sterren zijn overleden.
+
+78
+00:05:23,760 --> 00:05:28,080
+Hoe meer massa de originele ster had, hoe groter de kans op een zwart gat.
+
+79
+00:05:28,760 --> 00:05:33,460
+Maar in dat schemergebied waar de massa niet doorrijkend is voor een zwart gat...
+
+80
+00:05:33,460 --> 00:05:38,860
+kunnen neutronensterren, kwarksterren en zelfs elektrozwakke sterren ontstaan.
+
+81
+00:05:39,960 --> 00:05:41,840
+Is althans de theorie.
+
+82
+00:05:42,840 --> 00:05:46,460
+Neutronensterren hebben we inmiddels in allerlei soorten en maten aan kunnen wijzen...
+
+83
+00:05:47,300 --> 00:05:52,560
+maar kwarksterren en elektrozwakke sterren zijn vooralsnog theoretische concepten.
+
+84
+00:05:52,560 --> 00:05:58,160
+De elektrozwakke ster is een concept dat we al in 2009 aantreffen...
+
+85
+00:05:58,160 --> 00:06:01,560
+in een wetenschappelijk artikel van Glenn Starkman getiteld...
+
+86
+00:06:02,160 --> 00:06:03,640
+Electro-Week Stars.
+
+87
+00:06:04,140 --> 00:06:08,240
+How nature may capitalize on the standard model's ultimate fuel.
+
+88
+00:06:09,340 --> 00:06:11,560
+Ik zet een link in de show notes van deze podcast...
+
+89
+00:06:12,640 --> 00:06:16,440
+maar wees gewaarschuwd, het is net als het object dat wordt beschreven...
+
+90
+00:06:16,440 --> 00:06:17,560
+een nogal dense artikel.
+
+91
+00:06:17,560 --> 00:06:20,860
+Ik krijg de indruk dat je het zelf niet eens snapt, Hans.
+
+92
+00:06:21,160 --> 00:06:23,180
+Laten we weer teruggaan naar ons verhaal.
+
+93
+00:06:23,900 --> 00:06:26,780
+Deze scheiding van fundamentele natuurkrachten...
+
+94
+00:06:26,780 --> 00:06:29,460
+vond al meer dan 13 miljard jaar geleden plaats.
+
+95
+00:06:30,120 --> 00:06:33,020
+Wij hebben veel te danken aan deze volgorde van zaken.
+
+96
+00:06:34,240 --> 00:06:38,140
+Eigenlijk alles hebben we te danken aan deze volgorde van zaken.
+
+97
+00:06:38,820 --> 00:06:42,700
+Dit hele verhaal met ons erin was iets totaal anders geweest...
+
+98
+00:06:42,700 --> 00:06:45,900
+als die geunificeerde kracht niet uiteen was gevallen...
+
+99
+00:06:45,900 --> 00:06:48,160
+in de vier fundamentele natuurkrachten...
+
+100
+00:06:48,160 --> 00:06:50,360
+waar we ons dagelijks leven mee inrichten.
+
+101
+00:06:51,460 --> 00:06:54,180
+Zonder die krachten hadden we niet eens moleculen gehad...
+
+102
+00:06:54,180 --> 00:06:57,020
+dus laat staan kerstcadeautjes of vuurwerk.
+
+103
+00:06:58,400 --> 00:07:03,600
+Dit alles brengt sommige natuurkundigen tot de enigszins beangstigende vraag...
+
+104
+00:07:03,600 --> 00:07:08,000
+wie zegt dat dit de laatste keer was dat deze krachten uiteenvielen?
+
+105
+00:07:08,600 --> 00:07:13,140
+En daarmee zijn we eindelijk bij de connectie met onze druppelende koffiemachine.
+
+106
+00:07:13,140 --> 00:07:19,180
+Zijn wij in afwachting van nog een herverdeling van fundamentele natuurkrachten?
+
+107
+00:07:20,180 --> 00:07:24,440
+En zo ja, wanneer vindt die plaats en wat zullen we daarvan merken?
+
+108
+00:07:24,580 --> 00:07:25,140
+Oh dear.
+
+109
+00:07:25,520 --> 00:07:26,140
+Anders geformuleerd...
+
+110
+00:07:27,220 --> 00:07:31,020
+hoe stabiel is het huidige vacuüm van het heelal dat wij kennen?
+
+111
+00:07:31,540 --> 00:07:35,140
+Was het opsplitsen van de elektrozwakke kracht in elektromagnetisme...
+
+112
+00:07:35,140 --> 00:07:38,140
+elektromagnetisme en de zwakke kernkracht ultiem...
+
+113
+00:07:38,920 --> 00:07:42,300
+in dat er geen lager energieniveau kan worden bereikt?
+
+114
+00:07:44,700 --> 00:07:47,600
+Interessant genoeg hangt veel af van de Higgs boson...
+
+115
+00:07:47,600 --> 00:07:49,840
+dat deeltje dat we inmiddels al tien jaar kennen.
+
+116
+00:07:50,480 --> 00:07:52,140
+Wat was ook alweer die Higgs boson?
+
+117
+00:07:52,900 --> 00:07:53,900
+Dit is Dr. Hens.
+
+118
+00:07:53,900 --> 00:07:56,900
+In het standaardmodel van de deeltjesfysica...
+
+119
+00:07:56,900 --> 00:07:59,400
+onderscheiden we bosonen en fermionen.
+
+120
+00:08:00,000 --> 00:08:02,560
+Fermionen hebben een halftallige spin...
+
+121
+00:08:02,560 --> 00:08:04,720
+en bosonen een heeltallige spin.
+
+122
+00:08:05,560 --> 00:08:09,840
+Elk subatomeerdeeltje is of een boson of een fermion.
+
+123
+00:08:10,600 --> 00:08:13,080
+Fermionen zijn de bouwstenen van materie.
+
+124
+00:08:13,560 --> 00:08:16,960
+Bosonen zijn de dragers van krachten tussen fermionen.
+
+125
+00:08:16,960 --> 00:08:20,340
+De Higgs boson geeft deeltjes massa.
+
+126
+00:08:22,400 --> 00:08:23,880
+Natuurkundigen gaan ervan uit...
+
+127
+00:08:23,880 --> 00:08:27,100
+dat in het complete helal een Higgs veld werkzaam is.
+
+128
+00:08:27,680 --> 00:08:31,980
+De manifestatie van het geven van massa aan een fermion...
+
+129
+00:08:31,980 --> 00:08:35,240
+is wat we kortstondig waarnemen als een Higgs boson.
+
+130
+00:08:36,740 --> 00:08:40,040
+Dus waar het Higgs veld constant bestaat...
+
+131
+00:08:40,040 --> 00:08:42,700
+maar voor ons niet zichtbaar of meetbaar is...
+
+132
+00:08:42,700 --> 00:08:45,380
+manifesteert het zich wanneer een fermion...
+
+133
+00:08:45,380 --> 00:08:48,860
+interactie heeft met dit veld in de vorm van een Higgs boson.
+
+134
+00:08:49,620 --> 00:08:51,160
+Het fermion krijgt dan massa.
+
+135
+00:08:52,540 --> 00:08:55,180
+In het jonge helal, kort na de oerknal...
+
+136
+00:08:55,180 --> 00:08:57,500
+was er mogelijk al wel een Higgs veld...
+
+137
+00:08:57,500 --> 00:08:59,040
+maar hield het zich gedijst.
+
+138
+00:08:59,660 --> 00:09:02,880
+Dit gaf vrijbaan aan de elektrozwakke kracht van toen.
+
+139
+00:09:03,740 --> 00:09:07,600
+Maar toen het helal genoeg wijd, verspreid en afgekoeld was...
+
+140
+00:09:07,600 --> 00:09:11,040
+werd de interactie van deeltjes met het Higgs veld een feit.
+
+141
+00:09:11,580 --> 00:09:14,820
+Een situatie die al die miljarden jaren sindsdien...
+
+142
+00:09:14,820 --> 00:09:15,800
+niet veranderd is.
+
+143
+00:09:16,640 --> 00:09:19,720
+Door het Higgs boson te wegen en te vergelijken...
+
+144
+00:09:19,720 --> 00:09:21,600
+met de massa van andere deeltjes...
+
+145
+00:09:21,600 --> 00:09:24,620
+kunnen wetenschappers iets zeggen over de stabiliteit...
+
+146
+00:09:24,620 --> 00:09:27,340
+van de separatie van de elektrozwakke kracht.
+
+147
+00:09:28,200 --> 00:09:32,300
+De conclusie van berekeningen waar we ons niet eens aan hoeven te wagen...
+
+148
+00:09:32,300 --> 00:09:34,700
+is dat het huidige helal niet stabiel...
+
+149
+00:09:34,700 --> 00:09:36,360
+maar metastabiel is.
+
+150
+00:09:37,400 --> 00:09:40,840
+Dat is niet het beste nieuws om dit jaar mee af te sluiten.
+
+151
+00:09:40,840 --> 00:09:46,900
+Een stabiel helal heeft geen kans uiteen te vallen in een nieuw krachtenspel.
+
+152
+00:09:47,540 --> 00:09:51,220
+Maar een metastabiel helal houdt die deur nog op een kiertje.
+
+153
+00:09:52,820 --> 00:09:57,080
+Dat is gelukkig voor ons iets heel anders dan een onstabiel helal.
+
+154
+00:09:57,500 --> 00:09:58,020
+Maar toch.
+
+155
+00:09:59,420 --> 00:10:03,880
+Een extra interessante optie die astrofysicus Paul Sutter geeft...
+
+156
+00:10:03,880 --> 00:10:07,120
+en leuk is om mee af te sluiten is dat deze transitie...
+
+157
+00:10:07,120 --> 00:10:11,280
+naar een nieuw model van fundamentele natuurkrachten al plaatsvindt...
+
+158
+00:10:11,280 --> 00:10:13,700
+en ergens in het helal wellicht al begonnen is.
+
+159
+00:10:13,780 --> 00:10:14,380
+Are you kidding?
+
+160
+00:10:14,720 --> 00:10:17,880
+In dat geval zou een bubbel van nieuwe natuurkunde...
+
+161
+00:10:17,880 --> 00:10:20,880
+met de lichtsnelheid onze kant op kunnen bewegen...
+
+162
+00:10:20,880 --> 00:10:24,000
+om alles waar wij waarde aan hechten of gewend aan zijn...
+
+163
+00:10:24,000 --> 00:10:25,840
+te converteren naar iets nieuws.
+
+164
+00:10:27,100 --> 00:10:29,260
+Moeten we ons echt zorgen maken...
+
+165
+00:10:29,260 --> 00:10:32,480
+dat elektromagnetisme bijvoorbeeld opeens uiteenvalt...
+
+166
+00:10:32,480 --> 00:10:35,140
+in een elektrische kracht en een magnetische kracht?
+
+167
+00:10:35,280 --> 00:10:35,560
+Well.
+
+168
+00:10:35,980 --> 00:10:37,380
+Nee, uiteraard niet.
+
+169
+00:10:37,920 --> 00:10:40,380
+We hebben veel meer mondaine uitdagingen...
+
+170
+00:10:40,380 --> 00:10:43,200
+waar we ons de komende tijd mee bezig zullen moeten houden.
+
+171
+00:10:44,080 --> 00:10:47,140
+Voor nu gewoon aan de oliebollen met poedersuiker...
+
+172
+00:10:47,140 --> 00:10:50,620
+en hopen dat 2023 ons vrede brengt.
+
+173
+00:10:50,960 --> 00:10:53,320
+Oplossingen voor langlopende uitdagingen.
+
+174
+00:10:53,620 --> 00:10:56,720
+Begrip voor elkaar, ook als die ander echt een sukkel is.
+
+175
+00:10:56,720 --> 00:10:58,660
+En een heleboel goede koffie.
+
+176
+00:10:58,660 --> 00:11:00,320
+Tot volgend jaar.
+

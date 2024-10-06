@@ -1,0 +1,804 @@
+1
+00:00:00,000 --> 00:00:03,260
+U luistert naar Zimmerman & Space.
+
+2
+00:00:05,320 --> 00:00:10,200
+Van tijd tot tijd raast het onheil onze planeet voorbij...
+
+3
+00:00:10,200 --> 00:00:12,680
+in de vorm van veel te grote brokken steen.
+
+4
+00:00:14,340 --> 00:00:16,260
+Zo ook vorige maand.
+
+5
+00:00:16,880 --> 00:00:20,680
+Misschien heeft u het zelfs wel in uw favoriete nieuwsbron gelezen.
+
+6
+00:00:22,260 --> 00:00:25,680
+Laten we vandaag iets dieper ingaan op de feiten...
+
+7
+00:00:25,680 --> 00:00:28,740
+en ons niet te veel laten leiden door sensatie.
+
+8
+00:00:28,740 --> 00:00:32,460
+Die zucht naar sensatie zit in een klein hoekje.
+
+9
+00:00:33,120 --> 00:00:36,900
+Kijk maar naar de subkop in het NASA-artikel hierover.
+
+10
+00:00:37,580 --> 00:00:37,740
+We lezen...
+
+11
+00:00:38,360 --> 00:00:53,160
+Het eerste sensatiewoord is busy.
+
+12
+00:00:53,880 --> 00:00:55,440
+Ze hadden het er maar druk mee.
+
+13
+00:00:56,060 --> 00:00:56,580
+Waarmee?
+
+14
+00:00:56,580 --> 00:01:01,560
+Met het registreren van hoe onze aarde net aan onheil wist te ontkomen.
+
+15
+00:01:05,000 --> 00:01:07,580
+En het tweede sensatiewoord is safely.
+
+16
+00:01:08,560 --> 00:01:11,400
+Of misschien moeten we het een lullabywoord noemen.
+
+17
+00:01:11,600 --> 00:01:16,280
+Een ga maar weer gerust slapen of voetbal kijken of zoutjes eten woord.
+
+18
+00:01:16,920 --> 00:01:18,020
+Niets aan de hand.
+
+19
+00:01:18,360 --> 00:01:19,440
+De show is voorbij.
+
+20
+00:01:19,920 --> 00:01:21,580
+Er was geen gevaar voor de volksgezondheid.
+
+21
+00:01:21,580 --> 00:01:26,580
+Het artikel in kwestie is van NASA en heeft als hoofdtitel...
+
+22
+00:01:27,300 --> 00:01:28,580
+NASA's planetary radar tracks...
+
+23
+00:01:29,300 --> 00:01:31,260
+Two large asteroid close approaches.
+
+24
+00:01:31,580 --> 00:01:34,580
+Een link vindt u inderdaad in het bijschrift van deze aflevering.
+
+25
+00:01:36,180 --> 00:01:38,580
+CNN had het artikel ook met de titel...
+
+26
+00:01:38,580 --> 00:01:43,380
+New images reveal an asteroid that just whizzed by Earth has an unexpected companion.
+
+27
+00:01:43,920 --> 00:01:46,500
+Dat is een aardige wending, die companion.
+
+28
+00:01:46,500 --> 00:01:47,500
+Deze is een aardige wending.
+
+29
+00:01:47,500 --> 00:01:48,580
+Daar zullen we het ook over hebben.
+
+30
+00:01:49,240 --> 00:01:50,960
+Maar laten we beginnen met de feiten.
+
+31
+00:01:52,160 --> 00:01:54,220
+Zoals u ongetwijfeld weet...
+
+32
+00:01:54,220 --> 00:01:57,560
+zwerven er allerhande rotsblokken door ons zonnestelsel.
+
+33
+00:01:58,460 --> 00:02:02,440
+Dit zijn overblijfselen uit de begindagen van ons zonnestelsel...
+
+34
+00:02:02,440 --> 00:02:06,500
+of resten van kometen of stukken steen die bij botsingen zijn losgevrikt...
+
+35
+00:02:07,240 --> 00:02:10,560
+en vervolgens een eigen baan rond de zon zijn gaan beschrijven.
+
+36
+00:02:10,560 --> 00:02:16,580
+Die baan door ons zonnestelsel is gelijk de grootste reden tot zorgen...
+
+37
+00:02:16,580 --> 00:02:21,180
+want niet alles draait in een duidelijke cirkel of ellips in haar eigen baan.
+
+38
+00:02:21,940 --> 00:02:25,940
+In theorie kan zo'n stuk steen onze baan rond de zon kruisen...
+
+39
+00:02:25,940 --> 00:02:27,860
+en zelfs op aarde terechtkomen.
+
+40
+00:02:29,480 --> 00:02:33,840
+Hoe groot de schade dan is, is een functie van de grootte van zo'n rotsblok...
+
+41
+00:02:33,840 --> 00:02:37,920
+en ook de snelheid en hoek waarmee zo'n steen onze aarde dan zou raken.
+
+42
+00:02:37,920 --> 00:02:43,420
+En dan is natuurlijk ook de plek waar de aarde eventueel zou worden getroffen van belang...
+
+43
+00:02:43,420 --> 00:02:45,920
+want een steen in de Atlantische Oceaan...
+
+44
+00:02:46,840 --> 00:02:50,920
+inderdaad, is hooguit vervelend voor wat vissen, vogels en plankton...
+
+45
+00:02:51,540 --> 00:02:56,400
+maar minder desastreus dan wanneer deze midden in Berlijn of Parijs neer zou komen.
+
+46
+00:02:57,360 --> 00:03:01,580
+Om in de gaten te houden hoe onze kaarten voor wat betreft de toekomst liggen...
+
+47
+00:03:01,580 --> 00:03:08,580
+heeft NASA in 2016 het Planetary Defense Coordination Office of PDCO in het leven geroepen.
+
+48
+00:03:09,240 --> 00:03:14,580
+Van de hand van dit PDCO verscheen in 2023 een rapport met de titel...
+
+49
+00:03:14,580 --> 00:03:17,760
+NASA Planetary Defense Strategy and Action Plan.
+
+50
+00:03:18,080 --> 00:03:22,580
+U kunt het gratis downloaden en als luchtige vakantielectuur meenemen...
+
+51
+00:03:22,580 --> 00:03:25,140
+op uw iPad of Kindle of wat u heeft.
+
+52
+00:03:25,140 --> 00:03:31,640
+Hierin lezen we dat NASA onderscheid maakt tussen Near Earth Objects of NEO's...
+
+53
+00:03:31,640 --> 00:03:33,700
+en potentieel gevaarlijke objecten.
+
+54
+00:03:34,800 --> 00:03:40,460
+De NEO's zijn stenen of objecten die een dusdanige baan rond de zon draaien...
+
+55
+00:03:40,460 --> 00:03:44,780
+dat ze tussen de zon en 1,3 keer onze afstand tot de zon komen.
+
+56
+00:03:45,640 --> 00:03:49,120
+Dat maakt dergelijke hemellichamen nog niet gelijk gevaarlijk.
+
+57
+00:03:49,280 --> 00:03:50,240
+Oh, gelukkig!
+
+58
+00:03:50,240 --> 00:03:53,000
+De potentieel gevaarlijke objecten...
+
+59
+00:03:53,000 --> 00:03:56,840
+A. hebben een doorsnede van 140 meter of meer...
+
+60
+00:03:56,840 --> 00:04:02,800
+en B. komen op een afstand van 7,5 miljoen kilometer of minder van onze aarde terecht.
+
+61
+00:04:03,780 --> 00:04:08,740
+NASA zegt dat er ongeveer 1000 NEO's van meer dan een kilometer doorsnede bestaan...
+
+62
+00:04:09,480 --> 00:04:12,740
+en dat zo'n 95% ervan in kaart is gebracht.
+
+63
+00:04:13,240 --> 00:04:18,740
+Er bestaan rond de 25.000 objecten van meer dan 140 meter doorsnede...
+
+64
+00:04:18,740 --> 00:04:22,120
+en minder dan de helft van deze objecten is bekend.
+
+65
+00:04:22,280 --> 00:04:23,300
+Oh, dat is niet best.
+
+66
+00:04:23,660 --> 00:04:29,060
+Zo'n rotsblok van 140 meter kan een krater tussen de 1 en 2 kilometer slaan...
+
+67
+00:04:29,060 --> 00:04:32,340
+en grote gevolgen hebben voor mensen en dieren die daar wonen.
+
+68
+00:04:33,300 --> 00:04:36,380
+Rotsblokken van een kilometer doorsnede of meer...
+
+69
+00:04:36,380 --> 00:04:39,720
+zouden kunnen leiden tot het einde van de menselijke civilisatie.
+
+70
+00:04:39,920 --> 00:04:42,120
+Dat hoeft nou ook weer niet.
+
+71
+00:04:42,680 --> 00:04:46,340
+NASA denkt dat daar ongeveer 900 van bestaan in ons zonnestelsel...
+
+72
+00:04:46,340 --> 00:04:49,560
+en 95% ervan is in kaart gebracht.
+
+73
+00:04:49,780 --> 00:04:50,780
+Oh, dat is niet best.
+
+74
+00:04:50,960 --> 00:04:54,660
+De ellende zit er maar in dat dit maar getallen en schattingen zijn.
+
+75
+00:04:55,240 --> 00:04:58,340
+Er zal maar net een steen aan de aandacht zijn ontsnapt...
+
+76
+00:04:58,340 --> 00:05:03,120
+of met een extreem elliptische baan en een rotvaart richting onze planeet bewegen.
+
+77
+00:05:03,780 --> 00:05:04,460
+Wat dan?
+
+78
+00:05:05,500 --> 00:05:08,800
+Ja, daar hebben we het wel eens eerder over gehad in deze podcast.
+
+79
+00:05:09,040 --> 00:05:10,080
+Weet je dat wel zeker?
+
+80
+00:05:10,500 --> 00:05:13,620
+Het zegt ons misschien vooral dat we nu, vandaag...
+
+81
+00:05:13,620 --> 00:05:15,640
+uit het leven moeten halen wat erin zit.
+
+82
+00:05:17,440 --> 00:05:18,600
+Dank u, dank u.
+
+83
+00:05:19,060 --> 00:05:24,260
+Dat gezegd hebben, keren we weer terug naar het nieuws van vorige maand, juni 2024.
+
+84
+00:05:25,320 --> 00:05:30,280
+Het betreft twee asteroïden die allebei redelijk dicht bij onze aarde langskwamen.
+
+85
+00:05:30,960 --> 00:05:33,620
+De eerste kwam op 27 juni 2024...
+
+86
+00:05:34,460 --> 00:05:38,400
+op een afstand van 6,6 miljoen kilometer langs de aarde.
+
+87
+00:05:38,400 --> 00:05:43,840
+Deze asteroïde heeft de naam 2011 UL21...
+
+88
+00:05:43,840 --> 00:05:49,380
+en was inderdaad al in 2011 ontdekt door middel van de Catalina Sky Survey.
+
+89
+00:05:50,860 --> 00:05:55,500
+2011 UL21 is zo'n anderhalve kilometer in doorsnede.
+
+90
+00:05:55,820 --> 00:06:01,140
+Maar 6,6 miljoen kilometer afstand is veilig ver weg van onze aardse beslommeringen.
+
+91
+00:06:01,140 --> 00:06:11,620
+Wel was dit de eerste keer sinds de ontdekking dat 2011 UL21 zo dichtbij kwam.
+
+92
+00:06:12,600 --> 00:06:17,740
+Reden genoeg voor NASA om de enorme radarantenne van Goldstone op het object te richten...
+
+93
+00:06:17,740 --> 00:06:20,620
+en wat meer details te verkrijgen over deze bezoeker.
+
+94
+00:06:21,440 --> 00:06:22,340
+En wat bleek?
+
+95
+00:06:22,460 --> 00:06:23,280
+Nou, Hens?
+
+96
+00:06:23,420 --> 00:06:28,340
+Rond 2011 UL21 cirkelt ook nog een kleine maan.
+
+97
+00:06:28,460 --> 00:06:29,200
+Nou ja, zeg.
+
+98
+00:06:29,200 --> 00:06:32,640
+Deze vergezelt 2011 UL21...
+
+99
+00:06:32,640 --> 00:06:36,740
+en draait op een afstand van zo'n 3 kilometer rondjes om de asteroïde.
+
+100
+00:06:38,420 --> 00:06:42,200
+Die Goldstone radar is een 70 meter brede radioantenne...
+
+101
+00:06:42,860 --> 00:06:46,040
+die ook wel bekend staat als Deep Space Station 14.
+
+102
+00:06:47,080 --> 00:06:50,140
+Bij radarsignalen is het zaak een frequentie te kiezen...
+
+103
+00:06:50,140 --> 00:06:52,680
+die de details oplevert die gewenst zijn.
+
+104
+00:06:52,680 --> 00:06:53,720
+Oh shit, Sherlock.
+
+105
+00:06:53,940 --> 00:06:58,820
+Een radarsignaal met een lagere frequentie penetreert dieper de ruimte in...
+
+106
+00:06:58,820 --> 00:07:01,840
+en wordt minder gehinderd door bijvoorbeeld de aardse atmosfeer.
+
+107
+00:07:02,540 --> 00:07:05,260
+Maar een radarsignaal met een hogere frequentie...
+
+108
+00:07:05,260 --> 00:07:09,020
+en dus een kleinere golflengte levert weer meer details op.
+
+109
+00:07:10,740 --> 00:07:14,260
+Militaire luchtbewaking maakt bijvoorbeeld voornamelijk gebruik van radars...
+
+110
+00:07:14,260 --> 00:07:18,180
+met een frequentie tussen de 30 en 300 megahertz.
+
+111
+00:07:18,180 --> 00:07:22,740
+De zogenaamde C-band tussen de 4 en 8 gigahertz...
+
+112
+00:07:22,740 --> 00:07:25,620
+wordt gebruikt voor meteorologische waarnemingen...
+
+113
+00:07:25,620 --> 00:07:29,560
+zodat we weten dat het deze zomer continu regent bijvoorbeeld.
+
+114
+00:07:32,200 --> 00:07:35,780
+Tussen de 8 en 12 gigahertz noemen we het de X-band.
+
+115
+00:07:36,300 --> 00:07:38,460
+Dit zijn meer de industriële radars.
+
+116
+00:07:38,700 --> 00:07:42,460
+U kunt zelf voor drie tientjes een X-bandradar aanschaffen...
+
+117
+00:07:42,460 --> 00:07:45,640
+en aansluiten op bijvoorbeeld een Arduino Uno.
+
+118
+00:07:45,980 --> 00:07:47,380
+Nou, interessant.
+
+119
+00:07:47,860 --> 00:07:51,160
+Ik heb zelfs een apparaatje en heb er wel eens plezier van gehad.
+
+120
+00:07:51,780 --> 00:07:54,620
+Het kan huisdieren of indringers detecteren.
+
+121
+00:07:58,540 --> 00:08:01,460
+Deze X-band sensor die ik heb is van het merk Parallax...
+
+122
+00:08:02,220 --> 00:08:05,780
+en werkt op een frequentie van 10.525 gigahertz.
+
+123
+00:08:06,040 --> 00:08:07,440
+Nou, blij om dat te horen.
+
+124
+00:08:07,440 --> 00:08:12,000
+Er was ook nog een tweede asteroide die ons met een bezoek kwam vereren.
+
+125
+00:08:12,600 --> 00:08:15,820
+Dit gebeurde op 29 juni 2024.
+
+126
+00:08:16,760 --> 00:08:19,440
+Deze asteroide heet 2024 MK...
+
+127
+00:08:20,280 --> 00:08:23,580
+en was nog maar net ontdekt op 16 juni van dit jaar.
+
+128
+00:08:24,540 --> 00:08:29,440
+2024 MK is met 150 meter diameter nog steeds goed voor een hoop gedoe...
+
+129
+00:08:30,080 --> 00:08:34,140
+als zo'n asteroide het aardoppervlak zou raken in een dichtbevolkt gebied.
+
+130
+00:08:34,140 --> 00:08:41,140
+Ook interessant is dat 2024 MK een stuk dichterbij kwam dan 2011 UL21.
+
+131
+00:08:43,140 --> 00:08:50,240
+2024 MK kwam namelijk op een afstand van 295.000 kilometer langs de aarde scheren.
+
+132
+00:08:51,140 --> 00:08:55,580
+Dat is nog altijd een stuk dichterbij dan onze maan, om maar eens wat te noemen.
+
+133
+00:08:56,480 --> 00:09:02,360
+Ook 2024 MK werd met de Goldstone DSS-14 radar in kaart gebracht.
+
+134
+00:09:02,360 --> 00:09:08,820
+Door de radarbeelden met een andere radarschotel, genaamd DSS-13, op te vangen...
+
+135
+00:09:08,820 --> 00:09:10,360
+kon nog meer detail worden waargenomen.
+
+136
+00:09:11,860 --> 00:09:14,100
+Dit noemt men een bistatische radar.
+
+137
+00:09:15,120 --> 00:09:20,620
+Op de radarbeelden was te zien dat 2024 MK rondjes om haar as draait...
+
+138
+00:09:20,620 --> 00:09:22,780
+en beschikt over duidelijke vlaktes.
+
+139
+00:09:22,780 --> 00:09:29,360
+Bekend was al dat 2024 MK in 3,3 jaar eenmaal rond de zon draait.
+
+140
+00:09:29,780 --> 00:09:32,280
+Maar door de passage op 29 juni van dit jaar...
+
+141
+00:09:32,280 --> 00:09:35,280
+werd die baan met zo'n 24 dagen ingekort...
+
+142
+00:09:36,120 --> 00:09:39,680
+rekende astronomen van NASA's Jet Propulsion Lab uit.
+
+143
+00:09:40,740 --> 00:09:45,280
+Betekent dit dat we elke 3,3 jaar met angst en beven naar boven moeten kijken...
+
+144
+00:09:45,280 --> 00:09:47,760
+en ons testament moeten bijwerken?
+
+145
+00:09:47,960 --> 00:09:50,440
+Neemt u papier en potlood erbij?
+
+146
+00:09:50,660 --> 00:09:51,600
+Nou, dat valt mee.
+
+147
+00:09:52,020 --> 00:09:58,140
+Het is steeds maar de vraag of de aarde en 2024 MK dicht genoeg bij elkaar komen...
+
+148
+00:09:58,140 --> 00:10:00,740
+om van een potentieel gevaar te kunnen spreken.
+
+149
+00:10:01,580 --> 00:10:04,520
+Wij draaien natuurlijk ook in een jaar rond de zon...
+
+150
+00:10:04,520 --> 00:10:10,440
+Dus de kans is groot dat asteroïden en aarde elkaar bij een volgende ontmoeting totaal mislopen.
+
+151
+00:10:10,600 --> 00:10:11,860
+Oh ja, inderdaad.
+
+152
+00:10:12,080 --> 00:10:17,140
+Maar het zegt ons natuurlijk wel dat het nuttig is om te blijven speuren naar grote asteroïden.
+
+153
+00:10:18,440 --> 00:10:24,440
+Ik heb voor deze aflevering zelf nog een kleine sonificatie gemaakt van 2024 MK.
+
+154
+00:10:25,560 --> 00:10:28,460
+Omdat deze asteroïden door de ruimte tuimelt...
+
+155
+00:10:28,460 --> 00:10:31,160
+verschilt de hoeveelheid gereflecteerd licht...
+
+156
+00:10:31,160 --> 00:10:34,120
+of in dit geval radarstraling, over de tijd.
+
+157
+00:10:34,520 --> 00:10:38,520
+Ik heb die hoeveelheid licht gekoppeld aan de frequentie van een toon.
+
+158
+00:10:39,260 --> 00:10:42,580
+Wat u nu hoort is ernstig versneld in de tijd...
+
+159
+00:10:42,580 --> 00:10:47,120
+en geeft mij eens inziens aardig weer dat het een ronddraaiend stuk steen is.
+
+160
+00:10:53,220 --> 00:10:58,600
+Als u zelf met sonificaties wilt spelen, weet dan dat dit kinderlijk eenvoudig is.
+
+161
+00:10:59,340 --> 00:11:01,520
+Ik heb met de programmeurte Almax MSP...
+
+162
+00:11:01,520 --> 00:11:06,440
+de gemiddelde lichtwaarde van het filmpje van NASA omgezet in een frequentie.
+
+163
+00:11:06,980 --> 00:11:12,520
+Een andere optie is om in de virtuele synthesizer VCV-REC gebruik te maken...
+
+164
+00:11:12,520 --> 00:11:15,520
+van de data sonification module van Loud Numbers.
+
+165
+00:11:17,180 --> 00:11:21,160
+Zowel VCV-REC als deze module kunt u gratis gebruiken.
+
+166
+00:11:21,160 --> 00:11:25,160
+Als u een mooie sonificatie maakt van de benzineprijzen...
+
+167
+00:11:25,160 --> 00:11:29,060
+of de hoeveelheid beledigingen in de Tweede Kamer of iets dergelijks...
+
+168
+00:11:29,060 --> 00:11:30,480
+hoor ik het uiteraard graag.
+
+169
+00:11:31,440 --> 00:11:35,600
+Er is overigens nog een waakhond die ons moet behoeden voor ellende...
+
+170
+00:11:35,600 --> 00:11:38,580
+en waarvan het interessant is in ieder geval weet te hebben.
+
+171
+00:11:39,300 --> 00:11:41,160
+Deze heet ATLAS, wat staat voor...
+
+172
+00:11:41,160 --> 00:11:45,160
+Asteroid Terrestrial Impact Last Alert System.
+
+173
+00:11:45,580 --> 00:11:50,000
+Als u nu denkt, wat hebben die astronomen toch altijd mooie afkortingen?
+
+174
+00:11:50,400 --> 00:11:52,060
+Nou, dat is geen toeval.
+
+175
+00:11:52,980 --> 00:11:57,800
+Het is cultuur onder astronomen om gebruik te maken van wat we een backroniem noemen.
+
+176
+00:11:57,940 --> 00:11:59,380
+Mag het in het Nederlands?
+
+177
+00:11:59,540 --> 00:12:03,880
+Dan verzint men eerst de afkorting en daarna pas worden de letters ingevuld.
+
+178
+00:12:04,080 --> 00:12:04,660
+Dat is leuk.
+
+179
+00:12:04,660 --> 00:12:07,340
+In die zin is een backroniem een...
+
+180
+00:12:07,340 --> 00:12:10,120
+Maar goed, dat even terzijde.
+
+181
+00:12:10,800 --> 00:12:14,000
+ATLAS is een initiatief van de Universiteit van Hawaii...
+
+182
+00:12:14,000 --> 00:12:16,140
+en wordt deels gefinancierd door NASA.
+
+183
+00:12:17,080 --> 00:12:19,800
+ATLAS bestaat uit twee telescopen op Hawaii...
+
+184
+00:12:19,800 --> 00:12:22,480
+eentje in Chili en eentje in Zuid-Afrika.
+
+185
+00:12:23,320 --> 00:12:25,400
+Met behulp van deze vier telescopen...
+
+186
+00:12:25,400 --> 00:12:29,640
+wordt de sterrenhemel een paar keer per nacht afgespeurd op bewegende objecten.
+
+187
+00:12:30,300 --> 00:12:33,660
+Bij ATLAS denken ze een asteroide van 100 meter of meer doorsneden...
+
+188
+00:12:33,660 --> 00:12:36,880
+een paar weken van tevoren te kunnen detecteren.
+
+189
+00:12:37,640 --> 00:12:41,880
+Dat is dus exact wat gebeurde met Asteroide 2024-MK.
+
+190
+00:12:42,700 --> 00:12:47,020
+Wat er precies gaat gebeuren als zo'n memo over een nieuw object vergezeld wordt...
+
+191
+00:12:47,020 --> 00:12:51,260
+met de mededeling dat het rotsblok in kwestie onze aarde zal gaan treffen...
+
+192
+00:12:51,260 --> 00:12:52,140
+dat weet niemand.
+
+193
+00:12:52,440 --> 00:12:53,440
+Oh, dat is niet best.
+
+194
+00:12:53,620 --> 00:12:56,520
+We hebben er wel eens over gespeculeerd in deze podcast.
+
+195
+00:12:57,840 --> 00:13:00,660
+Ik denk dat als iets dergelijks op dit moment zou voorvallen...
+
+196
+00:13:00,660 --> 00:13:05,600
+dat Elon Musk dan een spoedraket zou laten bouwen die de hele aarde redt.
+
+197
+00:13:06,240 --> 00:13:09,480
+U zou er ongetwijfeld op X over kunnen lezen.
+
+198
+00:13:10,020 --> 00:13:13,660
+Voor wie niet weet wat X is, dat is die verderfelijke poel van gescheld...
+
+199
+00:13:14,180 --> 00:13:17,060
+die ooit begon als het vrolijke, neurderige Twitter.
+
+200
+00:13:17,720 --> 00:13:18,980
+Tot de volgende keer.
+
+201
+00:13:18,980 --> 00:13:19,980
+***
+

@@ -1,0 +1,552 @@
+1
+00:00:00,000 --> 00:00:02,560
+U luistert naar Zimmerman & Space.
+
+2
+00:00:03,100 --> 00:00:07,840
+Bijna een jaar geleden hadden we het over het centrum van onze eigen melkweg.
+
+3
+00:00:08,900 --> 00:00:14,380
+Daar is vandaag ook weer wat over te vertellen met dank aan die James Webb Ruimtetelescoop.
+
+4
+00:00:15,240 --> 00:00:20,580
+Een paar dagen geleden verscheen hierover een artikel in The Astrophysical Journal met de titel
+
+5
+00:00:20,580 --> 00:00:33,500
+Nou, dat is weer een hoop afkortingen bij elkaar.
+
+6
+00:00:35,140 --> 00:00:39,340
+JWST staat uiteraard voor James Webb Space Telescope.
+
+7
+00:00:40,100 --> 00:00:42,060
+CO is koolstofmonoxide.
+
+8
+00:00:42,380 --> 00:00:50,420
+U weet al dat reukloze gas dat op deze planeet regelmatig levenseist als er sprake is van onvolledige verbranding.
+
+9
+00:00:50,580 --> 00:00:53,760
+Daarover zometeen nog meer.
+
+10
+00:00:54,480 --> 00:01:02,040
+En G0.253 plus 0.016 is een bijzonder object ergens in het midden van onze melkweg.
+
+11
+00:01:02,180 --> 00:01:04,800
+Ook wel de brick, de baksteen genoemd.
+
+12
+00:01:05,620 --> 00:01:10,420
+Het is wel een heel typische baksteen, want het is geen steen en hij is ook niet gebakken.
+
+13
+00:01:11,180 --> 00:01:17,420
+Wat het wel is, is een donkere moleculaire wolk die het achterliggende sterrenlicht grotendeels tegenhoudt
+
+14
+00:01:17,420 --> 00:01:22,240
+en met heel veel fantasie een beetje de vorm heeft van een baksteen.
+
+15
+00:01:23,460 --> 00:01:25,820
+Maar goed, lollige naam of niet?
+
+16
+00:01:26,340 --> 00:01:30,780
+Wat is dit voor iets en waarom verdient het gebeuren uw speciale aandacht?
+
+17
+00:01:32,060 --> 00:01:38,440
+Daarvoor moeten we een decennium terug in de tijd, toen deze moleculaire wolk ook al met interesse werd bestudeerd
+
+18
+00:01:38,440 --> 00:01:43,600
+door astronoom Jens Kaufman en collega's van het California Institute of Technology.
+
+19
+00:01:44,260 --> 00:01:47,100
+In 2013 verscheen hun artikel
+
+20
+00:01:47,100 --> 00:01:52,340
+The Galactic Center Cloud G0.253 plus 0.016
+
+21
+00:01:52,340 --> 00:01:55,900
+A massive dense cloud with low star formation potential
+
+22
+00:01:55,900 --> 00:02:01,740
+waarin verslag werd gedaan van de waarnemingen in het millimeter- en submillimeterregime.
+
+23
+00:02:02,580 --> 00:02:07,040
+Moleculaire wolken worden door astronomen graag op deze golflengtes bestudeerd
+
+24
+00:02:07,040 --> 00:02:14,780
+omdat hier de spectra zichtbaar kunnen worden die de chemische samenstelling en evolutie van dergelijke wolken meer inzichtelijk maken.
+
+25
+00:02:14,780 --> 00:02:18,660
+Deze waarnemingen kunnen vanaf de aarde worden gedaan
+
+26
+00:02:18,660 --> 00:02:22,380
+vanaf hooggelegen, droge en koele locaties
+
+27
+00:02:22,380 --> 00:02:27,500
+zoals ALMA in Chili of de submillimeter-array in Mauna Kea, Hawaii.
+
+28
+00:02:28,500 --> 00:02:32,120
+Ook vanuit de ruimte kunnen submillimeter-waarnemingen worden gedaan
+
+29
+00:02:32,120 --> 00:02:35,080
+zoals bijvoorbeeld met het Herschel-ruimtevaartuig
+
+30
+00:02:35,080 --> 00:02:38,980
+of de submillimeter Wave Astronomy Satellite van NASA.
+
+31
+00:02:39,960 --> 00:02:44,480
+Toen Kaufman en collega's naar de Brick-moleculaire wolken keken
+
+32
+00:02:44,480 --> 00:02:47,120
+zagen zij twee dingen die moeilijk samengaan.
+
+33
+00:02:48,120 --> 00:02:52,240
+Ten eerste dat de moleculaire dichtheid in de Brick bijzonder hoog is
+
+34
+00:02:52,240 --> 00:02:55,200
+en ten tweede dat er nauwelijks sterren ontstaan.
+
+35
+00:02:56,220 --> 00:02:58,900
+Dat is vanuit astronomisch oogpunt interessant
+
+36
+00:02:58,900 --> 00:03:03,340
+omdat zorgvoelig opgebouwde regels en wetmatigheden over ons heelal
+
+37
+00:03:03,340 --> 00:03:06,600
+op die plek om een of andere reden niet op blijken te gaan.
+
+38
+00:03:07,560 --> 00:03:10,420
+Het artikel uit 2013 komt tot de conclusie
+
+39
+00:03:10,420 --> 00:03:13,720
+dat deze moleculaire wolk waarschijnlijk nog te jong is.
+
+40
+00:03:14,480 --> 00:03:18,120
+Mogelijk is de Brick ontstaan uit een botsing van stofwolken
+
+41
+00:03:18,120 --> 00:03:20,120
+in het hart van onze melkweg.
+
+42
+00:03:21,120 --> 00:03:24,240
+En dat hart van onze melkweg is een meer dynamische plek
+
+43
+00:03:24,240 --> 00:03:28,240
+dan waar wij ons bevinden en het is volgens de auteur zelfs zeer de vraag
+
+44
+00:03:28,240 --> 00:03:33,120
+of de Brick ooit in staat zal zijn een plek van gemiddelde sterrengeboorte te vormen.
+
+45
+00:03:33,120 --> 00:03:35,760
+Maar goed, dat was tien jaar geleden.
+
+46
+00:03:35,760 --> 00:03:40,680
+Inmiddels zijn we als mensheid een James Webb ruimtetelescoop rijker
+
+47
+00:03:40,680 --> 00:03:45,160
+en deze werd ook nog maar eens op deze merkwaardige donkere vlek gericht.
+
+48
+00:03:46,080 --> 00:03:48,780
+Het onderzoek hiernaar werd onder andere uitgevoerd
+
+49
+00:03:48,780 --> 00:03:52,400
+door hoofdauteur van het artikel dat deze maand verscheen, Adam Ginsberg.
+
+50
+00:03:53,400 --> 00:03:57,860
+Een van de rariteiten die Ginsberg en collega's vaststelden
+
+51
+00:03:57,860 --> 00:04:01,620
+is dat de Brick koolmonoxide ijs en gas bevat
+
+52
+00:04:01,620 --> 00:04:05,580
+en wel veel meer dan in eerste instantie verwacht werd.
+
+53
+00:04:07,040 --> 00:04:09,660
+Koolmonoxide treedt op als filter voor sterrenlicht
+
+54
+00:04:09,660 --> 00:04:14,040
+van zowel achterliggende sterren als sterren die onderdeel uitmaken van de Brick.
+
+55
+00:04:14,860 --> 00:04:17,340
+Dat licht wordt dan blauwer en minder sterk.
+
+56
+00:04:18,180 --> 00:04:22,300
+We zeiden net al dat er nauwelijks sterren worden geboren in deze moleculaire wolk
+
+57
+00:04:22,300 --> 00:04:24,900
+maar een handjevol sterren wordt wel waargenomen.
+
+58
+00:04:26,100 --> 00:04:28,820
+In de JWSD-waarnemingen werd gezien
+
+59
+00:04:28,820 --> 00:04:32,120
+dat er ongeveer 80% van het licht werd tegengehouden
+
+60
+00:04:32,120 --> 00:04:35,640
+door wat dan een enorme hoeveelheid koolmonoxide moet zijn.
+
+61
+00:04:36,380 --> 00:04:38,200
+Geen gezonde omgeving dus.
+
+62
+00:04:39,100 --> 00:04:41,240
+We weten op aarde dat koolmonoxide
+
+63
+00:04:41,240 --> 00:04:46,640
+zich ongeveer 240 keer beter hecht aan hemoglobine in uw bloed dan zuurstof.
+
+64
+00:04:47,320 --> 00:04:51,360
+Dus daar waarbij de gassen, koolmonoxide en zuurstof aanwezig zijn
+
+65
+00:04:51,360 --> 00:04:57,000
+zal ons bloed gemakkelijk en al bij een lage concentratie koolmonoxide verzadigd raken
+
+66
+00:04:57,000 --> 00:04:59,940
+en treedt een zuurstoftekort in ons lichaam op.
+
+67
+00:05:00,720 --> 00:05:03,840
+Afhankelijk van hoeveel koolmonoxide ingeademd wordt
+
+68
+00:05:03,840 --> 00:05:06,100
+en hoe lang deze blootstelling duurt
+
+69
+00:05:06,100 --> 00:05:09,640
+zal bewusteloosheid of zelfs de dood kunnen optreden.
+
+70
+00:05:10,100 --> 00:05:11,040
+Ja, schiet nou maar op.
+
+71
+00:05:11,220 --> 00:05:12,060
+Oké, oké.
+
+72
+00:05:12,300 --> 00:05:15,280
+De immense hoeveelheid koolmonoxide in de Brick
+
+73
+00:05:15,280 --> 00:05:18,520
+leert ons dat het centrum van onze melkweg afwijkt
+
+74
+00:05:18,520 --> 00:05:21,260
+van de rest van de galactische schijf van de melkweg.
+
+75
+00:05:21,260 --> 00:05:27,360
+En als dat hier zo is, zegt Ginsberg, dan zou dat heel goed ook in andere melkwegstelsels
+
+76
+00:05:27,360 --> 00:05:28,600
+het geval kunnen zijn.
+
+77
+00:05:29,780 --> 00:05:35,700
+Waar de waarneming van koolmonoxide vroeger als goede proxy gold om waterstof in het hele hol te meten,
+
+78
+00:05:35,700 --> 00:05:38,780
+moet de astronomie die aanname mogelijk herzien.
+
+79
+00:05:39,540 --> 00:05:42,080
+Dat we dit nu pas te weten zijn gekomen,
+
+80
+00:05:42,400 --> 00:05:47,060
+heeft te maken met de kwaliteit van de instrumenten van de James Webb Ruimtetelescoop.
+
+81
+00:05:47,060 --> 00:05:54,280
+Tot dit apparaat gelanceerd werd, was de studie naar ijs in het helal minder intensief dan de studie naar gassen.
+
+82
+00:05:55,140 --> 00:05:59,000
+Het NIRCOM-instrument aan boord van de James Webb Ruimtetelescoop
+
+83
+00:05:59,000 --> 00:06:04,220
+kan met verschillende filters heel precies naar smalle frequenties in het infrarood kijken,
+
+84
+00:06:04,360 --> 00:06:08,800
+waardoor er nu voor het eerst op dit niveau naar ijsformatie gekeken kan worden.
+
+85
+00:06:10,020 --> 00:06:16,740
+Wat nog niet geheel begrepen wordt, is dat er zoveel koolmonoxide in de vorm van ijs in de Brick bestaat.
+
+86
+00:06:17,060 --> 00:06:22,380
+Het is op deze plek in onze melkweg namelijk relatief warm, zo'n 60 Kelvin.
+
+87
+00:06:23,100 --> 00:06:27,020
+Ja, oké, dat is nog steeds min 213 graden Celsius,
+
+88
+00:06:27,420 --> 00:06:33,360
+dus al een eind onder de temperatuur dat zelfs uw stoerste familieleden nog gaan skiën, maar toch.
+
+89
+00:06:34,920 --> 00:06:37,500
+In astronomische termen is dat redelijk warm.
+
+90
+00:06:38,320 --> 00:06:43,800
+Zeker als we weten dat koolmonoxide een smeltpunt van min 205 graden Celsius kent.
+
+91
+00:06:43,800 --> 00:06:50,020
+Er bestaan verschillende theorieën over de aanwezigheid van koolmonoxide-ijs in de Brick.
+
+92
+00:06:50,720 --> 00:06:56,260
+Mogelijk is het stof dat ook in deze wolk aangetroffen wordt een stuk kouder dan 60 Kelvin.
+
+93
+00:06:57,340 --> 00:07:00,000
+Ongeveer 20 Kelvin, zegt Ginsberg.
+
+94
+00:07:00,960 --> 00:07:07,380
+Een andere optie is volgens Ginsberg dat waterijs of methanolijs de koolmonoxide ingevangen heeft.
+
+95
+00:07:07,380 --> 00:07:13,980
+Zowel water als methanol bevriest al een heel eind boven de 60 Kelvin, dus dat zou kunnen.
+
+96
+00:07:13,980 --> 00:07:22,340
+Het is voor ons amateurs misschien moeilijk te bevatten hoe er zoveel onzekerheden kunnen bestaan over dit soort waarnemingen.
+
+97
+00:07:23,380 --> 00:07:29,140
+Het is dan goed om te weten dat de nieuwe gegevens over de Brick redelijk indirect zijn waargenomen.
+
+98
+00:07:30,320 --> 00:07:34,520
+Wat men met zoiets als het NIRCAM-instrument van de webtelescoop meet,
+
+99
+00:07:34,740 --> 00:07:37,980
+zijn distributiecurves van fotonen op bepaalde frequenties.
+
+100
+00:07:37,980 --> 00:07:46,600
+Er is niet genoeg tijd en er zijn niet genoeg gegevens beschikbaar om dat op alle mogelijke frequenties te doen.
+
+101
+00:07:47,460 --> 00:07:52,480
+Wat dan ontstaat is een onvolledig beeld van absorpties op bepaalde lichtfrequenties
+
+102
+00:07:52,480 --> 00:07:56,480
+die duiden op de aanwezigheid van bepaalde verbindingen of atomen.
+
+103
+00:07:57,400 --> 00:08:00,420
+Maar dit soort metingen laten een hoop variabelen open.
+
+104
+00:08:01,460 --> 00:08:06,980
+Wat astronomen dan doen is modellen ontwikkelen die het beste overeen komen met de waargenomen absorpties.
+
+105
+00:08:07,980 --> 00:08:12,200
+Uit dezelfde metingen kunnen verschillende modellen ontstaan.
+
+106
+00:08:13,000 --> 00:08:18,520
+Zo is het uit deze waarnemingen niet direct duidelijk of koolmonoxide-ijs in isolatie bestaat
+
+107
+00:08:18,520 --> 00:08:21,520
+of ingesloten in ijs of methanol bestaat.
+
+108
+00:08:22,140 --> 00:08:23,080
+Om maar wat te noemen.
+
+109
+00:08:23,920 --> 00:08:27,720
+Het komt neer op statistiekbedrijven en grafieken onder elkaar leggen.
+
+110
+00:08:27,720 --> 00:08:38,980
+Interessant voor de technisch geïnteresseerden onder u is dat Ginsberg en collega's voor hun onderzoek publiek beschikbare gegevens uit het Mikulski-archief hebben gebruikt.
+
+111
+00:08:39,500 --> 00:08:45,980
+Al hun code is geschreven in de programmeertaal Python en goed gedocumenteerd beschikbaar via de website GitHub.
+
+112
+00:08:45,980 --> 00:08:53,240
+U kunt zelf zien hoe bepaalde grafieken met betrekking tot de distributie van moleculen in de Brick gemaakt worden
+
+113
+00:08:53,240 --> 00:08:56,740
+en betrekkelijk eenvoudig de code zelf opnieuw uitvoeren.
+
+114
+00:08:57,280 --> 00:09:05,360
+Zo kunt u de Python Jupiter notebooks openen en volgen wat Ginsberg en collega's hebben gedaan om tot hun conclusies te komen.
+
+115
+00:09:06,340 --> 00:09:10,080
+Ginsberg maakt veel gebruik van de Python AstroPy module.
+
+116
+00:09:10,080 --> 00:09:19,040
+Als u nog om een hobby verlegen zit, de AstroPy Python module is gratis beschikbaar en kent een eigen website met allemaal voorbeelden.
+
+117
+00:09:20,020 --> 00:09:26,560
+En u hoeft natuurlijk niet direct zelf wetenschap te bedrijven op ingewikkelde James Webb ruimtetelescoop tabellen.
+
+118
+00:09:26,640 --> 00:09:27,560
+Oh, gelukkig!
+
+119
+00:09:27,800 --> 00:09:31,720
+Splits eens een kleurenplaatje op in verschillende FITS-images.
+
+120
+00:09:32,640 --> 00:09:35,940
+Aldoende krijgt u, als u tenminste enigszins op mij lijkt...
+
+121
+00:09:35,940 --> 00:09:38,480
+Wat ik niemand kan aanraden...
+
+122
+00:09:38,480 --> 00:09:42,860
+vanzelf meer respect voor de noeste arbeid van astronomische wetenschappers.
+
+123
+00:09:44,300 --> 00:09:48,700
+Een grote uitdaging bestond uit het uitlijnen van de vele waarnemingen.
+
+124
+00:09:49,700 --> 00:09:56,700
+De James Webb ruimtetelescoop houdt zichzelf in het ideale geval uitgeleind op een object op basis van hulpsterren.
+
+125
+00:09:56,700 --> 00:10:00,580
+Maar dit proces was in het geval van de Brick de mist ingegaan...
+
+126
+00:10:00,580 --> 00:10:04,240
+omdat er te veel sterren zichtbaar zijn in het centrum van onze melkweg.
+
+127
+00:10:04,240 --> 00:10:09,000
+De James Webb ruimtetelescoop was dus inderdaad een beetje de weg kwijt.
+
+128
+00:10:09,060 --> 00:10:10,160
+Well, let's see now.
+
+129
+00:10:10,340 --> 00:10:14,460
+En zo begon de schone taak om geduldig en enigszins experimenteel...
+
+130
+00:10:15,020 --> 00:10:19,560
+Python programmacode te schrijven om naderhand de plaatjes weer goed op elkaar te leggen.
+
+131
+00:10:19,560 --> 00:10:26,780
+Wie wat in deze broncode rondneust zal met eigen ogen kunnen zien dat astronomen ook maar mensen zijn.
+
+132
+00:10:27,660 --> 00:10:29,560
+In de datareductiemodule las ik...
+
+133
+00:10:30,120 --> 00:10:31,980
+Only include positive values.
+
+134
+00:10:32,080 --> 00:10:33,560
+Direct gevolgd door een opmerking...
+
+135
+00:10:34,120 --> 00:10:35,820
+Actually, no, that didn't work.
+
+136
+00:10:36,980 --> 00:10:41,560
+Mocht het u interesseren, een link vindt u uiteraard in de show notes van deze aflevering.
+
+137
+00:10:42,960 --> 00:10:46,060
+Ik begin trouwens alweer kerstbellen te horen volgens mij.
+
+138
+00:10:46,800 --> 00:10:48,040
+Tot de volgende keer.
+

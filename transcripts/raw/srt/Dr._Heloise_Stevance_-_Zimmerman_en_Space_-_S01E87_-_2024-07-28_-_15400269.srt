@@ -1,0 +1,688 @@
+1
+00:00:00,000 --> 00:00:03,860
+U luistert naar Zimmerman & Space.
+
+2
+00:00:05,020 --> 00:00:12,680
+De Caroline Herschel Prize Lectureship is een jaarlijkse geldprijs en uitnodiging om twee lezingen te geven...
+
+3
+00:00:12,680 --> 00:00:17,180
+voor vrouwelijke astronomen die aan het begin van hun wetenschappelijke carrière staan...
+
+4
+00:00:17,180 --> 00:00:20,500
+en zich verdienstelijk maken voor de wetenschappelijke gemeenschap.
+
+5
+00:00:21,340 --> 00:00:25,760
+Caroline Herschel was uiteraard de jongere zus van astronoom William Herschel.
+
+6
+00:00:25,760 --> 00:00:32,820
+Met de tijd werd Caroline Herschel erkend als astronoom en ook als eerste vrouw als zodanig betaald.
+
+7
+00:00:33,020 --> 00:00:33,780
+Nou ja zeg!
+
+8
+00:00:34,020 --> 00:00:39,560
+De Caroline Herschel Prize Lectureship wordt al sinds 2018 jaarlijks uitgereikt.
+
+9
+00:00:40,300 --> 00:00:47,340
+In 2020 werd deze prijs uitgereikt aan de beroemde astronoom en maker van het prachtige YouTube-kanaal Dr. Becky.
+
+10
+00:00:47,340 --> 00:00:54,120
+Hallo en welkom bij deze episode van Night Sky News voor juni 2024 met me, astrophysicist Dr. Becky Smethurst.
+
+11
+00:00:54,120 --> 00:00:57,660
+Deze Dr. Becky heet in het echt Dr. Becky Smethurst.
+
+12
+00:00:58,660 --> 00:01:05,940
+Dit jaar, 2024, werd deze prijs uitgekeerd aan Dr. Eloise Stephans, het onderwerp van deze aflevering.
+
+13
+00:01:06,820 --> 00:01:11,560
+Eloise werd geboren in Frankrijk, maar verhuisde naar het Verenigd Koninkrijk...
+
+14
+00:01:11,560 --> 00:01:16,280
+om natuurkunde en astrophysica te studeren aan de Universiteit van Sheffield.
+
+15
+00:01:16,760 --> 00:01:23,700
+Zij promoveerde in 2019 op de driedimensionale structuur van supernova-explosies.
+
+16
+00:01:24,120 --> 00:01:29,840
+Na een tijd te hebben gewerkt aan sterevolutie in Auckland, Nieuw-Zeeland...
+
+17
+00:01:29,840 --> 00:01:32,900
+is zij momenteel weer werkzaam in het Verenigd Koninkrijk.
+
+18
+00:01:33,720 --> 00:01:40,060
+Op dit moment ontwikkelt Eloise kunstmatige intelligentie-software aan de Universiteit van Oxford.
+
+19
+00:01:40,880 --> 00:01:48,280
+Ze programmeert een soort virtuele assistent voor het doorzoeken van grote datasets van zogenaamde sky-surveys.
+
+20
+00:01:48,280 --> 00:01:53,280
+In dergelijke surveys wordt de sterrenhemel continu in beeld gebracht...
+
+21
+00:01:53,280 --> 00:01:59,220
+waarbij dusdanig veel gegevens opgeslagen worden dat interventie van computers noodzakelijk wordt.
+
+22
+00:01:59,900 --> 00:02:03,200
+Als een astronoom precies weet waar zij naar zoekt...
+
+23
+00:02:03,200 --> 00:02:06,000
+dan kan een traditioneel computerprogramma geschreven worden...
+
+24
+00:02:06,000 --> 00:02:10,080
+dat de gegevens lineair doorzoekt op specifieke parameters.
+
+25
+00:02:10,080 --> 00:02:16,080
+Maar waar meerdere parameters in wisselende verhoudingen in de gaten moeten worden gehouden...
+
+26
+00:02:16,080 --> 00:02:19,400
+loont het al snel artificiële intelligentie in te zetten.
+
+27
+00:02:19,940 --> 00:02:22,100
+En wel in de vorm van machine learning.
+
+28
+00:02:23,100 --> 00:02:27,320
+Deze kunstmatige intelligentie kan dan patronen vinden in de gegevens.
+
+29
+00:02:28,000 --> 00:02:31,080
+Patronen die ons, sterveningen, waarschijnlijk zouden ontgaan...
+
+30
+00:02:31,620 --> 00:02:33,900
+of waar we veel te lang mee bezig zouden zijn.
+
+31
+00:02:34,080 --> 00:02:35,160
+Dit duurt zo lang.
+
+32
+00:02:35,160 --> 00:02:40,160
+Maar de immer geduldig doorrekenende computers met artificiële intelligentie...
+
+33
+00:02:40,740 --> 00:02:43,160
+kunnen dergelijke parameters en combinaties daarvan...
+
+34
+00:02:43,820 --> 00:02:47,340
+in een fractie van onze menselijke zoektijd gemakkelijker vinden.
+
+35
+00:02:48,040 --> 00:02:52,420
+Wie het werk en de biografie van Eloise Stéphans bestudeert...
+
+36
+00:02:52,420 --> 00:02:55,160
+zal niet raar opkijken dat ook haar huidige AI-project...
+
+37
+00:02:55,860 --> 00:03:01,540
+specifiek bedoeld is om op zoek te gaan naar supernova's, zwarte gaten en sterexplosies.
+
+38
+00:03:01,540 --> 00:03:08,680
+Voor dit werk ontving zij onlangs dus de prestigieuze Caroline Herschel Price Lectureship.
+
+39
+00:03:09,500 --> 00:03:12,700
+De lezing die zij hierover zal houden heeft als titel...
+
+40
+00:03:12,700 --> 00:03:17,560
+How can artificial intelligence help us find exploding stars and hungry black holes?
+
+41
+00:03:17,940 --> 00:03:21,680
+Eloise hoopt de ontwikkeling van haar programmatuur afgerond te hebben...
+
+42
+00:03:21,680 --> 00:03:26,500
+op het moment dat het Vera Rubin Observatorium officieel in gebruik wordt genomen.
+
+43
+00:03:27,240 --> 00:03:30,680
+Volgens de planning is dat in het begin van 2025.
+
+44
+00:03:30,680 --> 00:03:35,680
+Dit Vera Rubin Observatorium kwam wel eens eerder langs in deze podcast...
+
+45
+00:03:36,360 --> 00:03:38,820
+toen we het over intraclusterlicht hadden.
+
+46
+00:03:38,960 --> 00:03:39,540
+Oh ja!
+
+47
+00:03:39,760 --> 00:03:43,680
+Het Vera Rubin Observatorium is een gloednieuwe astronomische faciliteit...
+
+48
+00:03:44,500 --> 00:03:47,080
+die is gebouwd op de top van een berg in Chili.
+
+49
+00:03:47,820 --> 00:03:50,560
+Vanaf deze positie zal elke heldere nacht...
+
+50
+00:03:50,560 --> 00:03:53,040
+de zuidelijke sterrenhemel in kaart worden gebracht.
+
+51
+00:03:53,040 --> 00:03:59,180
+Dit gebeurt met behulp van een optische telescoop met een diameter van 8,4 meter...
+
+52
+00:03:59,180 --> 00:04:00,100
+Zoveel?
+
+53
+00:04:00,140 --> 00:04:05,100
+...en een 3200 megapixel camera en zes verschillende optische filters.
+
+54
+00:04:06,120 --> 00:04:12,660
+Met deze opstelling zal de complete zuidelijke sterrenhemel elke drie A4 nachten gefotografeerd worden.
+
+55
+00:04:12,660 --> 00:04:16,760
+De gigantische hoeveelheid gegevens die dit oplevert...
+
+56
+00:04:16,760 --> 00:04:19,600
+wordt aan de wetenschappelijke gemeenschap aangeboden...
+
+57
+00:04:19,600 --> 00:04:24,060
+om de zoektocht te openen naar objecten zoals supernova's en kilonova's.
+
+58
+00:04:24,900 --> 00:04:29,520
+De software van Eloise Stephans kan deze taak enorm verlichten...
+
+59
+00:04:29,520 --> 00:04:32,880
+en leiden tot meer ontdekkingen in een kleiner tijdsbestek.
+
+60
+00:04:33,580 --> 00:04:36,220
+Het leek me wel aardig hier wat dieper op in te gaan.
+
+61
+00:04:36,220 --> 00:04:42,700
+Gelukkig is Eloise nogal vrijgevig met informatie over haar werk op haar eigen website...
+
+62
+00:04:42,700 --> 00:04:46,080
+waarnaar u een link vindt in het bijschrift van deze aflevering.
+
+63
+00:04:46,860 --> 00:04:51,020
+Wat de waarnemingen van het Rubin Observatorium concreet opleveren...
+
+64
+00:04:51,020 --> 00:04:52,960
+zijn lichtcurves over de tijd.
+
+65
+00:04:53,860 --> 00:04:56,220
+Door de sterrenhemel continu te fotograferen...
+
+66
+00:04:56,780 --> 00:05:03,400
+krijgen we een massa foto's waarop sterren en andere astronomische fenomenen en objecten vastgelegd staan.
+
+67
+00:05:03,400 --> 00:05:08,400
+Een deel van die foto's zal van moment tot moment iets verschillen in helderheid...
+
+68
+00:05:09,000 --> 00:05:12,140
+bijvoorbeeld omdat er een supernova gefotografeerd wordt.
+
+69
+00:05:13,260 --> 00:05:17,340
+Deze zal in korte tijd helder worden en dan weer zakken in helderheid.
+
+70
+00:05:18,100 --> 00:05:23,520
+Als een supernova op zo'n serie foto's is ontdekt en we er een filmpje van zouden maken...
+
+71
+00:05:23,520 --> 00:05:28,040
+dan zullen amateurs zoals de meeste van ons wel kunnen begrijpen waar we naar kijken...
+
+72
+00:05:28,040 --> 00:05:31,520
+en geloven dat wat we zien een supernova-explosie is.
+
+73
+00:05:31,520 --> 00:05:37,120
+Maar hoe leer je een computer om dergelijke gebeurtenissen te herkennen?
+
+74
+00:05:37,280 --> 00:05:38,080
+Ja, hoe dan?
+
+75
+00:05:38,240 --> 00:05:44,460
+Als wij ons hoofd erover breken kunnen we wellicht nog wel een stukje Python-code of iets dergelijks verzinnen...
+
+76
+00:05:44,460 --> 00:05:47,800
+dat zo'n helderheid schommeling als zodanig weet te herkennen...
+
+77
+00:05:47,800 --> 00:05:53,440
+en de namen van de foto's waarop dit wordt waargenomen in een database vastlegt voor nader onderzoek.
+
+78
+00:05:53,520 --> 00:05:54,800
+Het lijkt me dat je een ander verloopt.
+
+79
+00:05:54,800 --> 00:05:58,080
+Maar heel efficiënt zal ons programma mogelijk niet zijn.
+
+80
+00:05:58,240 --> 00:05:58,360
+Oh?
+
+81
+00:05:58,620 --> 00:06:03,140
+En bovendien zullen er waarschijnlijk een hoop valse positieven worden waargenomen...
+
+82
+00:06:03,140 --> 00:06:05,080
+en ook supernova's worden gemist.
+
+83
+00:06:05,260 --> 00:06:07,040
+Hans, kan je dit iets beter uitleggen?
+
+84
+00:06:07,200 --> 00:06:07,740
+Jazeker.
+
+85
+00:06:08,420 --> 00:06:11,740
+Hier zijn een paar problemen waar ons programma tegenop zal lopen.
+
+86
+00:06:12,560 --> 00:06:14,860
+Het gaat om heel veel gegevens.
+
+87
+00:06:15,860 --> 00:06:17,800
+Er zit ruis in de foto's.
+
+88
+00:06:17,800 --> 00:06:21,800
+U heeft maar de beschikking tot een beperkt aantal datapunten...
+
+89
+00:06:22,320 --> 00:06:25,500
+dus uw programma moet de missende gegevens interpoleren.
+
+90
+00:06:26,320 --> 00:06:30,600
+Allerlei gebeurtenissen in het heelal variëren in helderheid over de tijd...
+
+91
+00:06:30,600 --> 00:06:34,680
+en slechts een deel hiervan wordt veroorzaakt door supernova-explosies.
+
+92
+00:06:35,360 --> 00:06:37,780
+Een bedekkend binair stelsel bijvoorbeeld...
+
+93
+00:06:37,780 --> 00:06:41,680
+waarbij een ster periodiek wordt afgedekt door een donkere begeleider...
+
+94
+00:06:41,680 --> 00:06:45,580
+zal ook een op een supernova gelijkende lichtcurve opleveren.
+
+95
+00:06:45,580 --> 00:06:50,500
+Kortom, ons reguliere computerprogramma schiet al gauw tekort.
+
+96
+00:06:52,500 --> 00:06:56,720
+Wat Eloise doet is het bouwen van een machine learning model...
+
+97
+00:06:56,720 --> 00:06:59,640
+dat zogenaamde gaussiaanse processen gebruikt...
+
+98
+00:06:59,640 --> 00:07:02,400
+om de lichtcurves van supernova's te herkennen.
+
+99
+00:07:03,680 --> 00:07:06,640
+Gaussiaanse processen stellen software in staat...
+
+100
+00:07:06,640 --> 00:07:10,580
+eigenschappen die typisch bij de lichtcurve van een supernova passen...
+
+101
+00:07:10,580 --> 00:07:12,180
+in een model op te nemen...
+
+102
+00:07:12,180 --> 00:07:16,780
+door een gaussiaanse verdeling te specificeren over de functiewaarden...
+
+103
+00:07:16,780 --> 00:07:18,780
+die bij de gegevens zouden kunnen passen.
+
+104
+00:07:19,160 --> 00:07:22,600
+Want de ene supernova is nou eenmaal de andere niet.
+
+105
+00:07:23,180 --> 00:07:24,380
+Dat is nog een probleem.
+
+106
+00:07:25,120 --> 00:07:29,260
+Type 1a supernova's laten een geheel andere lichtcurve zien...
+
+107
+00:07:29,260 --> 00:07:31,100
+dan bijvoorbeeld type 2p supernova's.
+
+108
+00:07:31,100 --> 00:07:34,700
+Die laatste bereiken na de initiële explosie...
+
+109
+00:07:35,480 --> 00:07:37,900
+een tijd lang een helderheidsplateau...
+
+110
+00:07:37,900 --> 00:07:40,740
+en duiken dan na een tijd weer terug in helderheid...
+
+111
+00:07:40,740 --> 00:07:44,700
+terwijl de 1a supernova's doorgaans op de kortere schaal plaatsvinden...
+
+112
+00:07:44,700 --> 00:07:48,700
+en direct naar beneden gaan in helderheid na de initiële explosie.
+
+113
+00:07:48,700 --> 00:07:55,700
+Wie dingen als Gaussiaanse processen en machine learning machtig interessant vindt...
+
+114
+00:07:56,220 --> 00:07:59,500
+kan een hoop informatie vinden op Eloise's website.
+
+115
+00:08:00,220 --> 00:08:03,300
+Bovendien vindt u bijna al haar Python en Jupyter Notebooks...
+
+116
+00:08:03,860 --> 00:08:07,160
+programmacode als open source projecten terug op GitHub.
+
+117
+00:08:07,980 --> 00:08:11,720
+Ik las een aardig onderschrift bij een van haar Python programma's...
+
+118
+00:08:11,720 --> 00:08:13,120
+dat ik u niet wil besparen.
+
+119
+00:08:13,660 --> 00:08:17,700
+Het gaat over contributies leveren aan open source programmatuur.
+
+120
+00:08:17,700 --> 00:08:20,880
+Voor het gemak vertaal ik het in het Nederlands...
+
+121
+00:08:20,880 --> 00:08:24,360
+anders wordt deze Zimmerman Space zo vervuild door Engels.
+
+122
+00:08:24,520 --> 00:08:24,820
+Oké.
+
+123
+00:08:25,380 --> 00:08:28,860
+Er kan een stemmetje in uw hoofd zitten dat u vertelt...
+
+124
+00:08:28,860 --> 00:08:32,700
+dat u nog niet klaar bent om een open source bijdrager te zijn.
+
+125
+00:08:33,120 --> 00:08:36,260
+Dat uw vaardigheden niet goed genoeg zijn om bij te dragen.
+
+126
+00:08:36,900 --> 00:08:39,300
+Wat zou u een project als dit kunnen bieden?
+
+127
+00:08:39,920 --> 00:08:43,620
+We verzekeren u dat stemmetje in uw hoofd heeft ongelijk.
+
+128
+00:08:44,180 --> 00:08:45,700
+Als u überhaupt code kunt schrijven...
+
+129
+00:08:45,700 --> 00:08:48,820
+kunt u bijdragen aan open source software.
+
+130
+00:08:50,020 --> 00:08:52,520
+Bijdragen leveren aan open source projecten...
+
+131
+00:08:52,520 --> 00:08:56,560
+is een fantastische manier om uw programmeervaardigheden te verbeteren.
+
+132
+00:08:57,160 --> 00:09:00,700
+Perfecte code schrijven is niet de maatstaf voor een goede ontwikkelaar.
+
+133
+00:09:01,580 --> 00:09:04,200
+Dat zou ons allemaal immers disqualificeren.
+
+134
+00:09:04,920 --> 00:09:06,820
+Het gaat erom iets te proberen te creëren...
+
+135
+00:09:06,820 --> 00:09:09,900
+fouten te maken en van die fouten te leren.
+
+136
+00:09:10,560 --> 00:09:12,480
+Dat is hoe we allemaal beter worden...
+
+137
+00:09:12,480 --> 00:09:14,480
+en we helpen anderen graag om te leren.
+
+138
+00:09:19,300 --> 00:09:23,660
+Eloise is een duidelijke voorstander van Creative Commons licenties...
+
+139
+00:09:23,660 --> 00:09:25,260
+en open source software...
+
+140
+00:09:25,260 --> 00:09:28,460
+en legt op haar website precies uit hoe een en ander werkt.
+
+141
+00:09:29,300 --> 00:09:31,760
+Mocht u toch al op haar website geland zijn...
+
+142
+00:09:31,760 --> 00:09:34,460
+kijk dan ook eens naar de Scientific Writing Guide.
+
+143
+00:09:34,880 --> 00:09:37,440
+U vindt deze onder de resources met de titel...
+
+144
+00:09:37,440 --> 00:09:39,300
+Be concise, yet precise.
+
+145
+00:09:39,580 --> 00:09:42,560
+Dit is een gratis te downloaden pdf met tips...
+
+146
+00:09:42,560 --> 00:09:44,980
+voor het schrijven van een wetenschappelijk artikel.
+
+147
+00:09:44,980 --> 00:09:49,000
+De focus van Eloise's pdf ligt uiteraard...
+
+148
+00:09:49,000 --> 00:09:52,360
+bij het schrijven van astronomische wetenschappelijke artikelen...
+
+149
+00:09:52,360 --> 00:09:54,960
+maar het is sowieso een prettig te lezen werk...
+
+150
+00:09:54,960 --> 00:09:59,080
+met tips die op heel veel soorten van publicaties van toepassing zijn.
+
+151
+00:10:00,040 --> 00:10:01,840
+Mocht u wat tijd over hebben...
+
+152
+00:10:01,840 --> 00:10:03,520
+kijk dan eens rond op haar website.
+
+153
+00:10:04,020 --> 00:10:05,940
+Er valt ook een hoop te lezen over...
+
+154
+00:10:05,940 --> 00:10:08,180
+hoe we als mensen met elkaar om kunnen gaan...
+
+155
+00:10:08,180 --> 00:10:11,520
+en Eloise legt een aantal astrofysische onderwerpen uit...
+
+156
+00:10:11,520 --> 00:10:13,460
+op een niveau dat iedereen het snapt.
+
+157
+00:10:13,460 --> 00:10:15,740
+Oh, ik denk dat ik het nu begin te snappen.
+
+158
+00:10:16,020 --> 00:10:19,380
+En wat ik tot slot fascinerend vind aan Eloise's werk...
+
+159
+00:10:19,380 --> 00:10:23,660
+is dat het een voorbeeld is van het inzetten van artificiële intelligentie...
+
+160
+00:10:23,660 --> 00:10:25,520
+op een manier die de mensheid dient.
+
+161
+00:10:26,280 --> 00:10:29,320
+De discussie heldt tegenwoordig vaak de andere kant op.
+
+162
+00:10:29,760 --> 00:10:33,040
+Dan mopperen we dat scholieren JetGPT gebruiken...
+
+163
+00:10:33,040 --> 00:10:34,080
+om hun huiswerk te doen.
+
+164
+00:10:34,460 --> 00:10:38,180
+Vrezen we dat onze baan straks door een robot wordt overgenomen.
+
+165
+00:10:38,820 --> 00:10:41,820
+Of in het extreme geval dat we over een tijdje...
+
+166
+00:10:41,820 --> 00:10:44,140
+als wezens geheel overbodig zijn...
+
+167
+00:10:44,140 --> 00:10:47,220
+en alleen nog dienen voor het produceren van paperclips.
+
+168
+00:10:48,020 --> 00:10:51,540
+Dan is het toch mooi dat wetenschappers als Eloise Stephans...
+
+169
+00:10:51,540 --> 00:10:54,800
+de geheimen van het heelal dichterbij brengen voor u en mij...
+
+170
+00:10:54,800 --> 00:10:57,980
+door hun intelligentie en doorzettingsvermogen in te zetten...
+
+171
+00:10:57,980 --> 00:11:01,300
+met behulp van werktuigen als artificiële intelligentie.
+
+172
+00:11:01,300 --> 00:11:03,180
+Tot de volgende keer!
+

@@ -1,0 +1,203 @@
+Dit is onze commemoration dat we hier zijn tot iemand zoals ons, tot sommigen van jullie die de volgende zijn, komen terug naar het weer terug te leren.
+En om verder de expiratie en de meaning van Apollo.
+Dat waren de laatste woorden die vanaf de maan werden uitgesproken.
+Op 14 december 1972 steeg astronauten Eugene Cernan en Harrison Schmid op uit de Taurus-Litro-Vallei op de maan om terug te keren naar de aarde.
+Toen zij samen met collega-astronaut Ron Evans op 19 december 1972 in de stille oceaan landen begon een lange stilte in de bemande ruimtevaart voorbij onze planeet aarde.
+Nooit meer reisten astronauten verder dan in een baan rond de aarde sinds die december 1972.
+Dat is toch niet te geloven?
+Maar wie het ruimtenieuws een beetje volgt weet dat dat allemaal op het punt staat te gaan veranderen.
+Nog dit decennium zullen astronauten terugkeren naar de maan.
+Waar de Apollo-maanreizen van de vorige eeuw op zichzelfstaande korte heen- en weervluchten waren,
+ligt het in de verwachtingen dat we permanent bewoonde maanbasis gaan krijgen.
+En een permanent om de maan cirkelend ruimtestation, de Lunar Gateway.
+Meerdere mogendheden zullen vestigingen op de maan bouwen en daar weken, maanden of zelfs jarenlang verblijven.
+Dat roept al snel de subtiele, maar even zozeer fundamentele vraag op.
+Hoe laat is het op de maan?
+Nou ja, net zo laat als op aarde zouden we kunnen denken.
+Maar zo eenvoudig liggen de kaarten helaas niet.
+Hij heeft de klokhoorn luiden, maar weet niet waar de klepel hangt.
+Als meerdere vestigingen op de maan onderling willen communiceren,
+willen navigeren op de maan zoals we dat op aarde kunnen met gps,
+en contact willen kunnen onderhouden met ruimtevaartuigen die om de maan cirkelen,
+dan ontstaat de behoefte aan atoomklokken die een centraal gereguleerde maantijd aanhouden.
+Het is niet per se voor de hand liggend hoe een dergelijke klok de tijd moet gaan bijhouden.
+De definitie van een seconde is wel ondubbelzinnig vastgelegd in het International System of Units.
+Deze definitie kennen we sinds 1967 en is niet meer gekoppeld aan de rotatie van de aarde.
+Toch gaan er geluiden op om de seconde nogmaals te herdefiniëren naar een nog preciezere standaard.
+Of u en ik dat mee gaan maken is echter maar zeer de vraag.
+Goed, voorlopig weten we allemaal waar we het over hebben als we het woord seconde gebruiken.
+Maar alleen al op aarde is het vastleggen en bijhouden van de tijd één groot wespennest.
+We zullen het niet helemaal hier uit de doeken doen, want dan zou dit een meerdelige aflevering moeten worden.
+Maar een paar uitdagingen zijn wel leuk om te begrijpen.
+Neemt uw papier en potlood erbij.
+Op aarde onderscheiden we grofweg civiele tijd aan atoomkloktijd.
+Officieel heet de atoomkloktijd TAI, wat staat voor Trans Atomic International.
+Maar als u dacht dat ergens op aarde één atoomklok staat die de baas over de tijd is, dan moet ik u helaas teleurstellen.
+TAI is het gewogen gemiddelde van de tijd van 450 atoomklokken verdeeld over 80 landen.
+Ja, dat klinkt niet lekker.
+De civiele tijd, die van uw horloge, is wel weer gebaseerd op deze atoomtijd, maar blijft in de pas lopen met de aardrotatie.
+En die aardrotatie op zich is weer onderhevig aan variaties die we niet kunnen beïnvloeden.
+De civiele tijd is gebaseerd op UTC, wat staat voor Coordinated Universal Time.
+De wakkere luisteraar zal dan concluderen dat de letters van deze afkorting niet in de goede volgorde staan.
+Dat is correct.
+UTC is een compromis tussen het door de Engels sprekende aangedragen CUT en de Franse variant DUC.
+En waar internationaal over standaarden wordt vergaderd, moeten helaas altijd compromissen worden gesloten.
+Of de verschillende partijen houden de hakken natuurlijk stevig in het zand,
+waardoor verschillende standaarden ontstaan en conversies moeten worden gepleegd om van het ene in het andere systeem te komen.
+Gaat u rustig zitten.
+Omdat de aarde niet exact in 24 uur rond haar as draait en zelfs over de jaren hierin varieert,
+moet de UTC met schrikkelseconde, of het achterwege blijven daarvan, van tijd tot tijd gesynchroniseerd worden met de TAI.
+En omdat computersystemen weer in de war kunnen raken door schrikkelseconde,
+hanteert Google bijvoorbeeld een andere tijd.
+Google Smeer.
+Hierin wordt de schrikkelseconde over het hele jaar uitgesmeerd.
+Als u uw computer synchroniseert met time.apple.com en ik met time.google.com,
+allebei gratis te gebruiken NTP Timesurvers,
+dan zijn we het dus maar heel soms heel kort eens over hoe laat het is.
+En dit is nog maar een klein gedeelte van het dilemma van het bijhouden van de tijd,
+en vooral het alle klokken met elkaar in de pas laten lopen op aarde.
+Als u dit interessant vindt, bestaat er een boek wat het allemaal aardig uitlegt van Dennis McCarthy en Kenneth Seidelman.
+Het heet Time from Earth Rotation to Atomic Physics,
+en u kunt het zowel als hardcover als op de Kindle lezen.
+Dit boek is zowel super leesbaar als onbegrijpelijk diep, dus echt weer iets voor de liefhebbers.
+Ben je zo'n nerd, Hens?
+Maar goed, dit is alleen nog op aarde.
+Het wordt pas echt een uitdaging als we de klokken op de maan en op Mars met elkaar in de pas willen laten blijven lopen.
+Om ongelukken en ruzies hierover voor te zijn,
+zijn NASA en ESA al begonnen met het definiëren van afspraak hierover.
+Volgens Cheryl Gramling van het positie Navigatie en Tijdteam van NASA's Goddard Space Flight Center,
+staan we nog maar aan het begin van een universele maantijd.
+Een groot dilemma is het feit dat de klok niet hetzelfde tikt op de maan als op de aarde,
+vanwege relativistische effecten.
+De massa van de aarde is groter dan die van de maan,
+wat betekent dat een horloge op de maan iets sneller tikt dan op aarde.
+Volgens Gramling wint de klok op de maan elke 24 uur zo'n 56 microseconden vergeleken met de klok op aarde.
+Bizar.
+Dit toegegeven bizarre gegeven kan door de sterk toegenomen precisie van wetenschappelijke meetinstrumenten
+ook op de kleine schaal op aarde worden gemeten.
+De tijd tikt sneller voor iemand op een berg dan voor iemand in het dal.
+Op aarde zijn deze verschillen dusdanig klein dat we ons wel doorheen atoomklokken.
+Maar voor de maan wordt het een andere kwestie,
+vooral als we blijven communiceren met de aarde waar een andere klok tikt.
+En om te voorkomen dat over een paar jaar uw pizza bestelling op de maan bij het verkeerde adres wordt bezorgd,
+heeft de Europese ruimtevaartorganisatie ESA samen met industriële partners project Moonlight in het leven geroepen.
+In de praktijk zal dit bestaan uit een constellatie van enkele maansatellieten
+die samen zorgdragen voor dataverbindingen en een maanvariant van wat op aarde GPS-navigatie heet.
+De technische naam hiervoor is Lunar GNSS,
+waarbij GNSS staat voor Global Navigation Satellite System.
+Details als atoomklokken en het aantal satellieten
+worden op dit moment onder de loep genomen door ESA en haar partners.
+De hoop is dat het systeem rond 2027 gelanceerd zal worden.
+Project Moonlight heeft een aantal grote voordelen voor maanexploratie in de nabije toekomst.
+1. De communicatie met planeet aarde onderhouden.
+Met een constellatie van maansatellieten zal er altijd een rechtstreeks radioverbinding met aarde mogelijk zijn,
+terwijl de constellatiesatellieten onderling ook kunnen communiceren.
+2. Het Lunar GNSS-systeem zal ruimtevaartuigen in staat stellen op exacte locaties te landen
+en op exacte tijden te navigeren.
+Dat is natuurlijk extreem belangrijk voor zaken als rendezvous en docking,
+als een ruimtevaartuig opstijgt vanaf het maanoppervlak om te koppelen aan de Lunar Gateway bijvoorbeeld.
+Rovers op het maanoppervlak zullen bemand of onbemand precies weten waar ze zich op de maan bevinden.
+In 400 meters.
+3. Radioastronomie op de achterzijde van de maan zal gebruik kunnen maken van de Moonlight-constellatie
+om gegevens heen en weer te sturen naar de aarde of naar wetenschappers op een maanbasis.
+En radioastronomie door middel van interferometrie staat en valt met afspraken over de exacte tijd.
+Bij de volgende toon is het 17 uur 11 minuten precies.
+In eerste instantie worden de Moonlight-constellatie-satellieten in een speciale baan rond de maan gebracht
+om optimaal gebruikt te kunnen worden op de zuidpool van de maan.
+Al dus Jurg Haan, ESA-engineer van project Moonlight.
+Maar waarom de Zuidpool?
+Hier zullen de eerste missies zich op concentreren.
+De Zuidpool is nooit bezocht tijdens de Apollo-missies van de vorige eeuw.
+Maar precies hier zijn kraters aanwezig waarvan delen permanent in duisternis verkeren
+en waar waterijs aanwezig is.
+Dit is geen hypothese, maar iets wat proefronden vind ik al is vastgesteld.
+Oh ja, inderdaad.
+Een van de grote uitdagingen van maanexpedities is het langer verblijven en gebruikmaken van grondstoffen ter plekke.
+De zogenaamde in-situ resource utilization.
+Behalve drinkwater kunt u dan ook denken aan grondstoffen om mee te bouwen,
+energie en zuurstof uit te winnen en gewassen mee te laten groeien.
+Bij langer verblijven op de maan wordt het ondoenlijk alle benodigdheden altijd maar vanaf de aarde naar de maan te brengen.
+Ja, dat is logisch.
+Maar welke klok gaat dan lopen op de atoomklok op de maan?
+Uiteindelijk zal daarover een knoop moeten worden doorgehakt om project Moonlight een kans van slagen te geven.
+Net als op aarde wordt zo standaard mogelijk in de wielen gereden door geopolitieke oneenigheden.
+Deels zullen we dat misschien voor lief moeten nemen.
+Als China of Rusland bijvoorbeeld een eigen klok willen aanhouden die afwijkt van die van ESA en NASA,
+jammer maar helaas.
+Dit zijn ook geen onoverkomelijkheden.
+Wie heeft er niet eens moeten kijken hoe laat het is voor die collega of dat familielid in een andere tijdzone?
+Sowieso ontstaat op de maan de uitdaging dat de maan-etmaal 29,5 dag duurt en niet 24 uur.
+Wij houden op aarde een strikt 24 uur durend etmaal aan door onze civiele tijd steeds synchroon te laten lopen met de aardrotatie
+en door onze wekker te zetten en zelfs met tegenzin uit bed te klauteren en er met vergelijkbare tegenzin op tijd weer in te kruipen als we eigenlijk nog helemaal niet moe zijn.
+
+Moet de klok ter plekke dezelfde 24 uur cyclus aanhouden en moeten we met kunstlicht mensen herinneren aan dag en nacht op aarde?
+Of mag iedereen lekker uitslapen en wennen aan een eigen dag-nachtritme wat mogelijk afwijkt van het kunstmatig op aarde in stand gehouden circadisch ritme van exact 24 uur per etmaal?
+Dat klinkt natuurlijk heel comfortabel, maar werkt natuurlijk weer minder goed als mensen moeten samenwerken.
+Om een gecoördineerde maantijd in het leven te roepen zullen minstens drie atoomklokken op de maan moeten worden geïnstalleerd
+die net als op aarde met een gewogen stemming overeen komen wat de maan-atoomtijd van dat moment is.
+Dan hebben we het tikken van seconden in het ruimtetijdreferentiekader van de maan, wat dus iets afwijkt van dat op aarde, in ieder geval geregeld.
+Maar dan?
+Heeft het zin om dit referentiesysteem dan periodiek te synchroniseren met de UTC-tijd op aarde?
+Ah, I don't know.
+Of is dat alleen maar lastig?
+Het is voor ons al te gemakkelijk om te roepen dat het waanzin is om de maantijd uit de pas te laten lopen met de tijd op aarde.
+Want hoe gaan we dit aanpakken als we bijvoorbeeld naar Mars gaan en ons daar permanent gaan vestigen?
+Ook op Mars loopt de tijd anders dan op aarde.
+En de afstand tussen de aarde en Mars is, anders dan die tussen aarde en maan, ernstig variabel.
+Van 54,6 miljoen kilometer tot 401 miljoen kilometer.
+Dat komt omdat zowel de aarde als Mars in niet-circoufformige banen met verschillende omlooptijden om de zon draaien.
+Zo eens in de ongeveer 16 jaar staat Mars in oppositie, zodat we Mars goed en lang aan de nachtelijke hemel zien.
+Dit is een moment dat Mars relatief dicht bij de aarde staat.
+Toch doen radiosignalen er dan altijd nog ruim drie minuten over om van de aarde naar Mars of andersom te reizen.
+Een handenschudden tussen twee computers om de klokken synchroon te zetten duurt dan dus minstens zes minuten.
+En dat is alleen als de planeten heel dicht bij elkaar staan.
+In het andere extreme geval doet een radiosignaal er ruim 22 minuten over om de afstand tussen de twee planeten te overbruggen.
+En het synchroniseren van twee computers op beide planeten duurt dan drie kwartier.
+De verschillen in tijd die door die afstanden weer optreden kunnen wel overbrugd worden met wat rekenwerk.
+Maar de vraag blijft of er behoefte bestaat om de klokken met elkaar in de pas te laten lopen.
+En ook de vraag of de klok op aarde wel de baas moet blijven spelen over de tijd en de rest van het zonnestelsel.
+Ja, dat is wel een hele interessante vraag.
+Aan het begin van deze eeuw werd er al over nagedacht wat resulteerde in het Proximity One protocol van het CSSDS.
+Of Consulting Committee on Space Data Systems.
+Dit protocol werd bedacht als oplossing voor het sturen van internet timing gegevens tussen verschillende plaatsen in het zonnestelsel.
+En remember thousands of lives are at stake.
+Het is u misschien ontgaan, en mij trouwens ook.
+Maar NTP, het Network Time Protocol van het aardse internet, werd ook experimenteel al toegepast in een aantal AMSAT satellieten en aan boord van de Space Shuttle.
+NASA JPL zag al beren op de weg in het aanhouden van tijd tussen verschillende hemellichamen door middel van NTP.
+Het idee was om het Proximity One protocol te eiken met een zonnestelselcentrische tijd, dus los van de aarde.
+Voor dat doel zou de atoomklok die bijvoorbeeld op Mars dikt, eerst naar wat men noemt barycentrische J2000 tijd moeten worden geconverteerd en zou dat ook voor de aardse tijd moeten worden gedaan.
+Wat een gedoe.
+In het artikel hierover, waarvan u een link vindt in de show notes, lezen we al dat de vraag blijft hoe dit praktisch uitvoerbaar wordt met ruimtevaartuigen die in elliptische banen rond verschillende hemellichamen draaien.
+Ah.
+Of überhaupt niet om hemellichamen heen draaien.
+Voorlopig richten we ons eerst nog maar even op de maan.
+De vraag is nu waar op de maan de atoomklokken geplaatst moeten gaan worden.
+De maan heeft nogal een grillig zwaartekrachtveld, dus het maakt wel degelijk uit of een atoomklok op de bodem van de Taurus-Litro-Vallei geparkeerd staat of op Mons-Huygens, de hoogste berg op de maan.
+Wellicht is het zinnig de atoomklokken alleen aan boord van de Moonlight Maan-satellieten van ESA te plaatsen voor een iets sneller tikkende, maar wellicht extractere klok.
+Parallel aan deze uitdagingen loopt het initiatief voor kartering en coördinatie van het maanoppervlak.
+Dat wordt op dit moment besproken door ESA, NASA en de United Nations International Committee on Global Satellite Navigation Systems.
+Want behalve hoe laat is het op de maan willen we natuurlijk ook kunnen zeggen waar bevind ik me op de maan en waar moet mijn pizza naartoe?
+In samenwerking met ESA ontwikkelt NASA een eigen standaard voor communicatie op de maan met de naam Lunanet.
+U raadt het al, Lunanet wordt internet op de maan.
+Het ligt voor de hand dat communicatie tussen het aardse internet en Lunanet mogelijk wordt.
+En als het over een paar jaar krioelt van de mensen op de maan, dan zullen ook op de maan NTP tijdsurvers in het leven worden geroepen om de laptops en mobiele telefoons ter plekke aan de maantijd te synchroniseren.
+Wat die dan ook is.
+Voor onze kinderen en kleinkinderen zal maantourisme waarschijnlijk gewoon een optie worden.
+En dan willen we onze mobiele telefoons natuurlijk ook meenemen en ter plekke kunnen gebruiken voor maans selfies of Insta en TikTok filmpjes van vrienden die grappig struikelen of een dansje doen in een zesde van de aardse zwaartekracht.
+De samenwerking tussen NASA en ESA verloopt doorgaans heel goed.
+Dus Lunanet en project Moonlight zullen, wanneer deze systeem allebei volledig geïmplementeerd zijn, waarschijnlijk één groter systeem dienen en dezelfde kloktijd weergeven.
+Welke tijd dat exact wordt laat nog een paar jaar op zich wachten.
+Maar dat u en ik, of althans onze kinderen en kleinkinderen ervan zullen profiteren, dat staat vast.
+Tot de volgende keer, wat weer over een aardse week zal zijn.
+En dan laat ik u tot slot achter met de toekomstvoorspelling van astrofysicus Neil deGrasse Tyson voor het jaar 2050.
+Deze van de verandering van de human minden wordt zo advanced dat mental illnessen wordt geïnst,
+leaving psychologisch en psychiatristen niet zonder jobs.
+In een shift dat echter de rapid conversion van de horen naar automobiles in de early 20e century,
+self-driving elektricke vehicles will fully replaceen alle cars en trucks op de weg.
+De human space programen wordt volledig geïmplementeerd naar een space industry,
+supported niet bij tax dollars, maar bij tourism en iets anders dat mensen in de space dreamt.
+We developen een perfect antiviral serum en cure cancer.
+Medicines will tailor het je eigen DNA, leaving geen adverse side effects.
+We will learn hoe to regrow lost limbs en failing organs,
+bringing ons op to de level van andere regenerating animals on Earth,
+zoals salamanders, starfish en lobsters.

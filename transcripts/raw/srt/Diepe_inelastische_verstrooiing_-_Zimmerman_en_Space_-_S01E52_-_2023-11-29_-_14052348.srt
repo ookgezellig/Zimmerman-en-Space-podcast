@@ -1,0 +1,668 @@
+1
+00:00:00,000 --> 00:00:02,800
+U luistert naar Zimmerman & Space.
+
+2
+00:00:30,000 --> 00:00:33,540
+Zullen we samen zien dat het allemaal niet zo eenvoudig is.
+
+3
+00:00:33,760 --> 00:00:34,680
+Oh, gelukkig!
+
+4
+00:00:34,920 --> 00:00:38,000
+Het atoommodel waarbij elektronen vrolijk rondjes draaien...
+
+5
+00:00:38,560 --> 00:00:41,000
+...rond een kern van protonen en neutronen...
+
+6
+00:00:41,000 --> 00:00:43,780
+...staat bekend als het Niels Bohr atoommodel.
+
+7
+00:00:44,960 --> 00:00:48,000
+Alhoewel dit voor die tijd, en dan hebben we het over 1913...
+
+8
+00:00:48,580 --> 00:00:51,360
+...een hele verbetering was op voorgaande modellen...
+
+9
+00:00:51,360 --> 00:00:55,000
+...is het atoommodel van Werner Heisenberg en Edwin Schreudinger...
+
+10
+00:00:55,000 --> 00:00:57,720
+...van rond 1927 nauwkeuriger.
+
+11
+00:00:57,720 --> 00:01:01,580
+Nog niet compleet, maar nauwkeuriger in het beschrijven...
+
+12
+00:01:01,580 --> 00:01:05,120
+...van wat we heden te dagen meemaken in deeltjesversnellers.
+
+13
+00:01:07,520 --> 00:01:11,720
+In dit nieuwere model is een elektron geen klein, zelfstandig balletje...
+
+14
+00:01:12,400 --> 00:01:16,140
+...maar een zone rond de kern waar het elektron de grootste kans heeft...
+
+15
+00:01:16,140 --> 00:01:17,160
+...waargenomen te worden.
+
+16
+00:01:18,620 --> 00:01:22,720
+Tot die waarneming gedaan wordt, is het elektron geen discreet deeltje...
+
+17
+00:01:22,720 --> 00:01:24,360
+...dat rondjes draait, maar een golf.
+
+18
+00:01:25,080 --> 00:01:26,840
+Een volk van mogelijkheden.
+
+19
+00:01:27,720 --> 00:01:30,540
+Maar goed, dit verhaal heeft u misschien wel eens eerder gehoord.
+
+20
+00:01:30,660 --> 00:01:36,000
+Hij heeft de klok horen luiden, maar weet niet waar de klepel hangt.
+
+21
+00:01:36,240 --> 00:01:38,120
+Vandaag dalen we nog dieper naar beneden...
+
+22
+00:01:38,660 --> 00:01:42,320
+...en zullen we ons concentreren op één deeltje in de kern van het atoom.
+
+23
+00:01:42,960 --> 00:01:43,740
+Het proton.
+
+24
+00:01:44,860 --> 00:01:48,580
+Het idee dat een proton een positief geladen balletje is...
+
+25
+00:01:48,580 --> 00:01:51,720
+...waar we twee upquarks en één downquark in aantreffen...
+
+26
+00:01:51,720 --> 00:01:56,540
+...zullen we moeten loslaten, eenvoudigerweg omdat de experimentele praktijk uitwijst...
+
+27
+00:01:56,540 --> 00:02:00,240
+...dat dit geen volledig beeld is van wat een proton is.
+
+28
+00:02:00,380 --> 00:02:01,400
+Oh, dat is niet best.
+
+29
+00:02:01,560 --> 00:02:05,580
+Net als een elektron is een proton een kwantummechanisch object...
+
+30
+00:02:05,580 --> 00:02:08,420
+...dat bestaat uit een zee van mogelijke vormen...
+
+31
+00:02:08,420 --> 00:02:10,920
+...totdat het door een waarneming gedwongen wordt...
+
+32
+00:02:10,920 --> 00:02:13,720
+...tijdelijk een bepaalde concrete vorm aan te nemen.
+
+33
+00:02:13,720 --> 00:02:21,020
+En met de jaren is die zee van mogelijkheden groter en mysterieuzer geworden.
+
+34
+00:02:22,540 --> 00:02:28,880
+Zo verscheen op 17 augustus 2022 een artikel in Nature met de titel...
+
+35
+00:02:28,880 --> 00:02:32,000
+Evidence for Intrinsic Charm Quarks in the Proton.
+
+36
+00:02:32,700 --> 00:02:35,480
+Intrinsieke Charm Quarks in een Proton.
+
+37
+00:02:35,600 --> 00:02:39,040
+Dat klinkt op het eerste gehoor heel onschuldig...
+
+38
+00:02:39,040 --> 00:02:42,720
+...maar als we er een lijstje met massa's van elementaire deeltjes naast leggen...
+
+39
+00:02:42,720 --> 00:02:44,480
+...zien we iets opvallends.
+
+40
+00:02:45,300 --> 00:02:48,840
+Die Charm Quarks en Antiquarks hebben veel meer massa...
+
+41
+00:02:48,840 --> 00:02:52,440
+...dan de Up-and-Down Quarks waar een proton uit schijnt te bestaan.
+
+42
+00:02:53,520 --> 00:02:58,200
+Sterker nog, één Charm Quark heeft meer massa dan een heel proton zelf.
+
+43
+00:02:59,180 --> 00:03:00,160
+Dat is vreemd.
+
+44
+00:03:01,020 --> 00:03:03,600
+Hoe kan iets dat we in een proton aantreffen...
+
+45
+00:03:03,600 --> 00:03:06,040
+...nou meer massa hebben dan het proton zelf?
+
+46
+00:03:06,040 --> 00:03:15,760
+De massa van zulke kleine deeltjes meten wetenschappers in mega-electron-volt per c-kwadraat...
+
+47
+00:03:16,280 --> 00:03:18,080
+...waarbij c de lichtsnelheid is.
+
+48
+00:03:19,300 --> 00:03:24,640
+Waarom die eenheid gebruikt wordt, is onderwerp voor een toekomstige aflevering van deze podcast.
+
+49
+00:03:25,440 --> 00:03:28,140
+Ik wil het ook niet nodeloos ingewikkeld maken.
+
+50
+00:03:28,320 --> 00:03:30,260
+Hm, dat weet ik nog niet zo zeker.
+
+51
+00:03:30,260 --> 00:03:36,380
+En het doet er voor nu ook niet toe of we massa meten in mega-electron-volt per c-kwadraat...
+
+52
+00:03:36,380 --> 00:03:39,740
+...in nanogrammen of in konijnen per volle maan.
+
+53
+00:03:40,540 --> 00:03:43,040
+Laten we er gewoon wat getallen aan hangen.
+
+54
+00:03:43,240 --> 00:03:43,560
+Oké.
+
+55
+00:03:43,760 --> 00:03:46,300
+Al doende wordt hopelijk duidelijk wat we daaraan hebben.
+
+56
+00:03:47,100 --> 00:03:49,360
+Als eenheid gebruiken we dan een MEF...
+
+57
+00:03:49,360 --> 00:03:52,480
+...wat staat voor mega-electron-volt per c-kwadraat.
+
+58
+00:03:52,480 --> 00:03:56,340
+Een up-kwark heeft een massa van 1,9 MEF.
+
+59
+00:03:56,760 --> 00:03:58,860
+Een down-kwark 4,4 MEF.
+
+60
+00:03:59,700 --> 00:04:04,000
+We zeiden al dat een proton twee up-kwarks en één down-kwark kent.
+
+61
+00:04:04,660 --> 00:04:06,860
+Dat is samen 8,2 MEF.
+
+62
+00:04:07,880 --> 00:04:11,840
+Toch is de massa van één proton 938 MEF.
+
+63
+00:04:12,680 --> 00:04:13,140
+Waarom?
+
+64
+00:04:13,520 --> 00:04:14,040
+Waarom?
+
+65
+00:04:14,540 --> 00:04:18,200
+Dat heeft te maken met nog een deeltje dat kwarks bij elkaar houdt.
+
+66
+00:04:18,200 --> 00:04:21,580
+Dit deeltje heet het gluon, een soort lijmdeeltje.
+
+67
+00:04:22,480 --> 00:04:25,300
+Een gluon zelf heeft geen massa...
+
+68
+00:04:25,300 --> 00:04:30,360
+...maar het gluonveld dat de up-kwarks en de down-kwark in een proton bij elkaar houdt...
+
+69
+00:04:30,360 --> 00:04:35,820
+...bevat dusdanig veel energie dat dit 99% van de massa van een proton uitmaakt.
+
+70
+00:04:37,060 --> 00:04:38,240
+938 MEF.
+
+71
+00:04:39,440 --> 00:04:42,160
+Zo'n gluonveld bestaat uit meerdere gluons.
+
+72
+00:04:43,740 --> 00:04:46,200
+En nu is er dus experimenteel vastgesteld...
+
+73
+00:04:46,200 --> 00:04:51,740
+...dat er een charm-anti-charm-kwarkpaar in een proton aangetroffen kan worden.
+
+74
+00:04:52,480 --> 00:04:56,300
+En niet zomaar eens in een miljoen jaar gedurende een femtoseconde...
+
+75
+00:04:56,300 --> 00:04:58,360
+...maar meer permanent.
+
+76
+00:04:59,280 --> 00:05:00,380
+Intrinsiek noemt men dat.
+
+77
+00:05:01,120 --> 00:05:02,400
+Daarover zometeen meer.
+
+78
+00:05:03,420 --> 00:05:07,180
+Maar wat we nu weten is dat we eigenlijk niet meer met goed fatsoen kunnen beweren...
+
+79
+00:05:07,180 --> 00:05:11,520
+...dat een proton uitsluitend bestaat uit twee up-kwarks en een down-kwark.
+
+80
+00:05:12,580 --> 00:05:14,660
+En het gewicht van zo'n charm-kwark?
+
+81
+00:05:14,780 --> 00:05:15,060
+Wow.
+
+82
+00:05:15,060 --> 00:05:16,900
+1320 MEF.
+
+83
+00:05:17,320 --> 00:05:18,880
+Meer dan het proton zelf.
+
+84
+00:05:18,880 --> 00:05:20,600
+Dat kan je je toch niet voorstellen?
+
+85
+00:05:20,920 --> 00:05:25,960
+Ik kan me voorstellen dat u als luisteraar misschien vraagtekens bij dit soort onderzoek zet.
+
+86
+00:05:26,820 --> 00:05:30,880
+Want is dit geneuzel over deeltjes en anti-deeltjes puur theoretisch?
+
+87
+00:05:32,200 --> 00:05:34,820
+We kunnen hier toch niks van onder de microscoop zien?
+
+88
+00:05:34,940 --> 00:05:35,960
+Well, I don't see it.
+
+89
+00:05:35,960 --> 00:05:42,060
+Dat laatste klopt op zich wel, maar er zijn wel methodes om informatie uit zo'n proton te forceren.
+
+90
+00:05:42,980 --> 00:05:48,960
+Al in 1967 lukte het wetenschappers van de Stanford Linear Accelerator Center...
+
+91
+00:05:49,660 --> 00:05:54,700
+...om elektronen met heel veel energie af te schieten op protonen in een deeltjesversneller.
+
+92
+00:05:57,080 --> 00:06:01,080
+Wat er dan kan gebeuren heet deep inelastic scattering.
+
+93
+00:06:01,460 --> 00:06:02,960
+Mag het in het Nederlands?
+
+94
+00:06:02,960 --> 00:06:07,760
+Jawel hoor, dat kunnen we vertalen als diepe inelastische verstrooiing.
+
+95
+00:06:08,480 --> 00:06:14,820
+Dit proces wordt diep inelastisch genoemd omdat de energieoverdracht tijdens de botsing groot genoeg is...
+
+96
+00:06:14,820 --> 00:06:19,200
+...om de interne structuur van het proton tijdelijk even in de war te schoppen.
+
+97
+00:06:20,160 --> 00:06:24,460
+Wanneer zo'n proton in een deeltjesversneller wordt geraakt door een elektron...
+
+98
+00:06:24,460 --> 00:06:28,820
+...wordt het verstrooid door uitwisseling van virtuele deeltjes met quarks.
+
+99
+00:06:28,820 --> 00:06:33,020
+Door die verstrooiingsgegevens te bestuderen...
+
+100
+00:06:33,020 --> 00:06:36,820
+...door te kijken hoe deeltjes weer wegschieten uit die verstrooiingsbotsing...
+
+101
+00:06:37,340 --> 00:06:42,600
+...kunnen wetenschappers informatie verkrijgen over de verdeling van quarks binnen het proton.
+
+102
+00:06:43,560 --> 00:06:47,780
+Tot 1967 was een quark alleen een theoretisch concept.
+
+103
+00:06:49,000 --> 00:06:52,820
+De ontdekkingen die met deep inelastic scattering werden gedaan...
+
+104
+00:06:52,820 --> 00:06:56,080
+...leverde een Nobelprijs op aan de betrokken wetenschappers.
+
+105
+00:06:57,360 --> 00:07:03,320
+Inmiddels zijn er velen van dit soort experimenten gedaan in steeds krachtigere deeltjesversnellers.
+
+106
+00:07:05,160 --> 00:07:11,180
+Er kan gevarieerd worden met de hoeveelheid energie van elektronen die op een proton worden afgevuurd.
+
+107
+00:07:12,140 --> 00:07:17,100
+Al deze experimenten leren ons meer over de interne structuur van protonen.
+
+108
+00:07:17,100 --> 00:07:24,420
+In de Hadron Electron Ring Accelerator of HERA deeltjesversneller in Hamburg, Duitsland...
+
+109
+00:07:24,420 --> 00:07:30,020
+...werd rond de eeuwwisseling veel baanbrekend werk gedaan met behulp van deep inelastic scattering.
+
+110
+00:07:31,020 --> 00:07:35,460
+Met veel meer energie dan in de Stanford deeltjesversneller ooit mogelijk was...
+
+111
+00:07:35,460 --> 00:07:36,900
+...werden protonen onderzocht.
+
+112
+00:07:37,640 --> 00:07:43,540
+In één enkel proton werd bij dat onderzoek een zee aan quarks en anti-quarks aangetroffen.
+
+113
+00:07:43,540 --> 00:07:49,880
+En dan komen we ook weer even terug bij die gluons, die lijmdeeltjes in een proton.
+
+114
+00:07:50,900 --> 00:07:56,540
+Deeltjes visici gaan ervan uit dat een gluon in staat is een deel van de energiehuishouding te regelen...
+
+115
+00:07:57,060 --> 00:08:01,040
+...binnen een proton door over te gaan in een quark en een anti-quark.
+
+116
+00:08:01,840 --> 00:08:04,460
+Deze twee deeltjes heffen elkaar dan weer op...
+
+117
+00:08:04,460 --> 00:08:10,440
+...en zo is een heel klein beetje energie afgevoerd in een uiterst subtiel proces binnenin een proton.
+
+118
+00:08:10,440 --> 00:08:15,780
+We zullen het voor nu even hierbij laten en er een grote accolade achter zetten...
+
+119
+00:08:15,780 --> 00:08:17,760
+...anders wordt het ook veel te ingewikkeld.
+
+120
+00:08:19,360 --> 00:08:19,920
+Resumerend.
+
+121
+00:08:20,340 --> 00:08:25,440
+Eén proton, het deeltje dat we in elk atoom in het complete heelal tegenkomen...
+
+122
+00:08:25,440 --> 00:08:29,840
+...kent twee permanente up-quarks en één permanente down-quark.
+
+123
+00:08:30,440 --> 00:08:34,440
+Dat is van belang, want als dat niet zo was, was het simpelweg geen proton.
+
+124
+00:08:34,440 --> 00:08:39,780
+Met twee down-quarks en één up-quark zou het bijvoorbeeld automatisch een neutron zijn...
+
+125
+00:08:39,780 --> 00:08:43,900
+...een minstens even gecompliceerd deeltje, maar dat terzijde.
+
+126
+00:08:44,520 --> 00:08:48,780
+In het proton vinden we ook intrinsiek een charm- en een anti-charm-quark...
+
+127
+00:08:48,780 --> 00:08:51,780
+...die ieder meer massa hebben dan één proton.
+
+128
+00:08:52,720 --> 00:08:58,080
+En dan nog een zee van deeltjes en anti-deeltjes, waaronder quarks en anti-quarks.
+
+129
+00:08:58,080 --> 00:09:02,840
+Dat die charm- en anti-charm-quark intrinsiek worden genoemd...
+
+130
+00:09:02,840 --> 00:09:07,020
+...wil zoveel zeggen als dat ze standaard onderwel zijn van wat een proton is.
+
+131
+00:09:08,060 --> 00:09:11,760
+Wetenschappers zouden kunnen zeggen dat ze in bepaalde vorm aanwezig zijn...
+
+132
+00:09:11,760 --> 00:09:13,620
+...in de golffunctie van een proton.
+
+133
+00:09:13,920 --> 00:09:16,220
+Ik weet niet of het daar echt duidelijker van wordt.
+
+134
+00:09:16,420 --> 00:09:20,000
+Dit is allemaal heel vreemd en toch kennelijk noodzakelijk.
+
+135
+00:09:20,480 --> 00:09:23,100
+Want zo'n beetje alles bestaat uit protonen.
+
+136
+00:09:23,820 --> 00:09:25,260
+Bijna alles, niet alles.
+
+137
+00:09:25,260 --> 00:09:29,320
+Op dit moment weten we bijvoorbeeld niet wat donkere materie is...
+
+138
+00:09:29,320 --> 00:09:31,460
+...en of deze wel opgebouwd is uit quarks.
+
+139
+00:09:32,500 --> 00:09:37,720
+Het zou dus best zo kunnen zijn dat het grootste gedeelte van het heelal uit iets bestaat...
+
+140
+00:09:37,720 --> 00:09:41,060
+...dat we nog niet kennen of mogelijk niet uit quarks bestaat.
+
+141
+00:09:41,900 --> 00:09:45,880
+Onze dagelijkse materie, die is helemaal opgebouwd uit atomen...
+
+142
+00:09:45,880 --> 00:09:48,180
+...met daarin atoomkernen met protonen.
+
+143
+00:09:48,320 --> 00:09:49,240
+Dat weten we wel.
+
+144
+00:09:49,900 --> 00:09:52,240
+Een gitaarsnaar? Protonen.
+
+145
+00:09:52,740 --> 00:09:55,180
+Oude bananenschil? Protonen.
+
+146
+00:09:55,260 --> 00:09:58,680
+Een afgeknipte nagel? Protonen.
+
+147
+00:09:59,220 --> 00:10:01,320
+Maar dat is natuurlijk nog niet gelijk aan alles.
+
+148
+00:10:01,940 --> 00:10:04,160
+Alles is namelijk wel heel erg veel.
+
+149
+00:10:04,900 --> 00:10:07,880
+De droom die u had, die bestaat niet uit protonen.
+
+150
+00:10:08,500 --> 00:10:11,320
+Uw hersenen, die wel bestaan uit atomen met daarin protonen...
+
+151
+00:10:11,320 --> 00:10:14,760
+...maakten de droom mogelijk, maar dat is middelijk.
+
+152
+00:10:15,500 --> 00:10:19,800
+Net zoals de klap die u met een hamer uitdeelt niet bestaat uit hamer.
+
+153
+00:10:19,800 --> 00:10:25,760
+Hoe langer ik nadenk over deze materie, hoe verbazingwekkender ik het heden vind.
+
+154
+00:10:26,760 --> 00:10:29,620
+We kunnen zeggen, wat was er voor de oerknal?
+
+155
+00:10:29,760 --> 00:10:35,300
+Of ons altijd maar over dat verre verleden buigen, waarin schijnbaar iets uit niets ontstond.
+
+156
+00:10:35,300 --> 00:10:39,500
+En we kunnen met een vergelijkbare verwondering naar het heden kijken.
+
+157
+00:10:39,960 --> 00:10:42,040
+In alles wat we de hele dag gebruiken.
+
+158
+00:10:43,040 --> 00:10:44,400
+Iedereen die we ontmoeten.
+
+159
+00:10:44,480 --> 00:10:45,520
+Hey, how's it going?
+
+160
+00:10:45,760 --> 00:10:51,440
+In dat alles functioneert op het allerkleinste niveau een efficiënt en autonoom systeem.
+
+161
+00:10:51,440 --> 00:10:58,000
+Een systeem waarin ook aan de lopende band deeltjes uit het niets ontstaan en elkaar weer opheffen.
+
+162
+00:11:00,360 --> 00:11:02,000
+En waarom is dat zo?
+
+163
+00:11:02,740 --> 00:11:04,240
+Wat gaat daaraan vooraf?
+
+164
+00:11:05,100 --> 00:11:08,040
+En was dat iets er ook al voor de oerknal?
+
+165
+00:11:09,160 --> 00:11:11,880
+Daar zullen we het in de volgende aflevering over hebben.
+
+166
+00:11:12,800 --> 00:11:14,840
+Dus wellicht tot de volgende keer.
+
+167
+00:11:14,840 --> 00:11:15,840
+***
+

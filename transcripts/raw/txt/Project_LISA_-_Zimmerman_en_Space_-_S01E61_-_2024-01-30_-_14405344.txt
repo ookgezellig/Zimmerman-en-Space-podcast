@@ -1,0 +1,259 @@
+U luistert naar Zimmerman & Space.
+Is er nog ruimtenieuws?
+Een prachtig project van onze Europese ruimtevaartorganisatie ESA,
+in samenwerking met NASA en nog enkele andere mogendheden,
+is eind deze maand goedgekeurd door ESA's Science Program Committee.
+Jee!
+Dat betekent dat we nog wel een tijd moeten wachten op de eerste resultaten,
+maar het leek me aardig genoeg om het hier te bespreken.
+Het project heeft de naam LISA, wat staat voor...
+Laser Interferometer Space Antenne.
+Dit wordt onze serieuze poging om zwaartekrachtgolven vanuit de ruimte waar te nemen
+en de sluier te lichten van een groot, nog niet waargenomen gedeelte van onze werkelijkheid.
+Maar wat waren nu ook alweer zwaartekrachtgolven?
+Ik zeg, wat is dit?
+Zwaartekrachtgolven, voorspeld door Albert Einstein in zijn Algemene Relativiteitstheorie van 1916,
+zijn een van de meest intrigerende fenomenen in de moderne astronomie en fysica.
+Deze golven zijn rimpelingen in de kromming van de ruimtetijd veroorzaakt door massieve objecten die versnellen,
+zoals bijvoorbeeld twee zwarte gaten die om elkaar heen draaien,
+of twee neutronensterren die samen smelten.
+Misschien is de term zwaartekrachtgolven zelfs iets wat misleidend,
+want wat we eigenlijk waarnemen zijn resonanties van de ruimtetijd zelf.
+De oorzaak ligt wel bij gebeurtenissen waar veel zwaartekrachtinteracties bij komen kijken,
+maar wat we meten is het resultaat daarvan.
+De essentie van zwaartekrachtgolven komt voort uit het idee dat massa de ruimtetijd vervormt,
+waardoor objecten zich langs gekromde paden bewegen.
+Als dergelijke massieve objecten bewegen, verandert hun kromming en worden rimpelingen gecreëerd
+die zich als golven door de ruimtetijd verspreiden,
+vergelijkbaar misschien met hoe een steen die in een vijver wordt gegooid,
+golven in het water veroorzaakt.
+De interessante eigenschap van zwaartekrachtgolven is dat ze zich voortbewegen met de snelheid van het licht
+en vrijwel ongehinderd door materie reizen.
+Dit betekent dat ze enorme afstanden kunnen afleggen zonder significant verlies van energie of verstoring.
+Met andere woorden, dit is nog een instrument om diep in het verleden te kijken.
+De detectie van zwaartekrachtgolven vereist uiterst gevoelige instrumenten,
+zoals de Laser Interferometer Gravitational Wave Observatory,
+afgekort als LIGO en de Virgo-detector.
+Deze instrumenten zijn ontworpen om minieme fluctuaties in de ruimtetijd te meten,
+ter grootte van een fractie van de diameter van een proton.
+Ja, oké, goed, ja.
+Op 14 september 2015 registreerde LIGO voor het eerst zwaartekrachtgolven
+die afkomstig waren van de samensmelting van twee zwarte gaten
+die op een afstand van ongeveer 1,3 miljard lichtjaar van de aarde om elkaar heen cirkelden.
+Deze historische ontdekking opende een tijdperk van astronomie
+waarin we voor het eerst in staat zijn om het universum te verkennen
+met de ruimtetijd zelf als drillend medium.
+Zwaartekrachtgolven stellen ons in staat om objecten en gebeurtenissen te bestuderen
+die anders grotendeels onzichtbaar zouden blijven,
+zoals zwarte gaten, neutronensterren en mogelijk zelfs de oerknal zelf.
+Dat is natuurlijk een intrigerende gedachte
+dat de trillingen in de ruimtetijd om ons heen
+als gevolg van de oerknal nog aanwezig en zelfs misschien meetbaar zijn.
+Daarnaast kunnen zwaartekrachtgolven ons helpen
+begrijpen hoe het universum evolueert en verandert in de loop van de tijd.
+Door het bestuderen van de eigenschappen van zwaartekrachtgolven,
+zoals hun frequentie, amplitude en polarisatie,
+kunnen astronomen inzicht krijgen in de aard en de oorsprong van de objecten
+die dit soort rimpels in de ruimtetijd genereren.
+Bovendien hebben zwaartekrachtgolven het potentieel
+om nieuwe inzichten te verschaffen in fundamentele natuurkundige vragen,
+zoals de aard van de zwaartekracht zelf.
+Die nog niet helemaal bekend is en de mogelijkheid van extra dimensies in het universum.
+Maar goed, LIGO staat op aarde en dat beperkt gelijk de rijkwijte van het meetinstrument.
+Hier is het dat project LISA hopelijk verbetering gaat brengen.
+LISA bestaat uit drie identieke ruimteschepen
+die in een enorme gelijkzijdige driehoek in hetzelfde tempo als de aarde om de zon zullen draaien,
+maar dan een stukje achter ons aan.
+Die enorme gelijkzijdige driehoek is beslist niet overdreven,
+want elke zijde van de driehoek zal 2,5 miljoen kilometer bedragen.
+Zoé, wat veel!
+Voor perspectief, dat is ongeveer zes en een half keer de afstand aarde-maan.
+Onderling zullen de drie LISA-ruimtesondes contact bewaren door middel van laserstralen.
+Doordat de snelheid van het licht is wat die is,
+betekent dat dat een laserstraal er ruim acht seconden over doet
+om de afstand naar een ander LISA-ruimtevaartuig te overbruggen.
+Overigens dienen de lasers uitsluitend voor het meeten van zwaartekrachtgolven.
+Onderling contact tussen de LISA-zondes zal via een radiosignaal verlopen.
+Twee van de drie LISA-zondes dumpen hun meetgegevens
+bij de enige LISA-zonde die contact met de aarde zal bewaren.
+Gedurende acht uur per etmaal zal deze LISA-zonde
+ongeveer 4 gigabyte aan informatie doorgeven aan de aarde.
+Dat is trouwens een heel bescheiden hoeveelheid informatie
+vergeleken met veel andere astronomische ruimtevaartuigen.
+De werking van LISA valt te vergelijken met het LIGO-instrument op aarde.
+Als de ruimtetijd geheel rimpelvrij is,
+dan zijn er ook geen microscopische verstoringen te meten
+in de afstand tussen de LISA-zondes.
+Ja, dat is logisch.
+Maar passeert de laser driehoek een schommeling in de ruimtetijd,
+dan zal de onderlinge afstand van de drie LISA-modules
+een heel klein beetje heen en weer schommelen.
+Wat weer in het onderlinge laserlicht gemeten kan worden,
+omdat de ruimte tussen de LISA-zondes,
+en daarmee de ruimte waarin het laserlicht afstand overbrugt,
+heen en weer beweegt.
+En zo'n driepuntmeting maakt dat met grote trefzekerheid gemeten kan worden
+in welke richting zo'n schommeling propageert,
+en dus ook waar deze misschien vandaan kwam.
+Een vraag die sommigen misschien zullen stellen is,
+wat brengt zo'n duur en ingewikkeld ruimteproject ons
+dat niet al op aarde is bewezen met het LIGO-zwaartekrachtgolfmeetinstrument?
+Maar er is een verschil tussen iets aantonen en er wetenschap mee bedrijven.
+Oh ja, inderdaad.
+Bovendien bestaat er een duidelijk verschil tussen de frequentie van zwaartekrachtgolven
+die LISA en LIGO kunnen meten.
+LISA zal zwaartekrachtgolven kunnen aantonen in het millihertzregime.
+LIGO op aarde meet zwaartekrachtgolven met frequenties van 10 tot een paar honderd hertz.
+Met LISA kunnen dan ook andere type gebeurtenissen worden aangetoond,
+zoals het zwaartekrachtspel tussen gigantische zwarte gaten
+die nog ver van elkaar verwijderd liggen.
+En misschien zelfs dus restschommelingen van onze oerknal.
+Elk van de drie LISA-zondes zal twee goud-platina-kubussen
+met een diameter van 46 mm bevatten die vrij om de zon vallen.
+Dit is heel essentieel.
+Met andere woorden, deze kubussen zullen door niks anders dan zwaartekracht beïnvloed worden.
+De LISA-zondes zweven er feitelijk gewoon omheen
+en kalibreren hun baan om de kubussen ingesloten te houden
+en ze te beschermen voor nadelige externe invloeden.
+De kubussen maken deel uit van elektronica die de gravitational reference sensor heet.
+Door middel van laserstralen meten deze gravity reference sensors
+de afstanden tussen de kubussen in alle drie de LISA-zondes.
+Door de immense afstand van 2,5 miljoen kilometer
+blijft er maar een paar picowatt aan laser-energie over om te meten.
+Nou, dat is ook niet veel.
+In het begin van de missie moeten de drie zondes elkaar opsporen.
+Deze constellatie-acquisitieprocedure begint met dat één LISA-zonde
+een laser richt op een andere LISA-zonde
+die dan haar positie moet kalibreren
+om rechtstreeks lasercontact te kunnen onderhouden.
+Deze procedure wordt herhaald
+tot alle drie de zondes elkaar in het vizier hebben.
+De hele constellatie van drie LISA-zondes
+zal een hoek van 60 graden met de ecliptica onderhouden.
+Mag het in het Nederlands?
+Dat is het denkbeeldige vlak
+waarin de planeten en de manen rond de zon draaien.
+Een goede vraag die we ons kunnen stellen is
+hoe belangrijk het is dat de LISA-zondes
+deze exacte afstanden tot elkaar blijven behouden.
+Ja, dat is wel een hele interessante vraag.
+ESA en NASA gaan ervan uit
+dat afstanden tussen de zondes
+met de tijd wel honderden of zelfs duizenden kilometers zullen variëren.
+Dat zou kunnen, ja.
+Maar gezien de superlage frequentie van zwaartekrachtgolven
+die men hoopt te meten
+kan het geleidelijk uit elkaar bewegen
+en naar elkaar toe bewegen van de onderlinge LISA-zondes
+als extra fluctuatie bovenop de zwaartekrachtgolven gezien worden
+en er met software weer uit worden verwijderd.
+Oh, gelukkig!
+De afstanden tussen de LISA-zondes kunnen op elk moment
+tot een paar centimeter precies gemeten worden.
+Maar de schommelingen in de ruimtetijd
+kunnen tot in de orde van een paar picometer gemeten worden.
+Een picometer is 10 tot de min 12de meter.
+Om daar een voorstelling bij te maken.
+Een atoom is tussen de 60 en 300 picometer breed.
+De techniek waarbij de microscopische schommeling
+in alle zes laserstralen tussen de drie LISA-zondes
+wordt gebruikt om zwaartekrachtgolven te meten
+heet
+Time Delay Interferometry
+of TDI.
+Wat na al dit geleuter
+mijnerzijds waarschijnlijk nog niet geheel
+of in het geheel niet duidelijk is
+is wat men eigenlijk waarneemt
+als men een zwaartekrachtgolf meet.
+Is het een foto of iets in de tijd?
+Het is denk ik interessant om dit te bespreken
+ook omdat de aardse LIGO-waarnemingen
+op dit punt ernstig afwijken
+van wat met LISA mogelijk zal zijn.
+Een rimpel in de ruimtetijd vindt plaats
+als periodieke schommeling in de ruimtetijd.
+Afhankelijk van de gebeurtenis
+waar zo'n rimpeling getuige van is
+wordt de aard van zo'n rimpeling bepaald.
+Met LIGO worden korte gebeurtenissen waargenomen.
+GW150914, die eerste zwaartekrachtgolfwaarneming
+duurde maar zo'n 0,2 seconde.
+Wat u nu hoort is het samensmelten van twee zwarte gaten
+op een afstand van zo'n 1,3 miljard lichtjaar van ons vandaan.
+Oké, nog een keer dan.
+En we kunnen het ook op een hogere snelheid afspelen.
+Dan klinkt het nog wat duidelijker.
+Oké, nog een keer dan.
+Waarom is het zo'n in frequentie omhooggaand piepje?
+Dat komt door wat er waarschijnlijk gebeurde.
+Nou ja, zeg.
+Twee soorten gaten draaiden om elkaar
+en op het laatste moment gaan ze opeens steeds harder
+om elkaar heen draaien om uiteindelijk één te worden.
+Bij deze gebeurtenis komt zoveel energie vrij
+dat het op aarde waar te nemen was met het LIGO-instrument.
+Wat onze aarde na 1,5 miljard jaar reizen bereikte
+was natuurlijk maar een fractie van de totale energie
+die bij zo'n gebeurtenis vrijkomt.
+Astronomen hebben berekend dat alleen al de gravitatie-energie
+die in die 0,2 seconden vrijkwam
+rond de 3,6 x 10 tot de 49ste watt was.
+Wat?
+Dat is geen kinderachtige hoeveelheid energie.
+Zouden we in staat zijn het in een accu te proppen
+dan zou geen enkel levend wezen
+in het onze bekende heelal ooit nog een energieprobleem hebben.
+Zouden we in staat zijn het in een accu te proppen
+dan zou geen enkel levend wezen
+in het onze bekende heelal ooit nog een energieprobleem hebben.
+Zo'n... van 0,2 seconden
+dat is niet wat de wetenschappers van Lisa voor ogen hebben.
+Wat is het?
+In het millihertz bereik kunnen we maanden of jaren waarnemen
+en dan misschien trillingen opvangen in de ruimtetijd
+die over veel grotere periodes plaatsvinden.
+Omdat Lisa net als de aarde om de zon draait
+ontstaat er ook een goed ruimtelijk beeld
+van waar gebeurtenissen plaats hebben gevonden.
+Een foto zal het nooit worden.
+U kunt het begrijpen als super langzame golven
+die ver onder onze gehoorgrens plaatsvinden.
+Mooie grafieken kunnen we wel verwachten met de tijd.
+Maar is dit geen super ingewikkelde missie?
+Ik denk dat niemand gaat ontkennen
+dat het een knap stukje technologie inhoudt
+als Lisa eenmaal operationeel is.
+Maar er is al een succesvolle missie vooraf gegaan aan Lisa.
+Een testmissie zou u kunnen zeggen.
+Op 3 december 2015 werd de Lisa Pathfinder gelanceerd
+en naar het L1 Lagrange-punt gemanoevreerd.
+Dit was een ruimtevaartuig met al een testmassa,
+zo'n gouden kubus, in vrije val aan boord.
+De grote vraag met deze missie was
+of de ruis, die met zo'n testmassa wordt waargenomen
+als gevolg van versnellingen, niet te groot is.
+Wanneer de ruis luider is dan het waar te nemen
+zwaartekrachtgolfsignaal,
+dan zouden we natuurlijk niks opschieten met de Lisa-missie.
+Maar het lukte in februari 2017
+om deze ruis ver onder de vereiste grens te krijgen.
+Veel beter nog dan aanvankelijk gedacht werd.
+Dus in die zin is de nog te lanceren Lisa-missie
+een voortbordure op vorige successen.
+Spannend wordt het zeker.
+Dit is wetenschap op de grens van wat we kunnen waarnemen.
+Als u al wat langer naar deze podcast
+en de voorganger met praktisch dezelfde naam luistert,
+Zimmerman in Space,
+dan zult u misschien inzien dat astronomie steeds meer mogelijkheden krijgt
+op verschillende gebieden aan de sterrenhemel.
+Optisch, radio, gamma, röntgen, infrarood, ultraviolet
+en nu dus ook zwaartekracht.
+En wat nou als ik er meer over wil weten?
+De Lisa-websites zijn mooi om nog eens te bezoeken
+als u er meer over wilt weten.
+En als u zelf bij wilt dragen aan onderzoek naar zwaartekracht in het heelal,
+heeft de Zooniverse nog een aardig project voor u,
+genaamd Gravity Spy.
+Tot de volgende keer.

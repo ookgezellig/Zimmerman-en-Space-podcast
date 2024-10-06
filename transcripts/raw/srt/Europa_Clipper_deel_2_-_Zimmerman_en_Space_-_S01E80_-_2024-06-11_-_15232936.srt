@@ -1,0 +1,852 @@
+1
+00:00:00,620 --> 00:00:04,120
+U luistert naar Zimmerman & Space.
+
+2
+00:00:04,860 --> 00:00:11,240
+Zoals beloofd zouden we het nog hebben over het binnenkort te lanceren Europa Clipper ruimtevaartuig.
+
+3
+00:00:11,940 --> 00:00:17,720
+In deze aflevering wou ik het hebben over wat technische en inhoudelijke details van deze missie.
+
+4
+00:00:17,960 --> 00:00:27,620
+En ook stilstaan bij de waarschijnlijkheid of onwaarschijnlijkheid dat we door Europa Clipper te weten komen dat zich leven bevindt op Jupitermaan Europa.
+
+5
+00:00:27,620 --> 00:00:30,200
+Ja, want daar draait het allemaal om.
+
+6
+00:00:31,420 --> 00:00:35,760
+De ijzige maan Europa die rond planeet Jupiter cirkelt.
+
+7
+00:00:36,660 --> 00:00:44,140
+Jupitermaan Europa kennen we al sinds de ontdekking in 1610 door Galileo Galilei en Simon Marius.
+
+8
+00:00:44,940 --> 00:00:51,280
+Als we zo eens naar onze eigen maan kijken, dan is dat wel de laatste plaats waar we naar leven zouden gaan zoeken.
+
+9
+00:00:51,280 --> 00:01:01,760
+Maar voor een paar manen in ons zonnestalsel geldt dat de omstandigheden daar in ieder geval in theorie gunstig genoeg zijn voor het herbergen van primitief leven.
+
+10
+00:01:02,700 --> 00:01:07,300
+Dat zijn dan met name de Saturnusmaan Enceladus en de Jupitermaan Europa.
+
+11
+00:01:08,180 --> 00:01:15,500
+In eerste instantie lijken deze plaatsen veel te koud en inderdaad zien we op beide manen vooral ijs op het oppervlak.
+
+12
+00:01:15,500 --> 00:01:19,220
+Dat ligt aan de grote afstand tot de zon.
+
+13
+00:01:20,060 --> 00:01:27,600
+Met de tijd zijn we er echter achter gekomen dat leven, ook op aarde, ook onder extreme omstandigheden kan gedijen.
+
+14
+00:01:28,680 --> 00:01:34,880
+Zou Europa alleen maar een grote klont van gruis en ijs zijn, dan was de kans op leven niet zo groot.
+
+15
+00:01:34,880 --> 00:01:41,240
+Maar we vermoeden nu dat onder het ijsoppervlak van Europa een enorme oceaan schuil gaat.
+
+16
+00:01:42,040 --> 00:01:44,400
+Dat alleen is voor leven niet genoeg.
+
+17
+00:01:45,240 --> 00:01:49,700
+Wel zien we op aarde dat waar water aanwezig is ook leven graag vertoeft.
+
+18
+00:01:50,560 --> 00:01:53,480
+Om te kunnen leven is er ook een energiebron nodig.
+
+19
+00:01:54,320 --> 00:01:58,380
+De grote energiebron op Jupitermaan Europa is de getijdenwerking.
+
+20
+00:01:58,380 --> 00:02:06,440
+Het getrek van de planeet Jupiter aan Europa is er waarschijnlijk de reden van dat er een vloeibaar oceaan onder het ijs bestaat.
+
+21
+00:02:07,820 --> 00:02:14,320
+Diezelfde getijdenenergie die het water iets opvormt, kan ook door levende wezens gebruikt worden als energiebron...
+
+22
+00:02:14,320 --> 00:02:18,320
+voor het later verlopen van de processen die we gezamenlijk als leven herkennen.
+
+23
+00:02:19,340 --> 00:02:24,880
+We zullen aan het einde van deze aflevering nog even stilstaan bij de kans op dergelijk leven.
+
+24
+00:02:24,880 --> 00:02:29,580
+Het idee om Europa te gaan verkennen is niet nieuw.
+
+25
+00:02:30,220 --> 00:02:37,960
+Al in 1997 werd binnen NASA gesuggereerd een speciaal om Europa cirkelend ruimtevaartuig te ontwikkelen.
+
+26
+00:02:38,600 --> 00:02:43,720
+Die speciale interesse in deze maan hebben we te danken aan eerdere missies die Europa bezochten.
+
+27
+00:02:44,540 --> 00:02:49,400
+De eerste missie was Pajoneer 10 die in 1973 langs Europa reisde.
+
+28
+00:02:50,240 --> 00:02:53,620
+De foto's van Pajoneer 10 waren echter nog vrij onscherp.
+
+29
+00:02:53,620 --> 00:03:04,780
+Pas in 1979, toen de Voyager 1 en 2 sondes Jupiter bezochten, kwamen er gedetailleerdere foto's van Europa tot beschikking van de wetenschappelijke wereld.
+
+30
+00:03:05,180 --> 00:03:15,180
+Het kleine plaatje bij deze aflevering is een foto van Europa die op 9 juli 1979 werd gemaakt door het Voyager 2 ruimtevaartuig.
+
+31
+00:03:15,760 --> 00:03:19,740
+In de Voyager foto's viel op hoe glad het oppervlak van Europa is.
+
+32
+00:03:19,740 --> 00:03:30,140
+We zien nauwelijks inslagkraters, geen bergen en wel streepachtige structuren, waarschijnlijk breuken of oude breuken in het ijs.
+
+33
+00:03:30,800 --> 00:03:37,500
+Dit gebrek aan relief is consistent met een relatief warm interieur met een ijslaag daarboven.
+
+34
+00:03:38,320 --> 00:03:45,680
+Vanaf 1995 cirkelde het Galileo-ruimtevaartuig rond Jupiter, waarbij ook Europa regelmatig onderzocht werd.
+
+35
+00:03:45,680 --> 00:03:50,440
+Bij die Galileo-missie werd ook een zonde losgelaten richting Jupiter.
+
+36
+00:03:51,960 --> 00:03:54,860
+Aan de Galileo-missie hebben we veel te danken.
+
+37
+00:03:55,460 --> 00:04:03,540
+Zo weten we sindsdien dat Jupiter over stralingsgordels beschikt die vele malen sterker zijn dan de aardse Van Allen stralingsgordels.
+
+38
+00:04:04,560 --> 00:04:08,100
+Die straling werd het Galileo-ruimtevaartuig bijna fataal.
+
+39
+00:04:08,100 --> 00:04:13,880
+Toch hebben we de beste metingen tot nu toe te danken aan het Galileo-ruimtevaartuig.
+
+40
+00:04:14,680 --> 00:04:24,820
+In combinatie met waarnemingen met de Hubble-ruimte-telescoop werd in 1995 met het Galileo-ruimtevaartuig bevestigd dat Europa een dunne atmosfeer heeft,
+
+41
+00:04:25,080 --> 00:04:28,540
+waarin onder andere waterdamp en zuurstof voorkomen.
+
+42
+00:04:28,540 --> 00:04:38,240
+Op basis van meetgegevens van de Galileo-missie werd deze eeuw ook vastgesteld dat er kleiachtige mineralen bestaan op het oppervlak van Europa.
+
+43
+00:04:39,040 --> 00:04:44,660
+Uit de foto's van het oppervlak van Europa, die met de instrumenten aan boord van Galileo werden gemaakt,
+
+44
+00:04:44,900 --> 00:04:50,800
+concluderen wetenschappers dat het ijsoppervlak onafhankelijk van het binnenste van Europa beweegt.
+
+45
+00:04:51,480 --> 00:04:57,220
+Dit is een sterke aanwijzing dat zich daadwerkelijk een vloeibare oceaan onder het ijs bevindt.
+
+46
+00:04:57,220 --> 00:05:03,640
+In 2007 wist het New Horizons-ruimtevaartuig ook nog Europa te fotograferen.
+
+47
+00:05:04,300 --> 00:05:12,500
+En in 2022 scheerde het Juno-ruimtevaartuig op een hoogte van 352 kilometer langs het oppervlak van Europa.
+
+48
+00:05:13,320 --> 00:05:19,100
+Nu in 2024 staan we aan de vooravond van de lancering van Europa Clipper,
+
+49
+00:05:19,100 --> 00:05:23,680
+een missie die speciaal is opgezet om Europa nauwkeurig te bestuderen.
+
+50
+00:05:23,680 --> 00:05:28,300
+Er is lang gebakken leid over de vorm die deze missie moest krijgen.
+
+51
+00:05:29,160 --> 00:05:33,200
+In eerste instantie was de bedoeling een Europa-orbitter te bouwen,
+
+52
+00:05:33,320 --> 00:05:35,920
+die dus rondjes rond Europa zou gaan cirkelen.
+
+53
+00:05:36,600 --> 00:05:42,860
+Klinkt op zich wel logisch, tot we ons beseffen dat Europa diep in de magnetosfeer van Jupiter ligt
+
+54
+00:05:42,860 --> 00:05:46,020
+en een enorme hoeveelheid straling te verduren heeft.
+
+55
+00:05:46,020 --> 00:05:50,080
+Nou kan eentzellig leven hier wel in mee evolueren.
+
+56
+00:05:50,780 --> 00:05:57,180
+Op aarde kennen we bijvoorbeeld een micro-organisme met de intrigerende naam Deinococcus radiodurans.
+
+57
+00:05:57,840 --> 00:06:01,460
+Dit is een bacterie die meerdere kopieën van haar genoom heeft
+
+58
+00:06:01,460 --> 00:06:04,940
+en DNA-breuken binnen een paar uur weet te repareren.
+
+59
+00:06:05,940 --> 00:06:12,380
+De Inococcus radiodurans kan een acute dosis straling van 500.000 rat weerstaan.
+
+60
+00:06:12,380 --> 00:06:18,080
+Dat is allemaal heel knap van zo'n bacterie, maar voor een ruimtevaartuig liggen de kaarten anders.
+
+61
+00:06:18,840 --> 00:06:24,560
+We kunnen maar zoveel stralingsschilden aanbrengen tot het gevaarte te lomp en vooral te zwaar wordt.
+
+62
+00:06:25,520 --> 00:06:29,900
+Dus om niet binnen een paar weken of maanden aan defecten ten onder te gaan,
+
+63
+00:06:30,120 --> 00:06:34,700
+werd de Europa-orbitter afgeblazen en kwam het Europa-klipper-idee tot stand.
+
+64
+00:06:35,480 --> 00:06:39,520
+Dit ruimtevaartuig gaat in een veel wijdere baan rond Jupiter draaien
+
+65
+00:06:39,520 --> 00:06:42,180
+en meerdere keren vlak langs Europa reizen.
+
+66
+00:06:43,120 --> 00:06:47,520
+Hierbij worden bij Europa zoveel gegevens per tijdseenheid vergaard
+
+67
+00:06:47,520 --> 00:06:53,120
+dat Europa-klipper deze gespreid over verschillende maanden op haar gemak naar de aarde gaat sturen.
+
+68
+00:06:53,880 --> 00:06:59,140
+Het ruimtevaartuig is dan al snel weer weg uit de intense delen van de magnetosfeer van Jupiter.
+
+69
+00:07:00,200 --> 00:07:04,860
+Deze strategie van uitgestelde gegevensoverdracht zien we wel vaker.
+
+70
+00:07:05,600 --> 00:07:08,160
+Bijvoorbeeld ook bij de Parker Solar Probe.
+
+71
+00:07:08,160 --> 00:07:12,520
+Over dat ruimteschip hebben we het wel eens eerder gehad in deze podcast.
+
+72
+00:07:13,400 --> 00:07:18,140
+De bedoeling is dat Europa-klipper 44 keer vlak langs Europa scheert
+
+73
+00:07:18,140 --> 00:07:20,660
+tijdens een missie van ongeveer drieënhalf jaar.
+
+74
+00:07:21,560 --> 00:07:24,560
+Alles wat daarna nog mogelijk is, is mooi meegenomen.
+
+75
+00:07:26,020 --> 00:07:30,340
+Tijdens de flybys langs Europa komt het ruimtevaartuig op een hoogte
+
+76
+00:07:30,340 --> 00:07:35,120
+tussen de 25 en 2700 kilometer boven Europa's oppervlak.
+
+77
+00:07:35,120 --> 00:07:40,400
+En wat gaat Europa-klipper allemaal meten tijdens die ontmoetingen met Europa?
+
+78
+00:07:41,540 --> 00:07:43,140
+Dat is een interessante vraag.
+
+79
+00:07:43,720 --> 00:07:47,120
+Nu zat ik bij het verzinnen van deze aflevering een beetje met een dilemma.
+
+80
+00:07:47,460 --> 00:07:47,880
+Echt?
+
+81
+00:07:48,200 --> 00:07:54,120
+Ik kan natuurlijk gorddroog voorlezen wat voor instrumenten ik op de website van NASA of Wikipedia tegenkom,
+
+82
+00:07:54,120 --> 00:07:57,480
+maar dan doe ik u luisteraar toch tekort.
+
+83
+00:07:57,620 --> 00:07:58,280
+Hoe weet je dat?
+
+84
+00:07:58,420 --> 00:08:01,400
+Want dat soort zaken kunt u zelf ook gemakkelijk opzoeken.
+
+85
+00:08:01,640 --> 00:08:05,540
+En belangrijker nog, dan wordt het toch een beetje een inhoudsloze aflevering.
+
+86
+00:08:05,680 --> 00:08:08,120
+Oh, dat heb je interessant onderschreven.
+
+87
+00:08:09,120 --> 00:08:13,200
+Het lijkt me interessanter als we ons concentreren op die zoektocht naar leven.
+
+88
+00:08:13,480 --> 00:08:13,800
+Oké.
+
+89
+00:08:13,800 --> 00:08:18,640
+Voor dit doel pakken we er een recent artikel uit Science Advances bij.
+
+90
+00:08:19,560 --> 00:08:24,080
+Op 22 maart 2024 verscheen hierin het artikel met de titel
+
+91
+00:08:24,080 --> 00:08:29,880
+How to identify cellmaterial in a single ice grain emitted from Enceladus or Europa.
+
+92
+00:08:30,320 --> 00:08:36,800
+Het is een beetje een technisch diepgravend artikel, maar de essentie is best indrukwekkend en al verraden door de titel.
+
+93
+00:08:36,800 --> 00:08:42,640
+Met Europa Clipper reist een instrument met de naam Surface Dust Analyzer mee,
+
+94
+00:08:42,840 --> 00:08:46,700
+dat in staat is leven aan te tonen in één ijskristalletje.
+
+95
+00:08:46,780 --> 00:08:48,040
+Dat is toch niet te geloven?
+
+96
+00:08:48,300 --> 00:08:51,040
+De kwaliteit van dit instrument is nogal indrukwekkend.
+
+97
+00:08:51,700 --> 00:08:57,080
+Slechts een deel van een bacterie of eencellen kan worden aangetoond in één ijskristal,
+
+98
+00:08:57,080 --> 00:09:03,320
+dat opgevangen wordt als Europa Clipper door de eile atmosfeer of uitwaseming van Europa scheert.
+
+99
+00:09:03,320 --> 00:09:07,820
+Dat gebeurt met een snelheid van een paar kilometer per seconde.
+
+100
+00:09:08,340 --> 00:09:08,840
+Zoveel?
+
+101
+00:09:08,900 --> 00:09:13,580
+En toch is onder die omstandigheden goed mogelijk biologisch leven aan te tonen.
+
+102
+00:09:14,420 --> 00:09:18,880
+Die Surface Dust Analyzer is wat men een massaspectrometer noemt.
+
+103
+00:09:18,960 --> 00:09:21,360
+Dit vraagt, denk ik, om wat extra uitleg.
+
+104
+00:09:21,360 --> 00:09:27,060
+In een massaspectrometer worden individuele moleculen van zo'n ijskristalletje geioniseerd.
+
+105
+00:09:27,520 --> 00:09:32,360
+Deze ionen worden ruimtelijk gescheiden op basis van een massaladingsverhouding,
+
+106
+00:09:32,360 --> 00:09:34,200
+waarna de detectie kan volgen.
+
+107
+00:09:35,040 --> 00:09:39,820
+Wat dan volgt is een grafiek met massa op de x-as en intensiteit op de y-as.
+
+108
+00:09:39,940 --> 00:09:46,740
+Het instrument wat dit aan boord van Europa Clipper kan bewerkstelligen is zo verschrikkelijk nauwkeurig,
+
+109
+00:09:46,740 --> 00:09:52,940
+dat we zelfs de aanwezigheid van primitief leven wat wij nog niet kennen met grote zekerheid kunnen aantonen.
+
+110
+00:09:52,940 --> 00:10:00,760
+Het instrument wat dit aan boord van Europa Clipper kan bewerkstelligen is zo verschrikkelijk nauwkeurig,
+
+111
+00:10:00,940 --> 00:10:06,960
+dat we zelfs de aanwezigheid van primitief leven wat wij nog niet kennen met grote zekerheid kunnen aantonen.
+
+112
+00:10:08,120 --> 00:10:15,680
+Dat is nogal een bewering, want hoe weten we hoe een eenstellige op Europa, als die daar überhaupt voorkomt, samengesteld is?
+
+113
+00:10:15,680 --> 00:10:22,880
+Het antwoord is uiteraard dat we er dan van uitgaan dat dergelijk leven wel in grote lijnen lijkt op dat op aarde.
+
+114
+00:10:23,660 --> 00:10:28,380
+Die aanname zit al in het feit dat Europa Clipper ijskristalletjes gaat onderzoeken,
+
+115
+00:10:28,380 --> 00:10:35,520
+omdat we er dan van uitgaan dat eventuele levende wezens in dat water voorkomen en mogelijk in pluimen terechtkomen,
+
+116
+00:10:35,640 --> 00:10:39,600
+als die door natuurlijke processen op Europa de ruimte in worden gestuwd.
+
+117
+00:10:39,600 --> 00:10:49,000
+Specifiek zal gezocht worden naar de aanwezigheid van aminozuren, zoals we die in al het aardse leven tegenkomen.
+
+118
+00:10:50,020 --> 00:10:55,960
+Aminozuren zijn de bouwstenen van eiwitten die essentieel zijn voor vrijwel alle biologische processen.
+
+119
+00:10:56,620 --> 00:11:00,760
+Even een paar belangrijke punten over aminozuren in levende wezens.
+
+120
+00:11:00,760 --> 00:11:11,560
+Alle organismen van de eenvoudigste bacteriën tot complexe zoogdieren gebruiken dezelfde set van 20 standaard aminozuren om eiwitten te synthetiseren.
+
+121
+00:11:12,260 --> 00:11:16,460
+Dit suggereert een gemeenschappelijke oorsprong van al het leven op aarde.
+
+122
+00:11:17,160 --> 00:11:24,320
+Mogelijk is die oorsprong groter dan onze aarde en is eventueel leven op Europa langs vergelijkbare processen ontstaan.
+
+123
+00:11:25,360 --> 00:11:29,560
+Aminozuren spelen een essentiële rol in tal van biologische functies.
+
+124
+00:11:29,560 --> 00:11:31,900
+Niet alleen in de opbouw van eiwitten.
+
+125
+00:11:32,540 --> 00:11:39,780
+Zo zijn ze betrokken bij enzymatische activiteit, signaaltransductie, transport van moleculen en nog veel meer.
+
+126
+00:11:40,480 --> 00:11:48,320
+De genetische code die in het DNA van alle organismen is opgeslagen, dicteert de volgorde van aminozuren in eiwitten.
+
+127
+00:11:49,120 --> 00:11:55,540
+Dit codeersysteem is universeel, wat opnieuw wijst op een gemeenschappelijke evolutionaire oorsprong.
+
+128
+00:11:55,540 --> 00:12:01,280
+Naast hun rol in eiwitten zijn aminozuren betrokken bij verschillende metabolen routes.
+
+129
+00:12:01,820 --> 00:12:08,880
+Ze kunnen worden omgezet in andere moleculen die essentieel zijn voor de cel, zoals neurotransmitters en hormonen.
+
+130
+00:12:09,880 --> 00:12:16,720
+Voordat u de stopknop van deze aflevering teleurgesteld indrukt, kunnen we nog wel een opwekkende kanttekening plaatsen.
+
+131
+00:12:16,880 --> 00:12:17,800
+Oh, gelukkig!
+
+132
+00:12:17,800 --> 00:12:22,760
+Ik ben het met u eens dat we misschien te veel rekenen op leven dat lijkt op dat op aarde.
+
+133
+00:12:23,300 --> 00:12:29,220
+Maar stel nou dat een of ander micro-organisme op Europa in het geheel niet lijkt op aards leven.
+
+134
+00:12:29,540 --> 00:12:31,800
+En toch terechtkomt in een gijzer of waterpluim.
+
+135
+00:12:32,740 --> 00:12:32,960
+Ja?
+
+136
+00:12:33,420 --> 00:12:40,300
+Dan nog zal dit hoogstwaarschijnlijk een abnormale distributie van moleculen opleveren in ons meetinstrument.
+
+137
+00:12:40,540 --> 00:12:41,520
+Wat moet ik hier nou weer mee?
+
+138
+00:12:41,520 --> 00:12:50,460
+Wat pas echt teleurstellend zou zijn, is wanneer er alleen maar moleculen worden gemeten die we al kennen van allerlei levenloze plaatsen in ons heelal.
+
+139
+00:12:51,800 --> 00:12:56,740
+Die Surface Dust Analyzer bestaat grotendeels uit een trommel die geopend kan worden.
+
+140
+00:12:58,000 --> 00:13:05,680
+NASA vergelijkt het instrument met een haai die met een open bek door de eile atmosfeer van gras en stofpluimen van Europa hapt.
+
+141
+00:13:05,680 --> 00:13:14,560
+Op de NASA website van Europa Clipper vindt u een 3D model van de Surface Dust Analyzer dat u vanuit alle hoeken kunt bekijken.
+
+142
+00:13:15,260 --> 00:13:19,180
+Sowieso is de website van Europa Clipper van NASA erg indrukwekkend.
+
+143
+00:13:20,320 --> 00:13:23,720
+Er gaat nog een massaspectrometer mee met Europa Clipper.
+
+144
+00:13:24,580 --> 00:13:26,360
+Dit apparaat heet Maspex.
+
+145
+00:13:26,360 --> 00:13:37,580
+Het grote verschil zit er maar in dat Maspex een gasanalyse uitvoert, terwijl de Souda, waar we het net over hadden, grotere deeltjes ijs en gas kan invangen en verkleinen.
+
+146
+00:13:38,440 --> 00:13:51,360
+Behalve massaspectrometrie vinden we ook instrumenten aan boord van Europa Clipper voor fotografie, infraroodfotografie, plasma- en magnetismedetectie, radarmetingen en zwaartekrachtmetingen.
+
+147
+00:13:51,360 --> 00:13:57,840
+Al deze mooie instrumenten zijn geselecteerd om in eerste instantie één vraag te beantwoorden.
+
+148
+00:13:58,540 --> 00:14:01,440
+Zijn er locaties op Europa geschikt voor leven?
+
+149
+00:14:02,280 --> 00:14:05,040
+Het is dus beslist geen leven zoekende missie.
+
+150
+00:14:05,900 --> 00:14:13,700
+Een ander ding is dat het oppervlak van Europa goed in kaart zal worden gebracht, ook met het oog op toekomstige missies, zoals bijvoorbeeld een lander.
+
+151
+00:14:14,640 --> 00:14:18,580
+Het is vrijwel zeker dat onder het ijs een vloeibaar oceaan bestaat.
+
+152
+00:14:18,580 --> 00:14:20,420
+Maar waar is deze dieper?
+
+153
+00:14:21,200 --> 00:14:25,180
+En waar in het ijs vinden we de beste plekken om in de toekomst te gaan boren?
+
+154
+00:14:26,620 --> 00:14:36,300
+De infrarood imaging spectrometer aan boord van Europa Clipper kan chemische analyses van het oppervlak te doen op basis van gereflecteerd infrarood licht.
+
+155
+00:14:37,060 --> 00:14:44,820
+De verdeling van bijvoorbeeld organische moleculen over het oppervlak kan dan ook informatie geven over de processen die op Europa spelen.
+
+156
+00:14:44,820 --> 00:14:52,680
+Dan kunt u onder andere denken aan ijsbreuken die transport van materiaal van en naar de onderliggende oceaan mogelijk maken.
+
+157
+00:14:53,340 --> 00:14:59,320
+Hoe dik de ijslaag is wordt met een ijspenetrerende radar met de naam REASON gemeten.
+
+158
+00:14:59,820 --> 00:15:00,820
+REASON staat voor...
+
+159
+00:15:01,440 --> 00:15:03,300
+...
+
+160
+00:15:03,300 --> 00:15:33,300
+
+
+161
+00:15:33,300 --> 00:16:03,300
+
+
+162
+00:16:03,300 --> 00:16:33,300
+
+
+163
+00:16:33,300 --> 00:16:43,080
+Dit duurt zo lang.
+
+164
+00:16:43,080 --> 00:16:54,040
+De baan van Europa Clipper wordt met behulp van de zwaartekracht van de zwaardere Jupiter-manen, Ioh Ganymedes Callisto en wederom Europa, aangepast om de juiste vorm te krijgen.
+
+165
+00:16:55,080 --> 00:16:59,580
+Pas in de lente van 2031 begint het onderzoek bij de maan Europa.
+
+166
+00:17:00,420 --> 00:17:02,440
+Dan ben ik al 64.
+
+167
+00:17:02,440 --> 00:17:14,720
+Hoe groot is de kans op leven in de oceanen van Europa?
+
+168
+00:17:15,640 --> 00:17:19,980
+Om die vraag te beantwoorden hebben we wel te maken met een paar grote onzekerheden.
+
+169
+00:17:20,580 --> 00:17:30,160
+We weten nog niet hoe wijd verbreid het leven in het heelal is en hoe gangbaar het is dat leven ontstaat wanneer de omstandigheden daarvoor vanuit ons gezien gunstig lijken.
+
+170
+00:17:30,160 --> 00:17:34,360
+En we weten ook niet welke vormen het leven allemaal kan aannemen.
+
+171
+00:17:35,340 --> 00:17:40,120
+Dus wederom hebben we alleen het ons bekende leven als vergelijkingsmateriaal.
+
+172
+00:17:40,280 --> 00:17:42,300
+Ik denk, ja, tuurlijk, het zal weer niet.
+
+173
+00:17:42,580 --> 00:17:50,940
+Als we het zo bezien, dan zijn de manen Europa bij Jupiter en Enceladus bij Saturnus wel de eerste plekken om naar primitief leven te gaan zoeken.
+
+174
+00:17:51,980 --> 00:17:58,700
+Sommige wetenschappers hebben wel ernstige twijfels over of we leven mogen hopen aan te treffen op bijvoorbeeld Europa.
+
+175
+00:17:58,700 --> 00:17:59,140
+Oh?
+
+176
+00:17:59,140 --> 00:18:02,300
+Zo verscheen er eerder dit jaar een artikel met de titel
+
+177
+00:18:02,300 --> 00:18:06,140
+Likely little to no geological activity on the European seafloor.
+
+178
+00:18:06,880 --> 00:18:10,140
+Van Henry Dawson van de Washington Universiteit en collega's.
+
+179
+00:18:11,640 --> 00:18:16,460
+Zij kijken onder andere met de ogen van oceanograven naar de situatie op Europa
+
+180
+00:18:16,460 --> 00:18:23,360
+en concluderen dat er mogelijk te weinig gebeurt op de bodem van de oceanen op Europa om leven te kunnen onderhouden.
+
+181
+00:18:23,420 --> 00:18:25,380
+Nou, dat is een heel waardevol inzicht.
+
+182
+00:18:25,380 --> 00:18:32,380
+Op onze aarde zien we dat op de zeebodem continu breuken ontstaan, waardoor mineralen en metalen vrijkomen in het zeewater.
+
+183
+00:18:32,380 --> 00:18:42,400
+Daarnaast kennen we op aarde ook actief vulkanisme waarmee onze oceanen continu aangevuld worden met belangrijke bouwstoffen voor levende wezens.
+
+184
+00:18:43,380 --> 00:18:51,240
+Dawson en collega's rekenen uit dat de getijde stress van Jupiter op Europa te gering is en dat er geen vulkanisme is waargenomen.
+
+185
+00:18:51,240 --> 00:18:58,600
+Dit zou kunnen betekenen dat de oceanen op Europa te arm aan bouwstoffen zijn voor leven zoals wij dat kennen.
+
+186
+00:18:59,460 --> 00:19:01,920
+Maar ook boven het ijs zijn er problemen.
+
+187
+00:19:02,800 --> 00:19:05,760
+Op 4 maart van dit jaar verscheen een artikel met de titel
+
+188
+00:19:05,760 --> 00:19:10,120
+Oxygen production from dissociation of Europa's water-ice surface.
+
+189
+00:19:10,300 --> 00:19:11,740
+In Nature Astronomy.
+
+190
+00:19:11,740 --> 00:19:22,980
+Auteurs Tsalé en collega's berekenen hoeveel zuurstof er geproduceerd wordt aan het oppervlak van Europa en hoeveel hiervan in de onderliggende oceanen terecht kan komen.
+
+191
+00:19:23,860 --> 00:19:33,120
+Hierbij wordt uitgegaan van de aanname dat zuurstof essentieel is voor de verbranding van stoffen en dus voor het instand houden van een metabolisme in levende wezens.
+
+192
+00:19:33,120 --> 00:19:41,840
+Een eerste vraag die dit misschien bij ons oproept is hoe er überhaupt zuurstof beschikbaar komt, want er staan toch geen bomen op Europa?
+
+193
+00:19:42,120 --> 00:19:43,180
+Maar hoe zit dat dan?
+
+194
+00:19:43,360 --> 00:19:50,860
+Dat klopt. De zuurstof komt vrij als straling uit het helal watermoleculen opbreekt in zuurstof en waterstof.
+
+195
+00:19:52,100 --> 00:20:02,220
+Anders dan op onze aarde is de eile atmosfeer van Europa en het gebrek aan een sterk magneetval dusdanig dat kosmische straling gemakkelijk de ijskorst kan bereiken.
+
+196
+00:20:03,120 --> 00:20:09,120
+En we zagen al dat er inderdaad iets van een atmosfeer met zuurstof en waterdamp is waargenomen rond Europa.
+
+197
+00:20:09,940 --> 00:20:16,360
+Maar de grote vraag is of er genoeg zuurstof wordt geproduceerd en genoeg zuurstof doordringt tot in de oceanen.
+
+198
+00:20:16,520 --> 00:20:19,180
+Ja, dat is wel een hele interessante vraag.
+
+199
+00:20:19,180 --> 00:20:25,100
+De conclusie van dit artikel is dat het er slecht uitziet voor wat betreft de zuurstofdistributie.
+
+200
+00:20:26,720 --> 00:20:31,180
+De auteurs baseren hun bevindingen op meetgegevens van het Juno-ruimtevaartuig.
+
+201
+00:20:33,120 --> 00:20:39,120
+Het kan natuurlijk zijn dat we in 2031 meer te weten komen over het oppervlak van Europa...
+
+202
+00:20:39,120 --> 00:20:46,320
+...en dat er nog onbekende middelen bestaan om de oceanen onder het eis van zowel zuurstof als mineralen en metalen te voorzien.
+
+203
+00:20:46,320 --> 00:20:56,520
+Als we onze science fiction pet opzetten kunnen we een eencellige verzinnen die zuurstof produceert uit water op basis van gravitatieenergie.
+
+204
+00:20:57,080 --> 00:21:00,060
+Een beetje equivalent aan phytoplankton op aarde.
+
+205
+00:21:00,720 --> 00:21:07,800
+Dat zijn de algen, bacteriën en vieren die in onze aardse oceanen zuurstof produceren door middel van fotosynthese.
+
+206
+00:21:07,800 --> 00:21:15,520
+We zien wel vaker dat de evolutie vreemde kronkels doorloopt om leven te laten gedijen op onmogelijke plekken.
+
+207
+00:21:15,540 --> 00:21:17,300
+Ja, de evolutie heeft best goed werk gedaan.
+
+208
+00:21:17,500 --> 00:21:19,860
+Dus waarom niet in de oceanen van Europa?
+
+209
+00:21:20,780 --> 00:21:23,000
+Laten we voorlopig vooral de moed behouden.
+
+210
+00:21:23,480 --> 00:21:25,160
+En nog wat geduld betrachten.
+
+211
+00:21:25,940 --> 00:21:28,280
+Eerst het ding maar eens lanceren, nietwaar?
+
+212
+00:21:28,800 --> 00:21:30,020
+Tot de volgende keer.
+
+213
+00:21:30,020 --> 00:22:00,000
+TV Gelderland 2021
+

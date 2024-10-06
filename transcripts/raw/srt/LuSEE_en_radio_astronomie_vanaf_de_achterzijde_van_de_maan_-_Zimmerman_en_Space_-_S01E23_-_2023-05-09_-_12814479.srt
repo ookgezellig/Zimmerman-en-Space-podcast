@@ -1,0 +1,628 @@
+1
+00:00:00,000 --> 00:00:04,240
+Je luistert naar Zimmerman & Space, een podcast over astronomie.
+
+2
+00:00:04,580 --> 00:00:12,160
+In eerdere afleveringen hebben we het al wel eens gehad over radioastronomiebedrijven vanaf onze maan.
+
+3
+00:00:12,960 --> 00:00:18,940
+Vandaag staan we stil bij een speciale missie die de eerste stappen van dit pad zal betreden
+
+4
+00:00:18,940 --> 00:00:22,760
+en waarvan deel 1 hopelijk volgend jaar gelanceerd zal worden.
+
+5
+00:00:23,560 --> 00:00:25,980
+Om het hoe en waarom daarvan te begrijpen,
+
+6
+00:00:25,980 --> 00:00:30,200
+kunnen we ons eerst afvragen wat er zo speciaal is aan onze maan
+
+7
+00:00:30,200 --> 00:00:35,800
+dat we het gedoe van een radiotelescoop daar installeren zozeer de moeite waard vinden.
+
+8
+00:00:36,440 --> 00:00:39,760
+Hebben we niet genoeg aan onze aardse radiotelescopen?
+
+9
+00:00:39,980 --> 00:00:41,480
+Ja, dat is de vraag.
+
+10
+00:00:41,820 --> 00:00:45,980
+Dit heeft alles te maken met het frequentiebereik van radiotelescopen.
+
+11
+00:00:48,560 --> 00:00:52,980
+Rond onze planeet, vanaf een hoogte van zo'n 48 kilometer
+
+12
+00:00:52,980 --> 00:00:59,060
+tot ongeveer 965 kilometer vinden we de zogenaamde ionosfeer.
+
+13
+00:00:59,820 --> 00:01:05,980
+Daar zijn we heel dankbaar voor, want deze ionosfeer beschermt ons tegen ultraviolette en rundgestraling
+
+14
+00:01:06,600 --> 00:01:08,720
+van met name onze eigen zon.
+
+15
+00:01:09,520 --> 00:01:14,760
+Maar dezezelfde ionosfeer is tot ongeveer een frequentie van 30 megahertz
+
+16
+00:01:14,760 --> 00:01:17,260
+ondoorzichtig voor radiostraling.
+
+17
+00:01:17,260 --> 00:01:23,540
+Radiotelescopen op aarde kunnen dus alleen radiogolven ontvangen uit het heelal
+
+18
+00:01:23,540 --> 00:01:25,660
+vanaf ongeveer 30 megahertz.
+
+19
+00:01:26,400 --> 00:01:29,840
+Nu loopt het radiogebied van het elektromagnetisch spectrum
+
+20
+00:01:29,840 --> 00:01:33,260
+helemaal van 3 megahertz tot 300 gigahertz,
+
+21
+00:01:33,520 --> 00:01:36,600
+dus dat we dat kleine onderste stukje moeten missen
+
+22
+00:01:36,600 --> 00:01:38,840
+klinkt misschien niet al te dramatisch.
+
+23
+00:01:39,760 --> 00:01:42,160
+Toch gebeuren in dat golfbereik dingen
+
+24
+00:01:42,160 --> 00:01:45,100
+waar astronomen buitengewone interesse naar hebben.
+
+25
+00:01:45,100 --> 00:01:49,320
+Hier kunnen we namelijk kijken naar het allervroegste heelal
+
+26
+00:01:49,320 --> 00:01:52,380
+zoals dat er vlak na de oerknal uit heeft gezien.
+
+27
+00:01:53,480 --> 00:01:56,900
+Zoals we het nu begrijpen was het heelal vlak na die oerknal
+
+28
+00:01:56,900 --> 00:02:01,460
+een uiterst dicht plasma waarin geen sprake was van atomen.
+
+29
+00:02:03,820 --> 00:02:10,380
+Na een periode van 380.000 jaar was het heelal genoeg uitgedijd en afgekoeld
+
+30
+00:02:10,380 --> 00:02:14,340
+dat los rondvliegende ionen en elektronen elkaar vonden
+
+31
+00:02:14,340 --> 00:02:18,160
+en het eerste waterstof in onze geschiedenis ontstond.
+
+32
+00:02:19,220 --> 00:02:25,180
+En zoals we weten laat waterstof zich betrappen door de zogenaamde 21 centimeter lijn.
+
+33
+00:02:25,600 --> 00:02:32,480
+Met een golflengte van 21 centimeter hebben we het over een frequentie van 1420 megahertz.
+
+34
+00:02:32,480 --> 00:02:33,920
+Oh ja, inderdaad.
+
+35
+00:02:34,340 --> 00:02:37,760
+Dit zijn radiouitzendingen die we op aarde wel kunnen ontvangen.
+
+36
+00:02:38,080 --> 00:02:40,760
+Maar aangezien het heelal alsmaar uitdijdt
+
+37
+00:02:40,760 --> 00:02:45,860
+zijn die eerste waterstofemissies door roodverschuiving inmiddels uitgerekt
+
+38
+00:02:45,860 --> 00:02:49,580
+tot het allerlaagste radiospectrum.
+
+39
+00:02:50,880 --> 00:02:56,080
+Inderdaad, onder de radiofrequentie die nog door onze ionosfeer kan reizen.
+
+40
+00:02:56,080 --> 00:03:02,540
+Overigens is die ionosfeer voor aardse radiouitzendingen ook weer een zegen
+
+41
+00:03:02,540 --> 00:03:07,020
+omdat we daarmee enorme afstanden kunnen bereiken met onze radiosignalen.
+
+42
+00:03:08,100 --> 00:03:10,780
+De ionosfeer treedt namelijk onder bepaalde hoeken
+
+43
+00:03:10,780 --> 00:03:14,480
+en onder bepaalde omstandigheden op als radiospiegel.
+
+44
+00:03:16,160 --> 00:03:20,040
+Korte golf radioamateurs maken hier graag gebruik van.
+
+45
+00:03:20,780 --> 00:03:23,000
+Daar heet dit skywave of skip.
+
+46
+00:03:23,000 --> 00:03:27,940
+Hopelijk ziet u de situatie nu enigszins voor uw geestes oog.
+
+47
+00:03:28,800 --> 00:03:29,940
+De aarde is een bal.
+
+48
+00:03:30,680 --> 00:03:36,160
+Daaromheen, vanaf een hoogte van 48 kilometer tot ongeveer 965 kilometer
+
+49
+00:03:36,160 --> 00:03:38,360
+vinden we als koepel de ionosfeer.
+
+50
+00:03:38,740 --> 00:03:41,780
+Die beschermt ons tegen akelige straling
+
+51
+00:03:41,780 --> 00:03:46,040
+maar houdt ook een deel van de uitzendingen van het allerprilste heelal tegen.
+
+52
+00:03:47,240 --> 00:03:51,100
+We kunnen dan denken, dan lanceren we toch nog een satelliet
+
+53
+00:03:51,100 --> 00:03:54,240
+die daarboven cirkelt om radiostraling te ontvangen.
+
+54
+00:03:56,040 --> 00:03:58,900
+Maar hier dient zich een nieuwe uitdaging aan.
+
+55
+00:03:59,940 --> 00:04:04,000
+Radiostraling op die lage frequenties heeft ook een enorme golflengte
+
+56
+00:04:04,000 --> 00:04:08,060
+en de radioantennes om deze op te vangen moeten dan ook enorm zijn.
+
+57
+00:04:08,060 --> 00:04:13,160
+Er zijn wel een paar pogingen gedaan met radioastronomie satellieten
+
+58
+00:04:13,160 --> 00:04:15,220
+maar die zijn op één hand te tellen.
+
+59
+00:04:16,000 --> 00:04:17,380
+Ook weer om dezelfde reden.
+
+60
+00:04:17,880 --> 00:04:21,560
+Een radiotelescoop is vanwege de golflengtes waarin wordt waargenomen
+
+61
+00:04:21,560 --> 00:04:23,740
+doorgaans een vrij groot apparaat.
+
+62
+00:04:25,200 --> 00:04:29,160
+Veel aardse radiotelescopen zijn ook vaak combinaties
+
+63
+00:04:29,160 --> 00:04:33,160
+van een heleboel geografisch ver van elkaar verwijderde apparaten.
+
+64
+00:04:33,160 --> 00:04:38,700
+De foto's van de zwarte gaten die we bijvoorbeeld de afgelopen tijd mochten bewonderen
+
+65
+00:04:38,700 --> 00:04:41,860
+werden gemaakt met de Event Horizon Telescope
+
+66
+00:04:41,860 --> 00:04:46,000
+wat een internationale samenwerking is van radiotelescopen
+
+67
+00:04:46,000 --> 00:04:48,180
+die over de hele aarde verdeeld staan.
+
+68
+00:04:49,240 --> 00:04:54,540
+En er is nog een reden om een radiotelescoop op de achterzijde van de maan te bouwen.
+
+69
+00:04:54,540 --> 00:04:59,280
+En dat is dat dat een bijzonder radiostille plek is
+
+70
+00:04:59,280 --> 00:05:04,720
+waar ontvangst niet gestoord wordt door kunstmatige aardse radiotransmissies.
+
+71
+00:05:07,280 --> 00:05:09,300
+De maan staat er namelijk tussen
+
+72
+00:05:09,300 --> 00:05:12,900
+en die houdt vervuiling van aardse radiostraling tegen.
+
+73
+00:05:13,680 --> 00:05:15,220
+Zoals u wellicht al weet
+
+74
+00:05:15,220 --> 00:05:18,120
+kijkt de maan altijd met dezelfde zijde naar de aarde
+
+75
+00:05:18,120 --> 00:05:21,940
+dus een radiotelescoop op de voor ons onzichtbare zijde
+
+76
+00:05:21,940 --> 00:05:23,580
+de achterzijde van de maan
+
+77
+00:05:23,580 --> 00:05:27,340
+is permanent geïsoleerd van aardse radiostraling.
+
+78
+00:05:28,280 --> 00:05:29,220
+Hoe ideaal!
+
+79
+00:05:30,160 --> 00:05:33,280
+En dat is het project waar ik het nog met u over wou hebben.
+
+80
+00:05:34,020 --> 00:05:35,580
+De missie heet LUSEE
+
+81
+00:05:35,580 --> 00:05:37,460
+L-U-S-E-E
+
+82
+00:05:37,460 --> 00:05:41,860
+wat staat voor Lunar Surface Electromagnetics Experiment.
+
+83
+00:05:42,900 --> 00:05:46,160
+Uiteraard niet te verwarren met de LUSEE-asteroïdemissie
+
+84
+00:05:46,160 --> 00:05:48,060
+L-U-C-Grieks-Ei
+
+85
+00:05:48,060 --> 00:05:50,800
+die al in 2021 gelanceerd was
+
+86
+00:05:50,800 --> 00:05:53,160
+en waar we het al eens eerder over hebben gehad.
+
+87
+00:05:53,580 --> 00:05:59,900
+LUSEE, de nieuwe missie, bestaat uit twee separaat te lanceren ruimtevaartuigen
+
+88
+00:05:59,900 --> 00:06:02,980
+LUSEE Light en LUSEE Night
+
+89
+00:06:02,980 --> 00:06:07,220
+LUSEE is een samenwerking tussen NASA,
+
+90
+00:06:07,580 --> 00:06:11,340
+het Department of Energy's Brookhaven National Laboratory
+
+91
+00:06:11,340 --> 00:06:14,020
+en de Universiteit van Berkeley, California.
+
+92
+00:06:14,020 --> 00:06:20,340
+LUSEE Light zal als eerste gelanceerd worden, hopelijk in 2024 al,
+
+93
+00:06:20,340 --> 00:06:25,820
+en landen op de Zuidpool aan de achterzijde van de maan in de buurt van Schrodingers-Bezin.
+
+94
+00:06:26,700 --> 00:06:30,660
+Deze missie is nog niet bedoeld om radioastronomie te bedrijven,
+
+95
+00:06:31,060 --> 00:06:35,340
+maar om te verkennen hoe een autonoom ruimteschip langere tijd op de maan kan overleven
+
+96
+00:06:35,340 --> 00:06:40,500
+en om te meten hoe de omstandigheden aan de achterzijde van de maan zijn.
+
+97
+00:06:40,500 --> 00:06:46,660
+Een grote uitdaging is het overleven van die elektronica van zijn ruimteschip
+
+98
+00:06:46,660 --> 00:06:48,680
+tijdens een nacht van 14 dagen,
+
+99
+00:06:49,100 --> 00:06:51,200
+gevolgd door een dag van 14 dagen,
+
+100
+00:06:51,360 --> 00:06:57,700
+waarbij de temperatuur uiteenloopt van min 173 graden Celsius tot 120 graden Celsius.
+
+101
+00:06:58,500 --> 00:07:03,140
+LUSEE Light zal metingen doen aan geladen deeltjes die hier voorkomen,
+
+102
+00:07:03,140 --> 00:07:08,200
+magnetisme, stof en interacties tussen geladen deeltjes en stof.
+
+103
+00:07:09,140 --> 00:07:13,660
+De hierdoor verkregen inzichten kunnen ervoor zorgen dat de tweede missie,
+
+104
+00:07:13,840 --> 00:07:16,380
+LUSEE Night, een groter succes wordt.
+
+105
+00:07:17,060 --> 00:07:20,820
+Dit ruimtevaartuig wordt ook aan de achterzijde van de maan neergezet
+
+106
+00:07:20,820 --> 00:07:26,200
+en zal ter plekke daadwerkelijk radiometingen doen aan de onderkant van het radiospectrum.
+
+107
+00:07:27,760 --> 00:07:31,180
+De antennes van LUSEE Night zullen stuurbaar zijn,
+
+108
+00:07:31,180 --> 00:07:34,000
+zodat deze aan de maanhemel gericht kunnen worden.
+
+109
+00:07:34,960 --> 00:07:41,380
+NASA hoopt dit ruimtevaartuig in 2025 of 2026 op de maan neer te kunnen zetten.
+
+110
+00:07:42,600 --> 00:07:44,660
+Hier, op de achterzijde van de maan,
+
+111
+00:07:44,760 --> 00:07:48,560
+kan LUSEE Night ongestoord radiowaarnemingen doen.
+
+112
+00:07:48,680 --> 00:07:50,160
+Hens, ik twijfel hieraan.
+
+113
+00:07:50,460 --> 00:07:55,260
+Alhoewel ongestoord door ons aardzige kakel op radiofrequenties.
+
+114
+00:07:56,000 --> 00:07:57,660
+Maar op de achterzijde van de maan
+
+115
+00:07:57,660 --> 00:08:01,280
+zien we ook luide radiobronnen van natuurlijke oorsprong,
+
+116
+00:08:01,400 --> 00:08:04,420
+zoals onze zon en zelfs de planeet Jupiter.
+
+117
+00:08:05,480 --> 00:08:09,860
+Maar als de nacht van 14 dagen op de achterzijde van de maan aanbreekt,
+
+118
+00:08:10,820 --> 00:08:12,640
+verdwijnt de zon onder de horizon
+
+119
+00:08:12,640 --> 00:08:15,960
+en valt die bron van radiostraling tijdelijk weg.
+
+120
+00:08:15,960 --> 00:08:18,800
+En er zullen ook momenten zijn,
+
+121
+00:08:18,940 --> 00:08:21,540
+bijvoorbeeld eind juli-begin augustus 2026,
+
+122
+00:08:22,940 --> 00:08:27,000
+dat zowel de zon als Jupiter aan de kant van de aarde staan,
+
+123
+00:08:27,160 --> 00:08:29,060
+gezien vanaf de achterzijde van de maan.
+
+124
+00:08:29,660 --> 00:08:33,460
+Dan is dus ook Jupiter onder de horizon van de maan verdwenen.
+
+125
+00:08:33,960 --> 00:08:36,420
+En dan kan in alle stilte worden gekeken
+
+126
+00:08:36,420 --> 00:08:40,660
+naar een voor ons nog onontgonnen gebied in het radiospectrum.
+
+127
+00:08:40,660 --> 00:08:47,520
+Overigens zal Lucy Knight meer in het midden van de achterzijde van de maanlanden
+
+128
+00:08:47,520 --> 00:08:51,820
+om radiostoringen van aardse origine te minimaliseren.
+
+129
+00:08:53,080 --> 00:08:56,880
+Uiteraard is één zo'n ruimtevaartuig nog verre van ideaal
+
+130
+00:08:56,880 --> 00:08:59,380
+om radiosterrenkunde mee te bedrijven.
+
+131
+00:09:00,720 --> 00:09:04,140
+Lucy Knight is een eerste stap in een groter geheel.
+
+132
+00:09:05,000 --> 00:09:08,340
+Wanneer de mens weer zal werken en zelfs wonen op de maan,
+
+133
+00:09:08,340 --> 00:09:12,800
+zal een deel van de inspanningen ook worden geïnvesteerd in wetenschap.
+
+134
+00:09:13,400 --> 00:09:17,500
+Dan kunnen astronauten een grotere radiotelescoop bouwen
+
+135
+00:09:17,500 --> 00:09:18,980
+op de achterzijde van de maan.
+
+136
+00:09:19,520 --> 00:09:21,340
+Een beetje zoals Lofar misschien.
+
+137
+00:09:22,500 --> 00:09:25,340
+Zo'n radiotelescoop zal middels interferometrie
+
+138
+00:09:26,040 --> 00:09:29,740
+net als op aarde kunnen bestaan uit verschillende radioantennes
+
+139
+00:09:29,740 --> 00:09:31,460
+op verschillende locaties.
+
+140
+00:09:32,360 --> 00:09:36,340
+Een dergelijk systeem kan fungeren als één grote radioantenne
+
+141
+00:09:36,340 --> 00:09:39,880
+wanneer de ontvangst van alle losse antennes
+
+142
+00:09:39,880 --> 00:09:45,020
+door gecoördineerde computersystemen wordt gecombineerd tot één signaal.
+
+143
+00:09:45,800 --> 00:09:50,880
+Buiten gewoon spannend is dat we als mensheid bijna altijd nieuwe ontdekkingen doen
+
+144
+00:09:50,880 --> 00:09:55,800
+als een nieuw onontgonnen gedeelte van het elektromagnetisch spectrum verkend wordt.
+
+145
+00:09:56,780 --> 00:10:01,600
+Wie weet wat er allemaal gebeurt in die eerste 50 megahertz van het heelal.
+
+146
+00:10:01,600 --> 00:10:08,620
+Het zal sowieso een uitdaging worden de zwakke roodverschoven signalen uit het prille helal,
+
+147
+00:10:08,840 --> 00:10:10,780
+wat we ook al de Dark Ages noemen,
+
+148
+00:10:11,260 --> 00:10:15,660
+tevoorschijn te halen uit de drukke astronomische radiosterrenhemel.
+
+149
+00:10:16,520 --> 00:10:20,180
+Daarnaast hopen astronomen ook recentere signalen op te vangen
+
+150
+00:10:20,180 --> 00:10:25,240
+van radiobronnen zoals exoplaneten of nog niet ontdekte verschijnselen.
+
+151
+00:10:25,240 --> 00:10:28,580
+En we gaan het allemaal nog meemaken, hoop ik.
+
+152
+00:10:29,220 --> 00:10:32,840
+De Lucy ruimtevaartuigen zijn grotendeels al gebouwd
+
+153
+00:10:32,840 --> 00:10:39,420
+en wel deels met bestaande spullen die over waren van onder andere de Parker Solar Probe missie.
+
+154
+00:10:40,740 --> 00:10:45,500
+Dit is de nieuwe ruimtevaart waar sneller gebouwd moet worden met kleinere budgetten.
+
+155
+00:10:46,280 --> 00:10:48,220
+Maar daardoor niet minder spannend.
+
+156
+00:10:49,060 --> 00:10:50,360
+Tot de volgende keer.
+
+157
+00:10:50,360 --> 00:10:51,360
+***
+

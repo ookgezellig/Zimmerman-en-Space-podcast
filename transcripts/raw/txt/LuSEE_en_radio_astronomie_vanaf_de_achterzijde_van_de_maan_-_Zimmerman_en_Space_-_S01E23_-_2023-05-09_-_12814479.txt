@@ -1,0 +1,157 @@
+Je luistert naar Zimmerman & Space, een podcast over astronomie.
+In eerdere afleveringen hebben we het al wel eens gehad over radioastronomiebedrijven vanaf onze maan.
+Vandaag staan we stil bij een speciale missie die de eerste stappen van dit pad zal betreden
+en waarvan deel 1 hopelijk volgend jaar gelanceerd zal worden.
+Om het hoe en waarom daarvan te begrijpen,
+kunnen we ons eerst afvragen wat er zo speciaal is aan onze maan
+dat we het gedoe van een radiotelescoop daar installeren zozeer de moeite waard vinden.
+Hebben we niet genoeg aan onze aardse radiotelescopen?
+Ja, dat is de vraag.
+Dit heeft alles te maken met het frequentiebereik van radiotelescopen.
+Rond onze planeet, vanaf een hoogte van zo'n 48 kilometer
+tot ongeveer 965 kilometer vinden we de zogenaamde ionosfeer.
+Daar zijn we heel dankbaar voor, want deze ionosfeer beschermt ons tegen ultraviolette en rundgestraling
+van met name onze eigen zon.
+Maar dezezelfde ionosfeer is tot ongeveer een frequentie van 30 megahertz
+ondoorzichtig voor radiostraling.
+Radiotelescopen op aarde kunnen dus alleen radiogolven ontvangen uit het heelal
+vanaf ongeveer 30 megahertz.
+Nu loopt het radiogebied van het elektromagnetisch spectrum
+helemaal van 3 megahertz tot 300 gigahertz,
+dus dat we dat kleine onderste stukje moeten missen
+klinkt misschien niet al te dramatisch.
+Toch gebeuren in dat golfbereik dingen
+waar astronomen buitengewone interesse naar hebben.
+Hier kunnen we namelijk kijken naar het allervroegste heelal
+zoals dat er vlak na de oerknal uit heeft gezien.
+Zoals we het nu begrijpen was het heelal vlak na die oerknal
+een uiterst dicht plasma waarin geen sprake was van atomen.
+Na een periode van 380.000 jaar was het heelal genoeg uitgedijd en afgekoeld
+dat los rondvliegende ionen en elektronen elkaar vonden
+en het eerste waterstof in onze geschiedenis ontstond.
+En zoals we weten laat waterstof zich betrappen door de zogenaamde 21 centimeter lijn.
+Met een golflengte van 21 centimeter hebben we het over een frequentie van 1420 megahertz.
+Oh ja, inderdaad.
+Dit zijn radiouitzendingen die we op aarde wel kunnen ontvangen.
+Maar aangezien het heelal alsmaar uitdijdt
+zijn die eerste waterstofemissies door roodverschuiving inmiddels uitgerekt
+tot het allerlaagste radiospectrum.
+Inderdaad, onder de radiofrequentie die nog door onze ionosfeer kan reizen.
+Overigens is die ionosfeer voor aardse radiouitzendingen ook weer een zegen
+omdat we daarmee enorme afstanden kunnen bereiken met onze radiosignalen.
+De ionosfeer treedt namelijk onder bepaalde hoeken
+en onder bepaalde omstandigheden op als radiospiegel.
+Korte golf radioamateurs maken hier graag gebruik van.
+Daar heet dit skywave of skip.
+Hopelijk ziet u de situatie nu enigszins voor uw geestes oog.
+De aarde is een bal.
+Daaromheen, vanaf een hoogte van 48 kilometer tot ongeveer 965 kilometer
+vinden we als koepel de ionosfeer.
+Die beschermt ons tegen akelige straling
+maar houdt ook een deel van de uitzendingen van het allerprilste heelal tegen.
+We kunnen dan denken, dan lanceren we toch nog een satelliet
+die daarboven cirkelt om radiostraling te ontvangen.
+Maar hier dient zich een nieuwe uitdaging aan.
+Radiostraling op die lage frequenties heeft ook een enorme golflengte
+en de radioantennes om deze op te vangen moeten dan ook enorm zijn.
+Er zijn wel een paar pogingen gedaan met radioastronomie satellieten
+maar die zijn op één hand te tellen.
+Ook weer om dezelfde reden.
+Een radiotelescoop is vanwege de golflengtes waarin wordt waargenomen
+doorgaans een vrij groot apparaat.
+Veel aardse radiotelescopen zijn ook vaak combinaties
+van een heleboel geografisch ver van elkaar verwijderde apparaten.
+De foto's van de zwarte gaten die we bijvoorbeeld de afgelopen tijd mochten bewonderen
+werden gemaakt met de Event Horizon Telescope
+wat een internationale samenwerking is van radiotelescopen
+die over de hele aarde verdeeld staan.
+En er is nog een reden om een radiotelescoop op de achterzijde van de maan te bouwen.
+En dat is dat dat een bijzonder radiostille plek is
+waar ontvangst niet gestoord wordt door kunstmatige aardse radiotransmissies.
+De maan staat er namelijk tussen
+en die houdt vervuiling van aardse radiostraling tegen.
+Zoals u wellicht al weet
+kijkt de maan altijd met dezelfde zijde naar de aarde
+dus een radiotelescoop op de voor ons onzichtbare zijde
+de achterzijde van de maan
+is permanent geïsoleerd van aardse radiostraling.
+Hoe ideaal!
+En dat is het project waar ik het nog met u over wou hebben.
+De missie heet LUSEE
+L-U-S-E-E
+wat staat voor Lunar Surface Electromagnetics Experiment.
+Uiteraard niet te verwarren met de LUSEE-asteroïdemissie
+L-U-C-Grieks-Ei
+die al in 2021 gelanceerd was
+en waar we het al eens eerder over hebben gehad.
+LUSEE, de nieuwe missie, bestaat uit twee separaat te lanceren ruimtevaartuigen
+LUSEE Light en LUSEE Night
+LUSEE is een samenwerking tussen NASA,
+het Department of Energy's Brookhaven National Laboratory
+en de Universiteit van Berkeley, California.
+LUSEE Light zal als eerste gelanceerd worden, hopelijk in 2024 al,
+en landen op de Zuidpool aan de achterzijde van de maan in de buurt van Schrodingers-Bezin.
+Deze missie is nog niet bedoeld om radioastronomie te bedrijven,
+maar om te verkennen hoe een autonoom ruimteschip langere tijd op de maan kan overleven
+en om te meten hoe de omstandigheden aan de achterzijde van de maan zijn.
+Een grote uitdaging is het overleven van die elektronica van zijn ruimteschip
+tijdens een nacht van 14 dagen,
+gevolgd door een dag van 14 dagen,
+waarbij de temperatuur uiteenloopt van min 173 graden Celsius tot 120 graden Celsius.
+LUSEE Light zal metingen doen aan geladen deeltjes die hier voorkomen,
+magnetisme, stof en interacties tussen geladen deeltjes en stof.
+De hierdoor verkregen inzichten kunnen ervoor zorgen dat de tweede missie,
+LUSEE Night, een groter succes wordt.
+Dit ruimtevaartuig wordt ook aan de achterzijde van de maan neergezet
+en zal ter plekke daadwerkelijk radiometingen doen aan de onderkant van het radiospectrum.
+De antennes van LUSEE Night zullen stuurbaar zijn,
+zodat deze aan de maanhemel gericht kunnen worden.
+NASA hoopt dit ruimtevaartuig in 2025 of 2026 op de maan neer te kunnen zetten.
+Hier, op de achterzijde van de maan,
+kan LUSEE Night ongestoord radiowaarnemingen doen.
+Hens, ik twijfel hieraan.
+Alhoewel ongestoord door ons aardzige kakel op radiofrequenties.
+Maar op de achterzijde van de maan
+zien we ook luide radiobronnen van natuurlijke oorsprong,
+zoals onze zon en zelfs de planeet Jupiter.
+Maar als de nacht van 14 dagen op de achterzijde van de maan aanbreekt,
+verdwijnt de zon onder de horizon
+en valt die bron van radiostraling tijdelijk weg.
+En er zullen ook momenten zijn,
+bijvoorbeeld eind juli-begin augustus 2026,
+dat zowel de zon als Jupiter aan de kant van de aarde staan,
+gezien vanaf de achterzijde van de maan.
+Dan is dus ook Jupiter onder de horizon van de maan verdwenen.
+En dan kan in alle stilte worden gekeken
+naar een voor ons nog onontgonnen gebied in het radiospectrum.
+Overigens zal Lucy Knight meer in het midden van de achterzijde van de maanlanden
+om radiostoringen van aardse origine te minimaliseren.
+Uiteraard is één zo'n ruimtevaartuig nog verre van ideaal
+om radiosterrenkunde mee te bedrijven.
+Lucy Knight is een eerste stap in een groter geheel.
+Wanneer de mens weer zal werken en zelfs wonen op de maan,
+zal een deel van de inspanningen ook worden geïnvesteerd in wetenschap.
+Dan kunnen astronauten een grotere radiotelescoop bouwen
+op de achterzijde van de maan.
+Een beetje zoals Lofar misschien.
+Zo'n radiotelescoop zal middels interferometrie
+net als op aarde kunnen bestaan uit verschillende radioantennes
+op verschillende locaties.
+Een dergelijk systeem kan fungeren als één grote radioantenne
+wanneer de ontvangst van alle losse antennes
+door gecoördineerde computersystemen wordt gecombineerd tot één signaal.
+Buiten gewoon spannend is dat we als mensheid bijna altijd nieuwe ontdekkingen doen
+als een nieuw onontgonnen gedeelte van het elektromagnetisch spectrum verkend wordt.
+Wie weet wat er allemaal gebeurt in die eerste 50 megahertz van het heelal.
+Het zal sowieso een uitdaging worden de zwakke roodverschoven signalen uit het prille helal,
+wat we ook al de Dark Ages noemen,
+tevoorschijn te halen uit de drukke astronomische radiosterrenhemel.
+Daarnaast hopen astronomen ook recentere signalen op te vangen
+van radiobronnen zoals exoplaneten of nog niet ontdekte verschijnselen.
+En we gaan het allemaal nog meemaken, hoop ik.
+De Lucy ruimtevaartuigen zijn grotendeels al gebouwd
+en wel deels met bestaande spullen die over waren van onder andere de Parker Solar Probe missie.
+Dit is de nieuwe ruimtevaart waar sneller gebouwd moet worden met kleinere budgetten.
+Maar daardoor niet minder spannend.
+Tot de volgende keer.
+***

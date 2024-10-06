@@ -1,0 +1,153 @@
+U luistert naar Zimmerman & Space.
+In de vorige aflevering zagen we al dat protonen veel ingewikkeldere quantumobjecten zijn dan we misschien vroeger op school leerden.
+In deze aflevering zullen we nog wat dieper kijken naar de implicaties van dit gegeven.
+Want als een proton, dat we stevast in de kern van elk atoom in het heelal tegenkomen, al zo'n ingewikkelde onzekere quantumtoestand is, wat gaat daar dan aan vooraf?
+Hmm, misschien heeft u al wel eens gehoord over quantumvelden en virtuele deeltjes.
+In deze podcast hebben we het er zelfs al wel eens over gehad.
+Als u er een aantal jaar geleden over heeft gelezen of gehoord, dan was een en ander nog erg speculatief en in nevelen gehuld.
+Daarom lijkt het me aardig om deze aflevering wat nieuwere ontwikkelingen op dit gebied te bespreken.
+Er is een theorie die zegt dat op het meest basale niveau alleen velden bestaan.
+Deze quantumvelden theorie levert wat we een verenigd kader zouden kunnen noemen voor de beschrijving van veldachtige objecten en deeltjesachtige objecten.
+Veldachtige objecten zijn dan bijvoorbeeld fotonen, zoals bij licht, warmte en radiostraling.
+En deeltjesachtige objecten zijn dan bijvoorbeeld quarks, elektronen, et cetera.
+Hoe exotisch dit ook klinkt, het is momenteel de beste omschrijving van de werkelijkheid.
+Die boom die u bijvoorbeeld uit uw raam ziet bestaat uit moleculen.
+Dat zijn weer verbindingen van atomen.
+Die atomen bestaan uit deeltjes en die deeltjes bestaan alleen in die vorm omdat ze tijdelijk in een geëxciteerde staat bestaan.
+Dat wil zoveel zeggen als dat wij een deeltje waarnemen dat ontstaat waar een bepaald veld in een bekrachtigde staat verkeert.
+Zou er op dit moment een hoog energetisch deeltje uit het heelal dwars door onze atmosfeer reizen en tegen een atoom in onze boom beuken,
+dan zou het surplus aan energie de deeltjes in het atoom misschien dwingen om een bekrachtigde staat op te geven en over te gaan in een regen van andere deeltjes.
+Die een andere staat van het onderliggende veld inhouden en door ons niet meer als boom worden waargenomen.
+Gelukkig gebeurt dit niet aan de lopende band, want dan zou het leven nog ingewikkelder en onbegrijpelijker zijn dan het al is.
+Om ons eerste verhaal goed te begrijpen zullen we het eerst moeten hebben over een speciaal materiaal.
+Grafeen.
+Dit bestaat uit een tweedimensionale honingraadstructuur van koolstofatomen.
+Een honingraadstructuur noemen we ook al hexagonaal.
+Grafeen is daarmee voorlopig het dunst mogelijke materiaal.
+Maar het is met een treksterkte van 1,25 maal 10 tot de 11e pascal ook het sterkste materiaal dat we kennen.
+Dat klopt sterker dan staal of diamant.
+Grafiet wat we gebruiken om een slot weer open te krijgen bestaat uit grafeenlagen die over elkaar heen schuiven.
+In de nanotechnologie worden ook buisjes van grafeen gemaakt, zogenaamde koolstof nanotubes.
+En Buckminster Fullerene, een koolstofatomen balletje, komt aardig in de richting van een grafeenbal.
+Met deze voorkennis kunnen we dan kijken naar een recente ontwikkeling.
+Een artikel hierover verscheen pas dit jaar in de wetenschappelijke pers met de titel...
+Mesoscopic Klein-Schwingereffect in Grafeen.
+Dat Klein-Schwingereffect, ook al het Schwingereffect genoemd, gaat terug naar een voorspelling van deeltjesfysicus Julian Schwinger.
+Hij voorspelde dat een sterk genoeg elektrisch veld de leegte daartussen kan dwingen...
+...om een paar van een deeltje en een antideeltje in het leven te roepen.
+Inderdaad, iets creëren uit niets.
+Dit is gebaseerd op het gegeven dat er in dit helal nergens echt sprake is van helemaal niets.
+Er is sprake van een maximale nietsheid.
+Als u alle deeltjes met een denkbeeldige optimale stofzuiger of vacuumpomp uit een stuk ruimte weet weg te ruimen...
+...en alle elektromagnetische straling en zwaartskracht weet te dempen...
+...dan nog bevinden zich in deze leegste der lege ruimte nog kwantumvelden.
+En deze kwantumvelden kunnen spontaan of onder druk deeltjes in het leven roepen.
+Dat was altijd theorie, maar het artikel waar we het nu over hebben...
+...beschrijft een experiment waarbij dit ook echt zo blijkt te zijn.
+Werner Heisenberg voorspelde al dat dit zo moest zijn op basis van het beroemde Heisenberg-onzekerheidsprincipe.
+I don't know.
+Maar hij had nog niet de fysische mogelijkheden om dit te testen.
+Het is wel aardig om dit intuïtief te begrijpen.
+Ik hoop maar dat ik het eenvoudig genoeg kan uitleggen.
+Hens, ik twijfel je eraan.
+Heisenberg leerde ons dat het onmogelijk is om bepaalde paren van gegevens met dezelfde precisie te meten.
+Dergelijke paren zijn bijvoorbeeld tijd en energie, positie en impuls, oriëntatie en hoeksnelheid...
+...voltage en veldsterkte en elektrische velddichtheid en polarisatie.
+Hoe dat per geval precies zit kunnen we voor nu even links laten liggen.
+Waar het op neerkomt is dat de natuur om ons heen zich op kwantumniveau als het ware verzet...
+...tegen het exact meten van beide gegevens in zo'n paar.
+Deze onzekerheid is inherent aan de materie.
+Zodra we bijvoorbeeld de positie van een deeltje nauwkeurig meten...
+...hebben we geen idee meer waar het deeltje heen gaat.
+Andersom werkt het ook.
+Als we nauwkeurig weten waar een deeltje heen gaat, dan kunnen we onmogelijk weten waar het deeltje zich exact bevindt.
+Dat betekent ook dat we voor een bepaald gedeelte van het heelal...
+...waar we met grote precisie meten dat er geen veldsterkte is...
+...geen idee hebben over de energie in diezelfde ruimte.
+Veldenergie.
+Maar we gaan even terug naar ons experiment.
+Oké.
+Een probleem met het voorstel van Schwinger is de immense elektrische veldsterkte...
+...die benodigd is om deeltjes te dwingen uit het niets te ontstaan.
+Dit is meer het domein van zwarte gaten en magnetars.
+Niet iets dat we in een laboratorium op aarde bij elkaar hobbyen met wat magneten en weerstanden.
+Totdat natuurkundige Alexei Berjugin en collega's het toch wisten te bereiken met...
+...u raadt het al, een stuk grafeen.
+Hun onderzoek staat beschreven in het artikel...
+...Out of equilibrium criticalities in grafeen superlattices.
+Het magneetveld in dit experiment wist extra elektron-anti-elektronpaar in het leven te roepen in de nabijheid van het grafeen.
+Het was in eerste instantie niet eens duidelijk dat het Schwingereffect hierin optrad.
+En waarom gebeurt dit in grafeen?
+Het idee is dat de beperking van driedimensionale kwantumtoestanden in het vrijwel tweedimensionale grafeen...
+...maakt dat deeltjes eerder uit het niets ontstaan dan in gewone driedimensionale omstandigheden...
+...bij gebrek aan bewegingsvrijheid.
+In deze opstelling zagen de onderzoekers elektronen en elektronen holtes, de antideeltjes, spontaan ontstaan.
+De energie van deze deeltjes wordt weggehaald uit het elektrische veld.
+Iets vergelijkbaars tritt op wanneer een meson in een sterk elektrisch veld terechtkomt.
+Mag het in het Nederlands?
+Een meson is een subatomeer deeltje dat uit een kwark en een antikwark bestaat.
+In zo'n sterk elektrisch veld zullen de kwarks in een meson van elkaar getrokken worden...
+...waarbij uiteindelijk een nieuw kwark-antikwarkpaar uit het niets ontstaat.
+De kwark van dat nieuwe paar vindt de oorspronkelijke antikwark en andersom...
+...zodat we met twee mesons opgeschreven zitten.
+Net als we vorige keer zagen in een proton...
+...zien we ook hier dat de natuur van het allerkleinste aan een rigoreuze energiehuishouding doet.
+Er zijn nog twee effecten die waargenomen kunnen worden...
+...en diep in de richting van kwantumvelden wijzen.
+Het eerste is het beroemde Casimir-effect.
+In 1948 voorspelde de natuurkundige Hendrik Casimir al...
+...dat als we twee platen dicht genoeg bij elkaar zetten...
+...dat ze elkaar dan zullen aantrekken.
+Niet op basis van onderlinge zwaartekracht...
+...maar door iets wat we het Casimir-effect noemen.
+Als we de lege ruimte zien als een plek waar kwantumvelden bestaan...
+...dan kunnen we aannemen dat hier volgens diezelfde theorie...
+...aan de lopende band deeltje-antideeltje-paren ontstaan...
+...die elkaar ook weer opheffen.
+Dit gebeurt op verschillende golflengtes.
+Sommige van deze deeltjesparen zullen een golflengte hebben...
+...die groter is dan de afstand tussen de platen.
+Tussen de beide Casimir-platen ontstaat dan een no-go-zone...
+...voor bepaalde deeltjes met een te grote golflengte.
+Maar buiten de platen bestaat deze toestand niet...
+...waardoor er dus een surplus van druk ontstaat...
+...van velddeeltjes buiten de platen.
+Netto resultaat de energie van kwantumvelden...
+...zal de platen tegen elkaar aanbewegen.
+In 1997 lukte het natuurkundige Steve Lamoureux en collega's...
+...om dit in een laboratoriumopstelling te zien gebeuren.
+Sindsdien is het Casimir-effect meerdere malen experimenteel aangetoond.
+En dan is er nog een kosmologisch effect...
+...dat eveneens het bestaan van kwantumvelden doet vermoeden.
+Op een afstand van 450 lichtjaar van de aarde staat een neutronenster...
+...voor ons gezien in het sterrenbeeld Zuider-Kroon.
+Het geval heeft de naam RxJ1856.5-3754.
+Het is sowieso een bijzonder geval...
+...want er kan geen supernova-rest gevonden worden in de omgeving van dit object.
+En zoals u wellicht weet ontstaat een neutronenster doorgaans...
+...in een supernova-explosie.
+Het zou kunnen zijn dat RxJ1856.5-3754 heel erg oud is...
+...en er niks meer over is van de supernova.
+Maar in dat geval zou deze neutronenster meer moeten zijn afgekoeld dan waar er genomen wordt.
+Er wordt wel gesuggereerd dat dit geen neutronenster, maar een quarkster is.
+Iets waar we het ook al eens over hebben gehad.
+Kortom, wat een vreemd object.
+Om het nog gekker te maken is de straling van RxJ1856.5-3754...
+...ook nog veel sterker gepolariseerd dan verwacht wordt.
+Astronomen vermoeden dat de lege ruimte rond de neutronenster sterk gemagnetiseerd is.
+Een effect dat wordt toegeschreven aan de opmerkelijke bevinding...
+...dat ook het vacuüm van de lege ruimte gemagnetiseerd kan worden.
+Dit is dus niet een magneetvat dat door het vacuüm propageert...
+...maar het vacuüm dat zelf als magneet optreedt.
+Een universum waar geen plek is die we echt leeg kunnen noemen...
+...vergeven van bekende en wellicht nog onbekende kwantumvelden...
+...roept onherroepelijk de vraag op of deze toestand ook al bestond voor de oerknal.
+We kunnen de vraag ook herdefiniëren en ons afvragen of de kwantumvelden waarvan we nu het bestaan aannemen...
+...zoals een zwaartekrachtveld, elektromagnetisme, de zwakke kernkracht en de sterke kernkracht...
+...in het begin van dit heelal ook al in deze vorm bestonden.
+Of misschien zijn deze velden ooit verenigd geweest in één oerveld...
+...dat ook op haar beurt spontaan in het leven sprong op het tijdstip T is nul.
+En daarmee is ons heelal misschien in de woorden van Arthur Schopenhauer...
+...een kort oponthoud tussen twee keer niks.
+Tot de volgende keer.
+***

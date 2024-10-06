@@ -1,0 +1,1056 @@
+1
+00:00:00,000 --> 00:00:02,280
+U luistert naar Zimmerman & Space.
+
+2
+00:00:02,660 --> 00:00:04,040
+Nou, gelukkig nieuwjaar.
+
+3
+00:00:05,980 --> 00:00:10,800
+Op dit moment is het psycheruimtevaartuig op weg naar de planeten Mars...
+
+4
+00:00:10,800 --> 00:00:17,160
+waar het in mei 2026 een extra zet in de juiste richting krijgt van de rode planeet.
+
+5
+00:00:19,000 --> 00:00:23,080
+Tijdens deze zogenaamde gravity assist manoeuvren met Mars...
+
+6
+00:00:23,080 --> 00:00:30,560
+scheert het psycheruimtevaartuig op een hoogte tussen de 3000 en 4400 kilometer boven het Marsoppervlak.
+
+7
+00:00:32,180 --> 00:00:37,020
+NASA vergelijkt het met een bal die tegen een rijdende trein wordt gegooid.
+
+8
+00:00:39,280 --> 00:00:44,420
+De bal verandert dan van richting en krijgt wat extra vaart van de rijdende trein.
+
+9
+00:00:45,720 --> 00:00:52,140
+Het psycheruimtevaartuig nadert Mars met een snelheid van 202.800 kilometer per uur...
+
+10
+00:00:52,140 --> 00:00:57,420
+ten opzichte van de zon en zet de reis naar de asteroide met dezelfde naam, Psyche...
+
+11
+00:00:57,420 --> 00:01:03,260
+na de ontmoeting met Mars voort met een snelheid van 104.900 kilometer per uur.
+
+12
+00:01:04,060 --> 00:01:08,140
+Als alles naar behoren verloopt, arriveert het dan in de lente van 2029...
+
+13
+00:01:09,360 --> 00:01:11,740
+bij het missiedoel Asteroide Psyche.
+
+14
+00:01:12,420 --> 00:01:17,400
+Het ruimtevaartuig heeft dan een reis van rond de 3,6 miljard kilometer afgelegd.
+
+15
+00:01:17,480 --> 00:01:18,420
+Zoé, wat veel!
+
+16
+00:01:18,420 --> 00:01:24,440
+Maar over de psychomissie naar een metaalhoudende asteroide hebben we het al eens eerder gehad.
+
+17
+00:01:25,020 --> 00:01:29,660
+Dat was in aflevering 165 van de podcast Zimmerman In Space.
+
+18
+00:01:30,540 --> 00:01:34,420
+Vandaag hebben we het over een speciaal testonderdeel van de psychomissie...
+
+19
+00:01:35,080 --> 00:01:38,920
+waarmee op 11 december 2023 een succes is behaald.
+
+20
+00:01:39,700 --> 00:01:44,720
+Om de implicaties van dat succes goed te begrijpen, zullen we bij het begin beginnen.
+
+21
+00:01:44,860 --> 00:01:45,420
+Dat is goed.
+
+22
+00:01:45,420 --> 00:01:50,420
+Tot nu toe gebeurt communicatie in de ruimte stevast met behulp van radiosignalen.
+
+23
+00:01:53,160 --> 00:01:57,160
+Decennia lang was het handig om op radiofrequenties berichten uit te wisselen.
+
+24
+00:01:57,240 --> 00:01:59,860
+One, two...
+
+25
+00:01:59,860 --> 00:02:04,600
+Het is natuurlijk ook zo dat als de infrastructuur daar eenmaal op ingericht is...
+
+26
+00:02:04,600 --> 00:02:07,380
+dat het dan minder voor de hand ligt om ervan af te werken.
+
+27
+00:02:07,580 --> 00:02:09,060
+Ja, dat is logisch.
+
+28
+00:02:09,060 --> 00:02:14,100
+Maar conventie of niet, er kleven wel nadelen aan radiotransmissies.
+
+29
+00:02:14,740 --> 00:02:16,960
+In eerste plaats de bandbreedte.
+
+30
+00:02:17,020 --> 00:02:18,000
+Wat betekent dat?
+
+31
+00:02:18,140 --> 00:02:24,000
+Dat kunt u begrijpen als de hoeveelheid informatie die per tijdseenheid in een signaal gepropt kan worden.
+
+32
+00:02:25,140 --> 00:02:28,900
+Een radiosignaal heeft een lagere frequentie dan bijvoorbeeld licht.
+
+33
+00:02:28,900 --> 00:02:31,900
+Door gebruik te maken van bijvoorbeeld een infraroodlezer...
+
+34
+00:02:32,720 --> 00:02:38,000
+kan een winst van 10 tot wel 100 keer meer informatie per tijdseenheid geboekt worden...
+
+35
+00:02:38,000 --> 00:02:39,960
+ten opzichte van radiosignalen.
+
+36
+00:02:42,360 --> 00:02:46,840
+Misschien denkt u met een mix van weemoed en irritatie terug aan die tijd...
+
+37
+00:02:46,840 --> 00:02:50,160
+dat we met een mode moesten inbellen om onze e-mail te lezen.
+
+38
+00:02:50,160 --> 00:02:56,780
+Dat gaat nu met glasvezelverbindingen natuurlijk een stuk soepeler en vooral sneller.
+
+39
+00:02:57,520 --> 00:03:04,000
+En dat verschil tussen een slome inbellmodem die geluidspiepjes gebruikt om signalen uit te wisselen...
+
+40
+00:03:04,000 --> 00:03:08,060
+en een glasvezelmodem die informatie in lichtdeeltjes verpakt...
+
+41
+00:03:08,060 --> 00:03:11,800
+is vergelijkbaar met de uitdagingen waar de ruimtevaart nu voor staat.
+
+42
+00:03:12,940 --> 00:03:15,400
+Satellieten vergaren steeds meer gegevens.
+
+43
+00:03:15,580 --> 00:03:17,220
+Computers zijn sneller geworden.
+
+44
+00:03:17,460 --> 00:03:18,840
+Sensoren nauwkeuriger.
+
+45
+00:03:18,840 --> 00:03:22,840
+Kortom, er moeten meer gegevens heen en weer kunnen worden gestuurd...
+
+46
+00:03:23,440 --> 00:03:25,980
+tussen ruimtevaartuigen onderling en de aarde.
+
+47
+00:03:26,360 --> 00:03:27,060
+En de maan.
+
+48
+00:03:27,380 --> 00:03:27,880
+En Mars.
+
+49
+00:03:28,860 --> 00:03:30,400
+En als we weer naar de maan gaan...
+
+50
+00:03:30,400 --> 00:03:36,060
+dan willen we natuurlijk high-definition videobeelden in full color zien van onze astronauten.
+
+51
+00:03:38,340 --> 00:03:42,000
+De zwart-wit filmpjes uit de jaren zestig van de vorige eeuw...
+
+52
+00:03:42,000 --> 00:03:43,620
+daar kunnen we niet meer thuis mee komen.
+
+53
+00:03:44,760 --> 00:03:47,640
+En we zijn op aarde ook steeds meer gewend geraakt...
+
+54
+00:03:47,640 --> 00:03:50,520
+een grote hoeveelheden data en hoe daarmee om te gaan.
+
+55
+00:03:52,200 --> 00:03:56,060
+Grootschalig wordt nu ingezet op een toekomst met optische communicatie.
+
+56
+00:03:56,740 --> 00:03:58,020
+Inderdaad, met lasers.
+
+57
+00:03:59,020 --> 00:04:01,640
+Daarmee valt dus een grotere bandbreedte te bereiken...
+
+58
+00:04:02,160 --> 00:04:05,500
+maar er zijn nog meer voordelen aan communicatie met laserlicht.
+
+59
+00:04:05,500 --> 00:04:10,380
+Laserzenders en ontvangers zijn lichter en kleiner dan radioequivalenten...
+
+60
+00:04:10,380 --> 00:04:14,380
+en dat maakt lasers uiteraard zeer geschikt voor ruimtesondes...
+
+61
+00:04:14,960 --> 00:04:16,860
+die altijd zo licht mogelijk moeten zijn.
+
+62
+00:04:18,200 --> 00:04:19,380
+Kleinere zenders en ontvangers...
+
+63
+00:04:20,180 --> 00:04:23,380
+dat betekent meer ruimte voor wetenschappelijke instrumenten.
+
+64
+00:04:23,380 --> 00:04:28,340
+Het derde voordeel is de hoeveelheid energie die nodig is voor communicatie.
+
+65
+00:04:29,420 --> 00:04:32,200
+Laserstraling is efficiënter dan radiostraling.
+
+66
+00:04:33,000 --> 00:04:36,140
+En dat vertaalt zich direct naar voordelen voor de ruimtevaart...
+
+67
+00:04:36,140 --> 00:04:38,180
+waar het altijd maar een uitdaging blijft...
+
+68
+00:04:38,180 --> 00:04:41,140
+om een ruimtevaartuig van genoeg stroom te blijven voorzien.
+
+69
+00:04:42,200 --> 00:04:45,260
+En er is nog een voordeel volgens AZO Optics...
+
+70
+00:04:45,260 --> 00:04:48,760
+en dat is dat gerichte laserstralen minder gevoelig zijn...
+
+71
+00:04:48,760 --> 00:04:52,060
+veronderscheppen en storen door kwaadwillende partijen.
+
+72
+00:04:53,780 --> 00:04:57,100
+Dat is de theorie. Maar hoe zit het met de praktijk?
+
+73
+00:04:57,260 --> 00:04:59,920
+Ja, dat is wel een hele interessante vraag.
+
+74
+00:05:00,460 --> 00:05:05,280
+2023 was een uitstekend jaar voor de lasercommunicatie, zullen we zo zien.
+
+75
+00:05:05,880 --> 00:05:08,440
+Maar voor een eerste succes in de ruimtevaart...
+
+76
+00:05:08,440 --> 00:05:10,320
+moeten we tien jaar verder terug in de tijd.
+
+77
+00:05:12,760 --> 00:05:17,020
+In 2013 gebruikte het LaDi-ruimtevaartuig...
+
+78
+00:05:17,020 --> 00:05:21,200
+lasercommunicatie om contact te onderhouden tussen de maan en de aarde.
+
+79
+00:05:22,200 --> 00:05:24,980
+Daarbij werd een maximale gegevensoverdracht...
+
+80
+00:05:24,980 --> 00:05:29,020
+van 622 megabits per seconde van de maan naar de aarde bereikt...
+
+81
+00:05:29,720 --> 00:05:33,020
+en in omgekeerde richting van de aarde naar het LaDi-ruimtevaartuig...
+
+82
+00:05:33,720 --> 00:05:36,280
+maximaal 20 megabits per seconde.
+
+83
+00:05:37,180 --> 00:05:39,020
+Dit systeem heette LLCD...
+
+84
+00:05:39,020 --> 00:05:43,340
+wat staat voor Lunar Laser Communications Demonstration.
+
+85
+00:05:43,340 --> 00:05:49,340
+Op 17 oktober 2013 was er sprake van een rechtstreekse laserverbinding...
+
+86
+00:05:50,020 --> 00:05:51,340
+tussen de aarde en LaDi...
+
+87
+00:05:51,960 --> 00:05:55,740
+wat heel veel mensen bij NASA enthousiast maakte voor deze technologie.
+
+88
+00:05:57,440 --> 00:06:01,140
+622 megabits per seconde is redelijk indrukwekkend.
+
+89
+00:06:01,520 --> 00:06:04,760
+Dat zou u kunnen vergelijken met het gelijktijdig streamen...
+
+90
+00:06:04,760 --> 00:06:07,340
+van ongeveer 30 hoge definitie videobestanden.
+
+91
+00:06:08,340 --> 00:06:09,340
+Permanent brain deterioration.
+
+92
+00:06:10,160 --> 00:06:13,480
+Misschien heeft u zelf wel eens geëxperimenteerd met een laser.
+
+93
+00:06:15,720 --> 00:06:19,340
+Toen ik ooit in Groningen woonde in de Oosterstraat wel te verstaan...
+
+94
+00:06:20,000 --> 00:06:23,340
+heb ik eens een laserpointer uitgericht op de Martini-toren...
+
+95
+00:06:23,900 --> 00:06:26,040
+op een punt waar ik zelf bij kon komen.
+
+96
+00:06:26,880 --> 00:06:29,440
+Ja, ik weet het, dat is heel neurderig.
+
+97
+00:06:30,060 --> 00:06:32,700
+Een en ander kon ik z'n avonds laat controleren...
+
+98
+00:06:32,700 --> 00:06:37,240
+door met mijn oude JWG-sterrekijker uit het raam te kijken naar de toren...
+
+99
+00:06:37,240 --> 00:06:41,260
+en het stipje van de laser precies uit te richten met een fotostatief.
+
+100
+00:06:42,060 --> 00:06:44,980
+De volgende dag zat de laser op een timer...
+
+101
+00:06:44,980 --> 00:06:46,960
+en ben ik de toren ingegaan...
+
+102
+00:06:46,960 --> 00:06:50,340
+wat elke rechteraardige Groninger waarschijnlijk minstens één keer...
+
+103
+00:06:50,340 --> 00:06:51,900
+in haar of zijn leven heeft gedaan.
+
+104
+00:06:52,840 --> 00:06:56,700
+En ja hoor, ik kon mijn laserstip met eigen ogen waarnemen...
+
+105
+00:06:56,700 --> 00:06:57,820
+gewoon overdag.
+
+106
+00:06:57,820 --> 00:07:02,820
+Wel viel mij op dat de stip al een stuk minder scherp was dan binnenshuis...
+
+107
+00:07:03,340 --> 00:07:05,980
+maar dit was natuurlijk ook een gewone pointerlaser...
+
+108
+00:07:05,980 --> 00:07:09,000
+om interessant mee te doen tijdens presentaties.
+
+109
+00:07:09,680 --> 00:07:12,820
+En dat brengt ons bij de grote uitdaging van lasercommunicatie.
+
+110
+00:07:15,940 --> 00:07:18,820
+Zo'n dunne straal moet zeer precies worden uitgericht...
+
+111
+00:07:19,540 --> 00:07:23,500
+en wasemt over de grotere afstanden onherroepelijk uit tot een vlek.
+
+112
+00:07:23,500 --> 00:07:28,260
+Dat betekent dus zowel uitdagingen aan de kant van de zender...
+
+113
+00:07:28,260 --> 00:07:29,500
+die zeer precies moet uitrichten...
+
+114
+00:07:30,260 --> 00:07:33,940
+als aan de kant van de ontvanger die extreem gevoelig moet zijn.
+
+115
+00:07:34,780 --> 00:07:37,500
+Ook de LLCD-laser van het LADIE ruimtevaartuig...
+
+116
+00:07:38,380 --> 00:07:42,500
+vormde een vlek op aarde met een diameter van net iets meer dan 6 kilometer.
+
+117
+00:07:43,860 --> 00:07:47,220
+De voetafdruk van een radiosignaal vanaf de maan...
+
+118
+00:07:47,220 --> 00:07:49,720
+is ter vergelijking vele malen breder...
+
+119
+00:07:49,720 --> 00:07:51,840
+in de orde van 6000 kilometer.
+
+120
+00:07:51,840 --> 00:07:55,500
+We kunnen ons natuurlijk afvragen of we vanaf de maan...
+
+121
+00:07:55,500 --> 00:07:57,940
+precies de helft van het aardoppervlak zien.
+
+122
+00:07:58,560 --> 00:08:02,040
+Dat klinkt misschien in eerste instantie een beetje als een open deur...
+
+123
+00:08:02,040 --> 00:08:03,100
+maar is dat wel zo?
+
+124
+00:08:03,240 --> 00:08:04,560
+Pak de rekenmachine er maar bij.
+
+125
+00:08:04,760 --> 00:08:08,660
+De aarde heeft een straal van 6371 kilometer.
+
+126
+00:08:09,600 --> 00:08:12,620
+Als we voor het gemak aannemen dat de aarde een bol is...
+
+127
+00:08:12,620 --> 00:08:17,120
+dan is het oppervlak van de aarde 4 keer pi keer de straal in het kwadraat...
+
+128
+00:08:17,120 --> 00:08:19,740
+dus 510 miljoen vierkante kilometer.
+
+129
+00:08:19,740 --> 00:08:23,400
+Het gedeelte van deze aardbol dat wij elk moment zien...
+
+130
+00:08:23,400 --> 00:08:26,120
+is een functie van onze afstand tot die bol.
+
+131
+00:08:26,740 --> 00:08:28,980
+U kunt het intuïtief goed nagaan.
+
+132
+00:08:29,440 --> 00:08:32,340
+Als u met uw oog in uw achtertuin op de grond ligt...
+
+133
+00:08:32,340 --> 00:08:36,400
+dan ziet u geen 255 miljoen vierkante kilometer van het aardoppervlak.
+
+134
+00:08:36,400 --> 00:08:42,840
+En in de prachtige video's die vanuit het International Space Station gemaakt worden...
+
+135
+00:08:42,840 --> 00:08:45,240
+zien we de landen ook een voor een langskomen.
+
+136
+00:08:45,460 --> 00:08:48,340
+Dus daar zien we ook zeker nog niet de helft van de aardbol.
+
+137
+00:08:49,520 --> 00:08:52,260
+Maar hoeveel van de aarde zien we in een baan rond de maan?
+
+138
+00:08:52,680 --> 00:08:54,460
+Ook dat kunnen we uitrekenen.
+
+139
+00:08:54,560 --> 00:08:55,480
+Oh, gelukkig!
+
+140
+00:08:55,660 --> 00:08:58,240
+Ik heb het even in een Python script gezet...
+
+141
+00:08:58,240 --> 00:09:01,040
+wat u in de show notes van deze aflevering vindt.
+
+142
+00:09:01,420 --> 00:09:03,760
+Interessant, maar wel een beetje nerderig.
+
+143
+00:09:03,900 --> 00:09:05,800
+Naarmate we dichter bij de maan komen...
+
+144
+00:09:05,800 --> 00:09:07,680
+wordt het steeds minder significant...
+
+145
+00:09:07,680 --> 00:09:09,820
+hoe ver we van de aarde verwijderd zijn.
+
+146
+00:09:10,540 --> 00:09:12,560
+De functie is asymptotisch...
+
+147
+00:09:12,560 --> 00:09:14,120
+en in een baan rond de maan...
+
+148
+00:09:14,120 --> 00:09:16,080
+zag het LaDi-ruimtevaartuig...
+
+149
+00:09:16,080 --> 00:09:18,460
+nagenoeg de complete helft van de aardbol.
+
+150
+00:09:19,460 --> 00:09:21,740
+Na het succes van LLCD...
+
+151
+00:09:21,740 --> 00:09:24,560
+was het de beurt voor het International Space Station...
+
+152
+00:09:24,560 --> 00:09:27,960
+om lasercommunicatieverbindingen met de aarde te onderhouden.
+
+153
+00:09:28,540 --> 00:09:30,140
+Dit project heet OPALS...
+
+154
+00:09:30,140 --> 00:09:31,980
+wat staat voor Optical Payload...
+
+155
+00:09:31,980 --> 00:09:33,620
+voor Lasercom Science.
+
+156
+00:09:34,780 --> 00:09:37,780
+Hiermee konden astronauten aan boord van het ISS...
+
+157
+00:09:37,780 --> 00:09:40,340
+gegevens naar de aarde sturen middels een laser.
+
+158
+00:09:41,340 --> 00:09:45,420
+OPALS arriveerde op 20 april 2014 in het ISS...
+
+159
+00:09:45,420 --> 00:09:47,020
+en op 5 juni van het jaar...
+
+160
+00:09:47,020 --> 00:09:48,840
+werd de boodschap Hello World...
+
+161
+00:09:48,840 --> 00:09:51,160
+succesvol naar het aardoppervlak verzonden.
+
+162
+00:09:52,300 --> 00:09:54,880
+Hierbij werd vanaf een baken op aarde...
+
+163
+00:09:54,880 --> 00:09:57,360
+eveneens een lasersignaal uitgezonden...
+
+164
+00:09:57,360 --> 00:10:00,720
+waar het OPALS-instrument aan boord van het ISS...
+
+165
+00:10:00,720 --> 00:10:02,160
+aan kon kalibreren...
+
+166
+00:10:02,160 --> 00:10:05,820
+waar de OPALS-gegevens naartoe moesten worden gelaserd.
+
+167
+00:10:06,640 --> 00:10:10,100
+Dit is iets wat we in de toekomst veel zullen gaan zien, denk ik.
+
+168
+00:10:10,220 --> 00:10:13,240
+Dat laser-instrumenten elkaar middels bakens...
+
+169
+00:10:13,240 --> 00:10:14,400
+de hand zullen schudden...
+
+170
+00:10:14,400 --> 00:10:17,260
+en dan in bulkgegevens heen en weer kunnen dumpen.
+
+171
+00:10:18,180 --> 00:10:20,380
+In zoiets dynamisch als ruimtevaart...
+
+172
+00:10:20,380 --> 00:10:22,040
+lijkt het minder voor de hand te liggen...
+
+173
+00:10:22,040 --> 00:10:25,320
+dat er continu een laserverbinding in stand wordt gehouden.
+
+174
+00:10:25,320 --> 00:10:29,400
+Ruimteschepen verdwijnen immers achter de horizon...
+
+175
+00:10:29,400 --> 00:10:31,980
+zowel van onze planeet als van andere planeten.
+
+176
+00:10:32,620 --> 00:10:35,300
+En dan kan de aardatmosfeer ook nog tegenwerken.
+
+177
+00:10:37,400 --> 00:10:39,220
+OPALS was een groot succes...
+
+178
+00:10:39,220 --> 00:10:41,320
+met gegevensoverdracht snelheden...
+
+179
+00:10:41,320 --> 00:10:44,640
+tussen de 50 en 120 megabits per seconde.
+
+180
+00:10:45,480 --> 00:10:47,680
+Nu draait het International Space Station...
+
+181
+00:10:47,680 --> 00:10:50,200
+maar op een hoogte van 408 kilometer...
+
+182
+00:10:50,200 --> 00:10:53,920
+maar zo'n lasersignaal moet altijd nog helemaal door de aardatmosfeer heen.
+
+183
+00:10:54,720 --> 00:10:56,140
+OPALS was succesvol...
+
+184
+00:10:56,140 --> 00:10:59,100
+omdat er een minimum aan foutcorrectie nodig was...
+
+185
+00:10:59,100 --> 00:11:01,940
+en het signaal op meerdere punten op aarde kon worden ontvangen.
+
+186
+00:11:03,040 --> 00:11:05,460
+Er werd behalve de Hello World boodschap...
+
+187
+00:11:05,460 --> 00:11:09,080
+ook van alles aan gegevens van het ISS naar de aarde verzonden...
+
+188
+00:11:09,080 --> 00:11:10,700
+waaronder een korte testvideo.
+
+189
+00:11:11,540 --> 00:11:14,020
+We kunnen wel even naar het geluid daarvan luisteren...
+
+190
+00:11:14,020 --> 00:11:16,200
+want het is maar 36 seconden lang.
+
+191
+00:11:16,200 --> 00:11:18,760
+Het is de story van een eindlijke search...
+
+192
+00:11:18,760 --> 00:11:21,180
+om de communicatie nodig te zijn van Amerika.
+
+193
+00:11:22,180 --> 00:11:23,420
+Waarom de snelheid?
+
+194
+00:11:24,040 --> 00:11:26,240
+Hier is moderne telegrapie aan werk...
+
+195
+00:11:26,240 --> 00:11:28,300
+zet en regeven in facsimile.
+
+196
+00:11:32,000 --> 00:11:33,400
+Dit is informatie.
+
+197
+00:11:33,560 --> 00:11:34,140
+Mag ik je helpen?
+
+198
+00:11:35,360 --> 00:11:37,260
+De nodigheid van vandaag...
+
+199
+00:11:37,260 --> 00:11:40,120
+houden met het tempo van een snel vermoordende eeuw.
+
+200
+00:11:40,120 --> 00:11:48,240
+Als u de bijbehorende video wilt zien...
+
+201
+00:11:48,240 --> 00:11:51,120
+een link vindt u in de show notes van deze aflevering.
+
+202
+00:11:52,060 --> 00:11:54,280
+Maar aan het begin van deze aflevering...
+
+203
+00:11:54,280 --> 00:11:57,320
+had ik beloofd dat 2023 een goed jaar was...
+
+204
+00:11:57,320 --> 00:11:58,860
+voor de lasercommunicatie.
+
+205
+00:11:59,560 --> 00:12:02,780
+Op 28 april 2023 werd een signaal...
+
+206
+00:12:02,780 --> 00:12:06,180
+vanuit een baan rond de aarde naar het aardoppervlak verstuurd...
+
+207
+00:12:06,180 --> 00:12:10,060
+met een transmissiesnelheid van 200 gigabit per seconde.
+
+208
+00:12:10,120 --> 00:12:12,120
+Het systeem waarmee dit werd verwezen...
+
+209
+00:12:12,860 --> 00:12:17,080
+heet T-Bird, wat staat voor Terabyte Infrared Delivery.
+
+210
+00:12:17,860 --> 00:12:21,740
+De satelliet waarmee dit indrukwekkende wapenfeit behaald werd...
+
+211
+00:12:21,740 --> 00:12:25,120
+is de NASA Pathfinder Technology Demonstrator 3...
+
+212
+00:12:25,760 --> 00:12:27,780
+of PTD-3 satelliet.
+
+213
+00:12:28,900 --> 00:12:30,600
+Hiermee werd het eerdere record...
+
+214
+00:12:30,600 --> 00:12:34,220
+van 100 gigabit per seconde uit 2022 verbroken.
+
+215
+00:12:34,220 --> 00:12:38,220
+En het tweede wapenfeit van NASA werd vorige maand bereikt...
+
+216
+00:12:38,740 --> 00:12:42,560
+toen de video van een spelende kat door het psycheruimtevaartuig...
+
+217
+00:12:42,560 --> 00:12:44,200
+waar we het in het begin over hadden...
+
+218
+00:12:44,200 --> 00:12:45,460
+naar de aarde werd gezonden.
+
+219
+00:12:46,200 --> 00:12:48,220
+Dit gebeurde op 11 december 2023...
+
+220
+00:12:49,180 --> 00:12:53,220
+en valt onder NASA's Deep Space Optical Communications Experiment...
+
+221
+00:12:54,280 --> 00:12:55,220
+afgekort als DSOC.
+
+222
+00:12:55,220 --> 00:12:59,400
+De 15 seconden durende video...
+
+223
+00:12:59,400 --> 00:13:01,220
+was voor de lancering in het computergeheugen...
+
+224
+00:13:01,840 --> 00:13:03,980
+van het psycheruimtevaartuig geladen.
+
+225
+00:13:04,820 --> 00:13:07,220
+Op 11 december stond het psycheruimtevaartuig...
+
+226
+00:13:07,740 --> 00:13:11,000
+op een afstand van 31 miljoen kilometer van de aarde.
+
+227
+00:13:11,920 --> 00:13:15,220
+Het bestand werd per infraroodlaser naar de aarde verzonden...
+
+228
+00:13:15,220 --> 00:13:20,240
+met een gegevensoverdracht snelheid van 267 megabit per seconde.
+
+229
+00:13:20,240 --> 00:13:23,180
+Het werd opgevangen met de heel telescoop...
+
+230
+00:13:23,180 --> 00:13:27,380
+van Caltechs Palomaar Observatorium in San Diego, California.
+
+231
+00:13:28,640 --> 00:13:32,020
+Op die immense afstand deed het laserlicht er net iets meer...
+
+232
+00:13:32,020 --> 00:13:33,460
+dan 100 seconden over...
+
+233
+00:13:33,460 --> 00:13:35,820
+om de afstand van het psycheruimtevaartuig...
+
+234
+00:13:35,820 --> 00:13:37,220
+naar de aarde te overbruggen.
+
+235
+00:13:37,940 --> 00:13:39,940
+Op de achtergrond hoort u het muziekje...
+
+236
+00:13:39,940 --> 00:13:41,840
+dat onderdeel van de video was.
+
+237
+00:13:42,800 --> 00:13:45,520
+In de show notes vindt u een link naar de video van...
+
+238
+00:13:45,520 --> 00:13:48,840
+Teters de kat die achter een laserlichtpunt aanrent.
+
+239
+00:13:48,840 --> 00:13:50,520
+Hoe toepasselijk.
+
+240
+00:13:51,300 --> 00:13:54,840
+Dat het gelukt is om zulke immense afstanden te overbruggen met lasers...
+
+241
+00:13:55,380 --> 00:13:57,940
+is zowel een opsteker voor de zendapparatuur...
+
+242
+00:13:57,940 --> 00:13:59,640
+als voor de ontvangstapparatuur.
+
+243
+00:14:00,460 --> 00:14:03,000
+Op aarde staan supergekoelde ontvangers...
+
+244
+00:14:03,000 --> 00:14:06,240
+die inmiddels in staat zijn één foton te detecteren.
+
+245
+00:14:07,700 --> 00:14:09,580
+De komende jaren zullen lasers...
+
+246
+00:14:09,580 --> 00:14:12,840
+een veel prominentere rol gaan spelen in communicatie.
+
+247
+00:14:13,740 --> 00:14:17,200
+De firma SpaceX is al begonnen met het lanceren...
+
+248
+00:14:17,200 --> 00:14:20,200
+en testen van met laser uitgeruste Starlink-satellieten...
+
+249
+00:14:20,860 --> 00:14:23,220
+die onderling communiceren met laserlicht.
+
+250
+00:14:24,000 --> 00:14:25,720
+Dat gaat altijd nog een stuk sneller...
+
+251
+00:14:25,720 --> 00:14:27,800
+dan glasvezelverbindingen op aarde...
+
+252
+00:14:27,800 --> 00:14:31,600
+waarmee SpaceX nog sneller internet hoopt aan te kunnen gaan bieden.
+
+253
+00:14:32,740 --> 00:14:35,660
+Wilt u nu zelf eens experimenteren met lasers...
+
+254
+00:14:35,660 --> 00:14:37,100
+bijvoorbeeld voor een schoolproject?
+
+255
+00:14:37,240 --> 00:14:38,820
+Ja, dat denk ik wel zo.
+
+256
+00:14:38,820 --> 00:14:42,640
+In de show notes vindt u een link naar een video van een experiment...
+
+257
+00:14:42,640 --> 00:14:46,540
+waarbij Arduino Electronica wordt gebruikt voor lasercommunicatie.
+
+258
+00:14:47,280 --> 00:14:51,140
+Of als u eens in foutcorrectie en tolerantie wilt duiken...
+
+259
+00:14:51,140 --> 00:14:54,560
+dan is er bijvoorbeeld de Reed-Solomon module voor Python...
+
+260
+00:14:54,560 --> 00:14:55,820
+waarmee u kunt experimenteren...
+
+261
+00:14:56,480 --> 00:14:59,660
+met het herstellen van beschadigde digitale signalen.
+
+262
+00:15:00,160 --> 00:15:01,440
+Tot de volgende keer.
+
+263
+00:15:01,440 --> 00:15:02,440
+TV Gelderland 2021
+
+264
+00:15:02,440 --> 00:15:03,440
+TV Gelderland 2021
+

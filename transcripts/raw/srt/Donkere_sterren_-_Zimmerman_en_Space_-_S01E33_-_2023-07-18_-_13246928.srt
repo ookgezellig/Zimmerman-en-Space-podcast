@@ -1,0 +1,832 @@
+1
+00:00:00,000 --> 00:00:02,140
+Hé, waar gaan we het vandaag eens over hebben, Hens?
+
+2
+00:00:02,320 --> 00:00:07,960
+We lazen onlangs in het nieuws dat met de James Webb ruimtetelescoop donkere sterren,
+
+3
+00:00:08,340 --> 00:00:11,180
+zogenaamde dark stars, ontdekt waren.
+
+4
+00:00:12,040 --> 00:00:18,840
+Doorgaans vermijd ik in deze podcast de onderwerpen die al grootschalig rondgebazuind worden door de media een beetje,
+
+5
+00:00:19,000 --> 00:00:24,940
+maar bij deze donkere sterren is het mijns inziens wel nuttig wat achtergrondinformatie te geven.
+
+6
+00:00:25,740 --> 00:00:29,400
+Op nu.nl las ik op 14 juli van dit jaar...
+
+7
+00:00:29,400 --> 00:00:35,400
+De James Webb-telescoop heeft drie sterrenstelsels waargenomen waarin mogelijk donkere sterren voorkomen.
+
+8
+00:00:36,240 --> 00:00:41,160
+Daarmee zou de natuurkundige kunnen verklaren waarom er zoveel zwarte gaten in de ruimte zijn.
+
+9
+00:00:41,580 --> 00:00:46,020
+Iets verderop in hetzelfde artikel las ik, donkere sterren zijn...
+
+10
+00:00:46,020 --> 00:00:51,780
+Net als andere sterren voornamelijk gemaakt van waterstof en helium, maar bevatten dus ook donkere materie.
+
+11
+00:00:52,360 --> 00:00:58,640
+Verder zijn ze mogelijk veel groter dan normale sterren en geven ze geen licht omdat er geen kernfusie plaatsvindt.
+
+12
+00:00:58,640 --> 00:01:06,880
+De berichtgeving van nu.nl zit er op enkele punten enigszins naast, dus laten we vandaag samen kijken naar hoe het echt zit.
+
+13
+00:01:07,680 --> 00:01:11,640
+Het begint eigenlijk al met een artikel uit 2007 met de titel...
+
+14
+00:01:11,640 --> 00:01:15,300
+Dark Matter and the First Stars, a new phase of stellar evolution.
+
+15
+00:01:15,300 --> 00:01:21,460
+Het werd geschreven door Douglas Poljar, Catherine Freese en Paola Gondolo.
+
+16
+00:01:22,220 --> 00:01:26,540
+Dit artikel was het resultaat van een brainstorm-sessie van die auteurs...
+
+17
+00:01:26,540 --> 00:01:33,080
+waarbij ze als hypothese hadden dat de eerste sterren in het brillenhelal mogelijk donkere sterren zouden kunnen zijn.
+
+18
+00:01:33,080 --> 00:01:40,440
+Dat moeten we dan niet vertalen als sterren die geen licht geven, want dan zouden we ze niet kunnen zien.
+
+19
+00:01:40,740 --> 00:01:43,120
+Ook niet met de James Webb ruimtetelescoop.
+
+20
+00:01:43,600 --> 00:01:47,240
+Dus op dat punt zit nu.nl er al aardig naast.
+
+21
+00:01:48,120 --> 00:01:50,940
+Waarom heet zo'n geval dan een donkere ster?
+
+22
+00:01:51,120 --> 00:01:51,360
+Ja?
+
+23
+00:01:51,360 --> 00:01:55,220
+Nou ja, we zeiden het eigenlijk al omdat ze ook donkere materie bevat.
+
+24
+00:01:55,600 --> 00:01:57,320
+Is althans die hypothese.
+
+25
+00:01:57,320 --> 00:02:02,880
+Het is net als oerknal een beetje een ongelukkige benaming, donkere materie.
+
+26
+00:02:03,440 --> 00:02:07,600
+Maar het doet het goed in de media, dus dan blijft zo'n term rondgonzen.
+
+27
+00:02:09,300 --> 00:02:15,020
+Hoe kunnen we een donkere ster onderscheiden van een normale ster, zoals bijvoorbeeld onze zon?
+
+28
+00:02:16,040 --> 00:02:21,680
+In grote lijnen kunnen we beweren dat alle normale sterren worden aangedreven door kernfusie...
+
+29
+00:02:21,680 --> 00:02:24,020
+waarbij waterstof wordt omgezet in helium.
+
+30
+00:02:24,020 --> 00:02:31,580
+Kernfusie, dat is de droom van de mensheid om energie op te wekken en ook de motor van alle sterren.
+
+31
+00:02:32,180 --> 00:02:35,380
+Bij dit proces van kernfusie komt energie vrij.
+
+32
+00:02:36,920 --> 00:02:41,520
+Er is iets belangrijks aan dit proces om de aflevering van vandaag te begrijpen.
+
+33
+00:02:41,800 --> 00:02:47,820
+En dat is dat een ster een fijne balans is tussen een inwaartse kracht en een uitwaartse kracht.
+
+34
+00:02:47,820 --> 00:02:53,220
+De inwaartse kracht is de zwaartekracht van al die atomen waaruit een ster bestaat...
+
+35
+00:02:53,220 --> 00:02:57,640
+en de uitwaartse kracht is de straling die door kernfusie gegenereerd wordt.
+
+36
+00:02:58,700 --> 00:03:04,140
+Een en ander is exact in balans, anders zou zo'n ster uit elkaar knallen of imploderen.
+
+37
+00:03:04,920 --> 00:03:07,920
+Maar goed, dat is hoe het nu werkt in het huidige helal.
+
+38
+00:03:07,920 --> 00:03:14,360
+In de vroege dagen van ons helal, een paar honderd miljoen jaar na die veronderstelde oerknal...
+
+39
+00:03:14,360 --> 00:03:16,560
+lagen de kaarten waarschijnlijk nog anders.
+
+40
+00:03:17,460 --> 00:03:23,760
+De aller-allereerste sterren worden verondersteld te zijn ontstaan in halo's van donkere materie.
+
+41
+00:03:24,440 --> 00:03:27,420
+Alhoewel we nog niet weten wat donkere materie is...
+
+42
+00:03:27,420 --> 00:03:31,360
+weten we wel dat het iets is wat zwaartekracht invloed uitoefent.
+
+43
+00:03:31,360 --> 00:03:36,360
+Dan mogen we er voorzichtig van uitgaan dat klonten en wolken van die donkere materie...
+
+44
+00:03:36,960 --> 00:03:43,160
+elkaar via onderlinge zwaartekracht wisten te vinden en plaatsen van grotere verdichtingen veroorzaakten.
+
+45
+00:03:43,800 --> 00:03:51,360
+Astronomen denken dat het helal op dit moment, dus in 2023, uit zo'n 27% donkere materie bestaat.
+
+46
+00:03:51,780 --> 00:03:57,160
+Maar in het vroege helal was er mogelijk veel meer van dit enigmatische spul voorhanden.
+
+47
+00:03:57,160 --> 00:04:02,840
+Er is een hypothese die bekend staat als SUSI, wat staat voor supersymmetrie.
+
+48
+00:04:03,520 --> 00:04:06,360
+Daar hoeven we nu verder niet al te diep op in te gaan...
+
+49
+00:04:06,360 --> 00:04:13,160
+maar volgens deze SUSI-theorie zou donkere materie het allerlichtste supersymmetrische deeltje kunnen zijn...
+
+50
+00:04:13,160 --> 00:04:16,920
+en als zodanig in staat kunnen zijn zichzelf op te heffen.
+
+51
+00:04:17,420 --> 00:04:23,160
+Met andere woorden, een donkere materie-deeltje is gelijk aan een anti-donkere materie-deeltje...
+
+52
+00:04:23,160 --> 00:04:27,880
+en bij een botsing heffen deze deeltjes elkaar op en komt energie vrij.
+
+53
+00:04:29,160 --> 00:04:36,080
+Dit proces, veronderstellen Catherine Fries en collega's, vond veelvuldig plaats in het prille helal.
+
+54
+00:04:36,760 --> 00:04:42,160
+Hierbij wordt op veel efficiëntere wijze energie opgewekt dan bij gewone kernfusie van waterstof.
+
+55
+00:04:43,400 --> 00:04:45,100
+En dan gebeurt er iets geks.
+
+56
+00:04:45,100 --> 00:04:51,100
+Waar een ster probeert te ontstaan door samen klonteren van waterstof in combinatie met afkoeling...
+
+57
+00:04:52,100 --> 00:04:57,100
+wordt een en ander in de wielen gereden door het proces van donkere materie-annihilatie.
+
+58
+00:04:57,760 --> 00:05:01,100
+Ook al bestaat zo'n prille ster uit minder dan een procent donkere materie...
+
+59
+00:05:01,100 --> 00:05:08,360
+er is dan tijdelijk zoveel uitwaartse extra druk dat er geen gewone ster ontstaat, maar een donkere ster.
+
+60
+00:05:08,360 --> 00:05:14,700
+Die een hele foute naam heeft, want behalve dat er wat donkere materie in kan worden aangetroffen...
+
+61
+00:05:14,700 --> 00:05:16,360
+is het ook een object dat licht uitstraalt.
+
+62
+00:05:18,600 --> 00:05:25,360
+Fries en collega's rekenden het allemaal na en zagen dat het mogelijk is dat zo'n donkere ster lange tijd blijft bestaan...
+
+63
+00:05:26,160 --> 00:05:32,400
+miljoenen keren de massa van onze zon bereikt en ook nog eens tien miljard keer zo helder als onze zon kan stralen.
+
+64
+00:05:32,400 --> 00:05:39,400
+Op den duur is alle donkere materie opgebruikt en stort het geheel alsnog in elkaar tot iets kleiners...
+
+65
+00:05:40,040 --> 00:05:42,560
+waar mogelijk kernfusie in op gang kan komen.
+
+66
+00:05:43,500 --> 00:05:48,400
+Maar omdat we extreem ver terug in de tijd kunnen kijken met de JWS-T ruimtetelescoop...
+
+67
+00:05:48,980 --> 00:05:53,300
+is het dus mogelijk dat we die allereerste donkere sterren zouden kunnen waarnemen.
+
+68
+00:05:54,440 --> 00:05:59,880
+Voordat we het concreet over die waarnemingen zullen hebben, nog even wat aardige feiten op een rijtje.
+
+69
+00:05:59,880 --> 00:06:05,880
+Een van de grote raadsels van de astronomie is hoe we aan die superzware zwarte gaten komen...
+
+70
+00:06:06,460 --> 00:06:09,880
+die stevast aangetroffen worden in het centrum van melkwegstelsels.
+
+71
+00:06:11,380 --> 00:06:16,880
+Een theorie is nu dat deze ontstaan als donkere sterren door hun donkere materie heen zijn...
+
+72
+00:06:17,480 --> 00:06:20,140
+en door zwaartekracht imploderen tot een zwart gat.
+
+73
+00:06:23,400 --> 00:06:29,780
+Dat lukt natuurlijk alleen als er genoeg materie bij elkaar geklonterd zit op het moment dat de donkere materie op is.
+
+74
+00:06:30,780 --> 00:06:34,820
+Maar als we zo eens om ons heen kijken in het voor ons zichtbare helal...
+
+75
+00:06:34,820 --> 00:06:36,880
+dan zien we honderden miljarden sterrenstelsels.
+
+76
+00:06:38,560 --> 00:06:41,880
+Dus als die dan allemaal in centraal superzwaar zwart gat kennen...
+
+77
+00:06:42,420 --> 00:06:47,820
+dan zou het best voor de hand liggen dat donkere sterren met immense massa's hier aan ten grondslag liggen.
+
+78
+00:06:48,000 --> 00:06:48,880
+Dat is logisch.
+
+79
+00:06:48,880 --> 00:06:53,820
+In dat geval zouden er veel donkere sterren zijn ontstaan in het prille helal...
+
+80
+00:06:53,820 --> 00:06:59,880
+en dat maakt het weer aannemelijker dat we die objecten ook gaan aantreffen in waarnemingen met het James Webb Ruimtetelescoop.
+
+81
+00:06:59,880 --> 00:07:29,880
+
+
+82
+00:07:29,880 --> 00:07:33,340
+Tuurlijk omdat het eigenlijk sterren zijn die nog niet goed op gang zijn gekomen.
+
+83
+00:07:34,120 --> 00:07:39,880
+Dit heeft als consequentie dat invallende massa die aangetrokken wordt door een steeds groter wordende zwaartekracht...
+
+84
+00:07:40,700 --> 00:07:42,700
+gemakkelijk kan zorgen voor meer massa.
+
+85
+00:07:43,700 --> 00:07:47,000
+Ook dit proces noemen we accretie, net als bij een zwart gat.
+
+86
+00:07:47,600 --> 00:07:52,880
+Alleen hebben we het nu over enorme sterren die aangedreven worden door donkere materie-annihilatie.
+
+87
+00:07:52,880 --> 00:07:59,020
+Eerder in deze wekelijkse podcast over astronomie...
+
+88
+00:07:59,020 --> 00:08:03,880
+hadden we het al eens over de raadsels die opduiken in de waarnemingen van de James Webb Ruimtetelescoop.
+
+89
+00:08:04,960 --> 00:08:10,900
+Het grotere raadsel is dat er al te veel sterrenstelsels zichtbaar zijn op foto's van het jonge helal.
+
+90
+00:08:14,260 --> 00:08:19,800
+Deze waarnemingen gooien roet in het eten van het bestaande model van de evolutie van het helal.
+
+91
+00:08:19,800 --> 00:08:22,140
+Ook wel bekend als Labda-CDM.
+
+92
+00:08:22,880 --> 00:08:26,120
+Donkere sterren zouden een deel van dit probleem oplossen...
+
+93
+00:08:26,120 --> 00:08:31,540
+als we eenvoudig kunnen zeggen dat we geen complete sterrenstelsels op de foto's zien, maar donkere sterren.
+
+94
+00:08:32,120 --> 00:08:36,080
+En dat is nu wat er eerder deze maand in het nieuws verscheen met de titel...
+
+95
+00:08:36,080 --> 00:08:43,340
+Dit artikel werd wederom geschreven door Catherine Freese...
+
+96
+00:08:43,340 --> 00:08:47,300
+maar deze keer met mede-auteurs Cosmin Ely en Jillian Pauli.
+
+97
+00:08:47,300 --> 00:08:54,300
+Al in het artikel uit 2007 suggereerde Freese dat de toen nog te lanceren JWS-T-ruimtetelescoop...
+
+98
+00:08:55,100 --> 00:08:58,200
+in staat zou kunnen zijn donkere sterren waar te nemen.
+
+99
+00:08:58,300 --> 00:08:59,400
+Eh, even kijken.
+
+100
+00:08:59,800 --> 00:09:04,300
+De raadselachtige rood verschoven sterrenstelsels die op de huidige foto's opduiken...
+
+101
+00:09:04,300 --> 00:09:08,600
+zouden best wel eens donkere sterren kunnen zijn, zegt Freese.
+
+102
+00:09:08,940 --> 00:09:11,240
+En dus geen complete sterrenstelsels.
+
+103
+00:09:11,460 --> 00:09:13,400
+Hm, dat weet ik nog niet zo zeker.
+
+104
+00:09:13,820 --> 00:09:15,780
+Qua lichtopbrengst zou het kunnen.
+
+105
+00:09:15,980 --> 00:09:21,180
+Want volgens de hypothese van donkere sterren geven deze in potentie heel veel licht af.
+
+106
+00:09:21,920 --> 00:09:25,640
+Genoeg in ieder geval om aangezien te kunnen worden voor een melkwegstelsel.
+
+107
+00:09:25,640 --> 00:09:31,740
+Om uit te maken of we nu naar een donkere ster of een oud melkwegstelsel kijken...
+
+108
+00:09:31,740 --> 00:09:36,080
+wil Freese graag kijken naar het spectrum van zo'n veronderstelde donkere ster...
+
+109
+00:09:36,080 --> 00:09:37,720
+of dus een melkwegstelsel.
+
+110
+00:09:38,500 --> 00:09:42,860
+Op deze spectroscopische precisiefoto's moeten we helaas nog een tijdje wachten.
+
+111
+00:09:42,860 --> 00:09:48,040
+Maar als die er zijn, dan kan Freese naar bepaalde lijnen in het spectrum kijken...
+
+112
+00:09:48,040 --> 00:09:49,400
+om uitsluitsel te geven.
+
+113
+00:09:49,400 --> 00:09:56,540
+Een helium-2-absorptielijn op 1640 eng streum of 164 nanometer...
+
+114
+00:09:56,540 --> 00:10:01,340
+is volgens Freese een indicatie dat we naar een superzware donkere ster kijken...
+
+115
+00:10:01,340 --> 00:10:03,440
+en niet naar een verzameling jonge sterren.
+
+116
+00:10:04,260 --> 00:10:07,940
+Specifiek verwachten astronomen dat prille sterrenstelsels...
+
+117
+00:10:07,940 --> 00:10:11,320
+bestonden uit zogenaamde populatie 2 of 3 sterren.
+
+118
+00:10:11,880 --> 00:10:15,400
+Aangezien deze sterren al waterstof omzetten in helium...
+
+119
+00:10:15,980 --> 00:10:18,500
+verwachten Freese en andere astronomen...
+
+120
+00:10:18,500 --> 00:10:22,120
+dat we op deze frequentie van 1640 eng streum...
+
+121
+00:10:22,120 --> 00:10:25,480
+juist een emissielijn aan zouden treffen in het spectrum.
+
+122
+00:10:26,060 --> 00:10:29,860
+Bij een donkere ster daarentegen is geen sprake van kernfusie...
+
+123
+00:10:29,860 --> 00:10:31,240
+en zien we een absorptielijn.
+
+124
+00:10:31,960 --> 00:10:33,740
+Het verschil is eenvoudig te zien.
+
+125
+00:10:34,420 --> 00:10:37,640
+Een absorptielijn is een donkere lijn in het spectrum...
+
+126
+00:10:37,640 --> 00:10:41,420
+en een emissielijn is, inderdaad, een heldere lijn in het spectrum.
+
+127
+00:10:41,680 --> 00:10:42,940
+Oh ja, inderdaad.
+
+128
+00:10:42,940 --> 00:10:47,560
+Een typische spectroscopische waarneming met de Neerkamp-telescoop...
+
+129
+00:10:47,560 --> 00:10:49,620
+van de James Webb-ruimtetelescoop...
+
+130
+00:10:49,620 --> 00:10:52,820
+is een grafiek met de frequentie van het licht op de x-as...
+
+131
+00:10:52,820 --> 00:10:54,660
+en de amplitude op de y-as.
+
+132
+00:10:55,280 --> 00:10:58,660
+Een dip in zo'n grafiek op de frequentie van helium-2...
+
+133
+00:10:58,660 --> 00:11:00,560
+is dan de equivalent van een absorptielijn...
+
+134
+00:11:01,560 --> 00:11:04,560
+en een piek op die frequentie is de equivalent van een emissielijn.
+
+135
+00:11:04,560 --> 00:11:07,760
+En om welke objecten gaat het eigenlijk?
+
+136
+00:11:08,000 --> 00:11:13,320
+De kandidaat donkere ster-objecten vinden we in een catalogus met de naam JATES.
+
+137
+00:11:13,860 --> 00:11:18,960
+Dat staat voor JWST Advanced Deep Extra Galactic Survey.
+
+138
+00:11:19,800 --> 00:11:22,700
+Als u wilt grasduinen in deze survey...
+
+139
+00:11:22,700 --> 00:11:27,380
+de gegevens staan publiekelijk online en zijn te doorzoeken in het MAST-archief.
+
+140
+00:11:28,060 --> 00:11:31,620
+U kunt ook gegevens opvragen met de Python-programmeertaal.
+
+141
+00:11:31,620 --> 00:11:35,480
+Hiervoor dient u de Astroquery-module te installeren.
+
+142
+00:11:36,580 --> 00:11:40,380
+De pagina van het MAST-archief heeft voorbeeldcode...
+
+143
+00:11:40,380 --> 00:11:43,400
+en een link vindt u in de show notes van deze aflevering.
+
+144
+00:11:44,060 --> 00:11:49,660
+In eerste instantie werden de in 2022 waargenomen JATES-objecten...
+
+145
+00:11:49,660 --> 00:11:52,120
+als sterrenstelsels gecatalogiseerd.
+
+146
+00:11:52,680 --> 00:11:56,680
+Maar er zijn er drie die opvallen en kandidaat donkere sterren zijn.
+
+147
+00:11:56,680 --> 00:12:05,200
+Ze heten JATES-GSZ-13-0, JATES-GSZ-12-0 en JATES-GSZ-11-0.
+
+148
+00:12:05,280 --> 00:12:06,700
+Even rustiger, Hens.
+
+149
+00:12:06,860 --> 00:12:12,880
+Aan het licht te zien zijn deze objecten 320 tot 400 miljoen jaar na de oerknal ontstaan.
+
+150
+00:12:13,720 --> 00:12:17,300
+En dan willen we natuurlijk weten hoe Freeze tot de conclusie komt...
+
+151
+00:12:17,300 --> 00:12:22,620
+dat dit donkere sterren zijn en geen sterrenstelsels met populatie 2 of 3 sterren.
+
+152
+00:12:22,620 --> 00:12:26,780
+En eerlijk is eerlijk, het is nogal een magere redenering.
+
+153
+00:12:28,140 --> 00:12:32,740
+Ik had zelf liever gewacht tot er duidelijker spectroscopisch bewijs was.
+
+154
+00:12:33,420 --> 00:12:35,700
+Want dat is alleen maar een kwestie van tijd.
+
+155
+00:12:36,340 --> 00:12:37,620
+We weten waar we naar moeten kijken...
+
+156
+00:12:38,140 --> 00:12:41,940
+en de JWST is uitgerust met de Neerspec spectroscoop...
+
+157
+00:12:41,940 --> 00:12:43,780
+die deze waarnemingen voor ons kan doen.
+
+158
+00:12:44,460 --> 00:12:44,900
+Maar goed.
+
+159
+00:12:45,020 --> 00:12:45,980
+Ja, schiet nou maar op.
+
+160
+00:12:46,100 --> 00:12:47,620
+Freeze keek naar twee eigenschappen.
+
+161
+00:12:48,340 --> 00:12:48,680
+Eén.
+
+162
+00:12:48,680 --> 00:12:52,760
+De eerste is een fotometrische match met de theoretische modellen.
+
+163
+00:12:53,420 --> 00:12:56,680
+In afwezigheid van goede spectroscopische gegevens...
+
+164
+00:12:56,680 --> 00:13:01,080
+kan gezien worden dat het hier heldere, sterk rood verschoven objecten betreft.
+
+165
+00:13:01,740 --> 00:13:04,680
+Kleine afwijkingen in de fotometrie van deze objecten...
+
+166
+00:13:05,240 --> 00:13:07,740
+maken een match met donkere sterren aannemelijk.
+
+167
+00:13:08,500 --> 00:13:12,760
+U kunt dan denken aan de steilheid van bijvoorbeeld ultraviolette straling...
+
+168
+00:13:12,760 --> 00:13:14,820
+die in de grafiek van een object wordt gezien.
+
+169
+00:13:14,820 --> 00:13:18,820
+Alhoewel het gegogel met formules mij ver boven de pet gaat...
+
+170
+00:13:19,420 --> 00:13:22,040
+lees ik tussen de regels van het artikel van Freeze...
+
+171
+00:13:22,040 --> 00:13:24,080
+ook een hoop mitsen en maren...
+
+172
+00:13:24,080 --> 00:13:26,120
+die erop wijzen dat ze niet kan wachten...
+
+173
+00:13:26,120 --> 00:13:29,680
+tot er betere spectroscopische gegevens beschikbaar komen.
+
+174
+00:13:29,820 --> 00:13:30,200
+Twee.
+
+175
+00:13:30,520 --> 00:13:32,880
+De tweede eigenschap waarnaar gekeken wordt...
+
+176
+00:13:32,880 --> 00:13:35,820
+en waarmee donkere sterren van sterrenstelsels kunnen worden onderscheiden...
+
+177
+00:13:36,600 --> 00:13:38,280
+klinkt op papier heel logisch.
+
+178
+00:13:38,820 --> 00:13:41,260
+Kijken we naar een puntvormig object...
+
+179
+00:13:41,260 --> 00:13:44,000
+of kunnen er losse sterren in worden onderscheiden?
+
+180
+00:13:44,000 --> 00:13:47,100
+Een donkere ster is immers één ding...
+
+181
+00:13:47,100 --> 00:13:50,220
+en een sterrenstelsel bestaat uit een hoop afzonderlijke sterren.
+
+182
+00:13:51,160 --> 00:13:55,860
+De drie jades-objecten die als kandidaten uit de catalogus naar voren komen...
+
+183
+00:13:55,860 --> 00:13:58,440
+kunnen niet onderscheiden worden van een puntbron.
+
+184
+00:13:59,320 --> 00:14:03,000
+Maar dat is ook gewoon een limitatie van de James Webb-apparatuur.
+
+185
+00:14:03,820 --> 00:14:04,160
+Hm.
+
+186
+00:14:04,500 --> 00:14:08,000
+Als u het mij permitteert een analogie te construeren...
+
+187
+00:14:08,000 --> 00:14:12,200
+stel dat tien mensen het Loch Ness Monster hebben waargenomen.
+
+188
+00:14:13,100 --> 00:14:15,220
+Zeven van hen zeggen dat ze goed konden zien...
+
+189
+00:14:15,220 --> 00:14:18,180
+dat het Loch Ness Monster op een surfplank stond...
+
+190
+00:14:18,180 --> 00:14:20,140
+met de letters MISTRAL op een zeil.
+
+191
+00:14:20,760 --> 00:14:23,260
+Deze zeven waarnemingen worden dan niet gezien...
+
+192
+00:14:23,260 --> 00:14:26,160
+als goed bewijs voor het bestaan van het Loch Ness Monster.
+
+193
+00:14:26,840 --> 00:14:28,860
+Tot zover heel prima wetenschap.
+
+194
+00:14:28,860 --> 00:14:32,960
+Maar drie van de mensen hadden ook het Loch Ness Monster gezien...
+
+195
+00:14:32,960 --> 00:14:35,220
+en hadden geen surfplank waargenomen.
+
+196
+00:14:35,880 --> 00:14:38,780
+Ook zijn deze drie getuigen brildragend...
+
+197
+00:14:38,780 --> 00:14:41,800
+en hadden ze op het moment van waarneming hun bril niet op.
+
+198
+00:14:42,980 --> 00:14:44,840
+Ik snap de hype wel...
+
+199
+00:14:44,840 --> 00:14:47,700
+want als donkere sterren bestaan zoals voorspeld...
+
+200
+00:14:47,700 --> 00:14:51,440
+dan leren we heel veel nieuws over het heelal en de evolutie daarvan.
+
+201
+00:14:51,820 --> 00:14:54,860
+Maar persoonlijk wacht ik nog even op de spectroscopische waarnemingen...
+
+202
+00:14:55,460 --> 00:14:57,060
+die hopelijk binnenkort volgen.
+
+203
+00:14:57,060 --> 00:15:00,980
+Als u deze zomer blijft luisteren naar deze podcast...
+
+204
+00:15:00,980 --> 00:15:04,560
+kunt u binnenkort meedingen naar vijf gesigneerde exemplaren...
+
+205
+00:15:04,560 --> 00:15:08,400
+van het boek Wat is ruimte waard? van Marjolein van Heemstra.
+
+206
+00:15:09,240 --> 00:15:11,060
+De boeken worden aangeboden aan deze podcast...
+
+207
+00:15:11,740 --> 00:15:14,220
+door journalistiek platform De Correspondent.
+
+208
+00:15:15,120 --> 00:15:16,900
+Wellicht tot de volgende keer.
+

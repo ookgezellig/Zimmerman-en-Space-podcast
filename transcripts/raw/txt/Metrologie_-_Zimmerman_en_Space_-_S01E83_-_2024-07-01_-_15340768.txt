@@ -1,0 +1,267 @@
+U luistert naar Zimmerman & Space.
+Niet alleen in astronomie en ruimtevaart, maar ook in het dagelijks leven hebben we de hele dag met afspraken te maken.
+Hoe lang moet het perfecte ei koken?
+Wordt het morgen weer zo'n warme dag met temperaturen boven de 30 graden Celsius?
+Of komt storm Beryl woed in het eten gooien met windsnelheden van 215 kilometer per uur?
+In slechts 42 uur groeide deze orkaan uit van een tropische depressie naar een categorie 4 orkaan.
+En dan fietst u wellicht met u perfect aan uw 230 volt AC stopcontact opgeladen elektrische fiets...
+waarvan de accu een potentiaal verschil van 36 volt heeft naar uw werk.
+Op het werk aangekomen print u een verslag van een vergadering uit op A4 papier...
+en u leest daardoor tijdens de lunch waarbij u een volkoren boterham met pindakaas eet.
+In deze paar voorgaande regels willekeurige onzin passeerde al een wagonlading afspraken de refu.
+Oh?
+Wat is een seconde?
+Wat is 30 graden Celsius?
+Wat is volkoren brood?
+En wat is pindakaas eigenlijk?
+Of 230 volt AC?
+Zonder afspraken zou onze soort weer afdalen tot een chaos van stammenoorlogen...
+met ook onderlinge misverstanden, gemiste afspraken, dood en verderf...
+en een dag die in het teken zou staan van overleven in plaats van een prettig leven.
+Well, that doesn't sound good, Hans.
+Om samen te kunnen werken met collega's, al dan niet in andere landen...
+en om überhaupt een poging te doen tot eerlijke handel...
+is het van belang dat we grootheden precies kunnen uitdrukken...
+in duidelijke, ondubbelzinnige eenheden.
+Ja, dat is logisch.
+Dit is natuurlijk weer een veel te groot onderwerp om in 15 minuten te wringen...
+maar laten we toch samen naar een paar mooie voorbeelden kijken.
+Het exact kwantificeren van grootheden zoals temperatuur, oppervlakte, volume, tijd en snelheid...
+is het werkterrein van de metrologie.
+Niet te verwarren met meteorologie natuurlijk, want dat is weerkunde.
+Meteorologie, de motorolie die de motor van onze samenleving draaiend houdt...
+en waar gewone stervelingen zoals u en ik maar nauwelijks mee te maken hebben...
+al hebben we er de hele dag dus de mond van vol.
+We kunnen direct een onderscheid maken tussen heel basale grootheden...
+zoals tijd, lengte en temperatuur...
+en afgeleide standaarden of normen...
+zoals wat het exacte formaat van een A4-papier is.
+Die specifieke afmetingen van papier worden omschreven in ISO-norm 216.
+Interessant.
+De ISO-standaards en internationale normen ontwikkeld om de grote hoeveelheid specifieke normen per land terug te dringen...
+en wereldwijd uniformiteit en duidelijkheid af te dwingen.
+ISO staat voor...
+The International Organization for Standardization.
+Interessant detail is dat de ISO-normering in eerste instantie werd ontwikkeld voor de wapenindustrie.
+Tuurlijk, zal we niet.
+Inmiddels is er voor van alles en nog wat een ISO-norm.
+Ja, dat denk ik wel zo, dat dat echt zo is.
+Sommige van deze normen zijn doorontwikkeld of overgenomen uit eerder of andere normeringen.
+Ons A4-papiertje, en trouwens ook A3 en A2, valt dus onder ISO-norm 216.
+Die zegt dat een A4 210 bij 297 millimeter is.
+Maar dit formaat was eerder al omschreven in DIN-norm 476, die al uit 1922 stamt.
+Hier volgen voor de LOL een paar interessante ISO-standaarden.
+ISO 9660 is de compact disc.
+Wat betekent dat?
+Inmiddels brengen we die cd's in grote getalen naar de tweedehands winkel...
+maar het ooit zo innoverende, glimmende discje staat omschreven in ISO 9660.
+Misschien heeft u wel eens een lawaaiige oom op een feestje horen uitleggen...
+dat cloud computing allemaal onzin is en dat niemand precies weet wat ermee wordt bedoeld.
+Dan is het misschien aardig om te weten dat de taxonomie van cloud computing...
+volledig staat beschreven in ISO IEC-standaard 22624.
+Dit 37 pagina's tellende document legt bijvoorbeeld precies uit...
+wat de consequenties zijn voor het porteren van cloud-based gegevens van een Europese lidstaat...
+naar de Verenigde Staten.
+ISO norm 3591 omschrijft exact hoe een standaard wijnglas eruit ziet.
+ISO standaard 3103 omschrijft het perfecte kopje thee.
+Zwarte thee staat hierin omschreven als...
+Ook lees we hierin dat 100 milliliter van wat wij thee zonder melk noemen...
+een 2 gram T-oplossing bevat.
+Het is natuurlijk maar de vraag hoe vaak u daadwerkelijk ISO 3103T zet...
+maar de standaard bestaat.
+Oké, nog eentje dan.
+ISO standaard 16 beschrijft de middelste A op de piano...
+als zijnde een trilling van 440 hertz.
+Sommige puristen spelen oudere muziek met een andere stemming.
+Bijvoorbeeld 432 hertz.
+De 440 hertz standaard stamt uit 1939...
+en werd tijdens een internationale conferentie in Londen afgesproken.
+In 1955 werd de concert A op 440 hertz officieel vastgelegd...
+in ISO standaard 16.
+Dwaai je niet een beetje af van het onderwerp?
+Maar eigenlijk wou ik het helemaal niet de hele aflevering...
+over ISO standaarden hebben.
+Ik begon al in slaap te vallen.
+Veel interessanter voor ons salonastronomen zijn de grootheden...
+die door de metrologie worden beschreven.
+Waar ISO standaard 8601 bijvoorbeeld vaststelt...
+hoe computers het onderling eens kunnen zijn...
+over de omschrijving van een tijdsduur...
+valt de seconde onder het regime van de SI...
+het International System of Units.
+Dit kennen we ook wel als het metrisch systeem.
+Hierin vinden we 7 eenheden en 22 afgeleide eenheden.
+Het metrisch systeem werd op 20 mei 1875 ondertekend...
+door 17 landen waaronder de Verenigde Staten.
+20 mei is daarmee de Wereldmetrologie Dag.
+De 7 basis-eenheden waarop het SI-systeem rust zijn...
+tijd in seconden, lengte in meters, massa in kilogrammen...
+elektrische stroom in amperes, thermodynamische temperatuur in Kelvin...
+hoeveelheid van een substantie in mol en lumineuze intensiteit in candela's.
+Het is prettig voor ons dat deze meet-eenheden zo exact zijn vastgelegd...
+want daarmee worden bijvoorbeeld wetenschap en eerlijke handel mogelijk gemaakt.
+Het SI baseert de definities van de 7 basis-eenheden...
+op eveneens 7 natuurlijke constanten.
+Dit zijn 7 niet-veranderende waarden...
+die in de natuur om ons heen gemeten kunnen worden.
+Naarmate de ontwikkeling van de mensheid voortschrijdt...
+kan de exacte waarden van dergelijke constanten wel nog beter worden gemeten...
+waardoor de definitie van bijvoorbeeld een kilogram...
+over duizend jaar misschien meer getallen achter de comma kent dan nu in 2024.
+Die 7 constanten zijn...
+C, de lichtsnelheid in een vacuüm.
+Deze is 299.792.458 meters per seconde.
+H, de constante van Planck.
+Quantum Mechanica leert ons dat energie in processen...
+wordt uitgewisseld in pakketjes die we ook wel kwanta noemen.
+De 26ste vergadering van de Algemene Conferentie voor Maten en Gewichten...
+heeft op 16 november 2018 nieuwe definities van de basis-eenheden aangenomen...
+die sinds 20 mei 2019 gelden.
+Volgens die definities bedraagt de constante van Planck...
+exact 6.62607015...
+maal 10 tot de min 34ste joules seconde.
+E, de elementaire lading van een elektron.
+E is gelijk aan 1.602176634 maal 10 tot de min 19de coulomb.
+Delta VCS, de hyperfijne transitiefrequentie van C-SIM-133.
+Delta VCS, de hyperfijne transitiefrequentie van C-SIM-133.
+C-SIM-133 is een isortoop van het metaal C-SIM.
+Oh, ik denk dat ik het nu begin te snappen.
+Met behulp van microgolfstraling kan het buitenste elektron van C-SIM-133...
+tussen twee staten van energie heen en weer springen.
+Dit gebeurt bij een frequentie van 9.192.631.770 hertz.
+K, de Boltzmann-constante.
+Deze constante verbindt de energie van een object met de temperatuur.
+De SI-definitie van K bedraagt 1.380649 maal 10 tot de min 23ste joule per kelvin.
+NA, de Avogrado-constante.
+Deze omschrijft hoeveel deeltjes er in een mol zitten.
+Wellicht herinnert u zich dit nog wel van de scheikunde lessen.
+Volgens de SI-definitie zitten er 6.0, 2, 2, 1, 4, 0, 7, 6, 10 tot de 23ste deeltjes in een mol.
+En de laatste van de zeven KCD, oftewel de lichtopbrengst van monochromatische straling...
+op een frequentie van 540 maal 10 tot de 12de hertz.
+Ik snap hier helemaal niks van.
+Dit klinkt mogelijk wat arbitrair, maar gaat eigenlijk over ons oog.
+Well, I don't see it.
+Monochromatische straling op een frequentie van 540 maal 10 tot de 12de hertz...
+is eenvoudigweg groen licht.
+En wel op de frequentie waar ons oog het meest gevoelig is.
+Did you see it?
+Met lichtopbrengst bedoelt deze definitie de hoeveelheid zichtbaar licht die een lichtbron produceert...
+van een bepaalde hoeveelheid vermogen.
+specifiek staat KCD voor 683 lumen per watt.
+Die frequentie van 540 maal 10 tot de 12de hertz is misschien wat onderzichtig voor ons.
+Want doorgaans specificeren we zichtbaar licht in golflengtes met een eenheid van nanometers.
+Oh ja, inderdaad.
+Met die eerste constante die we noemden, de lichtsnelheid, kunnen we van de ene eenheid naar de andere eenheid omrekenen.
+Pak de rekenmachine er maar bij.
+De golflengte is simpelweg de lichtsnelheid gedeeld door die frequentie.
+Als we dat in onze rekenmachine invoeren, komen we uit op groen licht met een golflengte van 555 nanometer.
+Met behulp van deze zeven constanten definieert het SI allerlei eenheden uit ons dagelijks leven bijzonder precies.
+Maar het is niet altijd zo geweest natuurlijk.
+Dit wordt toch niet een geschiedenisles?
+Een enkeling herinnert zich wellicht nog de dienst van het eikwezen.
+Eikmeesters reisden rond om gewichten te kalibreren en te justeren.
+Door gebruik, slijtage of roestvorming kon de massa van een gewicht kleiner of groter worden,
+waardoor het gewicht niet meer aan de wettelijke ijs voldeed.
+Als bewijs dat het massa stuk aan de wettelijke ijs voldeed, werd een stempel in de gewichten geslagen.
+Tot 1973 werden hiervoor de letters van het alfabet gebruikt.
+In 1974 werd in verband met de Europese harmonisatie overgegaan op stempels met jaartallen.
+Deze Rijksoverheidsdienst functioneerde van 1949 tot 1986, maar het eikwezen was al opgericht in 1873.
+De dienst van het eikwezen was zoals dat heette...
+Belast met wettelijk voorgeschreven onderzoeken, keuringen en herkeuringen van mate, gewichten, meet- en weegwerktuigen en meetinstrumenten,
+zomede met de toezicht op in gebruik zijnde meet- en weegmiddelen.
+In 1987 ging het eikwezen over in het NMI, het Nederlands Meetinstituut.
+In 1998 zijn de eikwet en het eikreglement aangepast, waardoor de wettelijk verplichte periodieke herijk van gewichten is afgeschaft.
+Het is ook interessant om te beseffen dat we heel vaak zaken niet rechtstreeks meten, maar naar een ander fysiek proces kijken.
+Oh?
+Neem zoiets als de tijd.
+We weten niet eens precies wat tijd is.
+Afgezien van hoe we ervaren dat processen en gebeurtenissen in een bepaalde volgorde gebeuren en met zekere tred voortschrijden.
+Maar we kunnen geen meetinstrument in de lucht houden en zeggen, ik meet het passeren van 37 seconden.
+Wat we doen is kijken naar een ander proces dat ook in de tijd voortschrijdt en dan een afspraak maken over wat het betekent als de secondenwijzer van bijvoorbeeld een horloge van de ene waarde naar de andere springt.
+Een ander mooi voorbeeld is temperatuur.
+Uw buitentermometer of koortstermometer meet helemaal geen temperatuur, maar een andere fysieke eenheid.
+Echt?
+Bijvoorbeeld de weerstand die gemeten wordt in een platinadraadje.
+Of in een glazen thermometer de expansie of contractie van een vloeistof onder invloed van temperatuurschommelingen.
+Daarmee is niet gezegd dat temperatuur nooit rechtstreeks zou kunnen worden gemeten.
+Bij het NIST werken mensen als Daniel Barker, Eric Norgard en Steven Eccle aan het rechtstreeks meet van bewegingen en snelheden van atomen in een gas van rubidium met behulp van lasers.
+Het zal nog wel even duren voordat u een dergelijke rubidium thermometer bij de DA of het kruidvat haalt, maar er wordt wel aangewerkt.
+En u zou kunnen zeggen dat als we naar de snelheden van atomen kijken dat we nog steeds niet echt temperatuur meten, maar dat is een andere discussie.
+Dat NIST is wel eens vaker ter sprake gekomen in deze podcast.
+NIST staat voor National Institute of Standards and Technology en werd opgericht in 1901.
+Het NIST is een van de oudste natuurwetenschappelijke laboratoria van de Verenigde Staten.
+Het werd opgericht om een grote uitdaging voor de industriele concurrentiekracht van de Verenigde Staten te verwijderen.
+Een tweederangs meet-infrastructuur die achterbleef bij de mogelijkheden van het Verenigd Koninkrijk, Duitsland en andere economische rivalen.
+Van het slimme elektriciteitsnetwerk en elektronische medische dossiers tot atoomklokken, geavanceerde nanomaterialen en computerchips.
+Talloze producten en diensten zijn op de een of andere manier afhankelijk van technologie, metingen en normen geleverd door dit NIST.
+Nou, Hens?
+Eerder in deze aflevering hadden we het al over een boterham met pindakaas.
+Ook wat standaard pindakaas is, wordt bijgehouden bij het NIST.
+Rot op.
+Standard Reference Material 2387.
+Peanut butter.
+Het NIST heeft potjes standaard pindakaas klaar liggen voor fabrikanten.
+Eén zo'n potje is volgens een medewerker rond de duizend dollar.
+Zoveel?
+Niet omdat het zulke lekkere pindakaas is, deze pindakaas is zelfs helemaal niet geschikt voor consumptie, maar omdat het de standaard is waarnaast uw eigen gefabriceerde pindakaas gemeten kan worden.
+Het gaat hier niet alleen om de hoeveelheid pindaas, zout en vet, al worden die wel gekwantificeerd.
+Maar ook de hoeveelheid van bepaalde kankerverwekkende gifstoffen, die worden geproduceerd door schimmels op pinda's, zijn gestandardiseerd in de NIST pindakaas.
+Klinkt niet lekker.
+Maar bijna alles wat u kan verzinnen wordt in een enorm ware huis door NIST bewaard, zodat er een monster van bestaat.
+Standaard huisstof?
+Een stukje dolfijn?
+Een standaard sigaret?
+Er is een fantastische YouTube van Veritasium waarin u wordt meegenomen door het NIST.
+Een link vindt u in het bijschrift van deze podcastaflevering.
+Nederland heeft haar eigen NIST-achtige bedrijf.
+We noemden het al eerder het Nederlands Meetinstituut of NMI in Delft.
+Het NMI is door de Nederlandse overheid aangewezen om bijvoorbeeld erkende keurders te certificeren.
+In de huidige klimaatdiscussie is het bijvoorbeeld van belang om uitstoot precies te kunnen meten.
+Een apparaat dat pretendeert uitstoot te kunnen meten moet uiteraard getest en gekeurd kunnen worden.
+Zie hier de rol van erkende keurders.
+Maar het NMI doet nog veel meer.
+Hier worden ook nieuwe standaarden in het leven geroepen als de samenleving hierom vraagt.
+Ook verzorgt het NMI training voor professionals en kent het testomgeving en methodes voor een veelheid aan tests.
+Als u een meetinstrument bouwt en wilt weten hoe het apparaat zich gedraagt onder invloed van sterke radiostraling...
+kunt u een dergelijke test via het NMI aanvragen.
+Op hetzelfde adres als het NMI vinden we ook het VSL, het Van Zwinden Laboratorium.
+Dit is het Nationaal Meteorologisch Instituut van Nederland.
+Het verschil tussen NMI en VSL zit met name in de rijkwijde van deze bedrijven.
+Het NMI kunnen we definiëren als onafhankelijke specialist voor wettelijke meteorologie, test- en inspectiediensten in Europa...
+met een wereldwijde functie.
+Het VSL is door het Ministerie van Economische Zaken aangewezen als onafhankelijke en onpartijdige organisatie...
+om zorg te dragen voor het verwezenlijke en beheren van de nationale meetstandaarden van Nederland.
+Deze meetstandaarden maken meetresultaten van bedrijven, laboratoria en instellingen...
+direct herleidbaar naar internationale standaarden, zoals de SI-eenheden waar we het eerder al over hadden.
+En als u nog wakker bent, vraagt u zich misschien af wat dit alles met sterrenkunde en ruimtevaart te maken heeft.
+Voor jou?
+Bijna alles.
+Oh.
+Bij een raketlansering moet er een afspraak bestaan over wat nog een te tolereren hoeveelheid luchtvervuiling is...
+of hoe hard de capsule mag kunnen trillen zonder dat de apparatuur daarbij beschadigd raakt.
+Om de snelheid van een raket te kunnen meten, moeten we het eens zijn over afstanden en tijdseenheden.
+Ook fijn als we precies weten wat de ontsnappingssnelheid van de aarde is...
+en welk effect brandstof heeft in verhouding tot de massa van een raket.
+Wanneer bijvoorbeeld een Boeing Starliner gelanceerd wordt en aankoppelt aan het International Space Station...
+willen we weten wat de standaard is voor lucht om in te ademen tijdens de reis en wat de standaard luchtdruk is.
+Hoeveel stof er in de lucht mag zitten tijdens een reis, zodat astronauten hier geen hinder van ondervinden.
+Om aan te koppelen aan het ISS is er een standaard koppelstuk nodig...
+zodat astronauten veilig van capsule naar het ISS kunnen overstappen.
+En om überhaupt in de juiste baan te kunnen komen, moeten we precies weten wat de seconde is...
+en wat er met de tijd gebeurt als een ruimtevaartuig het aardoppervlak heeft verlaten.
+Om berichten heen en weer te sturen tussen aarde en ISS...
+moeten we het eens zijn over het type informatie dat heen en weer wordt gestuurd.
+Om veiligheid en privacy te garanderen, moeten ook daar standaarden over bestaan.
+En geloof je er zelf in?
+Voor wetenschappelijk onderzoek moeten we weten welke frequenties absorptielijnen in stoffen hebben...
+en wat zo'n frequentie precies betekent.
+Wat betekent dat?
+Instrumenten zoals CCD en CMOS chips moeten bovendien ook geëikt worden...
+zodat we weten voor welke frequenties deze instrumenten gevoelig zijn...
+en welke metingen bij welke frequenties licht verwacht mogen worden.
+En nog één ding, en dan zal ik echt ophouden.
+Oh, gelukkig!
+Voor de mensheid is het van groot belang dat over standaarden internationale consensus bestaat.
+De enige manier om wetenschappelijke gegevens met elkaar te delen en te vergelijken...
+is wanneer deze is gebaseerd op dezelfde definities van eenheden.
+Tot de volgende keer!

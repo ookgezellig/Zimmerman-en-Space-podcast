@@ -1,0 +1,165 @@
+Hoe klinken de volgende zinnen?
+Boos of vriendelijk?
+Ja, hoe staat het eigenlijk met die peperdure James Webb ruimtetelescoop?
+Dat apparaat werd dan eindelijk gelanceerd in 2021.
+Maar er is nog steeds geen leven ontdekt ofzo.
+En die mooie plaatjes zijn heel leuk.
+Maar wat zijn die meer dan dat wat we van de Hubble-telescoop al kennen,
+maar dan met wat meer sterren?
+Dat vraag ik me ook wel eens af.
+En daarom vandaag een U bevindt zich hier overzicht van het onderzoek naar leven op andere planeten
+met behulp van die James Webb ruimtetelescoop.
+Als kapstok voor dit verhaal nemen we de eerste bevestiging van een exoplaneet
+met de James Webb ruimtetelescoop zoals die vorige maand in het nieuws kwam.
+Deze exoplaneet heet LHS 475b.
+Dat dit de eerste bevestigde exoplaneet met behulp van de James Webb ruimtetelescoop is, is significant.
+Want met behulp van het TESS ruimtevaartuig was al het vermoeden ontstaan
+dat er een exoplaneet rond de ster LHS 475 draaide,
+maar met de James Webb ruimtetelescoop was het betrekkelijk eenvoudig om dit vermoeden te bevestigen.
+Extra bijzonder is dat het hier een redelijk kleine exoplaneet betreft.
+Van de ruim 5000 bevestigde exoplaneten die inmiddels ontdekt zijn,
+is maar een handje vergelijkbaar met onze aarde.
+Dat is natuurlijk ook het geval omdat het eenvoudiger is om grotere exoplaneten te detecteren dan kleinere.
+Ja, dat is logisch.
+Voor ons buitenstaanders is het misschien de vraag waarom er überhaupt naar een bepaalde ster wordt gekeken.
+Er zijn er immers zo verschrikkelijk veel.
+Hoe bepaal je dan waar de kostbare waarneemtijd van de James Webb ruimtetelescoop aan besteed mag worden?
+En die vraag staat eigenlijk centraal in deze aflevering.
+Het begint al met die ster LHS 475.
+Dat klinkt als een saai rangnummer uit een of andere catalogus.
+En dat klopt, ten dele. Het is alleen niet zo saai.
+LHS staat voor Luiten Half Second.
+Dit is inderdaad een catalogus en wel van de astronoom Willem Jacob Luiten uit 1979.
+Dit was al de opvolger van de eerdere Luiten Five Tense catalogus van diezelfde Willem Jacob Luiten.
+Wat hij vastlegde in zijn catalogus, hier was een lijst van sterren die een grote eigen beweging aan de hemel hebben.
+Mag het in het Nederlands?
+Als we van dag tot dag naar de sterrenhemel kijken, zien we dat sommige sterren sterker van plaats veranderen dan andere sterren.
+Een deel van die bewegingen ten opzichte van de achtergrondsterren valt te wijd aan onze beweging rond de zon.
+Eigen beweging of proper motion van sterren is gecorrigeerd voor dat gegeven.
+En dan kijken we dus naar de daadwerkelijke snelheid waarmee sterren over de hemelbol migreren.
+Dit zijn natuurlijk maar heel kleine bewegingen.
+Maar toch kunnen we dan kijken welke sterren er relatief snel van plaats veranderen.
+Het is dus inderdaad zo dat de sterrenhemel nooit exact hetzelfde is.
+Dat ligt deels aan die eigen beweging van sterren.
+Het feit dat onze polster langzaam dichter naar de hemelpool beweegt, en zo rond het jaar 2100 daar weer vanaf beweegt,
+heeft te maken met het rammelen van onze aardas, wat we precessie noemen.
+Dat is een heel ander proces dan eigen beweging van de sterren.
+Oh, ik denk dat ik het nu begin te snappen.
+In Luitens half second catalogus vinden we de sterren die een eigen beweging van meer dan een halve boogseconde per jaar laten zien.
+Een boogseconde is 1 zestigste van een boogminuut.
+En een boogminuut is 1 zestigste van een graad.
+De maan en de zon zijn ongeveer een halve graad breed aan onze hemel.
+Een grote halve cirkel van de ene kant van de horizon voor u naar de horizon achter u omvat 180 graden.
+Dan heeft u een beetje een beeld van wat dat betekent.
+In de oorspronkelijke catalogus van Luit uit 1979 vinden we ongeveer 4000 sterren.
+In 2002 verscheen een revisie van deze catalogus die, u raadt het al, revised Luitens half second catalogus heet.
+Hierin vinden we 6433 sterren met een eigen beweging van een halve boogseconde of meer.
+Op positie 475 vinden we hier een met het blote oog niet zichtbaar sterretje aan het zuidelijk halfrond in het sterrenbeeld Octans.
+In het Nederlands of Belgisch zouden we dat ook het sterrenbeeld Octant kunnen noemen.
+Een Octant is grappig genoeg ook gerelateerd aan afstanden aan de hemelbol.
+Zevaarders konden tijdens hun reizen over de zeeën navigeren op basis van de stand van de sterren aan de hemelbol.
+Een Octant was dan een hulpmiddel om dergelijke stand nauwkeurig te bepalen.
+Maar goed, ik dwaal af.
+Sterren met een grote eigen beweging zijn doorgaans sterren die dicht bij ons staan.
+Dat is misschien vergelijkbaar met uit het autoraam kijken.
+Een roofvogel vlak naast de weg zoeft voorbij.
+Koeien in de wijf verderop trekken langzaam aan u voorbij.
+En die auto's aan de horizon lijken haast wel stil te staan ten opzichte van u.
+Ook de ster LHS 475 staat relatief dicht bij ons op een afstand van slechts 40,7 lichtjaar.
+De grote eigen beweging was eerder al reden om met de TESS ruimtetelescoop naar deze ster te kijken.
+En zo krijgt deze ster de minstens even spannende naam TOI 910.01.
+Waarbij TOI staat voor TESS Object of Interest.
+In de TESS waarnemingen kon wel iets wat op een exoplaneet Transit Lake worden gezien.
+Maar het was op basis van die waarnemingen nog geen bevestigde exoplaneet.
+Hey, wat is dit?
+Pas toen astronomen Kevin Stevenson en Jacob Lustig-Jager besloten de James Webb ruimtetelescoop naar deze ster te laten kijken,
+dook de exoplaneet al snel op in de data.
+Op 10 januari van dit jaar publiceerden Stevenson en Lustig-Jager, samen met collega's,
+een artikel hierover met de titel
+A JWST Transmission Spectrum of a Nearby Earth-Sized Exoplanet.
+Deze exoplaneet heet nu LHS-475b en heeft praktisch dezelfde afmeting als onze aarde.
+Dat is incredible.
+De waarneming werd trouwens al gedaan op 31 augustus 2022 en 4 september 2022.
+Maar zoals het wetenschap betaamt, moest eerst met een aan zekerheid grenzende onzekerheid worden vastgesteld dat wat werd waargenomen daadwerkelijk een exoplaneet betreft.
+Een valse positieve waarneming kan zowel aan de instrumenten als aan de astrofysische omstandigheden liggen.
+Maar er was duidelijk geen sprake van.
+Wat meehoudt is dat planeet LHS-475b in een kleine 40 uur één keer om haar ster LHS-475 draait.
+Met het neerspekinstrument van de James Webb ruimtetelescoop werd twee keer gezien hoe de exoplaneet het sterrenlicht periodiek doet dimmen.
+We noemen deze detectietechniek de transitmethode, omdat een exoplaneet vanuit ons gezien een transit langs de ster maakt en zo wat licht wegneemt.
+Ik zet een link naar het NASA-artikel over deze ontdekking in de show notes van deze aflevering.
+Voor de aardigheid is het wel interessant te zien hoe zo'n lichtcurve eruit ziet.
+De dip in helderheid laat eigenlijk geen twijfel bestaan over het feit dat hier iets voor de ster schuift.
+De waarnemingen werden verder verwerkt met Python-programma's zoals de Eureka Pipeline.
+Als u dit razend interessant vindt, de broncode staat gewoon in GitHub en u kunt dus zelf kijken hoe een en ander precies werkt.
+Ik zet wel een link in de show notes.
+Maar moet ons hart nu sneller gaan kloppen omdat we een exoplaneet in beeld hebben die ongeveer zo groot is als onze aarde?
+Dat is natuurlijk geheel aan u, maar dit nieuws is meer een proof of concept voor de James Webb Space Telescoop dan een mogelijke detectie van leven.
+Want onze exoplaneet LHS-475b draait dichter bij de ster LHS-475 dan wat we in de zogenaamde habitable zone noemen.
+Daarmee is nog niet gezegd dat leven onmogelijk is op deze exoplaneet, maar we moeten ergens grenzen trekken in onze zoektocht en deze exoplaneet ligt dus buiten de grens.
+Wat betekent die habitable zone eigenlijk?
+Heb je een vertaling?
+Letterlijk vertaald is het de leefbare zone en daarmee bedoelen astronomen de afstand tot de ster van planeten waar vloeibaar water op het oppervlak van een planeet kan bestaan.
+Daarmee wordt dan niet gezegd dat er leven of zelfs water op voorkomt, maar we achten de kans op leven groter op planeten waar water kan stromen dan op verschroeide rotsblokken dicht bij een ster of ijzige gasreuzen ver verwijderd van een ster.
+Deze aanname is gebaseerd op het leven op aarde, waarbij we veelal een grote behoefte aan water zien.
+Vissen, insecten, mensen, capybaras en eencelligen, allemaal zijn we verzot op water.
+En LHS-475b bevindt zich dus helaas niet in die leefbare zone, maar dichterbij de ster.
+Nu is LHS-475 een rode dwergster en dus een stuk koeler dan onze zon.
+En LHS-475b is tidally locked.
+Dat betekent dat altijd dezelfde zijde van de exoplaneet naar de ster is gericht.
+Die permanente dagzijde bereikt daarmee een temperatuur van zo'n 475 graden Celsius.
+Het is niet gemakkelijk hot, dat is alles.
+Omdat het maar een rode dwergster is, is het niet uitgesloten dat er een atmosfeer bestaat rond LHS-475b.
+In het artikel van Lustig, Jäger en collega's over de ontdekking lezen we dat er in het spectrum van de transit vooral bepaalde samenstellingen van atmosferen kunnen worden uitgesloten.
+De waarnemingen met de James Webb ruimtetelescoop laten zien dat deze exoplaneet geen atmosfeer van puur methaan of waterstof kan hebben.
+Ja, het klinkt niet lekker.
+De auteurs hebben meer waarnemingen nodig om te bepalen of het hier een exoplaneet betreft met een eile marsachtige atmosfeer,
+een dikke wolkendek zoals bij Venus, of juist helemaal geen atmosfeer zoals bijvoorbeeld bij Mercurius.
+Maar het mooie aan de huidige stand van de wetenschap is dat we nu een instrument tot onze beschikking hebben waarmee überhaupt dit soort waarnemingen gedaan kunnen worden.
+En daarmee is deze ontdekking het hoopvolle startschot voor onderzoek naar de atmosfeer van exoplaneten die lijken op onze aarde en wel binnen de habitable zone van hun ster cirkelen.
+Voor het eerst in de geschiedenis kunnen uitspraken worden gedaan over de atmosfeer van exoplaneten op basis van een gasdichtheid onder de 50 parts per million.
+Dat is een dikke duim omhoog voor de signaalruisverhouding van de neerspekapparatuur aan boord van de James Webb Ruimtetelescoop.
+Als deze ruimtetelescoop nog jaren perfect blijft functioneren en de atmosferen van allerlei verschillende exoplaneten bekeken gaan worden,
+dan zal hopelijk nog tijdens ons leven het moment aanbreken dat een exoplaneet binnen de habitable zone van een ster atmosferische kenmerk laat zien die congruent zijn aan het leven.
+Dat kunnen bijvoorbeeld overtuigende spectra van stofwisselingsprocessen van levende wezens zijn.
+Of spectra van bijproducten van vervuilingsprocessen die alleen optreden bij industrialisatie.
+In beide gevallen zal het een kwestie blijven van meer gegevens verzamelen om de hypothese van buitenaards leven te bevestigen.
+Plaatjes van wezens op zo'n ander hemellichaam zullen nog wel lange tijd op zich moeten laten wachten.
+Maar zeker als de James Webb Ruimtetelescoop industriële vervuilingsproducten waarneemt in de atmosfeer van een exoplaneet,
+zal het interessant zijn een dergelijke locatie ook in andere golflengteschade te gaan slaan.
+De signaal worden vervindelijk als radioimpulsers naar ruimte.
+Een levensvorm die industrialisatie in gang heeft weten te zetten, zal mogelijk ook gebruik maken van radiotransmissies.
+Een nieuwe kandidaat exoplaneet komt deze week in het nieuws.
+Wolf 1069 b.
+Ook deze exoplaneet staat relatief dicht bij ons op een afstand van 31 lichtjaar.
+Ook Wolf 1069 b draait om een rode dwergster.
+Maar Wolf 1069 b bevindt zich wel in de habitable zone.
+En omdat deze planeet ook nog meer op onze aarde lijkt dan LHS 475 b,
+zouden we geneigd zijn te zeggen dat onze James Webb Ruimtetelescoop hier dan maar spoedig op gericht dient te worden.
+Dat is right.
+Want kom maar op met het nieuws dat we niet alleen zijn in dit grote helal, nietwaar?
+Ja, ik denk wel dat je daar gelijk in hebt.
+Het is dan goed om te begrijpen dat Wolf 1069 b niet door een transit voor de ster langs is ontdekt.
+Deze exoplaneet draait vanuit ons gezien in een ander vlak en komt nooit voor de ster langs.
+Wolf 1069 b werd met een aardse telescoop in Spanje ontdekt door middel van de radial velocity methode.
+Hierbij wordt een periodieke wobbel in het spectrum van een ster waargenomen,
+die ontstaat omdat er een exoplaneet omheen draait.
+Het sterrenlicht wordt iets uitgerekt als de ster van ons afbeweegt en iets ingedoet als de ster tijdelijk iets meer naar ons toe beweegt.
+Ja, want een planeet draait niet alleen om een ster, maar beiden draaien om het centrum van massa, ook al Bari-centrum genoemd.
+Waar een planeet om een ster draait, draait een ster dus ook om die planeet,
+wat een kleine periodieke schommeling in het spectrum van de ster teweeg brengt.
+En dat nemen wij waar als een periodieke blauw respectievelijk roodverschuiving die zich steeds weer herhaalt.
+Herhaalt, herhaalt, herhaalt.
+Op zich reuze knap dat het lukt dit te detecteren, helemaal vanaf de aarde.
+Maar helaas is het spectrum van de exoplaneet, en dus specifiek van de atmosfeer daarvan, voor ons niet zichtbaar.
+En ook de James Webb ruimtetelescoop kan ons hier niet bij van dienst zijn.
+Dus, terug bij af?
+Echt niet.
+Er zijn nog heel veel test objects of interest waar de James Webb ruimtetelescoop op gericht kan worden,
+en waar exoplaneten wellicht wel voor de ster langs bewegen.
+Het is nu aan de astronomische wetenschap om de beschikbare waarneemtijd met deze ruimtetelescoop goed te verdelen.
+Als leven in ons heelal werkelijk zoveel voorkomt als sommige wetenschappers vermoeden,
+dan is het een kwestie van tijd voordat we voorpaginanieuws over buitenaards leven hebben.
+En tot die tijd leven we dan maar een beetje in onzekerheid, nietwaar?
+Tot de volgende keer.
+Zend dit maar niet uit.
+Zend dit maar niet uit.

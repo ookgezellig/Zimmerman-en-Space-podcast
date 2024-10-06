@@ -1,0 +1,170 @@
+Misschien heeft u wel eens gehoord dat levende wezens op aarde gebruik maken van DNA-moleculen.
+DNA is het biochemisch macromolecuul dat fungeert als belangrijkste drager van erfelijke informatie.
+Bij mensen, dieren, planten en schimmels vinden we het belangrijkste DNA in de celkern.
+Los daarvan vinden we afwijkend mitochondriaal DNA in, u raadt het al, de mitochondriën in cellen.
+Planten en algen kunnen ook nog chloroplast-DNA hebben.
+Dankzij DNA zijn levende wezens in staat tot voortplanting, groei en autonome reparatie aan hun cellen en weefsels.
+En het mooie is, we hebben er nauwelijks omkijken naar...
+U hoeft alleen maar een beetje gezond te leven en de rest wordt in de achtergrond voor u geregeld.
+Zelfs als u op dat moment op een feestje bent en iets te veel heeft gedronken.
+Maar er kleven nog enkele raadsels aan dit DNA.
+Eén van de grotere raadsels is het DNA-eiwit-dilemma.
+Oh dear.
+DNA zorgt voor de opslag van erfelijke informatie en is daarom onmisbaar voor de voortplanting van het leven.
+Eiwitten zorgen voor enzymatische omzettingen en zijn daarom onmisbaar voor de instandhouding van het leven.
+Maar eiwitten in levende wezens kunnen niet gesynthetiseerd worden zonder DNA, want de structuur van eiwitten staat in het DNA gecodeerd.
+Het grote raadsel is dus hoe we tot deze DNA-eiwitfabriek gekomen zijn.
+Wat was er eerst?
+Het ligt voor de hand dat er sprake was van een voorstadium waarin misschien nog geen sprake was van DNA-moleculen.
+Ja, dat is logisch.
+Een hypothese staat bekend als de RNA-wereld.
+Een term die in 1986 werd geopperd door Nobelprijswinnaar Walter Gilbert.
+RNA is, net als DNA, een biochemisch macromolecuul.
+RNA speelt een belangrijke rol in het coderen, overbrengen, reguleren en tot expressie brengen van genen.
+DNA en RNA-moleculen lijken bijzonder veel op elkaar.
+De grote verschillen zijn dat DNA uit een helix van twee strengen bestaat en RNA bijna altijd uit één.
+Daarnaast is er in de chemische opbouw één in het oog springend verschil.
+DNA is opgebouwd uit meervouden van cytosine, guanine, adenine en timine.
+En RNA is opgebouwd uit wederom cytosine, guanine en adenine, maar uracil in plaats van timine.
+Dit was even wat informatie als inleiding op de aflevering van vandaag.
+We kunnen er nog twee dingen aan toevoegen.
+Ten eerste, die hypothese van de RNA-wereld is niet geheel zonder kritiek.
+En ten tweede, een vraag die wetenschappers die werken aan het ontstaan van leven mateloos boeit,
+is hoe we aan de bouwstenen van die moleculen zijn gekomen.
+Was er ooit een planeet aarde waar een soep van organische moleculen leidde tot het ontstaan van primitief leven?
+En waar kwamen die organische moleculen dan vandaan?
+Hm.
+In al die jaren dat we ons bewust zijn van onze omgeving, is nog nooit gezien dat leven opnieuw ontstond uit niet-leven.
+De structuur van DNA en RNA is bovendien zo voest ingewikkeld,
+dat het ook nog nooit gelukt is in een laboratorium een levend wezen te kweken uit niet-levende materie.
+Een van de experimenten die nog het dichtstbij kwam staat bekend als de Belousov-Zabotinsky-reactie.
+Dit oscillerende proces is uit en tena bestudeerd, maar er bestaat consensus over dat dit nog geen leven is.
+De vraag is dan, ja, hoe dan?
+Niet te minnen is het interessant dat uit niet-levende onderdelen een proces kan ontstaan dat osseleert, een beetje als een hartcel.
+Vorige maand, maart 2023, verscheen een artikel in Nature met de titel
+Het is een open-access artikel, dus u kunt het desgewenst zelf kosteloos lezen.
+Een link vindt u uiteraard in de show notes van deze aflevering.
+Het artikel beschrijft de bevindingen in een monster dat in 2019 genomen werd op de asteroide Ryugu met het Hayabusa 2-ruimtevaartuig.
+Dit ruimtevaartuig van de Japanse ruimtevaartorganisatie JAXA functioneert heden ten dagen nog steeds trouwens,
+maar de hoofdmissie is met succes afgerond.
+We zijn regelmatig onder de indruk van ruimtevaartmissies waarbij karretjes op mars worden gezet door NASA,
+maar deze Hayabusa 2-missie is ook een staaltje vernuftigheid dat zijn weerga niet kent.
+Opvallend is trouwens de goede internationale samenwerking waarmee deze missie een succes werd.
+Jee!
+Met name de Duitse ruimtevaartorganisatie DLR speelde een grote rol in de Hayabusa 2-missie.
+Hayabusa 2 was bij lancering voorzien van allerlei apparaten die los van het hoofdruimteschip gingen functioneren.
+Om de keuze daarvoor te begrijpen is het nuttig om te weten dat bij aanvang van de missie natuurlijk niet geheel bekend was
+om wat voor soort object het ging.
+Oké, 162173 Ryugu is een asteroide, zoveel was bekend.
+We zijn op de hoogte van het bestaan van dit potentieel gevaarlijke object sinds 10 mei 1999.
+En het gevaarlijke zit er maar in dat 162173 Ryugu in theorie kan botsen met onze planeet Aarde
+en met een diameter van bijna een kilometer dan voor aardig wat schade kan zorgen.
+Maar de exacte vorm en samenstelling van deze asteroide waren natuurlijk vanaf aarde nog niet geheel in kaart gebracht.
+De keuze om deze asteroide te bezoeken heeft rechtstreeks te maken met de verhandeling aan het begin
+omdat gedacht wordt dat Ryugu uit de begindagen van het ontstaan van ons zonnestelsel stand
+en mogelijk nog maagdelijke materialen uit die begindagen bevat.
+Een van de eerste slimmigheden die werden uitgevoerd bij Ryugu was dat er vijf markeringen aangebracht werden op het oppervlak van de asteroide.
+Dit waren sterk reflecterende ballen van ongeveer 300 gram,
+waarmee duidelijk was waar het ruimteschip zich bevond ten opzichte van het oppervlak van Ryugu.
+Een soort bakens zou u kunnen zeggen.
+Op 22 september 2018 werden twee rovers succesvol neergezet op het oppervlak van Ryugu.
+Dit was voor het eerst dat autonome rovers rondsprongen op een asteroide.
+Ja, sprongen, want deze apparaten beschikten niet over wielen,
+maar over een intern draaimechanisme wat mogelijk maakte de apparaten te verplaatsen over Ryugu.
+Deze asteroide is namelijk dusdanig klein dat er maar een zeer geringe zwaartekracht op werkzaam is.
+De ontsnappingssnelheid is ongeveer 35 centimeter per seconde,
+wat betekent dat u, staande op het oppervlak,
+gemakkelijk een object in een omloopbaan rond Ryugu zou kunnen slingeren.
+Kunnen we dat aardrekenen?
+Pak de rekenmachine er maar bij.
+De formule voor de ontsnappingssnelheid is de wortel van 2 keer g keer m gedeeld door d.
+g is daarbij de gravitatieconstante, dat is gewoon een getal,
+m de massa en d de afstand tot het centrum van massa.
+Laten we beginnen met g, dat is een getal.
+6,67 mal 10 tot de min 11, waarbij we rekenen in kilogrammen, meters en seconden.
+De massa van Ryugu is bekend, 4,5 mal 10 tot de 11 kilogram.
+En de radius van deze asteroide is bij de equator ongeveer 502 meter.
+Dus dan kunnen we uitrekenen, 6,67 mal 10 tot de min 11, maal 2, maal 4,5 mal 10 tot de 11,
+en dat delen we door 502.
+En van de uitkomst nemen we de wortel.
+Dat is ongeveer 0,346 meter per seconde op mijn rekenmachine.
+Dus ongeveer 35 centimeter per seconde.
+En hoe hard kan een mens een bal wegsmijten?
+Mogelijk ligt dat record bij baseballpitcher Aroldis Chapman,
+die een bal met 170 kilometer per uur wegslingerde.
+En dat is ongeveer 4700 centimeter per seconde.
+Ruim voldoende om een baseball uit de zwaartekracht invloed van Ryugu weg te mikken dus.
+De interesse ging bij de Hayabusa 2-emissie uit naar ondergrondsmateriaal van Ryugu,
+wat niet miljarden jaren blootgesteld was aan de naakte ruimte,
+met al haar kosmische straling en micrometeorieten.
+Daartoe werd eerst, op 5 april 2019, een krater met een diameter van zo'n 10 meter geslagen in Ryugu,
+met een projectiel met een explosieve lading.
+Verwacht werd dat Ryugu hierdoor enigszins van baan zou veranderen, maar dat bleef uit.
+Kennelijk is Ryugu een dusdanig belkaar hangend hoopje steen,
+dat de schok van de inslag en explosie geabsorbeerd kon worden.
+Het complete Hayabusa 2-ruimtevaartuig haalde vervolgens op 11 juli 2019 vers blootgelegd materiaal op,
+om het in een luchtdicht afgesloten container te bewaren.
+In november 2019 vertrok Hayabusa 2 weer richting de aarde,
+om op 5 december 2020 de container met het bodemmonster door de aardse dampkring naar de aarde af te laten reizen.
+Deze capsule landde aan een radarreflectieve parachute in de Woomera testrange in Australië en werd succesvol geborgen.
+Een capsule van Japan's Hayabusa 2-ruimtevaartuig haalde vervolgens op de aarde in perfecte conditie,
+hoewelig weer teruggebruik van de aarde Ryugu.
+En zo beschikken wetenschappers in allerlei landen nu over materiaal uit de begindagen van ons zonnestelsel,
+waarin men hoopt aanwijzingen te vinden over hoe het leven op aarde ooit is begonnen.
+In deze bemonstering van Ryugu is al een veelheid aan verbindingen gevonden,
+maar zoals de titel van het artikel dat ik in het begin al noemde doet vermoeden,
+weten we sinds kort dat er ook uracil op Ryugu is gevonden.
+Dit is een bouwsteen van onze RNA-moleculen,
+aangetroffen op een rots die waarschijnlijk nooit in contact was met de aardse atmosfeer.
+Dat is toch niet te geloven?
+De bouwstenen van ons leven zouden dus zeer zeker buiten de aarde in nietlevende processen ontstaan kunnen zijn
+en naar de aarde gebracht zijn via botsingen met andere hemellichamen.
+Ook bijzonder is dat uracil het onherbergzame bestaan in de vrije ruimte weet te doorstaan.
+En om het nog gekker te maken werden ook imidazolen aangetroffen in het Ryugu-bodemmonster.
+Imidazolen zijn zogenaamde heterocyclische aromatische verbindingen
+die de bouwstenen zijn van veel biologische verbindingen.
+Deze recente bevindingen zijn buitengewoon interessant vanuit het standpunt van de abiogenese,
+waarbij de hypothese is dat leven is ontstaan uit nietlevende processen.
+Daar kunnen we nog wel even over verder mijmeren
+en anders kunt u natuurlijk op stop drukken en naar iets leukers gaan luisteren.
+Of in de wijze woorden van Renzo Veenstra.
+Druk op unsubscribe en luister niet meer naar Hens.
+Laten we beginnen met een gedachte-experiment.
+Stel dat we beschikken over een medische 3D-printer die op atomeer niveau werkt.
+Het is eigenlijk een 3D-kopieerapparaat,
+want het kan ook de exacte samenstelling van een levende cel atoom voor atoom in kaart brengen.
+Nu nemen we een witte bloedcel uit uw bloed.
+Dit exemplaar is een neutrofiele granulocyte
+die uw lichaam aanmaakt voor de immuunrespons en voor het vernietigen van bacteriën en schimmels.
+Atoom voor atoom bouwt onze scannerprinter deze neutrofiele granulocyte na
+en we injecteren het resultaat weer terug in uw lichaam.
+Denkt u dan dat deze witte bloedcel, die exact dezelfde celkern en structuur heeft als uw andere neutrofiele granulocyte, leeft?
+En dat deze witte bloedcel uw lichaam dienstbaar kan zijn door bacteriën te vernietigen?
+Voor de goede orde, de wetenschap en technologie zijn nog niet zo ver gevorderd dat we dit in de praktijk kunnen testen.
+Maar het blijft een interessante vraag of leven eenvoudigweg het resultaat is van samenwerkende moleculen
+vanaf een bepaalde mate van complexiteit of dat er nog een factor in het spel is die wij nog niet in kaart hebben weten te brengen.
+We kunnen het gedachte-experiment uiteraard nog een vervolg geven.
+Stel dat u met mij denkt dat we met onze scannerprinter een levende witte bloedcel zouden kunnen nabouwen.
+Wat zou er dan gebeuren als we u onder de scanner zouden leggen?
+Als we u atoom voor atoom nabouwen, ontstaat er dan een exacte kopie van u met dezelfde herinneringen, verlangens, hobby's, voorkeuren en eigenaardigheden?
+Wat is het eigenlijk dat maakt dat een berg moleculen wel of niet kunstenaar of wetenschapper wil worden?
+Of misschien de medemens te vlug af wil zijn?
+Het kan wel zijn dat het intrinsiek is aan het leven, de wil tot expansie, tot meer macht.
+Kennelijk ontstaat er in de evolutie een richting die onze processen kunnen volgen om groter en sterker te worden,
+of wellicht is dat wel een voorwaarde voor leven.
+De negentiende-eeuwse filosoof Arthur Schopenhauer staat bekend om zijn werk over de menselijke wil en de aard van het bestaan.
+Schopenhauer stelde dat de wil het fundamentele principe is dat de hele werkelijkheid doordringt en beheerst.
+Hij zag de wil als een blinde en onpersoonlijke kracht die onverzadigbaar is en die altijd streeft naar bevrediging.
+Van klein tot groot zien we deze blinde wil tot meer en beter in levende wezens verschijnen.
+Het is ook zeker niet allemaal slecht.
+Wetenschap streeft ook naar meer en beter en is ook nooit bevredigd en dat is maar goed ook.
+En soms zijn dingen ook niet helemaal soort wit.
+Is het puur slecht als iemand het laatste blik bonen voor de neus van anderen wegkaapt om haar kinderen te kunnen voeden?
+Volgens Schopenhauer is de wil de oorzaak van menselijk lijden, omdat het verlangen naar bevrediging ons gevangen houdt in een eindeloze cyclus van verlangen, bevrediging en dan weer verlangen.
+Hij geloofde dat het beheersen van die wil de sleutel is tot het bereiken van geluk.
+Schopenhauer zag de kunst en de contemplatie als middelen om de wil te onderdrukken en te ontsnappen aan de eindeloze cyclus van verlangen en bevrediging.
+Als u deze hele column heeft uitgeluisterd en delen tot u heeft laten doordringen, dan zit het met dat contemplatieve gedeelte waarschijnlijk wel goed.
+En wat de kunsten betreft, ik ga nog even pingelen op mijn gitaar in de hoop dat mijn vingers uiteindelijk wat akkoorden leren te spelen.
+Ik weet uiteraard niet wat uw favoriete kunstzinnige expressievorm is, maar ik wens u er veel plezier mee.
+Tot de volgende keer!
+***

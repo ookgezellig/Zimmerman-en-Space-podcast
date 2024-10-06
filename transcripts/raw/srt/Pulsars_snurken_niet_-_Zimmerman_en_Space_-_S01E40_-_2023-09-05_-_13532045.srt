@@ -1,0 +1,740 @@
+1
+00:00:00,000 --> 00:00:02,400
+U luistert naar Zimmerman & Space.
+
+2
+00:00:02,620 --> 00:00:07,480
+We hebben al wel eens eerder geluisterd naar een sonificatie van een pulsar.
+
+3
+00:00:08,060 --> 00:00:08,760
+Weet u het nog?
+
+4
+00:00:11,120 --> 00:00:14,020
+Dat was het geluid van de Vela-pulsar.
+
+5
+00:00:14,920 --> 00:00:21,740
+Dit is een pulsar in het sterrenbeeld Vela met een rotatieperiode van 0,089 seconden.
+
+6
+00:00:22,780 --> 00:00:29,280
+Deze pulsar is een restant van een supernova die zo'n 12.000 jaar geleden plaatsgevonden heeft.
+
+7
+00:00:30,440 --> 00:00:39,700
+Het sterrenbeeld Vela is alleen voor wie helemaal in het zuiden van de Benelux een vrije zuidelijke horizon heeft, soms een klein stukje te zien.
+
+8
+00:00:40,460 --> 00:00:43,480
+Voor de rest is het een sterrenbeeld voor het zuidelijk halfrond.
+
+9
+00:00:44,580 --> 00:00:46,620
+Maar van die pulsar ziet u toch niks.
+
+10
+00:00:47,720 --> 00:00:51,620
+Een pulsar is het eindstadium van bepaalde zwaardere sterren.
+
+11
+00:00:52,180 --> 00:00:59,940
+Als er geen energie meer kan worden geproduceerd door kernfusie in zo'n zware ster, implodeert de kern van de ster.
+
+12
+00:01:01,000 --> 00:01:10,040
+De theorie is dat de afzonderlijke protonen en elektronen dan samen een heleboel neutronen vormen die dicht op elkaar gepakt zitten.
+
+13
+00:01:10,040 --> 00:01:16,740
+Dit imploderen kan dan weer gevolgd worden door een enorme supernova-explosie.
+
+14
+00:01:18,200 --> 00:01:21,220
+Hierbij verliest de ster op leeftijd de meeste massa.
+
+15
+00:01:21,220 --> 00:01:29,500
+Door dit krimpen en de wet van behoud van impulsmoment gaat de neutronenster dan veel sneller om haar as draaien.
+
+16
+00:01:29,980 --> 00:01:33,920
+Een beetje als de schaatser die haar armen intrekt en sneller gaat draaien.
+
+17
+00:01:33,920 --> 00:01:40,980
+Zo'n neutronensterretje is echt heel klein, zo'n 20 kilometer breed.
+
+18
+00:01:42,040 --> 00:01:46,500
+Als deze ronddraaiende neutronensterne ook nog een sterk magneetveld kent,
+
+19
+00:01:46,720 --> 00:01:52,020
+dan kan het zijn dat we deze als een snel ronddraaiende vuurtoren waarnemen vanaf de aarde.
+
+20
+00:01:52,020 --> 00:01:59,480
+De bundels radiostraling die zo'n pulsar de hele tijd door het helal zwiept,
+
+21
+00:01:59,700 --> 00:02:02,820
+zien we dan in de tijd steeds weer terugkeren en weggaan.
+
+22
+00:02:03,220 --> 00:02:08,620
+In het geval van de Vela-pulsar dus elke 0,089 seconde.
+
+23
+00:02:09,340 --> 00:02:11,680
+Dat is het geluid dat we eerder lieten horen.
+
+24
+00:02:11,680 --> 00:02:19,380
+Een rotatietijd van 0,089 seconde, dat betekent een frequentie van 11 hertz.
+
+25
+00:02:19,880 --> 00:02:23,380
+Een enkeling zal nu verbaasd zijn dat we dat kunnen horen,
+
+26
+00:02:23,580 --> 00:02:28,380
+want leerden we niet bij biologie dat mensen pas geluid vanaf 20 hertz kunnen waarnemen?
+
+27
+00:02:28,660 --> 00:02:31,920
+Ja, dat klopt. En toch kunt u het horen.
+
+28
+00:02:32,980 --> 00:02:36,720
+Uw en mijn gehoor kunnen geen sinus van 11 hertz waarnemen.
+
+29
+00:02:36,960 --> 00:02:41,660
+Een sinus is een zuivere toon zonder harmonische, zoals u nu hoort.
+
+30
+00:02:41,680 --> 00:02:47,540
+Maar de sonificatie van de Vela-pulsar, die u nu hoort, is geen sinus
+
+31
+00:02:47,540 --> 00:02:52,500
+en bevat dus een hoop harmonische boven de 11 hertz die wij wel degelijk kunnen horen.
+
+32
+00:02:53,700 --> 00:02:57,740
+Als we de sonificatie van de Vela-pulsar in eind vertragen,
+
+33
+00:02:57,980 --> 00:03:03,660
+kunt u horen dat de golf allerlei extra geluid bevat en een beetje als een hartslag klinkt.
+
+34
+00:03:06,000 --> 00:03:09,560
+Het klinkt merkwaardig en zelfs ongeloofwaardig snel
+
+35
+00:03:09,560 --> 00:03:14,240
+dat een complete neutronenster 11 keer per seconde rond kan draaien.
+
+36
+00:03:14,420 --> 00:03:15,420
+Ik twijfel hieraan.
+
+37
+00:03:15,660 --> 00:03:20,680
+Het helpt misschien door te bedenken dat het hier een totaal ander soort natuurkunde betreft
+
+38
+00:03:20,680 --> 00:03:22,480
+dan wij op aarde tegenkomen.
+
+39
+00:03:23,160 --> 00:03:28,420
+Een neutronenster, en dus ook een pulsar, bestaat uit materie die op aarde niet voorkomt.
+
+40
+00:03:28,420 --> 00:03:37,580
+De dichtheid van deze materie is zo hoog dat een theelepeltje pulsar een massa van ongeveer 5,5 maat 10 tot de 12 kilogram heeft.
+
+41
+00:03:38,420 --> 00:03:45,060
+Het magneetveld aan het oppervlak van een pulsar heeft een veldsterkte van zo'n 10 tot de 11de Tesla.
+
+42
+00:03:46,960 --> 00:03:56,400
+Ter vergelijking, in een laboratorium op aarde is het op dit moment mogelijk een magneetveld met een veldsterkte van 45 Tesla te produceren.
+
+43
+00:03:56,400 --> 00:04:02,500
+Dat is al een ongezond hoge veldsterkte waarbij amfibieën gaan leviteren.
+
+44
+00:04:03,340 --> 00:04:10,460
+Op grote afstand van een pulsar zouden de atomen van uw lichaam al uit elkaar getrokken worden door het magneetveld van de pulsar.
+
+45
+00:04:12,240 --> 00:04:19,060
+Verder ondervindt een ronddraaiende neutronenster of pulsar in het heelal een verwaarloosbare hoeveelheid wrijving.
+
+46
+00:04:19,320 --> 00:04:23,220
+Dus zo kan een pulsar miljoenen jaren ongestoord rondjes draaien.
+
+47
+00:04:23,220 --> 00:04:29,320
+Het kan trouwens nog een stuk sneller dan de Vela-pulsar.
+
+48
+00:04:29,440 --> 00:04:30,960
+Dat kan je je toch niet voorstellen?
+
+49
+00:04:31,200 --> 00:04:34,600
+De Krab-pulsar draait 30 keer per seconde rondjes.
+
+50
+00:04:37,740 --> 00:04:41,260
+Daar hoorde u een sonificatie van de Krab-pulsar.
+
+51
+00:04:41,580 --> 00:04:43,000
+Nou, blij om dat te horen.
+
+52
+00:04:43,000 --> 00:04:52,780
+En van de paar duizend pulsars die de astronomie inmiddels kent is PSR J17482446AD de snelste tot nu toe.
+
+53
+00:04:53,860 --> 00:04:57,180
+Deze draait 716 keer per seconde om haar as.
+
+54
+00:04:58,240 --> 00:05:01,000
+Alles goed en wel, maar een pulsar maakt toch geen geluid?
+
+55
+00:05:01,720 --> 00:05:04,160
+Dit vraagt, denk ik, om wat extra uitleg.
+
+56
+00:05:04,160 --> 00:05:05,060
+Ja, dat klopt.
+
+57
+00:05:05,580 --> 00:05:07,880
+Daarom noemen we het een sonificatie.
+
+58
+00:05:08,580 --> 00:05:15,240
+Daarbij nemen we een periodiek in de tijd veranderende waarde en zetten deze om naar voor mensen hoorbaar geluid.
+
+59
+00:05:16,020 --> 00:05:23,160
+In het geval van de ratels en piepjes die we in deze aflevering tot nu toe hoorden, klopte steeds de x-as de tijd.
+
+60
+00:05:23,160 --> 00:05:26,860
+Tenzij we natuurlijk de boel verdraagde.
+
+61
+00:05:28,680 --> 00:05:36,440
+Maar wat we op de y-as zetten is de intensiteit van de radiostraling, maar dan als fluctuatie binnen ons gehoorbereik.
+
+62
+00:05:36,520 --> 00:05:38,060
+Aha, zo zit het dus!
+
+63
+00:05:38,180 --> 00:05:40,300
+Dat kunnen we uiteraard met van alles doen.
+
+64
+00:05:41,020 --> 00:05:47,660
+Ik heb bijvoorbeeld wel eens een decibelmeter naast mijn bed gelegd om te registreren hoe hard ik eigenlijk snurk.
+
+65
+00:05:47,660 --> 00:05:54,100
+De dB-meter meet dan om de zoveel seconden de geluidsdruk en bewaart deze getallen in een tabel.
+
+66
+00:05:54,960 --> 00:05:59,740
+Dat levert, afhankelijk van hoe nerderig u bent, interessante waarnemingen op.
+
+67
+00:05:59,840 --> 00:06:00,960
+Ben jij zo'n nerd, Hens?
+
+68
+00:06:01,320 --> 00:06:09,800
+Allereerst kon ik zien dat de constante ruisvloer van onze slaapkamer hier in Bildhoven de hele nacht rond de 30 dba SPL ligt.
+
+69
+00:06:10,000 --> 00:06:13,840
+Dat is nog steeds muisstil trouwens hoor.
+
+70
+00:06:13,940 --> 00:06:14,860
+Oh, gelukkig!
+
+71
+00:06:14,860 --> 00:06:17,660
+Bovendien slaapt mijn vrouw meestal met oordoppen in.
+
+72
+00:06:17,960 --> 00:06:20,120
+Ja, omdat jij zo ligt te snurken, Hens.
+
+73
+00:06:21,100 --> 00:06:25,580
+Mijn snurkepisodes duren minuten lang om dan weer abrupt te stoppen.
+
+74
+00:06:26,580 --> 00:06:30,980
+Dat is waarschijnlijk als ik mij omdraai of wanneer de remslaap aanvangt.
+
+75
+00:06:32,340 --> 00:06:33,460
+Een nightmeer?
+
+76
+00:06:33,720 --> 00:06:34,740
+Een horrible nightmeer.
+
+77
+00:06:34,740 --> 00:06:46,020
+Deze tabel met geluidsdrukwaardes gedurende 8 uur slaap kan ik verlengen met 16 uur stilte omdat ik overdag doorgaans niet snurk.
+
+78
+00:06:46,900 --> 00:06:53,340
+Dat levert dan een periodiek in de tijd veranderende tabel met waardes op die ik weer hoorbaar kan maken.
+
+79
+00:06:53,340 --> 00:07:06,680
+In plaats van een fluctuatie tussen de 30 db SPL, dus stilte van de nacht, en 72 db SPL, mijn hardste gesnurk, schaal ik de waardes naar een functie tussen de 0 en 1.
+
+80
+00:07:07,740 --> 00:07:11,520
+Om dit echter hoorbaar te maken moet ik de tijd enorm versnellen.
+
+81
+00:07:11,520 --> 00:07:20,160
+Dus deze piep is de intensiteit van mijn gesnurk binnen een etmaal, maar dan enorm versneld.
+
+82
+00:07:21,080 --> 00:07:25,960
+Als we het wat vertragen is goed te horen dat het maar een deel van het etmaal betreft.
+
+83
+00:07:29,260 --> 00:07:33,820
+Met zo'n willekeurig voorbeeld van een waarde in de tijd kunnen we doen wat we willen.
+
+84
+00:07:33,920 --> 00:07:35,680
+Dwaai niet een beetje af van het onderwerp.
+
+85
+00:07:35,680 --> 00:07:38,160
+Ik kan er bijvoorbeeld een melodietje mee spelen.
+
+86
+00:07:41,520 --> 00:07:48,400
+Nu kan ik me best voorstellen dat u denkt, is dit echt een stukje muziek dat het gesnurk van Hens als synthesizer gebruikt?
+
+87
+00:07:48,820 --> 00:07:51,620
+Bijvoorbeeld omdat het helemaal niet als snurken klinkt.
+
+88
+00:07:52,040 --> 00:07:56,420
+Of omdat deze podcast zichzelf ook niet altijd even serieus neemt.
+
+89
+00:07:57,400 --> 00:07:59,060
+Nou, om met dat eerste te beginnen.
+
+90
+00:07:59,480 --> 00:08:02,180
+Ik kan ook wel een melodietje spelen met een snurk.
+
+91
+00:08:04,700 --> 00:08:07,940
+Maar wat we met sonificatie doen is iets heel anders.
+
+92
+00:08:07,940 --> 00:08:13,080
+Dan brengen we periodieke informatie binnen het bereik van het menselijk gehoor.
+
+93
+00:08:14,000 --> 00:08:20,200
+In het snurkgeval is de waarneming in de tijd dusdanig versneld dat het voor ons gewoon als een toon klinkt.
+
+94
+00:08:21,380 --> 00:08:26,200
+Bovendien heeft mijn decibelmeter, die naast mijn bed lag, nooit het geluid van mijn snurk vastgelegd.
+
+95
+00:08:27,160 --> 00:08:30,920
+Alleen de geluidsdruk op bepaalde discrete momenten in de tijd.
+
+96
+00:08:31,120 --> 00:08:32,380
+Ja, ja, nu begrijpen we het wel.
+
+97
+00:08:32,380 --> 00:08:36,780
+En het klopt wel dat deze podcast zichzelf niet altijd even serieus neemt.
+
+98
+00:08:36,960 --> 00:08:40,740
+Maar dit melodietje is wel degelijk gebaseerd op mijn snurktabel.
+
+99
+00:08:41,680 --> 00:08:47,820
+Ik heb eenvoudig het geluidsbestand op een wavetable synthesizer in Ableton Live gesleept.
+
+100
+00:08:48,520 --> 00:08:51,920
+Dat het voor u als veel werk klinkt, betekent verder niets.
+
+101
+00:08:52,520 --> 00:08:57,040
+Ik experimenteer al ruim vijftig jaar met geluid en het is ook nog mijn werk.
+
+102
+00:08:57,300 --> 00:09:00,600
+Dus kleine moeite om een beetje mijn best te doen voor deze podcast.
+
+103
+00:09:00,600 --> 00:09:06,140
+Bovendien, de generatie van uw kinderen of kleinkinderen als u die überhaupt heeft,
+
+104
+00:09:06,340 --> 00:09:11,080
+lacht om mijn gestuntel in Ableton Live en doet dit duizend keer sneller en beter.
+
+105
+00:09:12,380 --> 00:09:18,840
+Dit hele intro heeft uiteraard weer te maken met een belangrijke wetenschappelijke ontdekking binnen de astronomie.
+
+106
+00:09:19,580 --> 00:09:26,740
+Om dat te begrijpen kunnen we ons nog afvragen wat de wetenschappelijke waarde is van het luisteren naar bijvoorbeeld de Vela-pulser.
+
+107
+00:09:27,480 --> 00:09:30,400
+En dat heeft te maken met hoe ons brein werkt.
+
+108
+00:09:30,600 --> 00:09:33,880
+Een tabel met nummers zegt ons niet direct heel veel.
+
+109
+00:09:34,340 --> 00:09:40,380
+Maar als we waarnemingen op zo'n wijze kunnen masseren dat we ze aan onze zintuigen kunnen voorleggen,
+
+110
+00:09:40,560 --> 00:09:43,420
+is het eenvoudiger er conclusies over te trekken.
+
+111
+00:09:43,840 --> 00:09:45,840
+Of misschien patronen in te herkennen.
+
+112
+00:09:47,340 --> 00:09:51,300
+Dat doen we in feite ook met al die mooie foto's uit de astronomie.
+
+113
+00:09:51,300 --> 00:09:58,800
+Dat zijn ook vaak de resultaten van heel lang belichten in een bereik dat voor onze ogen onzichtbaar is.
+
+114
+00:09:59,100 --> 00:10:02,260
+En dan een en ander vertalen naar een mooi kleurenplaatje.
+
+115
+00:10:02,580 --> 00:10:03,180
+Wauw!
+
+116
+00:10:03,180 --> 00:10:33,180
+
+
+117
+00:10:33,180 --> 00:10:40,700
+Het is dus een binair stelsel.
+
+118
+00:10:40,700 --> 00:10:41,700
+Professor Hens.
+
+119
+00:10:41,700 --> 00:10:47,940
+Ergens in juni 2013 werd gemeten dat deze pulsar radio stiller was geworden.
+
+120
+00:10:48,460 --> 00:10:50,700
+Het artikel hierover verscheen met de titel
+
+121
+00:10:50,700 --> 00:10:58,540
+A state change in the missing link binary pulsar system PSRJ1023 plus 0038.
+
+122
+00:10:58,540 --> 00:11:01,720
+In the Astrophysical Journal in 2014.
+
+123
+00:11:02,840 --> 00:11:08,800
+Bij deze waarnemingen werd overigens ook gebruik gemaakt van onze Westerbork synthese radiotelescoop.
+
+124
+00:11:14,020 --> 00:11:21,120
+Behalve een afname in radiostraling werd ook gezien dat de hoeveelheid gamma straling van de pulsar juist toe was genomen.
+
+125
+00:11:22,120 --> 00:11:25,440
+Sindsdien is er wat vreemds aan de hand met deze pulsar.
+
+126
+00:11:25,440 --> 00:11:32,820
+Dat kunnen we met een geluidsvoorbeeld illustreren, maar dan moet ik er wel bij zeggen dat dit door mij gefingeerd is.
+
+127
+00:11:33,000 --> 00:11:37,440
+Al zal ik mijn best doen het in de buurt te laten komen van hoe het echt zou kunnen klinken.
+
+128
+00:11:38,440 --> 00:11:45,920
+Een rotatieperiode van 1,69 milliseconden, dat betekent een frequentie van 592 hertz.
+
+129
+00:11:46,800 --> 00:11:48,440
+Dat is een onaangename pieptoon.
+
+130
+00:11:48,440 --> 00:11:57,000
+Om het realistisch te laten klinken heb ik als golfvorm precies één omwenteling van de eerder gehoorde Vela-pulsar genomen.
+
+131
+00:11:57,660 --> 00:12:05,440
+Als we lang genoeg naar deze PSRJ1023 plus 0038 pulsar luisteren, dan horen we dit.
+
+132
+00:12:05,440 --> 00:12:18,860
+Af en toe neemt de helderheid van de radiostraling van de pulsar plots klap sterk af.
+
+133
+00:12:19,360 --> 00:12:23,680
+Om dan weer op onvoorspelbare momenten terug te keren naar het oorspronkelijke niveau.
+
+134
+00:12:24,680 --> 00:12:31,480
+Dit fenomeen kreeg een eigen naam, TMSP, wat staat voor Transitional Millisecond Pulsar.
+
+135
+00:12:31,480 --> 00:12:37,720
+Dat het een milliseconden pulsar is, heeft te maken met die idioothoge rotatiesnelheid.
+
+136
+00:12:38,660 --> 00:12:44,660
+En Transitional staat uiteraard voor het heen en weer schakelen van straling die bij deze pulsar gemeten wordt.
+
+137
+00:12:45,120 --> 00:12:47,840
+Een transitie van de ene naar de andere modus.
+
+138
+00:12:48,880 --> 00:12:55,660
+Beide modi duren doorgaans maar een paar minuten en schakelen bijna in één keer van de ene naar de andere modus.
+
+139
+00:12:55,660 --> 00:13:06,280
+In juni van 2021 werd gedurende twee nachten met een grote hoeveelheid telescopen, zowel op aarde als in de ruimte, gekeken naar deze pulsar.
+
+140
+00:13:07,400 --> 00:13:13,740
+Er werden in dat betrekkelijk korte tijdsbestek maar liefst 280 transities in de straling waargenomen.
+
+141
+00:13:13,740 --> 00:13:22,140
+Er wordt nu onderscheid gemaakt tussen een high-modus, waarin de pulsar in röntgen, ultraviolet en zichtbaar licht uitzendt,
+
+142
+00:13:22,240 --> 00:13:26,740
+en een low-modus, waarin de pulsar juist vooral in het radiobereik uitzendt.
+
+143
+00:13:27,780 --> 00:13:32,440
+Om goed te kunnen kijken wat er nou precies gebeurt, waren dus verschillende telescopen nodig.
+
+144
+00:13:33,140 --> 00:13:37,560
+Een radiotelescoop op aarde kan dan zien wat er in het radiobereik gebeurt,
+
+145
+00:13:37,560 --> 00:13:42,640
+terwijl een röntgensatelliet kan meten hoe de röntgenintensiteit over de tijd wisselt.
+
+146
+00:13:42,640 --> 00:13:48,240
+Voor de röntgenwaarnemingen werd gebruik gemaakt van de XMM-Newton-satelliet.
+
+147
+00:13:48,820 --> 00:13:53,640
+Voor de radiowaarnemingen werd onder andere gebruik gemaakt van de ALMA-telescoop in Chili.
+
+148
+00:13:54,920 --> 00:14:02,680
+Vorig jaar verscheen over deze multigolflengte-waarneemsessie een artikel in Astronomy & Astrophysics met de titel
+
+149
+00:14:02,680 --> 00:14:11,760
+Matter ejections behind the highs and lows of the transitional millisecond pulsar PSRJ1023 plus 0038.
+
+150
+00:14:11,760 --> 00:14:17,480
+Heel mooi is dat in alle waarnemingen op alle verschillende frequentiebanden gezien kan worden
+
+151
+00:14:17,480 --> 00:14:20,360
+dat de pulsar van de ene modus op de andere overschakelt.
+
+152
+00:14:22,060 --> 00:14:29,620
+Hoofdauteur Maria-Christina Baglio legt in het artikel uit wat er waarschijnlijk gebeurt bij deze enigmatische pulsar.
+
+153
+00:14:29,620 --> 00:14:39,800
+De transitie van de ene naar de andere modus en weer terug heeft te maken met het samenspel van de pulsar wind en de materie die naar de pulsar wordt toegetrokken.
+
+154
+00:14:40,980 --> 00:14:45,880
+We zeiden in het begin al dat deze pulsar om een reguliere ster heen draait.
+
+155
+00:14:45,880 --> 00:14:52,720
+Door de immense zwaartekracht van de pulsar trekt deze materie van die reguliere ster naar zich toe.
+
+156
+00:14:53,560 --> 00:14:57,880
+Hierdoor ontstaat rond de pulsar, net als bij een zwart gat, een accretieschijf.
+
+157
+00:14:58,780 --> 00:15:00,280
+Mag het in het Nederlands?
+
+158
+00:15:00,500 --> 00:15:05,260
+Dat kunt u zien als een soort platte wolk van gas en stof die om de pulsar hangt.
+
+159
+00:15:06,540 --> 00:15:15,220
+Dit gas en stof is door de zwaartekracht van de pulsar uit de omgeving gestolen en dus in dit geval afkomstig van die andere reguliere ster.
+
+160
+00:15:15,220 --> 00:15:27,240
+In de lage radiosterke modus, die ongeveer 20 tot 30 procent van de tijd duurt, wordt aangetrokken materie in een dunne straalstroom weggeslingerd van de pulsar.
+
+161
+00:15:28,060 --> 00:15:36,580
+De omgeving van de pulsar is dan grotendeels transparant voor radiostraling, waardoor we die goed kunnen waarnemen met onze telescopen op aarde.
+
+162
+00:15:37,420 --> 00:15:45,000
+Maar als een deel van de aangetrokken materie dichter bij de pulsar komt, wordt deze materie sterk verhit door de pulsar wind.
+
+163
+00:15:45,220 --> 00:15:53,500
+Deze pulsar wind bestaat uit geladen deeltjes die met een aanzienlijk deel van de lichtsnelheid van de pulsar weggeslingerd worden.
+
+164
+00:15:54,180 --> 00:15:56,740
+We noemen dat relativistische snelheden.
+
+165
+00:15:56,740 --> 00:16:07,020
+De hoge energie van de pulsar wind warmt de aangetrokken materie op, waardoor deze begint te gloeien in het röntgen-, gamma- en optisch bereik.
+
+166
+00:16:08,160 --> 00:16:10,380
+Dit is de high-modus van de pulsar.
+
+167
+00:16:10,380 --> 00:16:20,220
+De gloeiende accretie wolk om de pulsar houdt radiostraling dan tijdelijk tegen, in deze 70 tot 80 procent van de tijd.
+
+168
+00:16:20,980 --> 00:16:29,120
+Maar deze situatie is onhoudbaar en uiteindelijk blaast de pulsar wind de opgloeiende gas- en stofwolk weer weg van zich af.
+
+169
+00:16:30,060 --> 00:16:32,880
+Daarmee komt de pulsar weer in de lage modus terecht.
+
+170
+00:16:32,880 --> 00:16:39,760
+Waarom dit alles zo willekeurig heen en weer schakelt is nog niet goed duidelijk.
+
+171
+00:16:39,980 --> 00:16:46,320
+Maar we zijn in ieder geval weer een stapje dichter bij het begrijpen van transitionele milliseconden pulsars.
+
+172
+00:16:46,600 --> 00:16:47,300
+Maakt niet uit, oké.
+
+173
+00:16:47,300 --> 00:16:57,500
+De hoop is nu gevestigd op de European Southern Observatory's Extremely Large Telescope in Chili, die vanaf 2028 waarnemingen kan gaan doen.
+
+174
+00:16:58,340 --> 00:17:03,660
+Dit is overigens geen radiotelescoop, maar een optische en infrarode telescoop.
+
+175
+00:17:04,520 --> 00:17:13,600
+Dit wordt nogal een indrukwekkende bedoening met een 39 meter brede spiegel, die door adaptieve optiek haarscherpe blaadjes moet gaan opleveren.
+
+176
+00:17:13,600 --> 00:17:21,460
+En dan zijn we de 1 september deadline van onze verloting gepasseerd.
+
+177
+00:17:21,600 --> 00:17:25,660
+Ik kan natuurlijk wel doen alsof ik nu live vijf winnaars ga trekken.
+
+178
+00:17:26,020 --> 00:17:32,140
+Maar de waarheid is dat ik mijn dochter al op precies 1 september het Python script heb laten uitvoeren.
+
+179
+00:17:32,240 --> 00:17:33,240
+Dat het zo makkelijk kan.
+
+180
+00:17:33,240 --> 00:17:42,100
+Met de quantum random willekeurigheidsgenerator in Australië werden uit de 65 inzendingen de volgende vijf gelukkigen geselecteerd,
+
+181
+00:17:42,420 --> 00:17:48,280
+die een gesigneerd exemplaar van het boek Wat is ruimte waard van Marjolein van Heemstra zullen ontvangen.
+
+182
+00:17:48,280 --> 00:18:03,920
+Ik zal snel contact opnemen om de adressen te bemachtigen waar de boeken naartoe kunnen worden gestuurd.
+
+183
+00:18:04,540 --> 00:18:05,220
+Gefeliciteerd.
+
+184
+00:18:05,820 --> 00:18:07,900
+En voor iedereen tot de volgende keer.
+
+185
+00:18:07,900 --> 00:18:08,900
+Gefeliciteerd.
+

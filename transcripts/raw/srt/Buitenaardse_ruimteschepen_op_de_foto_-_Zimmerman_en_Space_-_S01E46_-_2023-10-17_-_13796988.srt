@@ -1,0 +1,520 @@
+1
+00:00:00,000 --> 00:00:02,360
+U luistert naar Zimmerman & Space.
+
+2
+00:00:02,760 --> 00:00:08,880
+Het is geen geheim dat de sterrenhemel anno 2023 vervuild wordt door satellieten.
+
+3
+00:00:09,460 --> 00:00:12,780
+Ook hangt er een koepel rond onze planeet van ruimte puin.
+
+4
+00:00:14,200 --> 00:00:18,540
+Van verf, snippers en klein gruis tot en met defecte satellieten.
+
+5
+00:00:21,440 --> 00:00:27,360
+Nou lijkt het misschien dat deze aflevering weer zo'n zeur verhaal wordt over dat we onze troep moeten opruimen.
+
+6
+00:00:27,460 --> 00:00:29,540
+Maar het wordt echt iets heel anders.
+
+7
+00:00:29,540 --> 00:00:30,660
+Oh gelukkig.
+
+8
+00:00:30,820 --> 00:00:36,040
+Dus u kunt uw hand weer wegbewegen van de stopknop en rustig achterover gaan zitten.
+
+9
+00:00:36,960 --> 00:00:43,040
+Laten we dat achterover zitten doen op een mooie warme avond in onze gedachten in onze achtertuin.
+
+10
+00:00:44,020 --> 00:00:48,420
+Daar kijken we vanuit onze comfortabele tuinstoel naar de sterrenhemel.
+
+11
+00:00:49,120 --> 00:00:54,660
+Misschien heeft u wel een kopje thee meegenomen of heeft de kat van de buren op uw schoot plaatsgenomen.
+
+12
+00:00:54,660 --> 00:01:01,240
+Boven ons die prachtige zwarte hemelkoepel met twinkelende sterren en hier en daar een planeet.
+
+13
+00:01:01,240 --> 00:01:11,200
+Als een satelliet, een kunstmaan, langzaam boven ons hoofd langs de hemel trekt, zien we zonlicht dat gereflecteerd wordt door zo'n satelliet en ons oog bereikt.
+
+14
+00:01:12,080 --> 00:01:15,180
+Zo kan zo'n satelliet dan ook verdwijnen in de aardschaduw.
+
+15
+00:01:15,180 --> 00:01:26,700
+Stel nou dat u met uw denkbeeldige, waanzinnig krachtige achtertuintelescoop ziet hoe een verfsnipper in een baan van onze planeet heel even wat zonlicht reflecteert.
+
+16
+00:01:27,840 --> 00:01:33,620
+Het geval draait langzaam om haar as, dus het is een zwak lichtflitsje van een paar seconden of korter.
+
+17
+00:01:33,620 --> 00:01:41,600
+Precies dit nu is een van de problemen die astronomen ondervinden bij het waarnemen van een heel raadselachtig fenomeen.
+
+18
+00:01:41,840 --> 00:01:44,560
+De FT of Fast Transient.
+
+19
+00:01:45,000 --> 00:01:52,560
+In tegenstelling tot de Fast Radio Bursts die al meerdere malen langs zijn gekomen in deze reeks astronomische verhandelingen,
+
+20
+00:01:52,700 --> 00:01:56,060
+zijn Fast Transients gewoon waarneembaar in zichtbaar licht.
+
+21
+00:01:56,060 --> 00:02:04,960
+De zoektocht naar Fast Transients beperkt zich tot objecten die minder dan een dag licht uitstralen in het zichtbare gedeelte van het spectrum.
+
+22
+00:02:05,840 --> 00:02:10,460
+En wat heeft dit alles met verfsnippers in een baan rond onze planeet te maken?
+
+23
+00:02:10,740 --> 00:02:12,240
+Ja, dat is de vraag.
+
+24
+00:02:12,240 --> 00:02:18,200
+Nou, het is reuze lastig geworden om Fast Transients waar te nemen sinds 1957,
+
+25
+00:02:18,620 --> 00:02:21,820
+toen de eerste kunstmaand, de Sputnik, gelanceerd werd,
+
+26
+00:02:21,820 --> 00:02:26,600
+omdat er sindsdien in toenemende mate valse positieven worden waargenomen,
+
+27
+00:02:26,860 --> 00:02:31,460
+die veroorzaakt worden door reflecties van zonlicht op van de aarde afkomstige troep.
+
+28
+00:02:32,260 --> 00:02:38,900
+Veel van deze objecten in een baan rond onze aarde zijn te klein om met een radarsignaal als zodanig te identificeren.
+
+29
+00:02:39,500 --> 00:02:43,780
+De pogingen om Fast Transients te vinden zijn dus ook zeer beperkt.
+
+30
+00:02:43,940 --> 00:02:44,920
+Oh, dat is niet best.
+
+31
+00:02:44,920 --> 00:02:53,080
+Een voorbeeld waar Fast Transients als bijvangst opdoken in de gegevens is bijvoorbeeld de Deep Lens Survey uit 2004.
+
+32
+00:02:53,900 --> 00:03:00,080
+In deze survey werden alle in lichtsterkte variabele objecten geregistreerd tot magnitude 24.
+
+33
+00:03:00,580 --> 00:03:02,380
+Dat is heel erg lichtzwak.
+
+34
+00:03:02,520 --> 00:03:03,480
+Ik ben het even kwijt.
+
+35
+00:03:03,660 --> 00:03:06,260
+Misschien aardig om het even in perspectief te brengen.
+
+36
+00:03:06,500 --> 00:03:06,820
+Oké.
+
+37
+00:03:06,980 --> 00:03:11,180
+De zon heeft magnitude min 27, de volle maan min 13.
+
+38
+00:03:11,180 --> 00:03:17,420
+Dat verschil in magnitude staat voor machten van ongeveer 2.5.
+
+39
+00:03:17,540 --> 00:03:18,860
+Pak de rekenmachine er maar bij.
+
+40
+00:03:19,160 --> 00:03:24,100
+Dus de zon is 2.5 tot de macht 14, dat is het verschil keer helderder dan de maan.
+
+41
+00:03:24,300 --> 00:03:26,800
+En dat komt neer op ongeveer 400.000 keer.
+
+42
+00:03:27,120 --> 00:03:27,560
+Inderdaad.
+
+43
+00:03:27,700 --> 00:03:32,660
+Uw oog stopt er afhankelijk van uw lichamelijke gesteldheid en de plaats waar u staat waar te nemen,
+
+44
+00:03:32,800 --> 00:03:34,300
+rond de magnitude 3 mee.
+
+45
+00:03:35,600 --> 00:03:39,000
+Lichtzwakkere objecten kunt u dan niet meer waarnemen met het blote oog.
+
+46
+00:03:39,000 --> 00:03:45,320
+In de Deep Lens Survey werden drie opmerkelijke fast transients gezien,
+
+47
+00:03:45,480 --> 00:03:47,340
+die iets meer dan een kwartier duurden.
+
+48
+00:03:47,900 --> 00:03:52,080
+De auteurs van het artikel hierover hebben wel suggesties voor wat de oorzaak van deze
+
+49
+00:03:52,080 --> 00:03:54,640
+kortdurende lichtflitser zou kunnen zijn geweest,
+
+50
+00:03:54,820 --> 00:03:58,820
+maar er meer vergelijkbaar onderzoek is nodig om er uitsluitsel over te geven.
+
+51
+00:03:59,040 --> 00:04:00,320
+Ja, daar kon we op wachten.
+
+52
+00:04:00,320 --> 00:04:03,140
+En het interessante is nu dat onderzoek is gedaan.
+
+53
+00:04:03,300 --> 00:04:09,380
+En daarmee zijn we aangekomen bij een opmerkelijk gebeuren dat ruim 70 jaar geleden werd vastgelegd.
+
+54
+00:04:09,380 --> 00:04:21,620
+Op 12 april 1950 werd een deel van de sterrenhemel gefotografeerd met de 48 inch Schmidt-Cassegrain-telescoop van het Mount Palomar Observatorium.
+
+55
+00:04:22,280 --> 00:04:28,640
+Met een tussenpoos van ongeveer een uur werden foto's gemaakt door hetzelfde deel van de noordelijke hemel lang te belichten.
+
+56
+00:04:28,640 --> 00:04:35,100
+De ene foto werd dan gemaakt in het rode gedeelte van het licht met een Kodak 103AE plaat,
+
+57
+00:04:35,520 --> 00:04:40,080
+en de andere in het blauwe gedeelte van het licht met een Kodak 103AO plaat.
+
+58
+00:04:40,200 --> 00:04:40,880
+Tuurlijk!
+
+59
+00:04:40,980 --> 00:04:47,340
+Deze oorspronkelijke analoge foto's, waarop objecten tot ongeveer magnitude 21 vast werden gelegd,
+
+60
+00:04:47,520 --> 00:04:53,600
+werden 70 jaar later gedigitaliseerd en met software vergeleken als onderdeel van project FASCO.
+
+61
+00:04:53,600 --> 00:04:59,420
+Dat staat voor Vanishing and Appearing Sources During a Century of Observations.
+
+62
+00:05:00,340 --> 00:05:09,140
+FASCO is een crowdsourced of citizen science project om variabele gebeurtenissen in een eeuw aan waarnemingen op te sporen en in kaart te brengen.
+
+63
+00:05:10,080 --> 00:05:12,840
+In dit project wordt dus gezocht naar alles wat knippert,
+
+64
+00:05:14,260 --> 00:05:19,040
+inclusief satellieten van aardse makelei, asteroïden, exolasers,
+
+65
+00:05:19,040 --> 00:05:23,960
+satellieten van voor de lancering van de Sputnik en verdwijnende sterren.
+
+66
+00:05:25,300 --> 00:05:29,680
+Als u deze laatste zin uw wenkbrauwen niet iets omhoog deed bewegen,
+
+67
+00:05:29,920 --> 00:05:33,680
+gebruikt u deze podcast waarschijnlijk vooral om lekker bij in slaap te vallen.
+
+68
+00:05:35,120 --> 00:05:41,540
+Dat is natuurlijk ook prima, maar exolasers en pre-Sputnik-kunstmanen?
+
+69
+00:05:42,400 --> 00:05:45,460
+Dan hebben we het over buitenaardse technologieën.
+
+70
+00:05:45,460 --> 00:05:50,380
+Hier wordt inderdaad serieus naar gezocht door astronomen.
+
+71
+00:05:51,120 --> 00:05:56,280
+En op een foto van 12 april 1950 werden negen lichtpuntjes aangetroffen,
+
+72
+00:05:56,520 --> 00:05:59,280
+die op de foto daarna niet meer werden gezien.
+
+73
+00:05:59,400 --> 00:06:00,900
+Dat kan je je toch niet voorstellen?
+
+74
+00:06:01,220 --> 00:06:04,080
+En ook niet in de waarnemingen van de 70 jaar daarna.
+
+75
+00:06:04,760 --> 00:06:07,700
+Want als we weten waar aan de hemel iets is gebeurd,
+
+76
+00:06:07,700 --> 00:06:13,640
+dan is het natuurlijk redelijk eenvoudig om in latere foto's op exact dezelfde plek te kijken.
+
+77
+00:06:13,640 --> 00:06:16,980
+Maar niks te zien dus.
+
+78
+00:06:17,860 --> 00:06:22,800
+Negen lichtbronnen vlak bij elkaar, superlichtzwak en daarna verdwenen.
+
+79
+00:06:24,240 --> 00:06:30,600
+Hoofdonderzoeker is Beatrice Villaruel van het Nordic Institute for Theoretical Physics in Zweden.
+
+80
+00:06:31,540 --> 00:06:35,200
+Van haar hand is ook het artikel dat hierover werd gepubliceerd met de titel
+
+81
+00:06:35,200 --> 00:06:40,520
+Exploring 9 Simultaneously Occuring Transients on April 12, 1950.
+
+82
+00:06:42,360 --> 00:06:45,780
+In goed Sherlock Holmes gebruik kunnen we natuurlijk kijken
+
+83
+00:06:45,780 --> 00:06:49,260
+of we voor de hand liggende oorzaken misschien kunnen uitsluiten.
+
+84
+00:06:50,000 --> 00:06:54,940
+Omdat de foto uit 1950 is, voordat de eerste kunstmaan werd gelanceerd,
+
+85
+00:06:54,940 --> 00:07:00,220
+kunnen we ruimtepuin van menselijke oorsprong en aardse kunstmanen geheel uitsluiten
+
+86
+00:07:00,220 --> 00:07:02,940
+als oorzaak van deze merkwaardige gebeurtenis.
+
+87
+00:07:02,940 --> 00:07:05,340
+Lensflare dan misschien?
+
+88
+00:07:06,140 --> 00:07:09,160
+De astronomen die de foto bestuderen sluiten dit uit,
+
+89
+00:07:09,320 --> 00:07:14,860
+omdat de negen puntjes wel heel precies op één locatie op de foto vlak bij elkaar voorkomen
+
+90
+00:07:14,860 --> 00:07:17,640
+en niet de juiste vorm hebben voor lensflare.
+
+91
+00:07:18,220 --> 00:07:20,240
+Het zijn echt puntbronnen namelijk.
+
+92
+00:07:21,840 --> 00:07:22,940
+Radioactiviteit dan misschien?
+
+93
+00:07:23,220 --> 00:07:24,540
+Of kosmische straling?
+
+94
+00:07:24,680 --> 00:07:25,380
+Of muonen?
+
+95
+00:07:26,180 --> 00:07:29,680
+Het kan toch dat deeltjes de fotografische plaat hadden getroffen?
+
+96
+00:07:29,680 --> 00:07:36,960
+Het interessante is dat de gebruikte fotografische plaat van Kodak hier grotendeels bescherming voor kende.
+
+97
+00:07:38,420 --> 00:07:41,800
+Misschien dan schade door de oude leeftijd van de foto's?
+
+98
+00:07:42,040 --> 00:07:43,380
+Of menselijk vuil?
+
+99
+00:07:44,200 --> 00:07:46,200
+Helemaal uit te sluiten is dat niet.
+
+100
+00:07:46,900 --> 00:07:50,860
+Daarvoor zou de plaat in kwestie eerst onder de microscoop moeten worden onderzocht.
+
+101
+00:07:50,860 --> 00:07:57,240
+Maar de puntvorm van alle negen lichtpunten doet toch ook vermoeden dat dit niet de oorzaak zal zijn?
+
+102
+00:07:58,100 --> 00:08:03,680
+Bovendien is er zo meteen nog een stukje informatie wat ook wel heel erg wijst in een andere richting.
+
+103
+00:08:04,680 --> 00:08:05,940
+Meteoren misschien dan?
+
+104
+00:08:06,680 --> 00:08:09,920
+Die zijn inderdaad maar één moment aanwezig en daarna nooit meer.
+
+105
+00:08:09,920 --> 00:08:16,920
+Maar de foto werd maar liefst vijftig minuten belicht en dan zouden meteoren zeker strepen en geen stipjes hebben moeten veroorzaken.
+
+106
+00:08:18,080 --> 00:08:28,920
+In het begin hadden we het over fast transients, maar het is wel zeer vreemd dat deze op negen punten naast elkaar in één keer voorkomen in een heel klein gebiedje aan de sterrenhemel.
+
+107
+00:08:29,780 --> 00:08:33,960
+Heel klein betekent dan in een vierkantje van tien bij tien boogminuten.
+
+108
+00:08:33,960 --> 00:08:40,540
+Ter vergelijking, de diameter van de maan aan onze hemel is ongeveer dertig boogminuten of een halve graad.
+
+109
+00:08:41,260 --> 00:08:47,460
+En om het nog merkwaardiger te maken, verscheen precies deze maand nog een nieuw artikel in de pre-press met de titel
+
+110
+00:08:47,460 --> 00:08:51,120
+A bright triple transient that vanished within 50 minutes.
+
+111
+00:08:51,420 --> 00:08:57,560
+Van hoofdacteur Enrique Solano en onder andere diezelfde Beatrice Villaruel als co-acteur.
+
+112
+00:08:57,560 --> 00:09:08,040
+In dit artikel wordt op dezelfde wijze een flits van drie objecten beschreven die werd aangetroffen op een Mount Palomaar observatie van 19 juli 1952.
+
+113
+00:09:08,700 --> 00:09:14,040
+Ook deze drie objecten zijn op slechts één foto zichtbaar en in de zeventig jaar daarna niet meer.
+
+114
+00:09:14,840 --> 00:09:21,840
+Dat maakt de zaak wel extra merkwaardig, want nu hebben we dus twee verschillende, maar wel vergelijkbare gebeurtenissen.
+
+115
+00:09:22,860 --> 00:09:26,920
+Sommigen van u zullen misschien denken aan gravitatielenswerking.
+
+116
+00:09:26,920 --> 00:09:27,200
+Ja.
+
+117
+00:09:27,520 --> 00:09:35,740
+Hierbij kan het licht van één ster afgebogen worden door een zwaar object dat daarvoor ligt en meerdere keren aan de hemel verschijnen.
+
+118
+00:09:36,520 --> 00:09:42,260
+Dan lijken we te kijken naar afzonderlijke objecten, maar in werkelijkheid zien we dan één en hetzelfde object.
+
+119
+00:09:42,840 --> 00:09:47,620
+Het Einstein Cross in het sterrenbeeld Pegasus is een beroemd voorbeeld hiervan.
+
+120
+00:09:47,920 --> 00:09:54,620
+Maar ook deze hypothese is ernstig bedenkelijk voor de flitsjes uit 1950 en 1952.
+
+121
+00:09:54,620 --> 00:10:04,900
+Want als we naar het Einstein Cross kijken, dan zien we dit effect in een stukje hemel van nauwelijks twee boogseconden en kunnen we er jaren achter elkaar naar kijken.
+
+122
+00:10:05,700 --> 00:10:15,200
+De astronomen die zich hiermee bezighouden zien geen goede verklaring in gravitatielenswerking voor de vreemde groepjes van fast transients in de oude data.
+
+123
+00:10:15,200 --> 00:10:19,980
+Mogelijk kijken we hier dus naar een geheel nieuw fenomeen.
+
+124
+00:10:21,240 --> 00:10:24,780
+U kunt op dit moment zelf nog mee zoeken in de Fasco gegevens.
+
+125
+00:10:25,420 --> 00:10:28,880
+Een link naar de website vindt u in de show notes van deze podcast.
+
+126
+00:10:28,880 --> 00:10:35,500
+En als u denkt, dit zijn toch zeker de koplampen van een vloot van buitenaardse ruimtevaartuigen?
+
+127
+00:10:38,280 --> 00:10:41,340
+Tja, dat kunnen we inderdaad nog niet uitsluiten.
+
+128
+00:10:41,580 --> 00:10:43,060
+En wie kondigt je vandaag af?
+
+129
+00:10:43,200 --> 00:10:48,880
+Hoi, ik ben Maya en heb je nog vragen over het heelal? Mail dan naar handsimmerman.gmail.com
+
+130
+00:10:48,880 --> 00:10:50,760
+Tot de volgende keer.
+

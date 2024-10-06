@@ -1,0 +1,185 @@
+U luistert naar Zimmerman & Space.
+We hebben al wel eens eerder geluisterd naar een sonificatie van een pulsar.
+Weet u het nog?
+Dat was het geluid van de Vela-pulsar.
+Dit is een pulsar in het sterrenbeeld Vela met een rotatieperiode van 0,089 seconden.
+Deze pulsar is een restant van een supernova die zo'n 12.000 jaar geleden plaatsgevonden heeft.
+Het sterrenbeeld Vela is alleen voor wie helemaal in het zuiden van de Benelux een vrije zuidelijke horizon heeft, soms een klein stukje te zien.
+Voor de rest is het een sterrenbeeld voor het zuidelijk halfrond.
+Maar van die pulsar ziet u toch niks.
+Een pulsar is het eindstadium van bepaalde zwaardere sterren.
+Als er geen energie meer kan worden geproduceerd door kernfusie in zo'n zware ster, implodeert de kern van de ster.
+De theorie is dat de afzonderlijke protonen en elektronen dan samen een heleboel neutronen vormen die dicht op elkaar gepakt zitten.
+Dit imploderen kan dan weer gevolgd worden door een enorme supernova-explosie.
+Hierbij verliest de ster op leeftijd de meeste massa.
+Door dit krimpen en de wet van behoud van impulsmoment gaat de neutronenster dan veel sneller om haar as draaien.
+Een beetje als de schaatser die haar armen intrekt en sneller gaat draaien.
+Zo'n neutronensterretje is echt heel klein, zo'n 20 kilometer breed.
+Als deze ronddraaiende neutronensterne ook nog een sterk magneetveld kent,
+dan kan het zijn dat we deze als een snel ronddraaiende vuurtoren waarnemen vanaf de aarde.
+De bundels radiostraling die zo'n pulsar de hele tijd door het helal zwiept,
+zien we dan in de tijd steeds weer terugkeren en weggaan.
+In het geval van de Vela-pulsar dus elke 0,089 seconde.
+Dat is het geluid dat we eerder lieten horen.
+Een rotatietijd van 0,089 seconde, dat betekent een frequentie van 11 hertz.
+Een enkeling zal nu verbaasd zijn dat we dat kunnen horen,
+want leerden we niet bij biologie dat mensen pas geluid vanaf 20 hertz kunnen waarnemen?
+Ja, dat klopt. En toch kunt u het horen.
+Uw en mijn gehoor kunnen geen sinus van 11 hertz waarnemen.
+Een sinus is een zuivere toon zonder harmonische, zoals u nu hoort.
+Maar de sonificatie van de Vela-pulsar, die u nu hoort, is geen sinus
+en bevat dus een hoop harmonische boven de 11 hertz die wij wel degelijk kunnen horen.
+Als we de sonificatie van de Vela-pulsar in eind vertragen,
+kunt u horen dat de golf allerlei extra geluid bevat en een beetje als een hartslag klinkt.
+Het klinkt merkwaardig en zelfs ongeloofwaardig snel
+dat een complete neutronenster 11 keer per seconde rond kan draaien.
+Ik twijfel hieraan.
+Het helpt misschien door te bedenken dat het hier een totaal ander soort natuurkunde betreft
+dan wij op aarde tegenkomen.
+Een neutronenster, en dus ook een pulsar, bestaat uit materie die op aarde niet voorkomt.
+De dichtheid van deze materie is zo hoog dat een theelepeltje pulsar een massa van ongeveer 5,5 maat 10 tot de 12 kilogram heeft.
+Het magneetveld aan het oppervlak van een pulsar heeft een veldsterkte van zo'n 10 tot de 11de Tesla.
+Ter vergelijking, in een laboratorium op aarde is het op dit moment mogelijk een magneetveld met een veldsterkte van 45 Tesla te produceren.
+Dat is al een ongezond hoge veldsterkte waarbij amfibieën gaan leviteren.
+Op grote afstand van een pulsar zouden de atomen van uw lichaam al uit elkaar getrokken worden door het magneetveld van de pulsar.
+Verder ondervindt een ronddraaiende neutronenster of pulsar in het heelal een verwaarloosbare hoeveelheid wrijving.
+Dus zo kan een pulsar miljoenen jaren ongestoord rondjes draaien.
+Het kan trouwens nog een stuk sneller dan de Vela-pulsar.
+Dat kan je je toch niet voorstellen?
+De Krab-pulsar draait 30 keer per seconde rondjes.
+Daar hoorde u een sonificatie van de Krab-pulsar.
+Nou, blij om dat te horen.
+En van de paar duizend pulsars die de astronomie inmiddels kent is PSR J17482446AD de snelste tot nu toe.
+Deze draait 716 keer per seconde om haar as.
+Alles goed en wel, maar een pulsar maakt toch geen geluid?
+Dit vraagt, denk ik, om wat extra uitleg.
+Ja, dat klopt.
+Daarom noemen we het een sonificatie.
+Daarbij nemen we een periodiek in de tijd veranderende waarde en zetten deze om naar voor mensen hoorbaar geluid.
+In het geval van de ratels en piepjes die we in deze aflevering tot nu toe hoorden, klopte steeds de x-as de tijd.
+Tenzij we natuurlijk de boel verdraagde.
+Maar wat we op de y-as zetten is de intensiteit van de radiostraling, maar dan als fluctuatie binnen ons gehoorbereik.
+Aha, zo zit het dus!
+Dat kunnen we uiteraard met van alles doen.
+Ik heb bijvoorbeeld wel eens een decibelmeter naast mijn bed gelegd om te registreren hoe hard ik eigenlijk snurk.
+De dB-meter meet dan om de zoveel seconden de geluidsdruk en bewaart deze getallen in een tabel.
+Dat levert, afhankelijk van hoe nerderig u bent, interessante waarnemingen op.
+Ben jij zo'n nerd, Hens?
+Allereerst kon ik zien dat de constante ruisvloer van onze slaapkamer hier in Bildhoven de hele nacht rond de 30 dba SPL ligt.
+Dat is nog steeds muisstil trouwens hoor.
+Oh, gelukkig!
+Bovendien slaapt mijn vrouw meestal met oordoppen in.
+Ja, omdat jij zo ligt te snurken, Hens.
+Mijn snurkepisodes duren minuten lang om dan weer abrupt te stoppen.
+Dat is waarschijnlijk als ik mij omdraai of wanneer de remslaap aanvangt.
+Een nightmeer?
+Een horrible nightmeer.
+Deze tabel met geluidsdrukwaardes gedurende 8 uur slaap kan ik verlengen met 16 uur stilte omdat ik overdag doorgaans niet snurk.
+Dat levert dan een periodiek in de tijd veranderende tabel met waardes op die ik weer hoorbaar kan maken.
+In plaats van een fluctuatie tussen de 30 db SPL, dus stilte van de nacht, en 72 db SPL, mijn hardste gesnurk, schaal ik de waardes naar een functie tussen de 0 en 1.
+Om dit echter hoorbaar te maken moet ik de tijd enorm versnellen.
+Dus deze piep is de intensiteit van mijn gesnurk binnen een etmaal, maar dan enorm versneld.
+Als we het wat vertragen is goed te horen dat het maar een deel van het etmaal betreft.
+Met zo'n willekeurig voorbeeld van een waarde in de tijd kunnen we doen wat we willen.
+Dwaai niet een beetje af van het onderwerp.
+Ik kan er bijvoorbeeld een melodietje mee spelen.
+Nu kan ik me best voorstellen dat u denkt, is dit echt een stukje muziek dat het gesnurk van Hens als synthesizer gebruikt?
+Bijvoorbeeld omdat het helemaal niet als snurken klinkt.
+Of omdat deze podcast zichzelf ook niet altijd even serieus neemt.
+Nou, om met dat eerste te beginnen.
+Ik kan ook wel een melodietje spelen met een snurk.
+Maar wat we met sonificatie doen is iets heel anders.
+Dan brengen we periodieke informatie binnen het bereik van het menselijk gehoor.
+In het snurkgeval is de waarneming in de tijd dusdanig versneld dat het voor ons gewoon als een toon klinkt.
+Bovendien heeft mijn decibelmeter, die naast mijn bed lag, nooit het geluid van mijn snurk vastgelegd.
+Alleen de geluidsdruk op bepaalde discrete momenten in de tijd.
+Ja, ja, nu begrijpen we het wel.
+En het klopt wel dat deze podcast zichzelf niet altijd even serieus neemt.
+Maar dit melodietje is wel degelijk gebaseerd op mijn snurktabel.
+Ik heb eenvoudig het geluidsbestand op een wavetable synthesizer in Ableton Live gesleept.
+Dat het voor u als veel werk klinkt, betekent verder niets.
+Ik experimenteer al ruim vijftig jaar met geluid en het is ook nog mijn werk.
+Dus kleine moeite om een beetje mijn best te doen voor deze podcast.
+Bovendien, de generatie van uw kinderen of kleinkinderen als u die überhaupt heeft,
+lacht om mijn gestuntel in Ableton Live en doet dit duizend keer sneller en beter.
+Dit hele intro heeft uiteraard weer te maken met een belangrijke wetenschappelijke ontdekking binnen de astronomie.
+Om dat te begrijpen kunnen we ons nog afvragen wat de wetenschappelijke waarde is van het luisteren naar bijvoorbeeld de Vela-pulser.
+En dat heeft te maken met hoe ons brein werkt.
+Een tabel met nummers zegt ons niet direct heel veel.
+Maar als we waarnemingen op zo'n wijze kunnen masseren dat we ze aan onze zintuigen kunnen voorleggen,
+is het eenvoudiger er conclusies over te trekken.
+Of misschien patronen in te herkennen.
+Dat doen we in feite ook met al die mooie foto's uit de astronomie.
+Dat zijn ook vaak de resultaten van heel lang belichten in een bereik dat voor onze ogen onzichtbaar is.
+En dan een en ander vertalen naar een mooi kleurenplaatje.
+Wauw!
+
+Het is dus een binair stelsel.
+Professor Hens.
+Ergens in juni 2013 werd gemeten dat deze pulsar radio stiller was geworden.
+Het artikel hierover verscheen met de titel
+A state change in the missing link binary pulsar system PSRJ1023 plus 0038.
+In the Astrophysical Journal in 2014.
+Bij deze waarnemingen werd overigens ook gebruik gemaakt van onze Westerbork synthese radiotelescoop.
+Behalve een afname in radiostraling werd ook gezien dat de hoeveelheid gamma straling van de pulsar juist toe was genomen.
+Sindsdien is er wat vreemds aan de hand met deze pulsar.
+Dat kunnen we met een geluidsvoorbeeld illustreren, maar dan moet ik er wel bij zeggen dat dit door mij gefingeerd is.
+Al zal ik mijn best doen het in de buurt te laten komen van hoe het echt zou kunnen klinken.
+Een rotatieperiode van 1,69 milliseconden, dat betekent een frequentie van 592 hertz.
+Dat is een onaangename pieptoon.
+Om het realistisch te laten klinken heb ik als golfvorm precies één omwenteling van de eerder gehoorde Vela-pulsar genomen.
+Als we lang genoeg naar deze PSRJ1023 plus 0038 pulsar luisteren, dan horen we dit.
+Af en toe neemt de helderheid van de radiostraling van de pulsar plots klap sterk af.
+Om dan weer op onvoorspelbare momenten terug te keren naar het oorspronkelijke niveau.
+Dit fenomeen kreeg een eigen naam, TMSP, wat staat voor Transitional Millisecond Pulsar.
+Dat het een milliseconden pulsar is, heeft te maken met die idioothoge rotatiesnelheid.
+En Transitional staat uiteraard voor het heen en weer schakelen van straling die bij deze pulsar gemeten wordt.
+Een transitie van de ene naar de andere modus.
+Beide modi duren doorgaans maar een paar minuten en schakelen bijna in één keer van de ene naar de andere modus.
+In juni van 2021 werd gedurende twee nachten met een grote hoeveelheid telescopen, zowel op aarde als in de ruimte, gekeken naar deze pulsar.
+Er werden in dat betrekkelijk korte tijdsbestek maar liefst 280 transities in de straling waargenomen.
+Er wordt nu onderscheid gemaakt tussen een high-modus, waarin de pulsar in röntgen, ultraviolet en zichtbaar licht uitzendt,
+en een low-modus, waarin de pulsar juist vooral in het radiobereik uitzendt.
+Om goed te kunnen kijken wat er nou precies gebeurt, waren dus verschillende telescopen nodig.
+Een radiotelescoop op aarde kan dan zien wat er in het radiobereik gebeurt,
+terwijl een röntgensatelliet kan meten hoe de röntgenintensiteit over de tijd wisselt.
+Voor de röntgenwaarnemingen werd gebruik gemaakt van de XMM-Newton-satelliet.
+Voor de radiowaarnemingen werd onder andere gebruik gemaakt van de ALMA-telescoop in Chili.
+Vorig jaar verscheen over deze multigolflengte-waarneemsessie een artikel in Astronomy & Astrophysics met de titel
+Matter ejections behind the highs and lows of the transitional millisecond pulsar PSRJ1023 plus 0038.
+Heel mooi is dat in alle waarnemingen op alle verschillende frequentiebanden gezien kan worden
+dat de pulsar van de ene modus op de andere overschakelt.
+Hoofdauteur Maria-Christina Baglio legt in het artikel uit wat er waarschijnlijk gebeurt bij deze enigmatische pulsar.
+De transitie van de ene naar de andere modus en weer terug heeft te maken met het samenspel van de pulsar wind en de materie die naar de pulsar wordt toegetrokken.
+We zeiden in het begin al dat deze pulsar om een reguliere ster heen draait.
+Door de immense zwaartekracht van de pulsar trekt deze materie van die reguliere ster naar zich toe.
+Hierdoor ontstaat rond de pulsar, net als bij een zwart gat, een accretieschijf.
+Mag het in het Nederlands?
+Dat kunt u zien als een soort platte wolk van gas en stof die om de pulsar hangt.
+Dit gas en stof is door de zwaartekracht van de pulsar uit de omgeving gestolen en dus in dit geval afkomstig van die andere reguliere ster.
+In de lage radiosterke modus, die ongeveer 20 tot 30 procent van de tijd duurt, wordt aangetrokken materie in een dunne straalstroom weggeslingerd van de pulsar.
+De omgeving van de pulsar is dan grotendeels transparant voor radiostraling, waardoor we die goed kunnen waarnemen met onze telescopen op aarde.
+Maar als een deel van de aangetrokken materie dichter bij de pulsar komt, wordt deze materie sterk verhit door de pulsar wind.
+Deze pulsar wind bestaat uit geladen deeltjes die met een aanzienlijk deel van de lichtsnelheid van de pulsar weggeslingerd worden.
+We noemen dat relativistische snelheden.
+De hoge energie van de pulsar wind warmt de aangetrokken materie op, waardoor deze begint te gloeien in het röntgen-, gamma- en optisch bereik.
+Dit is de high-modus van de pulsar.
+De gloeiende accretie wolk om de pulsar houdt radiostraling dan tijdelijk tegen, in deze 70 tot 80 procent van de tijd.
+Maar deze situatie is onhoudbaar en uiteindelijk blaast de pulsar wind de opgloeiende gas- en stofwolk weer weg van zich af.
+Daarmee komt de pulsar weer in de lage modus terecht.
+Waarom dit alles zo willekeurig heen en weer schakelt is nog niet goed duidelijk.
+Maar we zijn in ieder geval weer een stapje dichter bij het begrijpen van transitionele milliseconden pulsars.
+Maakt niet uit, oké.
+De hoop is nu gevestigd op de European Southern Observatory's Extremely Large Telescope in Chili, die vanaf 2028 waarnemingen kan gaan doen.
+Dit is overigens geen radiotelescoop, maar een optische en infrarode telescoop.
+Dit wordt nogal een indrukwekkende bedoening met een 39 meter brede spiegel, die door adaptieve optiek haarscherpe blaadjes moet gaan opleveren.
+En dan zijn we de 1 september deadline van onze verloting gepasseerd.
+Ik kan natuurlijk wel doen alsof ik nu live vijf winnaars ga trekken.
+Maar de waarheid is dat ik mijn dochter al op precies 1 september het Python script heb laten uitvoeren.
+Dat het zo makkelijk kan.
+Met de quantum random willekeurigheidsgenerator in Australië werden uit de 65 inzendingen de volgende vijf gelukkigen geselecteerd,
+die een gesigneerd exemplaar van het boek Wat is ruimte waard van Marjolein van Heemstra zullen ontvangen.
+Ik zal snel contact opnemen om de adressen te bemachtigen waar de boeken naartoe kunnen worden gestuurd.
+Gefeliciteerd.
+En voor iedereen tot de volgende keer.
+Gefeliciteerd.

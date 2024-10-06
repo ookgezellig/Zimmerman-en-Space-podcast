@@ -1,0 +1,584 @@
+1
+00:00:00,640 --> 00:00:03,300
+U luistert naar Zimmerman & Space.
+
+2
+00:00:03,920 --> 00:00:07,800
+Geduldig wachten we op die grote doorbraak van de ruimtetelescopen.
+
+3
+00:00:08,260 --> 00:00:13,040
+Het bericht dat leven op een ander hemellichaam dan onze aarde zou kunnen bestaan.
+
+4
+00:00:13,880 --> 00:00:19,000
+Dit immers opent de deur naar de mogelijkheid dat er toch intelligent leven in dit helal voorkomt.
+
+5
+00:00:19,740 --> 00:00:22,220
+Aangezien het op deze planeet maar niet lijkt te lukken.
+
+6
+00:00:26,840 --> 00:00:29,300
+En hoe moeilijk kan die zoektocht zijn?
+
+7
+00:00:30,000 --> 00:00:34,920
+Richt de James Webb ruimtetelescoop op alle hoopvolle kandidaat exoplaneten?
+
+8
+00:00:35,540 --> 00:00:38,420
+Fotografeer hun dampkringen en kom maar op met het nieuws.
+
+9
+00:00:42,420 --> 00:00:44,080
+Dat zouden we kunnen denken.
+
+10
+00:00:44,780 --> 00:00:50,600
+En ik moet bekennen dat ik met het einde van mijn eigen bestaan meer in zicht dan een halve eeuw geleden...
+
+11
+00:00:50,600 --> 00:00:53,740
+toch ook af en toe iets van ongeduld beproef bij mezelf.
+
+12
+00:00:54,760 --> 00:00:57,340
+Maar zo gemakkelijk is het natuurlijk niet.
+
+13
+00:00:57,340 --> 00:01:04,180
+Waar neemtijd met de James Webb ruimtetelescoop is kostbaar en heus niet onbeperkt beschikbaar...
+
+14
+00:01:04,180 --> 00:01:06,540
+voor de zoektocht naar leven op exoplaneten.
+
+15
+00:01:07,460 --> 00:01:12,800
+Dus alhoewel de mogelijkheid en theorie bestaat dat we nu beschikken over de apparatuur...
+
+16
+00:01:12,800 --> 00:01:15,800
+om biosignaturen op andere planeten te detecteren...
+
+17
+00:01:15,800 --> 00:01:20,260
+is het meer dan ooit zaak om onze tijd efficiënt te gebruiken.
+
+18
+00:01:21,180 --> 00:01:25,000
+Met het oog daarop ontwikkelden astronoom Cassandra Hall en collega's...
+
+19
+00:01:25,000 --> 00:01:29,400
+een nieuw protocol om de zoektocht wellicht wat succesvoller te maken.
+
+20
+00:01:30,260 --> 00:01:34,640
+Hun artikel hierover verscheen begin dit jaar in de pre-press met de titel...
+
+21
+00:01:34,640 --> 00:01:37,020
+een nieuwe definiënt van exoplanet-habilite.
+
+22
+00:01:37,540 --> 00:01:39,880
+Introducing de fotosynthetische habitable zone.
+
+23
+00:01:39,880 --> 00:01:43,000
+De fotosynthese bewoonbare zone.
+
+24
+00:01:43,720 --> 00:01:48,000
+De term bewoonbare zone, habitable zone, kende u misschien al.
+
+25
+00:01:48,840 --> 00:01:52,880
+Dat is de afstand tot een ster waarop een exoplaneet zich bevindt...
+
+26
+00:01:52,880 --> 00:01:56,620
+zodanig dicht bij die ster en zodanig ver er vanaf...
+
+27
+00:01:56,620 --> 00:01:58,700
+dat vloeibaar water een mogelijkheid is.
+
+28
+00:01:59,480 --> 00:02:02,200
+Dat zegt dan niet dat er daar vloeibaar water is...
+
+29
+00:02:02,200 --> 00:02:06,900
+maar in ieder geval dat als er water is dat het geen ijs is en ook niet gelijk verdampt.
+
+30
+00:02:08,280 --> 00:02:12,200
+Door deze eigenschap te combineren met de mogelijkheid tot fotosynthese...
+
+31
+00:02:12,980 --> 00:02:17,720
+verkleinen we de set van exoplaneten die kandidaten zijn voor de zoektocht naar leven.
+
+32
+00:02:18,480 --> 00:02:20,200
+Nu kan ik mij voorstellen dat u denkt...
+
+33
+00:02:20,960 --> 00:02:25,700
+dan gaan we er dus vanuit dat leven op een andere planeet heel erg lijkt op dat op aarde.
+
+34
+00:02:25,920 --> 00:02:27,200
+Compleet met planten.
+
+35
+00:02:28,000 --> 00:02:31,340
+Wie zegt bijvoorbeeld dat aliens prei en sla verbouwen?
+
+36
+00:02:32,200 --> 00:02:33,780
+Of af en toe een appeltje eten?
+
+37
+00:02:34,600 --> 00:02:38,060
+Dat is inderdaad een bekende tegenwerping van de theorie...
+
+38
+00:02:38,060 --> 00:02:41,500
+dat we bij de zoektocht naar buitenaards leven moeten zoeken naar leven...
+
+39
+00:02:41,500 --> 00:02:44,520
+dat overeenkomsten vertoont met dat op deze planeet.
+
+40
+00:02:45,180 --> 00:02:48,880
+Maar dan komen we weer aan bij waar deze aflevering ook mee begon.
+
+41
+00:02:49,480 --> 00:02:51,080
+We moeten naar iets zoeken...
+
+42
+00:02:51,080 --> 00:02:55,560
+en voorlopig is er nog geen enkel teken van leven gevonden op welke planeet dan ook.
+
+43
+00:02:56,900 --> 00:03:00,560
+Natuurlijk zou het fascinerend zijn om levende wezens te ontdekken...
+
+44
+00:03:00,560 --> 00:03:04,020
+die ammoniak of cyanide gebruiken voor hun stofwisseling.
+
+45
+00:03:04,780 --> 00:03:08,420
+Of kristallen die vreedzaam met elkaar coexisteren...
+
+46
+00:03:08,420 --> 00:03:10,820
+en toch ook intelligente gesprekken voeren.
+
+47
+00:03:12,580 --> 00:03:18,080
+Maar met zo weinig houvast naar de biosignatuur van zulke exotische vormen van leven...
+
+48
+00:03:18,080 --> 00:03:23,000
+kunnen we voorlopig beter onze muntjes zetten op het zoeken naar leven dat op het onze lijkt.
+
+49
+00:03:23,000 --> 00:03:27,680
+En fotosynthese is dan lang niet zo'n slechte gedachte.
+
+50
+00:03:28,540 --> 00:03:30,860
+Cassandra Hall zegt hierover...
+
+51
+00:03:30,860 --> 00:03:34,840
+leven heeft energie nodig om uit balans te blijven met de omgeving.
+
+52
+00:03:35,680 --> 00:03:40,340
+Voor bijna alle biomassa op aarde is fotosynthese de bron van deze energie.
+
+53
+00:03:41,340 --> 00:03:43,780
+Wat was ook weer fotosynthese?
+
+54
+00:03:45,040 --> 00:03:49,000
+Fotosynthese is het proces waarbij energie in zonlicht wordt gebruikt...
+
+55
+00:03:49,000 --> 00:03:51,720
+om koolstofdioxide om te zetten in glucose.
+
+56
+00:03:52,520 --> 00:03:56,000
+Zes koolstofdioxide moleculen en zes watermoleculen...
+
+57
+00:03:56,760 --> 00:04:00,000
+worden bij fotosynthese met behulp van een beetje energietoevoer...
+
+58
+00:04:00,560 --> 00:04:07,320
+omgezet in één glucosemolecuul, C6H12O6, en zes zuurstofmoleculen.
+
+59
+00:04:08,460 --> 00:04:13,000
+We zien fotosynthese in planten, bomen, algen en bij sommige bacteriën.
+
+60
+00:04:13,000 --> 00:04:18,840
+Organismen die aan fotosynthese doen worden fotoautotrof genoemd...
+
+61
+00:04:18,840 --> 00:04:22,040
+omdat ze zichzelf van energie voorzien en opbouwen...
+
+62
+00:04:22,040 --> 00:04:25,680
+op basis van met name water, koolstofdioxide en licht.
+
+63
+00:04:26,600 --> 00:04:30,560
+Deze organismen staan aan de basis van alle voedselketens op aarde.
+
+64
+00:04:31,260 --> 00:04:34,940
+En alhoewel sommigen van ons misschien niet al te veel tijd doorbrengen...
+
+65
+00:04:34,940 --> 00:04:37,000
+in de groenteafdeling van de lokale supermarkt...
+
+66
+00:04:37,000 --> 00:04:41,000
+of misschien zelfs rechtstreeks doorlopen naar de chips en de koekjes...
+
+67
+00:04:41,560 --> 00:04:46,320
+is al het aardse leven afhankelijk van fotosynthetiserende organismen.
+
+68
+00:04:47,040 --> 00:04:50,220
+Vanuit dit oogpunt ligt het voor de hand om onze zoektocht...
+
+69
+00:04:50,220 --> 00:04:54,000
+voorlopig in ieder geval te concentreren op bewoonbare zones rond sterren...
+
+70
+00:04:54,520 --> 00:04:56,720
+waar fotosynthese mogelijk zou kunnen zijn.
+
+71
+00:04:57,440 --> 00:05:00,340
+De set van kandidaat exoplaneten om naar te kijken...
+
+72
+00:05:00,340 --> 00:05:02,000
+wordt dan daadwerkelijk een stuk kleiner...
+
+73
+00:05:02,520 --> 00:05:05,100
+dan wanneer wij alleen naar vloeibaar water zouden zoeken.
+
+74
+00:05:05,100 --> 00:05:11,540
+Wat bijvoorbeeld afvalt zijn de planeten die in getijdenresonantie met hun ster verkeren...
+
+75
+00:05:11,540 --> 00:05:14,240
+en altijd dezelfde zijde naar hun ster richten.
+
+76
+00:05:15,280 --> 00:05:18,100
+Met name op de kortere afstanden tot een ster...
+
+77
+00:05:18,100 --> 00:05:20,120
+vinden we exoplaneten waar dit gebeurt.
+
+78
+00:05:20,640 --> 00:05:23,420
+Er is dan sprake van een permanente dagzijde...
+
+79
+00:05:23,420 --> 00:05:25,100
+en uiteraard ook een permanente nachtzijde.
+
+80
+00:05:26,260 --> 00:05:31,100
+Op de smalle band tussen dag en nacht zou uiteraard best leven kunnen voorkomen...
+
+81
+00:05:31,100 --> 00:05:35,940
+maar voor fotosynthese zijn dergelijke planeten minder goed uitgerust...
+
+82
+00:05:35,940 --> 00:05:38,240
+dan roterende planeten zoals onze aarde.
+
+83
+00:05:39,440 --> 00:05:43,120
+Idealiter is er sprake van een dag van 9 tot 11 uur...
+
+84
+00:05:43,120 --> 00:05:45,580
+volgens de auteurs van het eerder genoemde artikel.
+
+85
+00:05:46,380 --> 00:05:50,700
+Een ander aspect aan exoplaneten dat fotosynthese in de wielen kan rijden...
+
+86
+00:05:50,700 --> 00:05:51,700
+is de atmosfeer.
+
+87
+00:05:52,240 --> 00:05:55,060
+Een al te dik wolkendek houdt licht tegen...
+
+88
+00:05:55,060 --> 00:05:59,180
+waardoor het voor organisme aan het oppervlak lastig of zelfs onmogelijk wordt...
+
+89
+00:05:59,180 --> 00:06:00,780
+fotosynthese te bereiken.
+
+90
+00:06:01,380 --> 00:06:03,700
+In eerste instantie interessante exoplaneten...
+
+91
+00:06:04,560 --> 00:06:07,080
+zoals bijvoorbeeld TRAPPIST-1e...
+
+92
+00:06:07,080 --> 00:06:09,320
+vallen met deze nieuwe definitie af.
+
+93
+00:06:10,260 --> 00:06:12,760
+In het geval van TRAPPIST-1e...
+
+94
+00:06:12,760 --> 00:06:17,780
+omdat deze exoplanets hoogstwaarschijnlijk in baanresonantie met de ster verkeert...
+
+95
+00:06:17,780 --> 00:06:20,380
+en dus een permanente dag- en nachtzijde kent.
+
+96
+00:06:21,440 --> 00:06:26,520
+Sowieso valt een groot aantal exoplaneten rond zogenaamde rode dwergsterren af...
+
+97
+00:06:26,520 --> 00:06:28,060
+om precies dezelfde reden.
+
+98
+00:06:28,780 --> 00:06:32,180
+Dergelijke exoplaneten zijn eenvoudiger om aan te tonen...
+
+99
+00:06:32,180 --> 00:06:34,180
+vanwege hun snelle omlooptijd...
+
+100
+00:06:34,180 --> 00:06:37,640
+maar vallen dus buiten de fotosynthese bewoonbare zone.
+
+101
+00:06:37,640 --> 00:06:41,160
+Maar blijven er dan wel exoplaneten over...
+
+102
+00:06:41,160 --> 00:06:44,720
+waar de wetenschappers die de James Webb Ruimtetelescoop gebruiken...
+
+103
+00:06:44,720 --> 00:06:45,920
+op naar leven kunnen zoeken?
+
+104
+00:06:46,600 --> 00:06:47,380
+Zeker wel.
+
+105
+00:06:48,140 --> 00:06:50,980
+Een voorbeeld is Kepler-452b.
+
+106
+00:06:51,760 --> 00:06:54,520
+Deze exoplaneet vinden we in het sterrenbeeld Zwaan...
+
+107
+00:06:54,520 --> 00:06:57,680
+op een afstand van 1402 lichtjaar van de aarde.
+
+108
+00:06:58,460 --> 00:07:02,320
+Kepler-452b kennen we sinds 2015.
+
+109
+00:07:03,380 --> 00:07:07,080
+Deze exoplaneet heeft beslist overeenkomsten met onze aarde.
+
+110
+00:07:07,080 --> 00:07:11,600
+De radius is 1,63 keer die van onze planeet.
+
+111
+00:07:11,900 --> 00:07:14,940
+De omlooptijd is 385 aardse dagen.
+
+112
+00:07:15,480 --> 00:07:18,720
+En de temperatuur aan het oppervlak ligt rond het vriespunt.
+
+113
+00:07:19,620 --> 00:07:24,620
+Dat heeft ook te maken met de ster waarom Kepler-452b heen draait.
+
+114
+00:07:25,400 --> 00:07:28,660
+Die heeft een massa van 1,04 keer die van onze zon.
+
+115
+00:07:29,640 --> 00:07:35,060
+Dit Kepler-452b zonnestelsel is met een leeftijd van 6 miljard jaar...
+
+116
+00:07:35,060 --> 00:07:37,200
+een stuk ouder dan ons zonnestelsel.
+
+117
+00:07:37,320 --> 00:07:41,580
+Maar wellicht hebben de levende wezens op Kepler-452b...
+
+118
+00:07:41,580 --> 00:07:46,120
+hun belachelijke conflicten op basis van annexaties van stukken land...
+
+119
+00:07:46,120 --> 00:07:49,720
+en referenties aan niet bestaande onstoffelijke wezens...
+
+120
+00:07:49,720 --> 00:07:51,020
+aan de kant kunnen zetten...
+
+121
+00:07:51,020 --> 00:07:53,560
+en leven zij sindsdien vreedzaam naast elkaar.
+
+122
+00:07:53,560 --> 00:08:00,080
+Kepler-452b is een mooie kandidaat exoplaneet om waarneemtijd...
+
+123
+00:08:00,080 --> 00:08:02,760
+James Webb-ruimtetelescoop wordt te reserveren.
+
+124
+00:08:03,400 --> 00:08:06,460
+Dan kan gezocht worden naar biosignaturen.
+
+125
+00:08:07,300 --> 00:08:11,380
+Specifiek zijn dat de zuurstofbanden in het elektromagnetisch spectrum...
+
+126
+00:08:11,380 --> 00:08:14,480
+respectievelijk op 6,4 en 10 micrometer.
+
+127
+00:08:15,360 --> 00:08:18,480
+Maar ook, zoals Carl Sagan dat ooit beschreef...
+
+128
+00:08:18,480 --> 00:08:22,080
+lange termijn incompatibele gassen die in een atmosfeer voorkomen...
+
+129
+00:08:22,720 --> 00:08:25,220
+kunnen een veelbelovend teken van leven zijn.
+
+130
+00:08:25,220 --> 00:08:30,440
+U kunt dan denken aan het coexisteren van stikstofgas, methaan...
+
+131
+00:08:30,440 --> 00:08:32,340
+koolstofdioxide en waterdamp.
+
+132
+00:08:33,320 --> 00:08:38,160
+En tot slot ook verbrandingsproducten die in de natuur niet of nauwelijks voorkomen...
+
+133
+00:08:38,160 --> 00:08:42,300
+en wijzen op industriële revolutie en misschien zelfs luchtvervuiling.
+
+134
+00:08:42,560 --> 00:08:46,580
+Alhoewel dat laatste misschien een privilege van ons aardbewoners...
+
+135
+00:08:46,580 --> 00:08:49,960
+zal kunnen blijken te zijn geweest in de geschiedenis van dit heelal.
+
+136
+00:08:50,860 --> 00:08:54,820
+Er blijven in ieder geval genoeg exoplaneten over om naar leven op te zoeken.
+
+137
+00:08:56,120 --> 00:08:59,360
+Misschien nog een aardig laatste punt voor u om op te kou.
+
+138
+00:09:01,140 --> 00:09:05,720
+Wat nou als er in uw leven nooit buitenaards leven wordt gevonden?
+
+139
+00:09:06,360 --> 00:09:08,980
+Nog niet eens een veelbelovende biosignatuur.
+
+140
+00:09:09,780 --> 00:09:12,280
+Wat zou dat voor u persoonlijk betekenen?
+
+141
+00:09:12,940 --> 00:09:15,880
+Bent u al goed voorbereid op een dergelijke teleurstelling?
+
+142
+00:09:17,460 --> 00:09:22,180
+En combineer dat gevoel dan eens met het idee dat er na dit leven helemaal niets is.
+
+143
+00:09:22,180 --> 00:09:29,460
+Dat u in retrospect alleen een tijdelijk organisme was dat watteerde op de fotosynthetiserende biomassa.
+
+144
+00:09:30,360 --> 00:09:35,300
+Is dat niet meer dan genoeg reden om in het nu te leven en alles uit deze dag te halen?
+
+145
+00:09:39,080 --> 00:09:42,580
+Veel succes en plezier daarmee en tot de volgende keer.
+
+146
+00:09:42,580 --> 00:09:47,480
+TV Gelderland 2021
+

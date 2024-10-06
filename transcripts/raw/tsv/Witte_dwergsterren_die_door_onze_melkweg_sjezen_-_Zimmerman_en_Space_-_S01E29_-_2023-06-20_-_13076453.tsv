@@ -1,0 +1,254 @@
+start	end	text
+160	1940	Nu kan de les beginnen.
+2340	9280	Onze zon, een gewone ster, cirkelt in zo'n 230 miljoen jaar één keer rond het centrum van onze melkweg.
+10040	16340	En daarmee cirkelt dus ook onze planeet aarde in diezelfde tijd eenmaal rond het centrum van onze melkweg.
+16580	19860	Waar we dat superzware zwarte gat aantreffen, weet u nog?
+21700	27360	De vorige keer dat we dus ongeveer hier ten opzichte van het centrum van de melkweg waren,
+27360	30980	slenterden er nog dinosauriërs over het aardoppervlak.
+32560	37800	Die periode heet het Mesozoicum, het tijdperk van het middenleven.
+38700	42580	De Permtrias massa-extinctie hadden we gelukkig al achter de rug.
+44560	49580	Afhankelijk van waar u woont, ziet u uit uw raam misschien een veelde aan planten en bomen.
+49580	58620	Eiken, ypen, beuken, berken, varens, gras, klimop, Japanse duizendknoop, madeliefjes, krookense, appelbomen.
+59240	64660	Maar 230 miljoen jaar geleden zou u voornamelijk varens en koniveren gezien hebben.
+65300	68860	Wel vervelend als u destijds een hekel had aan koniveren.
+68860	87560	Er zijn voorlopig geen aanwijzingen dat onze zon zal afwijken van die geduldige baan rond het centrum van onze melkweg.
+88560	93920	En eerlijk gezegd zou het ook niet best zijn als we dat er nog eens als probleem bij zouden hebben op dit moment.
+93920	95480	Daar zit je niet op te wachten.
+95480	99620	Toch zijn er wel sterren die, ook al is het meestal niet vrijwillig,
+99800	105460	dwars tegen alles ingaan en als een soort kosmische kogels door onze melkweg heen razen.
+106540	109900	Onlangs werd er weer een aantal van dergelijke objecten gevonden.
+111020	113620	Voordat we naar het hoe en wat daarvan gaan kijken,
+113860	118900	is het misschien wel aardig te weten in hoeverre die vergelijking met een kogel hout snijdt.
+119120	119760	Heel interessant.
+119760	127480	Volgens medium.com schiet een gemiddelde kogel met 2736 kilometer per uur uit een pistool.
+128360	132000	Dus dat is 0,76 kilometer per seconde.
+132220	133960	Altijd nog sneller dan het geluid.
+135300	140060	De snelste echt weggeschoten militaire kogel die ik op het internet kon vinden,
+140280	142800	behaalde een snelheid van Mach 7.3.
+143260	146360	Dus dat is bijna 2,5 kilometer per seconde.
+146360	149920	De sterren waar ik het vandaag met u over wou hebben,
+150100	153240	scheren daadwerkelijk een stukje sneller door onze melkweg.
+154040	160340	De snelste van het stel schaes met 2.285 kilometer per seconde door onze melkweg.
+160340	163700	Dus dat is duizend keer sneller dan de snelste kogel.
+164460	168280	Een en ander kwam in juni van dit jaar in het nieuws op basis van het artikel
+168280	174060	The Fastest Stars in the Galaxy van auteur Karim El Badri en collega's.
+174060	180900	Zij vonden deze afwijkende sterren door een zoektocht in de catalogus van het Gaia ruimtevaartuig.
+181600	187540	Ook u kunt deze catalogus gratis raadplegen en er zelfs ADQL statements op loslaten
+187540	190200	en de resultaten downloaden naar uw computer.
+190880	196420	Als u ooit SQL statements op een database heeft losgelaten, ziet u snel wat er mogelijk is.
+197680	201540	En als u bij die laatste opmerking al afhaakt, niet getreurd.
+201540	202540	Oh, bless je.
+202740	209040	Er is ook de website ESA Sky, waar u in explorer-modus eindeloos kunt rondneuzen
+209040	212040	in echte foto's die van de sterrenhemel zijn gemaakt
+212040	217540	door allerlei verschillende ruimtevaartuigen of telescopen en op alle mogelijke frequentiebanden.
+219620	220540	En in andere nieuws...
+220540	225020	We worden door het huidige media-aanbod soms een beetje passief gemaakt.
+226020	229780	Maar u bent nieuwsgierig genoeg om naar deze podcast te luisteren,
+229880	234960	dus ook wellicht nieuwsgierig genoeg om zelf wat te gaan grasduinen in ESA Sky.
+235880	241200	Wat houdt u bijvoorbeeld tegen om uw scholieren eens een project te laten doen via ESA Sky?
+241900	247280	Laat ze in groepjes een object zoeken dat hen aanspreekt en er meer informatie over opzoeken.
+247280	252140	Waar staat het aan de sterrenhemel? Zouden we het met het blote oog kunnen zien?
+252780	256820	Wanneer is het ontdekt? Misschien kunnen ze er wel een spreekbeurt over houden.
+257560	261660	Een link naar ESA Sky vindt u in de show notes van deze aflevering.
+262520	266980	En mocht u daadwerkelijk een project met uw scholieren doen op basis van ESA Sky,
+267200	269420	dan hoor ik natuurlijk graag hoe dat verlopen is.
+269420	275380	Ik zit toevallig ook in de redactie van het kindertijdschrift over astronomie, de universum,
+275580	279380	dus als uw scholieren project het waard is om daarin gepubliceerd te worden,
+279500	281260	ben ik altijd bereid mee te denken.
+281400	282800	Nou, blij om dat te horen.
+283100	288180	El Badri en collega's zochten in de Gaia database naar heel specifieke objecten.
+288940	294940	De Gaia-satelliet werd al in 2013 gelanceerd en is geparkeerd in het L2 Lagrange-punt,
+295280	298340	waar we bijvoorbeeld ook de James Webb ruimtetelescoop vinden.
+298340	306100	Hier hangt deze telescoop afgeschermd van de zon om een driedimensionale map te maken van het heelal om ons heen.
+307080	310280	Een van de dingen die de Gaia-satelliet mogelijk maakt,
+310420	314700	is het in kaart brengen van de eigen beweging of proper motion van sterren.
+315200	317520	Zo op een avond als het helder weer is,
+317680	321240	lijken de sterren op een gefixeerde plaats aan de hemel te staan.
+321880	325980	En als u de sterrenhemel van vanavond vergelijkt met die van jaren geleden,
+325980	331600	dan ziet u, behalve wat meer lichtvervuiling en Starlink-satellieten, misschien geen veranderingen.
+332240	335900	Toch bewegen sterren ook zelf, de een wat meer dan de ander.
+336620	339540	Edmund Halley ontdekte dit in 1718,
+339780	345480	toen hij zag dat de positie van sommige heldere sterren afweek van wat de Griekse astronoom Hipparchus
+345480	347640	2000 jaar eerder had waargenomen.
+347640	352680	De ster met de grootste bekende eigen beweging is Barnards ster.
+353480	358820	Deze beweegt zo'n 10,3 boogseconde per jaar ten opzichte van de rest van de sterrenhemel.
+359540	364320	Met behulp van de Gaia-telescoop kunnen astronomen een enorme hoeveelheid gegevens
+364320	368540	over de tijd van zo'n 1800 miljoen objecten raadplegen.
+369340	372780	Door gegevens als eigen beweging en afstand te combineren,
+372780	377500	wordt duidelijk hoe de sterrenhemel om ons heen in drie dimensies werkt en verandert
+377500	380020	en ook wat de plaats van onze zon daarin is.
+380860	386980	El Badri zocht naar sterren met een grote eigen beweging of proper motion en een grote parallax.
+387820	393340	Tussen die twee begrippen, proper motion en parallax, zit een subtiel maar belangrijk verschil.
+394120	398040	De proper motion is hoe een ster over de tijd over de hemel kruipt
+398040	401340	en dus niet meer op de voorgaande positie terugkeert.
+401340	408440	Parallax is de schommeling die een ster vertoont ten opzichte van de ver weggelegen achtergrondsterren over de tijd.
+409560	414940	Specifiek kunnen we twee keer per jaar kijken en dan zullen sterren die dicht bij ons aan de hemel staan
+414940	420760	een grote parallax vertonen en na exact een jaar weer min of meer op dezelfde positie staan
+420760	422840	ten opzichte van de achtergrondsterren.
+423240	426300	Tenzij ze natuurlijk ook een eigen beweging vertonen.
+426300	433000	Als we die zoektocht van El Badri loslaten op de Gaia Data Release 3 catalogus,
+433240	436300	rolt er een tabel uit met 25 objecten.
+437240	442140	U kunt het zelf herhalen en de tabel downloaden als bijvoorbeeld een CSV-bestand,
+442360	445180	zodat u het in Excel of in Numbers kunt openen.
+445400	445980	Tuurlijk!
+445980	450620	De exacte query staat in het artikel The Fastest Stars in the Galaxy,
+450940	453380	waarnaar u ook een linkje vindt in de show notes.
+454480	459540	El Badri deed nog iets speciaals en dat was alleen zoeken naar tamelijk blauwe sterren.
+459640	459800	Ah!
+460680	465160	Dat is omdat de interesse vooral uitging naar zogenaamde witte dwergsterren
+465160	469360	die blauwer in de hemel zijn dan de veel meer voorkomende rodere sterren.
+469880	473760	Hier hoort nog een verklaring bij die mijns inziens ook wel interessant is.
+473900	474520	Heel interessant!
+474520	478200	Ontploffende sterren noemen we ook wel supernova's.
+478920	480820	Daar bestaan verschillende soorten van.
+482140	487120	Een supernova type 1a kan plaatsvinden in dubbelster-systemen
+487120	490160	waarvan tenminste één ster een witte dwergster is.
+490800	494620	Zo'n witte dwergster is een bejaarde ster die helemaal opgebrand is
+494620	497500	en waar dus geen kernfusie meer in plaatsvindt.
+498020	502860	Het is wel een speciaal geval, want een witte dwergster mag aan het einde van haar leven
+502860	506840	een massa hebben van 1,4 keer die van onze zon of minder.
+506840	512240	Een zwaardere ster dan dat overschrijdt de zogenaamde Chandra-Sekar-massa
+512240	514800	en wordt dan een neutronenster of zwart gat.
+515800	518320	Een witte dwergster gloeit nog wel een tijdje na.
+519100	522960	Als ook dit nagloeien helemaal op is, noemen we het een zwarte dwergster,
+523160	526760	maar die bestaat nog niet omdat het heelal daar nog niet oud genoeg voor is.
+526760	532160	In bepaalde gevallen zal een witte dwergster ook onderdeel zijn van een binair stelsel.
+532660	536020	Dat betekent dat er nog iets om die witte dwerg heen draait.
+536580	539620	De intense zwaartekracht van de witte dwergster
+539620	543660	kan middels accretie zo'n begeleider langzaam leeg slurpen
+543660	548300	en dan kan er een reactie optreden waarbij de witte dwergster in één keer ontploft
+548300	551440	in zo'n supernova type 1a-explosie.
+551440	557400	Daarbij komt 1 tot 2 maal 10 tot de 44ste joule aan energie vrij.
+558920	562860	Dit klinkt mogelijk een beetje alsof we dit proces uit en daarna door hebben,
+563300	565280	maar in werkelijkheid is het maar een theorie
+565280	569120	en zijn witte dwergen en dan met name witte dwerg-supernova's
+569120	570960	nog buitengewoon mysterieus.
+571740	574800	De witte dwerg het dichtst bij ons is Sirius B,
+575100	579300	de begeleider van die heldere ster Sirius in het sterrenbeeld de grote hond.
+579300	586180	Sirius en ook Sirius B vinden we op een bescheiden afstand van 8,6 lichtjaar van ons vandaan.
+586920	589280	Witte dwergsterren zijn niet heel zeldzaam.
+589740	593660	Zo'n 97% van alle bekende sterren in onze melkweg
+593660	597040	is niet zwaar genoeg om een neutronenster of zwart gat te worden
+597040	599840	en eindigt dan uiteindelijk als witte dwerg.
+600540	602400	Ook onze zon wacht dit lot,
+602720	605440	al zullen wij er niet meer bij zijn om dit te aanschouwen.
+605500	606460	Oh, dat is niet best.
+606460	609020	Onze planeet aarde is dan al lang vergaan,
+609140	611600	omdat de zon eerst nog een rode reus zal worden.
+612720	615620	Inmiddels kennen we een paar duizend witte dwergsterren.
+616160	620840	Maar hoe deze exact tot een supernova 1a-explosie kunnen evolueren
+620840	622340	is nog lang niet duidelijk.
+622780	625640	Vooral natuurlijk ook omdat we er altijd te laat bij zijn.
+626340	629220	We zien de supernova, maar niet wat eraan vooraf ging.
+629220	634060	Een bepaalde theorie staat bekend als het D6-scenario,
+634500	639840	waarbij D6 staat voor Dynamically Driven Double Degenerate Double Detonation.
+640600	643780	Hierbij vinden we een dubbelster van twee witte dwergsterren
+643780	646000	die steeds dichter om elkaar gaan draaien.
+646660	650240	Dat Double Detonation staat voor een dubbele ontploffing
+650240	652100	die dan mogelijk kan plaatsvinden.
+652100	658620	Eerst een heliumontploffing aan het oppervlak van de zwaarste van de twee witte dwergsterren,
+658940	663940	direct gevolgd door een koolstof-explosie in de kern van die zwaarste witte dwergster.
+664640	669260	Het is dan de vraag wat er gebeurt met die lichtere van de twee witte dwergsterren
+669260	670100	als de ander explodeert.
+670880	673540	Ja, dat is wel een hele interessante vraag.
+673540	678500	Het zou kunnen zijn dat de lichtere witte dwergster het voorbeeld volgt en ook ontploft.
+678720	680640	Misschien ook wel in een dubbele ontploffing.
+680800	682780	Van eerst helium en dan koolstof.
+683600	687260	Maar er bestaat ook een theorie die zegt dat de lichtere witte dwergster
+687260	691620	bij deze supernova-explosie wegschiet en een eigen leven gaat leiden.
+692460	695540	Veel astronomen denken dat zo'n wegschietende witte dwergbegeleider
+696260	697960	dan in een rechte lijn beweegt,
+697960	702620	met ongeveer de snelheid waarmee deze eerst om de zwaardere witte dwerg heen draaide.
+703540	708220	Een beetje zoals wanneer u als een discuswerper eerst een paar keer om uw as draait
+708220	713280	en vervolgens de discus loslaat en deze in een rechte lijn over het sportveld schiet.
+714380	718140	Maar het kan natuurlijk ook zo zijn dat zo'n wegschietende witte dwergster
+718140	722420	ook nog een extra zetje krijgt als gevolg van de supernova-explosie.
+723520	727620	Deze wegschietende witte dwergsterren hebben nog een eigenaardige eigenschap.
+727620	730660	Want voordat zij begonnen met hun rechte baan
+730660	735300	werden ze leeggezogen door die zwaardere witte dwergsterren waar ze omheen draaiden.
+736500	740220	Dat betekent dat ze opvallen door de afwezigheid van waterstof
+740220	742540	en mogelijk ook de afwezigheid van helium.
+743480	746400	Wat overblijft is een compacte koolstofbal
+746400	750380	met mogelijk wat zuurstof en koolstof in een atmosfeer eromheen.
+750380	753700	En misschien nog wat elementen als silicium en magnesium.
+754940	757600	El Badri combineerde de Gaia-gegevens
+757600	761520	met aardse spectroscopische waarnemingen van dezelfde objecten.
+762480	765760	Specifiek werden daarvoor de Magellan-Baden-telescoop
+765760	768640	van het Las Capagnes Observatory in Chili
+768640	772400	en de KEK-1-telescoop in Mauna Kea, Hawaii gebruikt.
+773100	777660	De spectra van de zes snelste door onze melkwegschiezende witte dwergsterren
+777660	780800	uit de Gaia-catalogus bleken inderdaad af te wijken,
+781180	783200	met name door het ontbreken van helium.
+783600	788340	Met één uitzondering, dat was object J13323541.
+789280	792480	Toch leiden de andere waargenomen eigenschappen ertoe
+792480	798020	dat El Badri ook dit object aanwijst als kandidaat D6-witte dwergster.
+798760	803520	Mogelijk vond de supernova-explosie in dat ene specifieke geval plaats
+803520	805960	voordat alle helium weggestript was.
+805960	808600	Of kwam er helium vrij bij de supernova,
+808800	812360	waarvan een deel ingevangen werd door de donor-witte dwerg
+812360	814320	voordat deze het hazenpad nam.
+815280	818440	Maar de conclusies van het artikel zijn uiteraard voorzichtig.
+819160	822460	Al met al worden er slechts vier kandidaten aangewezen
+822460	824440	als D6-witte dwergsterren
+824440	826860	en zijn we maar een klein beetje verder gekomen
+826860	829960	in het begrijpen van het proces van type 1a-supernova's.
+831340	833280	Met enige voorzichtigheid kunnen we denken
+833280	838180	dat het dynamically driven double degenerate double detonation scenario
+838180	840380	in ieder geval plausibel is.
+840480	841420	Ah, I don't know.
+841600	845880	En we weten dat er losse sterren met een rotgang door onze melk weg scheezen.
+846920	850340	Zoals wel vaker in de wetenschap is meer onderzoek nodig
+850340	852940	om beter te weten wat er nou precies gebeurt.
+853640	857660	Het zou natuurlijk helemaal mooi zijn om het proces eens live mee te maken,
+857660	860420	nog voordat er sprake is van een supernova.
+861040	864820	Maar dat is een combinatie van een beetje geluk en een heleboel geduld.
+866020	869500	En wat is tot slot de kans dat zo'n witte dwergster
+869500	872760	die rechtlijnig door de melk weg trekt onze aarde treft?
+872980	874260	En wat gebeurt er dan?
+874820	877960	Nou, mocht het gebeuren, dan is dat niet best voor ons.
+878640	882640	Een witte dwergster is dan wel ongeveer zo klein als onze planeet aarde,
+882800	886620	maar heeft nog steeds een massa van een substantieel deel van onze zon.
+886620	891220	En met een temperatuur van bijvoorbeeld 4000 Kelvin op het oppervlak,
+891640	896540	een enorme snelheid ten opzichte van onze planeet en een intense zwaartekracht,
+896740	899680	is een botsing dan wel het einde van al het leven hier.
+901320	906300	Maar de kans is verwaarloosbaar klein dat dat in ons leven staat te gebeuren.
+906420	907320	Oh, gelukkig!
+907500	910580	Er is geen enkele aanwijzing dat de vier nieuw gevonden,
+910720	914560	weggeslingerde D6-objecten het op onze planeet hebben gemunt.
+914560	917880	Het is wel een aardig gedachte-experiment.
+918620	922160	Wat zou u doen als er opeens in alle media het bericht verscheen
+922160	927120	dat een witte dwergster met 2500 kilometer per seconde op de aarde afraast?
+927760	932140	U hebt nog maar een week te leven en met u iedereen en alles op deze planeet.
+933000	936780	Er is bij lange na niet genoeg tijd om een reddingspoging te ondernemen.
+936780	940920	Nou ja, misschien stapt Elon Musk in een van zijn raketten
+940920	943760	en leeft hij nog een paar maanden langer dan de rest van ons
+943760	947180	in een ruimtevaartuig met wat energiedrankjes en blikvoer.
+947340	948780	Maar voor de rest van de mensheid geldt...
+950380	952180	U heeft nog zeven dagen.
+953100	953920	Wat zou u doen?
+954340	958120	Een deel van de mensen zal waarschijnlijk apathisch achterover hangen
+958120	960480	in een luie stoel of niet meer uit bed komen.
+960480	966040	De wereldeconomie zal waarschijnlijk direct in elkaar storten
+966040	968700	omdat niemand nog naar haar of zijn werk zal omkijken
+968700	970900	met nog maar zeven dagen in het vooruitzicht.
+971900	975340	Ik vermoed dat ook een groot aantal mensen over zal stappen
+975340	978140	op plunderingen, verkrachtingen en moordpartijen
+978140	980880	omdat er geen repercussies meer aan verbonden kunnen worden.
+982320	985020	Maar goed, wat de meute doet, dat zal allemaal wel.
+985160	985900	Wat gaat u doen?
+986400	988240	Gaat u langs bij familie of vrienden?
+988240	991940	Of toch nog die cursus Spaans afmaken?
+992060	994500	Me gusta escuchar Simmermani Space Podcast.
+994740	997000	Sus twee akkoorden leren op uw gitaar?
+999740	1002060	Elke dag in het bad met bruisballen?
+1003620	1006740	Alleen al daarover nadenken is soms goed voor ons.
+1006980	1009880	Want wellicht sprong er wel iemand voor uw geestes oog
+1009880	1012080	met wie u nog wat te verhapstukken heeft.
+1012980	1016280	Misschien is vandaag wel een goed moment om haar of hem te bellen.
+1018240	1023380	Of misschien is het sowieso wel leuk om die cursus Spaans te gaan doen.
+1023560	1025720	Es divertido aprender Español.
+1025860	1029100	Vooral ook omdat er voor de meeste van ons geen enkele reden is
+1029100	1032120	om aan te nemen dat u nog maar zeven dagen te leven heeft.
+1032800	1036120	Ik wens u er veel plezier mee en tot de volgende keer.
+1036380	1041780	Dank u wel.
+1041920	1046480	Eindelijk Olen covenant.

@@ -1,0 +1,668 @@
+1
+00:00:00,720 --> 00:00:04,880
+Vorige keer eindigden we met een beetje een cliffhanger toen ik zei
+
+2
+00:00:04,880 --> 00:00:09,380
+tot de volgende keer waarin we het over een nog groter raadsel gaan hebben.
+
+3
+00:00:10,780 --> 00:00:13,560
+En misschien had u het eerder dit jaar zelf al gelezen.
+
+4
+00:00:14,260 --> 00:00:19,380
+Bepaalde foto's die de James Webb ruimtetelescoop van ons prille helal heeft gemaakt
+
+5
+00:00:19,380 --> 00:00:24,820
+gooien ons huidige model van de evolutie van het helal sinds de oerknal ernstig in de war.
+
+6
+00:00:24,820 --> 00:00:31,820
+Laten we vandaag samen eens kijken hoe dat zit en wat voor zinnigs we erover kunnen beweren
+
+7
+00:00:32,420 --> 00:00:36,040
+zonder onszelf in onze wetenschappelijke voeten te schieten.
+
+8
+00:00:39,100 --> 00:00:41,980
+De onrust ontstond door het artikel
+
+9
+00:00:41,980 --> 00:00:52,900
+van Yves Labe en collega's dat in februari van dit jaar in Nature verscheen.
+
+10
+00:00:52,900 --> 00:00:59,320
+Rode massieve sterrenstelsels waren gezien op een foto van de James Webb ruimtetelescoop
+
+11
+00:00:59,320 --> 00:01:06,120
+waarbij zo ver terug in de tijd werd gekeken dat de objecten op de foto slechts 500 tot 700 miljoen
+
+12
+00:01:06,120 --> 00:01:08,340
+jaar na de oerknal oud konden zijn.
+
+13
+00:01:08,500 --> 00:01:09,540
+Dat was een lange zin.
+
+14
+00:01:09,860 --> 00:01:14,480
+Dat we zo ver terug kunnen kijken in de tijd is natuurlijk zeer verheugend want dat zegt
+
+15
+00:01:14,480 --> 00:01:17,520
+ons hoe goed die James Webb telescoop functioneert.
+
+16
+00:01:17,640 --> 00:01:17,900
+Jee!
+
+17
+00:01:17,900 --> 00:01:23,060
+Het probleem zit hem in die twee bijvoeglijke naamwoorden, rood en massief.
+
+18
+00:01:24,480 --> 00:01:27,340
+Hoe dat zit zullen we zo uit en tena bespreken.
+
+19
+00:01:27,440 --> 00:01:27,980
+Dat is goed.
+
+20
+00:01:28,240 --> 00:01:31,620
+Eerst kijken we maar eens wat voor foto dit eigenlijk is.
+
+21
+00:01:32,500 --> 00:01:37,100
+Onderdeel van de wetenschap die met de James Webb ruimtetelescoop bedreven wordt heet
+
+22
+00:01:37,100 --> 00:01:44,000
+SEARS, C-E-E-R-S, wat staat voor Cosmic Evolution Early Release Science.
+
+23
+00:01:44,000 --> 00:01:51,400
+Als eerste test in dit programma werden enkele foto's gemaakt met de Near Infrared of NearCam
+
+24
+00:01:51,400 --> 00:01:53,120
+camera van de JWST.
+
+25
+00:01:54,160 --> 00:01:58,660
+Specifiek werd gekeken in de band van 1 tot 5 micrometer infrarood.
+
+26
+00:01:59,100 --> 00:02:04,480
+De foto's werden digitaal gecombineerd en het resulterende frame omvat een stukje aan
+
+27
+00:02:04,480 --> 00:02:07,820
+de hemel van ongeveer 40 boogminuten in het kwadraat.
+
+28
+00:02:08,440 --> 00:02:10,840
+Het is een oppervlakte, vandaar een kwadraat.
+
+29
+00:02:10,960 --> 00:02:12,200
+O ja, inderdaad.
+
+30
+00:02:12,200 --> 00:02:16,840
+Het was feitelijk maar een testfoto in een relatief leeg stuk van de hemel wat al wel
+
+31
+00:02:16,840 --> 00:02:19,600
+door de Hubble ruimtetelescoop was gefotografeerd.
+
+32
+00:02:20,160 --> 00:02:27,980
+In de James Webb foto is veel meer zichtbaar dan op de Hubble foto in totaal 42.729 objecten.
+
+33
+00:02:28,600 --> 00:02:35,140
+In deze catalogus van objecten werden 13 sterrenstelsels aangetroffen waarvan 6 met een massa van meer dan
+
+34
+00:02:35,140 --> 00:02:37,440
+10 tot en mag 10 keer die van onze zon.
+
+35
+00:02:37,440 --> 00:02:41,780
+En een van die sterrenstelsels is zelfs nog eens 10 keer zwaarder.
+
+36
+00:02:42,140 --> 00:02:46,700
+Dus dat wordt vergelijkbaar met onze eigen 13,8 miljard jaar oude melkweg.
+
+37
+00:02:46,840 --> 00:02:50,300
+Dat moet wel een verbijsterende conclusie geweest zijn.
+
+38
+00:02:50,640 --> 00:02:52,100
+Dus zie hier het dilemma.
+
+39
+00:02:52,100 --> 00:03:03,380
+Het bestaande model van sterevolutie in de geschiedenis van ons heelal sluit uit dat er zo'n zwaar melkwegstelsel zo snel na de oerknal zou kunnen bestaan.
+
+40
+00:03:03,700 --> 00:03:06,820
+Laat staan zes van die te zware sterrenstelsels.
+
+41
+00:03:06,820 --> 00:03:13,680
+Er zou simpelweg niet genoeg tijd zijn verstreken om zoveel sterren tot vastom te kunnen laten komen.
+
+42
+00:03:13,980 --> 00:03:23,400
+Of anders gesteld, er was op dat moment op die locaties niet genoeg baryonische massa aanwezig om zoveel dusdanig zware sterren te kunnen kweken.
+
+43
+00:03:23,520 --> 00:03:24,540
+Oh, dat is niet best.
+
+44
+00:03:24,540 --> 00:03:33,240
+En toch, op de foto zien we zes sterrenstelsels op wat een redelijk willekeurige eerste foto is die deze hypothese in de wielen rijden.
+
+45
+00:03:34,060 --> 00:03:40,380
+Daar komt nog eens bij dat de sterren in deze sterrenstelsels uit de begindagen van ons heelal veel te rood lijken te zijn.
+
+46
+00:03:40,560 --> 00:03:42,240
+Wat is dit voor vaag verhaal, Hens?
+
+47
+00:03:42,240 --> 00:03:49,340
+Met wat we weten over sterevolutie zou het veel meer voor de hand liggen dat de sterren in kwestie overwegend blauw zouden zijn.
+
+48
+00:03:49,340 --> 00:03:58,340
+Toen deze ontdekking eerder dit jaar in het nieuws kwam, had de collectieve wijsheid die het internet heet uiteraard de mond vol van verklaringen.
+
+49
+00:03:59,000 --> 00:03:59,580
+Oh dear.
+
+50
+00:03:59,900 --> 00:04:03,600
+Zo las ik dat de oerknal dus nooit zou kunnen hebben plaatsgevonden.
+
+51
+00:04:04,980 --> 00:04:11,280
+Dat astronomie in een crisis terecht was gekomen waar deze eeuwenoude wetenschap nooit meer uit zou komen.
+
+52
+00:04:12,340 --> 00:04:16,660
+En natuurlijk zie je wel, wetenschap heeft de antwoorden ook niet, et cetera.
+
+53
+00:04:19,340 --> 00:04:26,020
+In zekere zin is het prettig, vind ik tenminste, dat ik even heb gewacht met deze aflevering,
+
+54
+00:04:26,100 --> 00:04:32,820
+want inmiddels zijn er enkele maanden verstreken en hebben astronomen de kans gehad om er nog eens wat langer over na te denken.
+
+55
+00:04:33,820 --> 00:04:40,660
+Wat we in de rest van deze aflevering zullen bespreken zal hopelijk uw vertrouwen in de astronomische modellen weer wat verstevigen
+
+56
+00:04:40,660 --> 00:04:44,220
+en bovendien enkele vragen beantwoorden die u misschien heeft.
+
+57
+00:04:44,220 --> 00:04:52,680
+Is het hele oerknalmodel daadwerkelijk in een crisis beland na deze ontdekking en moeten wetenschappers zich massaal laten omscholen?
+
+58
+00:04:52,800 --> 00:04:53,040
+Oh ja?
+
+59
+00:04:53,260 --> 00:04:54,380
+Nee, natuurlijk niet.
+
+60
+00:04:54,500 --> 00:04:55,400
+Oh, gelukkig!
+
+61
+00:04:55,620 --> 00:04:57,900
+Dit is in grote lijnen wat wetenschap is.
+
+62
+00:04:58,440 --> 00:05:03,980
+Een aanpassing aan de gevestigde theorieën die oude en nieuwe waarnemingen vervolgens kan verklaren.
+
+63
+00:05:04,820 --> 00:05:08,220
+Het huidige model van ons heelal heet Lambda-CDM.
+
+64
+00:05:08,220 --> 00:05:13,340
+En een eventuele aanpassing zal hoogstwaarschijnlijk in dat model moeten plaatsvinden.
+
+65
+00:05:14,340 --> 00:05:16,500
+En wat betekent Lambda-CDM?
+
+66
+00:05:17,040 --> 00:05:21,180
+Lambda is een Griekse letter die zegt dat het heelal versneld uitdijdt.
+
+67
+00:05:21,500 --> 00:05:26,180
+Het wordt dus niet alleen steeds groter, maar dat proces maakt ook nog eens een versnelling door.
+
+68
+00:05:26,880 --> 00:05:34,440
+Die versnelde uitdijing wordt gewijd aan iets wat we donkere energie noemen en waar we het een aantal afleveringen geleden al over hebben gehad.
+
+69
+00:05:34,440 --> 00:05:39,140
+CDM staat voor Cold Dark Matter, koude donkere materie.
+
+70
+00:05:39,200 --> 00:05:40,000
+Oh shit, Sherlock.
+
+71
+00:05:40,360 --> 00:05:45,240
+Lambda-CDM zegt ons wat de verhoudingen zijn van massa en energie in dit heelal.
+
+72
+00:05:45,460 --> 00:05:50,560
+En met dit model kunnen structuren en objecten die we waarnemen worden verklaard in de tijd.
+
+73
+00:05:51,360 --> 00:05:58,620
+Het is dus een heel goed werkend model, zelfs als we nog niet precies weten wat donkere energie en donkere materie precies zijn.
+
+74
+00:05:58,780 --> 00:06:00,800
+Ik denk, ja, tuurlijk, zal weer niet.
+
+75
+00:06:00,800 --> 00:06:05,940
+Lambda-CDM zegt ons precies hoeveel materie we mogen verwachten in het brillen heelal.
+
+76
+00:06:06,140 --> 00:06:07,960
+500 miljoen jaar na de oerknal.
+
+77
+00:06:08,400 --> 00:06:15,580
+En hier ontstaat dus een discrepantie als we zes sterrenstelsels waarnemen die meer materie bevatten dan aanwezig kon zijn.
+
+78
+00:06:16,480 --> 00:06:20,640
+Het staat en valt eigenlijk allemaal met iets wat we ons gelijk kunnen afvragen.
+
+79
+00:06:21,200 --> 00:06:27,460
+Hoe meet je in vredesnaam de massa van een vlekje op een foto die 13 miljard jaar terugkijkt in de tijd?
+
+80
+00:06:27,460 --> 00:06:32,660
+Want wat we op de JWST-foto zien zijn slechts kleine rode vlekjes.
+
+81
+00:06:33,300 --> 00:06:40,260
+Als buitenstaanders kunnen we denken dat deze ernstig rood verschoven waarnemingen misschien niet correct geïnterpreteerd zijn.
+
+82
+00:06:40,840 --> 00:06:49,180
+Want als we de massa afleiden uit de helderheid en kleur, en die kleur is helemaal verschoven door het uitdijend heelal, zit er dan niet een fout in?
+
+83
+00:06:49,180 --> 00:06:49,580
+Hm?
+
+84
+00:06:50,080 --> 00:07:03,440
+Zonder al te technisch uit te weiden en u als luisteraar weg te jagen, kunnen we wel zeggen dat er twee eikpunten in lichtwaarnemingen van sterrenstelsels zitten, die ook teruggevonden kunnen worden in een 13 miljard jaar oude waarneming.
+
+85
+00:07:03,540 --> 00:07:04,780
+Dat is toch niet te geloven?
+
+86
+00:07:04,780 --> 00:07:16,260
+Deze punten heetten de Lyman en Bulmer Break en die houden onder andere verband met de golflengte van licht dat geabsorbeerd wordt in een stervormende regio zoals een sterrenstelsel.
+
+87
+00:07:16,980 --> 00:07:27,160
+Dus door die aan te wijzen in de Cosmic Evolution Early Release Science foto's weten we veel over hoe we de rood verschoven foto's moeten terugcorrigeren.
+
+88
+00:07:27,160 --> 00:07:32,320
+Als we dan weten waar we naar kijken, kunnen we op twee manieren verder met de waarneming.
+
+89
+00:07:32,740 --> 00:07:36,820
+Het ideaal is om naar het spectrum van zo'n sterrenstelsel te kijken.
+
+90
+00:07:37,580 --> 00:07:41,360
+Dan wordt duidelijk welke elementen in welke verhoudingen aanwezig zijn.
+
+91
+00:07:41,360 --> 00:07:53,760
+En kan ook met grotere zekerheid gezegd worden in hoeverre zo'n superoud sterrenstelsel uit de begindagen van ons heelal lijkt op onze eigen melkweg en andere bekende sterrenstelsels uit onze tijd.
+
+92
+00:07:53,760 --> 00:08:01,760
+En dan kunnen we ook met grotere zekerheid weten wat de verhoudingen zware versus lichte sterren in zo'n sterrenstelsel is.
+
+93
+00:08:02,360 --> 00:08:08,320
+We zeiden in het begin al dat deze foto's met de JWST Neerkam camera werden gemaakt.
+
+94
+00:08:08,620 --> 00:08:14,940
+De JWST beschikt echter ook over speciale spectroscopische camera's zoals de Neerspec,
+
+95
+00:08:15,100 --> 00:08:21,080
+waarmee veel gedetailleerdere spectrale plaatjes kunnen worden gemaakt van de superoude sterrenstelsels.
+
+96
+00:08:21,080 --> 00:08:29,840
+Maar die spectrale precisiefoto's zijn nog niet genomen en waren ook geen onderdeel van deze fase van project Sears.
+
+97
+00:08:30,480 --> 00:08:34,460
+Het ligt voor de hand dat deze waarnemingen op termijn wel gemaakt gaan worden,
+
+98
+00:08:34,460 --> 00:08:37,760
+maar voor nu hebben astronomen het te doen met de andere methode.
+
+99
+00:08:38,320 --> 00:08:42,840
+En dat is de waarnemingen te matchen met bestaande modellen van sterrenstelsels.
+
+100
+00:08:43,560 --> 00:08:48,460
+En precies hier ligt het voor de hand dat de oplossing voor dit raadsel gevonden moet worden.
+
+101
+00:08:48,460 --> 00:08:53,000
+Hoe helderder een sterrenstelsel is, hoe meer sterren het bevat.
+
+102
+00:08:53,760 --> 00:08:56,740
+Dit dient uiteraard gecorrigeerd te worden voor de afstand,
+
+103
+00:08:56,880 --> 00:09:00,880
+maar die valt rechtstreeks af te leiden uit de waargenomen roodverschuiving.
+
+104
+00:09:01,400 --> 00:09:06,900
+En hoe meer sterren er in een sterrenstelsel bestaan, hoe groter de massa uiteraard is.
+
+105
+00:09:07,540 --> 00:09:10,000
+Maar de kleur van sterren speelt ook nog een rol.
+
+106
+00:09:10,580 --> 00:09:16,600
+De grotere, blauwere sterren zijn zwaarder en geven ook meer licht af dan de kleinere, rodere sterren.
+
+107
+00:09:16,600 --> 00:09:25,500
+De grote vraag is dan, wordt de totale hoeveelheid waargenomen licht voornamelijk veroorzaakt door een hoop grote, zware, heldere sterren?
+
+108
+00:09:25,620 --> 00:09:29,740
+Of door een grotere hoop kleinere, minder heldere en minder zware sterren?
+
+109
+00:09:29,820 --> 00:09:33,580
+Nee, nee, ja, dat is wel een moeilijke vraag, hè. Die kan ik dan niet beantwoorden.
+
+110
+00:09:33,580 --> 00:09:38,100
+De foto's van de JWST laten alleen vlekjes van een paar pixels zien,
+
+111
+00:09:38,320 --> 00:09:43,060
+dus we kunnen niet direct zeggen welke van deze twee scenario's het meest plausibel is.
+
+112
+00:09:43,900 --> 00:09:51,700
+Wel kunnen we proberen aan te nemen dat die superoude sterrenstelsels heel erg lijken op de sterrenstelsels die we uit onze huidige tijd kennen,
+
+113
+00:09:51,980 --> 00:09:54,220
+want die lijken ook allemaal erg op elkaar.
+
+114
+00:09:55,020 --> 00:09:59,900
+Astronomen noemen dit de Initial Mass Function, de initiële massafunctie.
+
+115
+00:09:59,900 --> 00:10:05,280
+Dit is een model van de verhouding van lichte en zware sterren binnen een sterrenstelsel.
+
+116
+00:10:06,100 --> 00:10:12,540
+Omdat deze initiële massafunctie in onze tijd universeel lijkt te zijn voor de sterrenstelsels die we kennen,
+
+117
+00:10:12,900 --> 00:10:16,160
+heet het ook wel de Universal Initial Mass Function.
+
+118
+00:10:17,220 --> 00:10:19,780
+Met andere woorden, waar we ook kijken in het heelal,
+
+119
+00:10:19,880 --> 00:10:25,200
+de distributie van zware en lichte sterren is min of meer identiek in alle sterrenstelsels.
+
+120
+00:10:25,760 --> 00:10:28,820
+U ziet dan misschien nu ook wel waar dit model schuurt.
+
+121
+00:10:28,820 --> 00:10:34,980
+Kunnen we deze universele initiële massafunctie wel toepassen op het prille heelal?
+
+122
+00:10:35,520 --> 00:10:41,700
+Want 500 miljoen jaar na de oerknal was het heelal veel dichter op elkaar gepakt dan het nu is en ook warmer.
+
+123
+00:10:42,580 --> 00:10:46,400
+We weten sinds een astronomisch experiment met de naam Noema,
+
+124
+00:10:46,680 --> 00:10:48,580
+waarover vorig jaar gepubliceerd werd,
+
+125
+00:10:48,780 --> 00:10:52,760
+dat het heelal een miljard jaar na de oerknal zo'n 20 Kelvin was.
+
+126
+00:10:52,760 --> 00:10:58,220
+Ter vergelijking die temperatuur is in 2023 2.7 Kelvin.
+
+127
+00:10:58,920 --> 00:11:02,760
+In de tijd dat de sterrenstelsels vormden die door de JWST werden gefotografeerd,
+
+128
+00:11:03,560 --> 00:11:06,240
+was het heelal uiteraard nog warmer dan 20 Kelvin.
+
+129
+00:11:07,060 --> 00:11:12,320
+En de sterren in het prille heelal waren ook nog minder metaalrijk dan de huidige sterren.
+
+130
+00:11:12,320 --> 00:11:17,040
+Allemaal parameters die astronomen richting de conclusie trekken
+
+131
+00:11:17,040 --> 00:11:22,840
+dat de universele initiële massafunctie misschien niet van toepassing is op het prille heelal.
+
+132
+00:11:23,400 --> 00:11:27,120
+Al voor de JWST-waarneming werd hier al over gespeculeerd.
+
+133
+00:11:27,580 --> 00:11:28,780
+Zoals bijvoorbeeld in de publicatie...
+
+134
+00:11:28,780 --> 00:11:33,080
+Stellar initial mass function varies with metallicities and time.
+
+135
+00:11:33,200 --> 00:11:35,140
+Van Lee en collega's en...
+
+136
+00:11:35,140 --> 00:11:39,480
+Evidence for initial mass function variation in massive L-type galaxies.
+
+137
+00:11:39,860 --> 00:11:40,620
+Van Smith.
+
+138
+00:11:41,580 --> 00:11:47,240
+Maar ook dit jaar zien we publicaties die de universele initiële massafunctie in twijfel trekken,
+
+139
+00:11:47,640 --> 00:11:48,060
+zoals...
+
+140
+00:11:48,060 --> 00:11:51,940
+Stress testing lambda CDM with high redshift galaxy candidates.
+
+141
+00:11:52,120 --> 00:11:54,140
+Van Michael Boylan Colchin.
+
+142
+00:11:54,140 --> 00:11:59,200
+Dit laatste artikel borduurt direct voort op de JWST-waarnemingen.
+
+143
+00:11:59,740 --> 00:12:04,020
+Hierin lezen we dat de maximale massa van een sterrenstelsel wordt bepaald...
+
+144
+00:12:04,020 --> 00:12:10,280
+door het reservoir aan baryonische materie in de donkere materie halo rond zo'n sterrenstelsel.
+
+145
+00:12:11,280 --> 00:12:14,640
+Om de waargenomen massieve sterrenstelsels te verklaren...
+
+146
+00:12:14,640 --> 00:12:18,460
+moet een bijna onrealistische efficiëntie worden aangenomen...
+
+147
+00:12:18,460 --> 00:12:22,080
+voor de formatie van sterren in deze vroege sterrenstelsels.
+
+148
+00:12:22,080 --> 00:12:27,220
+Ook Michael Boylan Colchin houdt daarom in zijn artikel de mogelijkheid open...
+
+149
+00:12:27,220 --> 00:12:33,440
+dat de universele initiële massafunctie niet van toepassing is op de omstandigheden in het jonge heelal.
+
+150
+00:12:34,320 --> 00:12:38,140
+Dit universele model van massa stamt al uit 1955...
+
+151
+00:12:39,000 --> 00:12:41,980
+toen Edwin Salpeter het beschreef in het artikel...
+
+152
+00:12:41,980 --> 00:12:44,580
+The luminosity function and stellar evolution.
+
+153
+00:12:44,580 --> 00:12:49,720
+Ergens is het ook wel mooi dat met de komst van de James Webb Ruimtetelescoop...
+
+154
+00:12:49,720 --> 00:12:54,060
+ontdekkingen worden gedaan die oude vertrouwde hypotheses over hoop halen.
+
+155
+00:12:55,420 --> 00:12:58,600
+Maar is er sprake van crisis in de astronomie?
+
+156
+00:12:59,180 --> 00:13:00,580
+Nee, dat zeker niet.
+
+157
+00:13:01,020 --> 00:13:04,720
+Wat wel vrij zeker is, is dat er binnenkort naar dezelfde oude melkwegstelsels...
+
+158
+00:13:04,720 --> 00:13:09,180
+zal worden gekeken met de spectroscopische camera's van de JVSD.
+
+159
+00:13:10,140 --> 00:13:13,360
+Dan zal er hopelijk meer duidelijk worden over de samenstelling...
+
+160
+00:13:13,360 --> 00:13:16,300
+van deze raadselachtig zware sterrenstelsels.
+
+161
+00:13:17,000 --> 00:13:20,120
+En wie weet wat er de komende jaren nog meer te weten komen...
+
+162
+00:13:20,120 --> 00:13:21,920
+over de begindagen van ons heelal.
+
+163
+00:13:22,040 --> 00:13:23,820
+Ja, de evolutie heeft best goed werk gedaan.
+
+164
+00:13:24,120 --> 00:13:26,720
+Afhankelijk van uw constitutie wens ik u veel plezier...
+
+165
+00:13:27,240 --> 00:13:29,020
+of versterkte met het warme weer.
+
+166
+00:13:29,280 --> 00:13:30,500
+En tot de volgende keer.
+
+167
+00:13:30,500 --> 00:13:31,500
+***
+

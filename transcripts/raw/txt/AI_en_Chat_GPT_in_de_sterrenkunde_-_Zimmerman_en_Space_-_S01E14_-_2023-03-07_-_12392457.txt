@@ -1,0 +1,303 @@
+Eind vorig jaar verscheen een bericht in de wetenschappelijke pers dat er acht kandidaatsignalen van buitenaardse beschavingen zijn gevonden in radiowaarnemingen.
+Mogelijk heeft u het gemist, want het zijn slechts kandidaatsignalen.
+Dit zijn dus mogelijke signaturen van een technologisch ontwikkelde civilisatie buiten die van ons,
+en nog geen ontcijferde berichten die zonder enige twijfel afkomstig zijn van een andere beschaving.
+Het artikel over deze vondst verscheen met de titel
+In het gerenommeerde tijdschrift Nature Astronomy.
+Voordat we naar de inhoud van dit bericht en de consequenties daarvan kijken,
+zullen we eerst even wat dieper ingaan op dat onderdeel Deep Learning.
+Inderdaad hebben we te maken met kunstmatige intelligentie als we de term Deep Learning gebruiken.
+Nu is kunstmatige intelligentie op dit moment een redelijk populair onderwerp,
+mede dankzij de nieuwsaandacht die ChatGPT geniet.
+Heeft u al eens een gesprekje gehad met ChatGPT?
+Het is reuze vermakelijk en kost niks, alleen wat tijd misschien.
+Even een kort intermezzo.
+Ik vroeg ChatGPT wat fundamentele astronomievragen en kreeg verrassend uitgebreide antwoorden.
+Oh, ChatGPT, how big is the universe?
+The universe is estimated to be extremely vast, and its size is difficult to comprehend.
+Scientists currently believe that the observable universe,
+which includes all the matter and energy that we can detect,
+is approximately 93 billion light-years in diameter.
+This means that the distance between two points on opposite sides of the observable universe
+would take 93 billion years to travel at the speed of light.
+It's worth noting that the observable universe is only a small fraction of the total universe.
+The universe may be infinite in size,
+although this is still a topic of debate among cosmologists.
+Additionally, the universe is constantly expanding,
+so its size is not static.
+Overall, the size of the universe is a vast and complex topic,
+and scientists are continually working to better understand its properties and characteristics.
+But how can something be infinite in size?
+The idea of infinity can be difficult to comprehend,
+especially when it comes to physical objects like the universe.
+In mathematics and philosophy,
+infinity refers to the concept of something without limit or end.
+In the case of the universe,
+scientists believe that it may be infinite in size
+because there is no known boundary or edge to the universe,
+and its expansion appears to be continuous.
+One way to think about the idea of infinity in the context of the universe
+is to consider the analogy of a two-dimensional plane.
+Imagine a flat plane that extends infinitely in all directions,
+with no boundary or edge.
+If you were to draw a circle on this plane,
+it would have a finite size,
+but the plane itself would be infinite.
+Similarly, the universe may be infinite in size,
+even if individual objects within it have a finite size.
+It's important to note that the idea of an infinite universe
+is still a topic of debate among cosmologists,
+and our understanding of the universe is constantly evolving
+as new observations and data become available.
+But, chat GPT, tell me,
+does time tick the same in the vacuum portions of the universe?
+According to the theory of relativity,
+time is relative to the observer
+and can be affected by various factors such as gravity and velocity.
+In vacuum portions of the universe,
+where there is very little matter,
+the effects of gravity are negligible,
+and time should tick at a relatively constant rate.
+However, the universe is not entirely empty,
+and there are still areas where gravity
+can have a significant effect on time.
+For example, near massive objects such as black holes or neutron stars,
+the intense gravitational fields
+can cause time to appear to slow down for an outside observer.
+This effect is known as gravitational time dilation
+and has been observed and measured in experiments.
+In addition, the expansion of the universe
+can also affect the passage of time.
+As the universe expands,
+the distance between objects increases,
+which can cause time to appear to slow down
+relative to a distant observer.
+This effect is known as cosmological time dilation
+and has also been observed and measured.
+Overall, the effect of gravity
+and the expansion of the universe on time
+in vacuum portions of the universe
+can be significant,
+but is generally much less than in areas
+with a higher concentration of matter.
+Is there enough energy in quantum fields to serve mankind?
+Quantum fields are the fundamental building blocks of the universe
+and are responsible for the behavior of subatomic particles.
+They are also the basis of many technologies,
+including transistors, lasers, and quantum computers.
+While there is a vast amount of energy associated with quantum fields,
+it is not currently feasible to harness this energy
+in a way that is useful for mankind.
+One reason is that the energy density of quantum fields is very high,
+meaning that it would require a massive amount of energy
+to extract even a small fraction of the available energy.
+In addition, the behavior of quantum fields
+is governed by complex mathematical equations
+that are not yet fully understood,
+which makes it difficult to predict or control their behavior in a practical way.
+That being said,
+scientists are actively researching ways
+to harness the energy of quantum fields,
+including exploring the potential of quantum computing
+and quantum cryptography.
+However, it is still uncertain whether or not these technologies
+will ever be able to harness enough energy from quantum fields
+to be useful for mankind in a practical sense.
+Is time travel to the past feasible?
+The question of whether time travel to the past is feasible
+is a subject of much debate and speculation
+among scientists and science fiction enthusiasts.
+According to our current understanding of the laws of physics,
+there are several theoretical ways
+in which time travel to the past could potentially be achieved,
+such as through the use of wormholes, time machines,
+or traveling at speeds close to the speed of light.
+However, there are several significant challenges
+and limitations to achieving time travel to the past.
+One of the most fundamental is the concept of causality,
+which suggests that events in the past
+are the cause of events in the present,
+and changing the past could create paradoxes and inconsistencies.
+Another significant challenge is the amount of energy
+and technology required to achieve time travel.
+The energy required to create a wormhole
+or manipulate time on a large scale
+is currently beyond our technological capabilities
+and understanding of physics.
+Overall, while time travel to the past
+remains a topic of scientific research and speculation,
+it is currently considered unlikely to be achieved
+in a practical sense.
+However, our understanding of the laws of physics
+is constantly evolving,
+and it is possible that new discoveries
+could change our understanding
+of the feasibility of time travel in the future.
+Nou ja, genoeg Engelse content voor nu.
+Chat GPT is een zogenaamde large language model chatbot
+en qua capaciteiten onvergelijkbaar met het onderwerp van vandaag.
+Deep learning, het klinkt superspannend,
+Het is een subset van iets wat we machine learning noemen.
+Als we een beetje meevaren op de definities van computergigant IBM,
+dan kunnen we grofweg zeggen dat deep learning overweg kan
+met ongestructureerde gegevens.
+Het hierin herkennen van patronen
+kan door middel van deep learning gebeuren
+zonder interventie van een mens.
+Dit maakt deep learning uiterst geschikt voor astronomie,
+omdat we vaak te maken hebben met grote datasets
+waar de structuur nog niet goed van bekend is.
+Het mooie aan deep learning is dat de computer
+uit gigantische hoeveelheden data
+patronen kan halen die in menselijke tijd niet haalbaar zijn,
+en ook in staat is patronen te vinden
+die ons misschien zouden ontgaan.
+Dit is gelijk ook een van de risico's van deep learning,
+want als we gegevens aanbieden waar onbedenkelijke redenen
+een patroon in bestaat,
+dan zal de computer dit patroon mogelijk ook hanteren
+in het interpreteren van de gegevens.
+En zo kan een algoritme dan zonder kwade opzet
+toch racistisch of seksistisch worden.
+Binnen deep learning kunnen we nog drie strategieën onderscheiden
+waardoor een algoritme beter kan functioneren.
+Supervised learning betekent dat gelabelde gegevens worden aangeboden
+aan de computer waardoor vanaf het begin duidelijk is
+wat een correct antwoord is en wat een fout antwoord is.
+Hier moet nog een mens aan te pas komen, in ieder geval in het begin.
+Dan is er nog een supervised learning
+waarbij het algoritme zelf de patronen gaat herkennen
+en de gegevens in clusters indeelt.
+En de derde vorm heet reinforcement learning
+waarbij het algoritme terugkoppeling krijgt
+over goede of foute antwoorden.
+Daarmee kan het dus bijleren en slimmer worden.
+En uiteraard zijn er ook allerlei variaties mogelijk
+waarbij deep learning al deze strategieën combineert.
+Mocht u al min of meer zijn afgehaakt op het voorgaande,
+vrees niet, het wordt nu echt interessant.
+CETI, The Search for Extraterrestrial Intelligence,
+heeft als doel buitenaardse beschavingen te vinden
+op basis van hun technologische voetafdrukken in gegevens.
+Eén zo'n mogelijke technologische voetafdruk
+bestaat uit smalbandige radiosignalen
+die een zekere Doppler-variatie ondergaan.
+Smalbandig wil zeggen dat er heel specifiek
+op één kleine frequentieband wordt uitgezonden,
+iets wat de natuur niet gauw doet,
+en die Doppler-variatie treedt op
+als zo'n signaal van ver van ons vandaan komt.
+De praktische uitwerking van deze zoektocht is eenvoudig.
+Luister in het radiofrequentiegebied naar alles
+wat op ons afkomt en ga op zoek naar dergelijke signalen.
+Maar de praktijk kent twee behoorlijk venijnige hobbels
+die genomen moeten worden.
+Ten eerste hebben we al snel heel veel gegevens
+van heel veel radiofrequenties uit heel veel richtingen om ons heen.
+En ten tweede worden deze signalen onherroepelijk
+dag in dag uit vervuild door aardse radiosignalen.
+Wetenschapper Peter Ma van de Universiteit van Toronto,
+tevens hoofdauteur van het artikel,
+ontwikkelde een techniek om het onderscheid te maken
+tussen aardse radiointerferentie en buitenaardse radiosignalen
+met een mogelijk technologische achtergrond.
+Inderdaad, door middel van deep learning.
+Hij en zijn team schreven een deep learning algoritme
+met behulp van de programmeertaal Python.
+Hun deep learning algoritme werd losgelaten
+op de gegevens van 820 sterren uit de Hipparchos-catalogus.
+Dit was ongeveer 480 uur aan radiowaarnemingen
+die waren gedaan met de Green Bank radiotelescoop.
+We hebben het dan over radiosignalen in het frequentiegebied
+tussen 1.1 en 1.9 gigahertz.
+In totaal ploegde het algoritme van Ma en collega's
+door zo'n 120 terabyte aan radioontvangsten.
+Voor de mede-nerds is het misschien wel interessant te weten
+dat hierbij gebruik werd gemaakt van drie Intel Xeon computers
+met ieder ook drie Nvidia GPU's.
+GPU's. Deze GPU's waren Titan X of GTX 1080 modellen.
+Dat geeft wel een beetje aan in wat voor mooie tijd
+we terecht zijn gekomen.
+In mijn oude Windows laptop van vijf jaar geleden
+zit ook een Nvidia GTX 1080 GPU.
+Zo krachtig zijn de computers van nu geworden
+dat dit soort werkzaamheden niet meer per definitie
+op supercomputers hoeven te worden uitgerekend.
+Maar goed, nu het resultaat.
+Maar liefst acht kandidaatssignalen werden opgemerkt in de gegevens.
+Deze signalen waren afkomstig uit de richting van vijf verschillende sterren,
+allen tussen de 30 en 90 lichtjaar verwijderd van onze aarde.
+Die sterren hebben niet zulke opwindende namen.
+HIP 13402, HIP 54677, HIP 62207, etc.
+Dit zijn uiteraard catalogusnummers.
+Nu blijven we nog met een paar vragen zitten die ik even langs zal lopen.
+Vraag 1. Hoe vallen deze signalen op in de ruis?
+En vraag 2. Hoe train je een algoritme met buitenaardse radiosignalen
+als we die nog nooit hebben ontvangen?
+Deze twee vragen horen een beetje bij elkaar, mijns inziens.
+In het begin van deze column zeiden we al dat we zoeken naar smalbandige radiotransmissies
+die een zekere Doppler shift ondergaan.
+Smalbandige signalen zijn goed te onderscheiden,
+want als we een radioontvangst in kleine bandjes verdelen,
+dan valt het signaal op dat slechts in één of twee van zulke onderverdelingen voorkomt,
+en verder nergens.
+En Doppler shift betekent dat een signaal over de tijd iets verschuift in frequentie
+wat ook goed opgemerkt kan worden.
+De kunst wordt dan, en daar hielp natuurlijk het deep learning algoritme bij,
+om binnen de ruis en vervuilde radiosignalen dit soort patronen op te merken.
+SETI ontwikkelde een Python module met de naam SETI-Gen,
+die alien transmissies simuleert.
+U kunt er desgewenst zelf mee experimenteren,
+en de module staat als open source bestand in GitHub.
+Als u de voorbeelden braaf langsloopt,
+kunt u zelf voorbeelden genereren van buitenaardse radiosignalen.
+Een ander detail wat niet onbelangrijk is,
+is dat de radiotelescopen bij een waarneming op een object worden gericht,
+en vlak daarna iets ernaast kijken.
+We noemen dit nodding.
+Als een radiosignaal van een aardse bron afkomstig is,
+dan zal het in de meeste gevallen in beide waarnemingen verschijnen.
+Is het een buitenaardse transmissie van vele lichtjaren van ons vandaan,
+dan zal het uit beeld verdwijnen als we de radiotelescoop iets draaien.
+Dit is ook een belangrijke methode om het kaf van het koren te scheiden.
+Vraag 3. En nu dan?
+Is dit het doorslaggevende bewijs voor buitenaardse technologieën?
+Er is meermalen naar de vijf verdachte sterren gekeken en geluisterd na de ontdekking van het team van MA,
+maar er is nog geen herhaling van een signaal gevonden.
+Dit is uiteraard licht teleurstellend.
+Maar zo kan ik u natuurlijk niet achterlaten.
+Drie sterren van de acht waarnemingen doken twee keer op in de resultaten van de deep learning zoektocht.
+Naar die sterren zal in de toekomst met extra belangstelling geluisterd worden.
+De HIP-catalogusnummers die ik eerder noemde,
+HIP-13402,
+HIP-54677
+en HIP-62207
+zijn die drie sterren.
+En verder is dit de eerste keer in de geschiedenis dat op deze wijze naar CETI-data werd gekeken.
+Dit betekent vooral dat astronomen een nieuw gereedschap in handen hebben gekregen
+om te zoeken naar buitenaardse signalen.
+In de nabije toekomst zullen meer datasets worden doorgeploegd met vergelijkbare algoritmes.
+En deze deep learning technieken worden beter en efficiënter.
+Daar kunnen we vergif op innemen.
+Als er nieuwe spannende ontwikkelingen zijn voor wat betreft buitenaards leven,
+hoort u het uiteraard hier.
+Of in die andere leuke ruimtevaart- en sterrenkunde-podcast
+Sterrenstof van Anko van Hal.
+Ja, dankjewel Hins.
+We zitten hier nu live in het allerpiercent Amsterdam.
+We hebben net de opname gehad van Sterrenstof 23.
+En die is voor maart en die gaat 1 maart online.
+En in deze uitzending hebben we een hele leuk hoofdthema
+en dat is onze mysterieuze planeet van het zonnestelsel Neptunus.
+Ook in deze uitzending heb ik de vraag van de luisteraar die ik ga beantwoorden.
+Een hele spannende vraag staat.
+We hebben astronomie en ruimtevaart nieuws in het kort.
+En in deze uitzending ongelofelijk hebben we exclusief een bericht gekregen van André Kuipers zomaar.
+En we eindigen altijd met de sterrenhemel van de maand.
+En dit keer van de maand maart 2023.
+Ik zou zeker luisteren en subscriben.
+Tot de volgende keer.
+We doen wat we kunnen hier.
+En we ook een kodend audio message naar de Solar Guard.
+We doen wat erASHL yapt.
+We doen zoals het haar product.

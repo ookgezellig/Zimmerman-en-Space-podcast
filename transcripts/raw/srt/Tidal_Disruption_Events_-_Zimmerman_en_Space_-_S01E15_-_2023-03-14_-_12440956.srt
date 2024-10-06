@@ -1,0 +1,692 @@
+1
+00:00:00,000 --> 00:00:06,400
+U luistert naar Zimmerman & Space, een podcast waarin wetenschap en onzin elkaar vredig ontmoeten.
+
+2
+00:00:07,020 --> 00:00:11,720
+Mens zijn is in vergelijking met de rest van het heelal maar een gekke bezigheid.
+
+3
+00:00:12,340 --> 00:00:19,300
+Wij hebben problemen zoals een ingescheurde nagel, waarom de bloemkool opeens 3,50 euro is...
+
+4
+00:00:19,300 --> 00:00:23,420
+of een aanlopende ketting in onze fiets met zeven versnellingen.
+
+5
+00:00:24,800 --> 00:00:29,380
+En ondertussen om ons heen is er een heelal waarvan wij de grote niet kennen...
+
+6
+00:00:29,380 --> 00:00:33,840
+waarin veel zwaardere zaken spelen over enorme tijdspannes.
+
+7
+00:00:36,220 --> 00:00:41,500
+Regelmatig hadden we het al over zwarte gaten, maar één onderdeel daarvan heb ik nog nooit belicht.
+
+8
+00:00:41,980 --> 00:00:46,280
+Het zogenaamde Tidal Disruption Event of TDE.
+
+9
+00:00:47,200 --> 00:00:50,020
+Dus laten we daar vandaag samen eens naar kijken.
+
+10
+00:00:50,720 --> 00:00:56,820
+Eerst wat het is en dan een opmerkelijk mysterieus bericht uit de recente wetenschappelijke pers.
+
+11
+00:00:56,820 --> 00:01:02,380
+Letterlijk vertaald is het een getijden ontregelende gebeurtenis.
+
+12
+00:01:02,980 --> 00:01:08,920
+Die ontregelende gebeurtenis nemen we waar als het plotselinge levenseinde van een ster...
+
+13
+00:01:08,920 --> 00:01:11,920
+die als een sliert een zwart gat in wordt gezogen.
+
+14
+00:01:13,280 --> 00:01:16,080
+Spaghettificatie is de officiële term hiervoor.
+
+15
+00:01:16,800 --> 00:01:21,100
+Deze term horen we vaak hand in hand met de beschrijving van wat er gebeurt...
+
+16
+00:01:21,100 --> 00:01:25,140
+als een arme astronaut te dicht in de buurt van een zwart gat zou komen.
+
+17
+00:01:26,180 --> 00:01:32,880
+Maar hetzelfde dramatische lotwachtsterren die te dicht in de buurt komen van de zwaartekracht van een zwart gat.
+
+18
+00:01:33,420 --> 00:01:35,100
+En dit is niet alleen een hypothese.
+
+19
+00:01:37,000 --> 00:01:39,980
+Spaghettificatie is daadwerkelijk meerdere malen waargenomen.
+
+20
+00:01:39,980 --> 00:01:45,080
+De eerste keer dat dit zichtbaar werd was nog maar in 2018.
+
+21
+00:01:45,960 --> 00:01:49,980
+In een duo van sterrenstelsels met de naam ARP-299...
+
+22
+00:01:50,980 --> 00:01:55,480
+op een gemoedelijke afstand van 150 miljoen lichtjaar van ons vandaan...
+
+23
+00:01:55,480 --> 00:02:01,860
+werd zichtbaar hoe een ster met twee keer de massa van onze zon tot een sliert werd uitgerekt door een zwart gat.
+
+24
+00:02:02,400 --> 00:02:05,980
+In onze fantasie gebeurt zoiets misschien in een onderdeel van een seconde...
+
+25
+00:02:05,980 --> 00:02:11,200
+maar in werkelijkheid duurt zo'n sterrendood al gauw een paar aardse jaren.
+
+26
+00:02:12,060 --> 00:02:18,080
+Gedurende die tijd zien we doorgaans straling uitgezonden worden door zo'n tidal disruption event.
+
+27
+00:02:18,960 --> 00:02:24,140
+De spaghettificatie in ARP-299 was min of meer een toevalstreffer.
+
+28
+00:02:24,800 --> 00:02:27,980
+Er werd gezocht naar supernova's in twee botsende sterrenstelsels.
+
+29
+00:02:27,980 --> 00:02:33,980
+Maar in 2005 zagen astronomen onverwachte flits in het infrarode spectrum...
+
+30
+00:02:35,120 --> 00:02:38,700
+gevolgd door radioemissies vanaf dezelfde locatie.
+
+31
+00:02:39,460 --> 00:02:45,620
+Deze radiostraling komt vrij bij het overlijden van een ster in zo'n tidal disruption event.
+
+32
+00:02:46,620 --> 00:02:50,380
+Laten we eens kijken naar de anatomie van zo'n gebeurtenis.
+
+33
+00:02:50,620 --> 00:02:51,060
+Oké.
+
+34
+00:02:51,060 --> 00:02:52,200
+De naam zegt het al.
+
+35
+00:02:52,960 --> 00:02:54,800
+Getijdenkrachten spelen hierbij een rol.
+
+36
+00:02:55,320 --> 00:02:57,300
+En die kennen we natuurlijk op aarde ook.
+
+37
+00:02:57,300 --> 00:03:03,840
+eb en vloed, het zich altijd maar herhalende ritme van onze zeeën en oceanen.
+
+38
+00:03:05,340 --> 00:03:10,040
+Getijdenkrachten hebben rechtstreeks te maken met de onderlinge zwaartekracht tussen objecten.
+
+39
+00:03:10,980 --> 00:03:13,980
+We weten dat zwaartekracht afneemt met de afstand.
+
+40
+00:03:15,000 --> 00:03:20,760
+Specifieker kunnen we zeggen dat de zwaartekracht omgekeerd evenredig is met het kwadraat van de afstand.
+
+41
+00:03:20,760 --> 00:03:37,280
+Als u op die bewering afhaakt, geen zorgen, want de rest van deze column blijft heel beeldend en simpel te begrijpen.
+
+42
+00:03:37,360 --> 00:03:37,860
+Dat is goed.
+
+43
+00:03:37,860 --> 00:03:46,360
+Wat uit deze feiten over de zwaartekracht volgt, is dat de zwaartekracht harder trekt aan iets wat dichtbij is dan aan iets wat veraf is.
+
+44
+00:03:46,540 --> 00:03:48,000
+Ja, dat is logisch.
+
+45
+00:03:48,000 --> 00:03:51,280
+Precies daarom ervaren we eb en vloed zoals we doen.
+
+46
+00:03:51,960 --> 00:03:55,900
+De zon en de maan trekken allebei met hun zwaartekracht aan onze aarde.
+
+47
+00:03:56,520 --> 00:04:03,360
+En die waterdeeltjes van onze oceanen zijn vloeibaar en laten zich collectief in een bepaalde richting trekken.
+
+48
+00:04:03,360 --> 00:04:10,120
+Maar het is niet zo dat de hele watermassa op aarde als één geheel één kant op beweegt.
+
+49
+00:04:10,800 --> 00:04:18,160
+Kijken we zijdelings naar de aarde, dan zien we dat de watermassa als een soort ei afgeplat wordt door die getijdenkrachten.
+
+50
+00:04:19,000 --> 00:04:22,760
+Vloed zien we dan aan weerszijden van het ei aan de puntige kanten.
+
+51
+00:04:23,800 --> 00:04:25,960
+En dat is wat getijdenwerking inhoudt.
+
+52
+00:04:26,060 --> 00:04:30,760
+Een deformatie, een vervorming van massa als gevolg van de zwaartekracht.
+
+53
+00:04:30,760 --> 00:04:35,440
+Er is een aardig gedachte-experiment wat het misschien nog duidelijker maakt.
+
+54
+00:04:36,080 --> 00:04:42,040
+Stel u voor dat we vier afzonderlijke ballen in de vorm van een ruit in de buurt van de aarde hangen.
+
+55
+00:04:42,780 --> 00:04:43,740
+We laten ze los.
+
+56
+00:04:44,640 --> 00:04:47,220
+Eén bal van die ruit is dichterbij de aarde.
+
+57
+00:04:47,740 --> 00:04:52,220
+Twee ballen staan er iets achter, verder weg van elkaar en verder weg van de aarde.
+
+58
+00:04:52,780 --> 00:04:54,680
+En achteraan is weer één bal.
+
+59
+00:04:54,960 --> 00:05:00,560
+De ruitvorm van deze vier losse ballen wijst als het ware naar het centrum van onze aarde.
+
+60
+00:05:01,240 --> 00:05:05,800
+De zwaartekracht van de aarde gaat aan de ballen trekken waardoor ze naar de aarde bewegen.
+
+61
+00:05:06,740 --> 00:05:10,560
+Ze vallen steeds sneller, maar dat is niet het enige wat er gebeurt.
+
+62
+00:05:11,180 --> 00:05:16,760
+Die twee ballen in het midden van onze ruit bewegen onherroepelijk bij het vallen naar de aarde ook iets naar elkaar toe,
+
+63
+00:05:17,000 --> 00:05:20,200
+omdat ze allebei richting het centrum van onze aarde bewegen.
+
+64
+00:05:20,560 --> 00:05:25,480
+En die achterste bal zal iets minder snel vallen ten opzichte van de voorste bal.
+
+65
+00:05:26,280 --> 00:05:29,960
+Het netto resultaat is dat onze ruit steeds platter wordt.
+
+66
+00:05:30,760 --> 00:05:36,860
+En hetzelfde gebeurt met een voorwerp dat uit miljarden balletjes bestaat, zoals bijvoorbeeld een ster of een mens.
+
+67
+00:05:38,100 --> 00:05:39,500
+We kunnen het nog gekker maken.
+
+68
+00:05:40,100 --> 00:05:44,300
+De zwaartekracht bij uw voeten trekt iets harder aan u dan bij uw hoofd.
+
+69
+00:05:44,500 --> 00:05:47,420
+Maar dat verschil is zo klein dat we er geen last van hebben.
+
+70
+00:05:47,420 --> 00:05:52,880
+De kaarten liggen echter anders als we in de buurt van een zwart gat gaan rondzweven.
+
+71
+00:05:53,720 --> 00:06:02,740
+Dan gaan we in een rap tempo van een tintelende sensatie over naar een behandeling waar zelfs de meest ervaren chiropractor bezwaar bij zou hebben,
+
+72
+00:06:03,060 --> 00:06:06,860
+tot we als een sliert atomen in het zwarte gat terechtkomen.
+
+73
+00:06:06,860 --> 00:06:17,380
+In die staat bent u uiteraard al lang ingeschreven bij het eeuwige koor en kunt u helaas niet constateren dat een en ander veel weg heeft van vloed op aarde.
+
+74
+00:06:18,800 --> 00:06:21,220
+Spaghettification, het is echt een officiële term.
+
+75
+00:06:21,220 --> 00:06:29,000
+Waarschijnlijk werd spaghettificatie voor het eerst gebruikt door Nigel Calder in de documentaire The Key to the Universe,
+
+76
+00:06:29,160 --> 00:06:33,860
+die bij ons in 1977 verscheen als sleutel tot het heelal.
+
+77
+00:06:34,000 --> 00:06:38,580
+Denk maar eens aan een ongelukkige ruimtevaarder die gevangen wordt door de kracht van een zwart gat.
+
+78
+00:06:39,320 --> 00:06:45,640
+Hij zou dan ongelooflijk sterke getijdenkrachten voelen die hem uitrekt naar zijn sliert spaghetti voordat hij in de vergetelheid valt.
+
+79
+00:06:45,640 --> 00:06:55,880
+Voor nu even genoeg denkbeeldig menselijk leed, laten we ons verder concentreren op sterren.
+
+80
+00:06:56,580 --> 00:07:03,720
+In iedere situatie waarbij een ster te dicht in de buurt komt van een zwart gat, kan zo'n tidal disruption event optreden.
+
+81
+00:07:03,840 --> 00:07:10,060
+Maar het wordt uiteraard waargenomen in de superzware zwarte gaten in het centrum van melkwegstelsels,
+
+82
+00:07:10,300 --> 00:07:15,240
+waar sowieso sterren dicht in de buurt van een extreem zwaar zwart gat worden aangetroffen.
+
+83
+00:07:15,640 --> 00:07:20,220
+Als een ster in zo'n tidal disruption event tot sliert wordt getrokken,
+
+84
+00:07:20,380 --> 00:07:25,560
+wordt de massa van de ster of een deel daarvan een deel van de accretie schrijven rond een zwart gat,
+
+85
+00:07:25,720 --> 00:07:29,180
+om uiteindelijk te verdwijnen achter de waarnemingshorizon.
+
+86
+00:07:30,560 --> 00:07:34,000
+Factoren die hierbij een rol spelen zijn de massa van het zwarte gat,
+
+87
+00:07:34,180 --> 00:07:36,360
+de massa en samenstelling van de ster,
+
+88
+00:07:36,600 --> 00:07:39,440
+maar ook de hoek waaronder een ster het zwarte gat benadert,
+
+89
+00:07:39,660 --> 00:07:41,980
+en de rotatiesnelheid van het zwarte gat.
+
+90
+00:07:41,980 --> 00:07:48,520
+Bij die gebeurtenissen treedt een flits op in het elektromagnetisch spectrum,
+
+91
+00:07:48,740 --> 00:07:51,060
+die we in sommige gevallen kunnen waarnemen.
+
+92
+00:07:52,080 --> 00:07:55,240
+Het zijn relatief kortdurende gebeurtenissen,
+
+93
+00:07:55,440 --> 00:08:00,260
+dus we moeten op het juiste moment naar een bepaalde plek in het heelal kijken of luisteren,
+
+94
+00:08:00,560 --> 00:08:02,480
+en ook nog op de juiste frequentie.
+
+95
+00:08:02,820 --> 00:08:07,620
+Want soms zal een tidal disruption event niet in zichtbaar licht waargenomen kunnen worden,
+
+96
+00:08:07,620 --> 00:08:11,460
+omdat er stofwolken tussen de gebeurtenissen en ons in de weg staan.
+
+97
+00:08:12,040 --> 00:08:17,260
+Maar infrarode, röntgen en radiostraling kunnen door deze barrières heen reizen
+
+98
+00:08:17,260 --> 00:08:19,120
+en toch waargenomen worden.
+
+99
+00:08:20,020 --> 00:08:23,400
+Het aardige aan de waarneming van een tidal disruption event is
+
+100
+00:08:23,400 --> 00:08:28,040
+dat dit bij uitstek dé methode is om een zwart gat überhaupt waar te nemen.
+
+101
+00:08:28,520 --> 00:08:33,540
+Want zonder sterfgevallen van sterren en materie is een zwart gat moeilijk waarneembaar.
+
+102
+00:08:33,540 --> 00:08:38,260
+Ik zeg expres niet onmogelijk, want de zwaartekracht van een zwart gat
+
+103
+00:08:38,260 --> 00:08:41,520
+kan een relativistische lenswerking veroorzaken,
+
+104
+00:08:41,660 --> 00:08:45,620
+waardoor het licht van de achtergelegen sterren zichtbaar afboogt.
+
+105
+00:08:46,160 --> 00:08:48,860
+Maar omdat een zwart gat zelf geen straling uitzendt,
+
+106
+00:08:48,900 --> 00:08:51,340
+is het per definitie lastig waarneembaar.
+
+107
+00:08:51,460 --> 00:08:52,460
+Well, I don't see it.
+
+108
+00:08:52,560 --> 00:08:57,220
+Vandaar ook dat astronomen speciale interesse hebben in tidal disruption events
+
+109
+00:08:57,220 --> 00:09:01,920
+om te weten te komen waar zich zwarte gaten bevinden en hoe massief deze zijn.
+
+110
+00:09:01,920 --> 00:09:05,180
+Het is nog maar een jonge tak van de astronomie.
+
+111
+00:09:05,720 --> 00:09:11,180
+We zeiden al dat de eerste spaghettificatie van een ster pas in 2018 bevestigd werd.
+
+112
+00:09:11,800 --> 00:09:16,660
+Veel hebben we te danken aan de waarnemingen die werden gedaan met behulp van de ROSAT-satelliet.
+
+113
+00:09:17,220 --> 00:09:20,940
+Dit was een röntgensatelliet van de German Aerospace Center,
+
+114
+00:09:21,260 --> 00:09:24,060
+beter bekend als DLR, wat staat voor
+
+115
+00:09:24,060 --> 00:09:28,440
+in samenwerking met NASA.
+
+116
+00:09:28,860 --> 00:09:35,940
+De ROSAT-satelliet deed waarnemingen aan de röntgensterrenhemel van 1990 tot en met 1998
+
+117
+00:09:35,940 --> 00:09:40,860
+en verbrande in de aardse atmosfeer op 23 oktober 2011.
+
+118
+00:09:41,360 --> 00:09:48,000
+Een interessant weetje is dat het einde van die ROSAT-satelliet niet geheel zonder controversie is.
+
+119
+00:09:48,000 --> 00:09:55,780
+Op een dag laat in 1998 werd de gevoelige sensor van de ROSAT-satelliet opeens op de zon gericht,
+
+120
+00:09:55,960 --> 00:09:57,740
+waardoor deze onbruikbaar raakte.
+
+121
+00:09:58,380 --> 00:10:04,000
+Een en ander viel samen met een Russische cyberaanval op het Goddard Space Center.
+
+122
+00:10:05,020 --> 00:10:06,980
+Een enkele luisteraar denkt misschien nu
+
+123
+00:10:06,980 --> 00:10:11,980
+Bah, wat een anti-Russische misinformatie op Zimmerman & Space.
+
+124
+00:10:11,980 --> 00:10:17,880
+Maar daarom zeg ik ook alleen dat het einde van de ROSAT-satelliet niet zonder controversie is.
+
+125
+00:10:18,360 --> 00:10:19,940
+Ik weet niet wat er is gebeurd.
+
+126
+00:10:21,000 --> 00:10:26,840
+Het is wel een feit dat een gevoelige sensor van dit apparaat onbruikbaar werd door op de zon te worden gericht.
+
+127
+00:10:27,300 --> 00:10:32,680
+Maar of dat kwade opzet was, daar kan ik niet genoeg over vinden en de meningen lopen erover uiteen.
+
+128
+00:10:32,680 --> 00:10:37,440
+De Russische cyberaanval is volgens sommige bronnen op internet een feit.
+
+129
+00:10:37,780 --> 00:10:43,180
+Maar de bediening van de ROSAT-satelliet werd ook deels uitgevoerd in Duitsland bij de DLR
+
+130
+00:10:43,180 --> 00:10:45,700
+en niet per se in het Goddard Space Center.
+
+131
+00:10:46,280 --> 00:10:51,140
+En de ROSAT-satelliet begon sowieso al haperingen te vertonen.
+
+132
+00:10:51,840 --> 00:10:54,840
+Wellicht zullen we er in de toekomst meer over te weten komen.
+
+133
+00:10:55,840 --> 00:11:00,080
+En is het plausibel dat het uitgerekend weer Russische hackers betreft?
+
+134
+00:11:00,080 --> 00:11:03,200
+Ook daar heb ik niet genoeg verstand van.
+
+135
+00:11:04,140 --> 00:11:10,460
+Hoe dat allemaal ook zij, ik had u nog een recente gebeurtenis uit de astronomische wetenschap beloofd.
+
+136
+00:11:10,980 --> 00:11:14,120
+Eind vorig jaar verscheen een artikel hierover met de titel
+
+137
+00:11:14,120 --> 00:11:23,620
+In de Astrophysical Journal.
+
+138
+00:11:24,320 --> 00:11:26,400
+Hoofdauteur is Yvette Zendes.
+
+139
+00:11:26,400 --> 00:11:34,100
+We zeiden eerder al dat er straling vrijkomt in een tidal disruption event als een ster verscheurd wordt door een zwart gat.
+
+140
+00:11:35,180 --> 00:11:45,100
+Maar in dit geval zat er een pauze van bijna drie jaar tussen de eerste optische waarneming in 2018 en een radio waarneming in 2021.
+
+141
+00:11:45,640 --> 00:11:46,400
+Dit is absurd!
+
+142
+00:11:46,400 --> 00:11:53,380
+Volgens Edo Berger, de tweede auteur van het artikel en docent astronomie aan de Harvard Universiteit,
+
+143
+00:11:53,600 --> 00:12:01,400
+is het gebruikelijk dat bij een tidal disruption event de spaghettificatie van een ster direct gevolgd wordt door radioemissies.
+
+144
+00:12:02,140 --> 00:12:05,580
+Deze stilte van drie jaar kan nog niet goed worden verklaard.
+
+145
+00:12:05,580 --> 00:12:13,580
+Het betreft beslist niet een nieuw tidal disruption event dat losstaat van wat er in 2018 gebeurde.
+
+146
+00:12:14,900 --> 00:12:21,300
+Het is een beetje alsof het zwarte gat iets te gulzig had gegeten en na een tijdje nog een boer laat.
+
+147
+00:12:23,040 --> 00:12:27,660
+Ja, dat was natuurlijk te onweerstaanbaar om geen geluidje bij te zoeken.
+
+148
+00:12:27,780 --> 00:12:28,860
+Hens, Jezus!
+
+149
+00:12:28,860 --> 00:12:34,360
+De redactie van deze podcast verontschuldigt zich bij voorbaat voor het kinderachtige gedrag van de presentator,
+
+150
+00:12:34,580 --> 00:12:36,500
+tevens de redactie van deze podcast.
+
+151
+00:12:37,380 --> 00:12:38,300
+Nog iets aparts.
+
+152
+00:12:38,380 --> 00:12:47,360
+De drie jaar late uitwaseming van radiostraling ging gepaard met het wegschieten van materie met maar liefst 50% van de lichtsnelheid.
+
+153
+00:12:47,860 --> 00:12:49,160
+Dat is behoorlijk rap.
+
+154
+00:12:50,180 --> 00:12:57,720
+Gebruikelijk bij tidal disruption events is dat gezien wordt dat materie met ongeveer 10% van de lichtsnelheid wegschiet.
+
+155
+00:12:57,720 --> 00:13:04,900
+Dit betreft dus materie die net ver genoeg weg staat van een zwart gat om nog een andere kant op te kunnen schieten.
+
+156
+00:13:05,680 --> 00:13:14,840
+Hetzelfde geldt voor radioemissies, want ook radiostraling kan worden verzwolgen door een zwart gat als deze te dicht bij dat zwarte gat wordt uitgezonden.
+
+157
+00:13:15,660 --> 00:13:27,100
+De gebeurtenis heeft de naam AT2018HIZ en we hebben het over iets dat 665 miljoen lichtjaar van ons verwijderd plaatsvond in het verre verleden.
+
+158
+00:13:27,720 --> 00:13:37,840
+Maar, zo zeggen Sanders en Berger in hun artikel, de kans is groot dat dit soort uitstelgedrag van zwarte gaten veel gangbaarder is dan tot nu toe werd gedacht.
+
+159
+00:13:38,560 --> 00:13:51,740
+Zij concluderen een en ander op basis van een tweede recentere waarneming, waarbij een zwart gat om eveneens onverklaarbare redenen een pauze inlasten tussen spaghettificatie en het wegschieten van materie en straling.
+
+160
+00:13:51,740 --> 00:14:03,900
+Bij die recentere waarneming ging het om een tidal disruption event met de naam ASASSN-15OI, waarbij een pauze van 550 dagen stilte werd gemeten.
+
+161
+00:14:04,480 --> 00:14:08,740
+Er bestaan wel diverse hypotheses waarom zo'n stilte plaatsvindt.
+
+162
+00:14:08,740 --> 00:14:27,560
+Het zou bijvoorbeeld kunnen zijn dat de materie pas naar buiten wordt geschoten tijdens of na de transitie van lage dichtheid rond het zwarte gat naar de relatief hogere dichtheid daarbuiten.
+
+163
+00:14:27,560 --> 00:14:32,020
+Ook kan een magneet valt rond een zwart gat er schuldig aan zijn.
+
+164
+00:14:32,700 --> 00:14:35,020
+Maar raadselachtig blijft het wel.
+
+165
+00:14:35,260 --> 00:14:36,240
+Ja, zeg dat wel.
+
+166
+00:14:36,360 --> 00:14:46,680
+Wat ik niet terugvond in het artikel van Sanders en collega's, en wat ik mij toch wel afvraag, is in hoeverre de vervorming van de ruimtetijd niet een rol speelt bij dit alles.
+
+167
+00:14:47,340 --> 00:14:53,940
+We weten dat de tijd in de buurt van een zwart gat steeds langzamer gaat tukken, relatief voor ons buitenstaanders.
+
+168
+00:14:53,940 --> 00:14:58,360
+Dat zou een gebeurtenis letterlijk kunnen vertragen vanuit ons gezien.
+
+169
+00:14:59,000 --> 00:15:00,840
+Maar goed, wat weet ik ervan niet waar.
+
+170
+00:15:01,280 --> 00:15:02,440
+Tot de volgende keer.
+
+171
+00:15:02,560 --> 00:15:04,120
+Our mission is a complete success.
+
+172
+00:15:04,560 --> 00:15:04,980
+Boing!
+
+173
+00:15:06,840 --> 00:15:08,580
+Hens, ik twijfel hieraan.
+

@@ -1,0 +1,804 @@
+1
+00:00:00,000 --> 00:00:02,380
+U luistert naar Zimmerman & Space.
+
+2
+00:00:02,980 --> 00:00:07,940
+Als technologie weer eens een forse stap vooruit maakt, word ik altijd aangenaam verrast.
+
+3
+00:00:08,140 --> 00:00:08,440
+Jee!
+
+4
+00:00:08,680 --> 00:00:11,980
+Vandaag een dergelijk voorbeeld uit de radioastronomie...
+
+5
+00:00:11,980 --> 00:00:16,560
+en dan ook nog met het oog op technologisch geavanceerde civilisaties.
+
+6
+00:00:17,460 --> 00:00:20,060
+We zullen het eerst even rustig opbouwen.
+
+7
+00:00:20,160 --> 00:00:21,580
+Hoef, ik vind het spannend. Ja, ready!
+
+8
+00:00:22,020 --> 00:00:26,180
+Al langer denkt de mens dat wij mogelijk niet alleen zijn in dit heelal.
+
+9
+00:00:26,180 --> 00:00:32,180
+De uitdaging is om levenstekens van andere wezens te vinden in een uitgestrekt heelal...
+
+10
+00:00:32,700 --> 00:00:37,520
+waarin we niet weten waar we moeten zoeken en ook eigenlijk niet precies wat we zoeken.
+
+11
+00:00:37,720 --> 00:00:39,060
+Ja, het is echt gênant.
+
+12
+00:00:39,200 --> 00:00:42,620
+Om toch iets van richting aan onze nieuwsgierigheid te geven...
+
+13
+00:00:42,620 --> 00:00:46,020
+kunnen we de zoektocht grofweg indelen in twee onderdelen.
+
+14
+00:00:46,560 --> 00:00:47,000
+Eén.
+
+15
+00:00:47,400 --> 00:00:51,200
+Het eerste onderdeel betreft astrobiologische kenmerken...
+
+16
+00:00:51,200 --> 00:00:53,720
+die we ook voor primitief leven kunnen verwachten.
+
+17
+00:00:53,720 --> 00:00:57,900
+Als we ervan uitgaan dat leven elders lijkt op dat op aarde...
+
+18
+00:00:57,900 --> 00:01:01,560
+dan zouden we mogelijk ook biochemisch bewijs daarvan kunnen vinden.
+
+19
+00:01:02,140 --> 00:01:04,720
+Dan zoeken we bijvoorbeeld naar andere planeten met atmosferen...
+
+20
+00:01:05,560 --> 00:01:10,960
+waarin we zuurstof, water, koolstofdioxide, methaan, et cetera, aantreffen.
+
+21
+00:01:11,360 --> 00:01:11,800
+Twee.
+
+22
+00:01:12,040 --> 00:01:15,200
+Het tweede onderdeel van de zoektocht is wat optimistischer...
+
+23
+00:01:15,200 --> 00:01:18,840
+en zegt dat we mogelijk niet de enige intelligente levensvorm zijn.
+
+24
+00:01:18,840 --> 00:01:25,060
+Een levensvorm elders zou dan mogelijk ook draadloze communicatie hebben uitgevonden...
+
+25
+00:01:25,060 --> 00:01:30,220
+en zelfs bakens kunnen uitzenden om ons op de hoogte te brengen van hun aanwezigheid.
+
+26
+00:01:31,580 --> 00:01:33,720
+Een beetje zoals we andersom ook doen.
+
+27
+00:01:34,880 --> 00:01:38,360
+Het luisterend oor voor dit doel staat bekend als CETI...
+
+28
+00:01:38,360 --> 00:01:41,060
+de Search for Extraterrestrial Intelligence.
+
+29
+00:01:41,060 --> 00:01:45,440
+Dit instituut werd al in 1984 opgericht...
+
+30
+00:01:45,440 --> 00:01:49,180
+maar bestond daarvoor al als een klein onderzoeksproject van NASA.
+
+31
+00:01:50,220 --> 00:01:52,440
+Inmiddels is CETI een gigantisch instituut...
+
+32
+00:01:53,200 --> 00:01:56,820
+waarin ook veel wordt gedaan op het gebied van voorlichting en educatie.
+
+33
+00:01:58,000 --> 00:02:02,840
+Wat echter tot op heden ontbreekt zijn berichten van buitenaardse civilisaties.
+
+34
+00:02:03,300 --> 00:02:04,720
+En er wordt heus wel gezocht.
+
+35
+00:02:04,720 --> 00:02:11,580
+Misschien heeft u de afgelopen jaren ook wel een deel van uw computertijd gedoneerd aan project CETI at Home.
+
+36
+00:02:12,480 --> 00:02:18,040
+Maar helaas, E.T. werd niet gevonden en CETI at Home staat momenteel op de pauzestand.
+
+37
+00:02:19,180 --> 00:02:24,060
+En misschien deed u ook wel mee met de zoektocht Are We Alone in the Universe van Zooniverse.
+
+38
+00:02:24,640 --> 00:02:30,880
+Hierbij werden gegevens van de Green Bank radiotelescoop door burgerwetenschappers doorgespit...
+
+39
+00:02:30,880 --> 00:02:34,060
+om veelbelovende signalen te onderscheiden van ruis.
+
+40
+00:02:34,720 --> 00:02:40,960
+Specifiek werd gekeken naar smalbandige, regelmatige gegevens op de waterstoflijn...
+
+41
+00:02:40,960 --> 00:02:46,320
+met een golflengte van 21 centimeter, waar we het onlangs al over hadden in deze podcast.
+
+42
+00:02:47,160 --> 00:02:51,900
+Een uitdaging is het herkennen van aardse radiofrequentie-interferenties...
+
+43
+00:02:51,900 --> 00:02:57,540
+die misschien lijken op uitzendingen van aliens, maar in werkelijkheid gewoon een aardse oorsprong hebben.
+
+44
+00:02:57,540 --> 00:03:10,780
+Het Are We Alone in the Universe project had als tweede doel om algoritmes te verbeteren...
+
+45
+00:03:10,780 --> 00:03:17,780
+die in staat moeten zijn om automatisch onderscheid te maken tussen radio-interferenties van aardse oorsprong...
+
+46
+00:03:17,780 --> 00:03:21,540
+en potentiële uitzendingen van buitenaardse wezens.
+
+47
+00:03:22,740 --> 00:03:26,260
+Sommigen van u zullen wel eens gehoord hebben van het WOW-signaal.
+
+48
+00:03:26,980 --> 00:03:34,780
+Dit signaal werd op 15 augustus 1977 aangetroffen in een radio-observatie van de Big Ear radiotelescoop.
+
+49
+00:03:34,780 --> 00:03:35,780
+Wauw!
+
+50
+00:03:36,820 --> 00:03:42,220
+Tot op heden is er geen goede verklaring gevonden voor het WOW-signaal, maar ook geen herhaling.
+
+51
+00:03:43,260 --> 00:03:49,280
+Is dit dan de magere vangst van decennia luisteren naar uitzendingen van buitenaardse oorsprong?
+
+52
+00:03:49,500 --> 00:03:50,260
+Wauw!
+
+53
+00:03:51,380 --> 00:03:52,100
+Niet helemaal.
+
+54
+00:03:52,860 --> 00:03:57,000
+Er was ook het BLC1-signaal in april en mei 2019.
+
+55
+00:03:57,000 --> 00:04:05,000
+Ook dit was een afwijkend radiosignaal, in dit geval op een frequentie van 982.002 MHz.
+
+56
+00:04:06,100 --> 00:04:09,000
+Het werd ontdekt met de Parkes radiotelescoop in Australië...
+
+57
+00:04:09,580 --> 00:04:12,760
+en kwam ongeveer uit de richting van Proxima Centauri.
+
+58
+00:04:13,560 --> 00:04:18,060
+Maar er worden inmiddels grote vraagtekens bij de oorsprong van dit signaal gezet.
+
+59
+00:04:18,780 --> 00:04:21,840
+Mogelijk is het toch weer van aardse makelij geweest.
+
+60
+00:04:21,840 --> 00:04:22,360
+Wauw!
+
+61
+00:04:22,360 --> 00:04:29,580
+En dan is er tot slot nog project Serendip, eveneens van CETI.
+
+62
+00:04:30,180 --> 00:04:33,580
+Met de Arecibo radiotelescoop in Puerto Rico...
+
+63
+00:04:33,580 --> 00:04:39,860
+werd enkele jaren gekeken in het radiobereik van 424 tot 436 MHz.
+
+64
+00:04:40,520 --> 00:04:45,640
+Het software met de naam Siren werd naar ongeveer 40 miljoen signalen gekeken...
+
+65
+00:04:45,640 --> 00:04:48,700
+waarin 160 miljoen gebeurtenissen werden herkend...
+
+66
+00:04:48,700 --> 00:04:52,980
+en uiteindelijk rond de 164 kandidaatssignalen overbleven.
+
+67
+00:04:53,140 --> 00:04:54,060
+Zoé, wat veel!
+
+68
+00:04:54,360 --> 00:04:58,700
+Maar ook hier werd om een of andere reden geen persbericht over uitgebracht.
+
+69
+00:05:00,220 --> 00:05:02,660
+Wat we tot op heden nog niet hebben ontvangen...
+
+70
+00:05:02,660 --> 00:05:05,920
+is een signaal waar ontegenzeggelijk informatie in ligt besloten...
+
+71
+00:05:06,540 --> 00:05:11,120
+die wij kunnen begrijpen als bewust daarin gelegd door een andere civilisatie.
+
+72
+00:05:11,120 --> 00:05:18,360
+Zoiets als het Wauw-signaal kunnen we met romantische gevoelens benaderen...
+
+73
+00:05:18,360 --> 00:05:22,280
+omdat het een opvallende piek is in een verder rustig radiogebied.
+
+74
+00:05:22,680 --> 00:05:27,860
+Maar meer dan een kortstondig stuk willekeurige radioenergie is het niet.
+
+75
+00:05:28,660 --> 00:05:31,560
+De ongeïnformeerde geest zal misschien beweren...
+
+76
+00:05:31,560 --> 00:05:37,080
+dat de code 6EQUJ5 van het Wauw-signaal ergens voor staat.
+
+77
+00:05:37,080 --> 00:05:45,080
+Maar dit is alleen de aardse vertaling van radiointensiteit...
+
+78
+00:05:45,720 --> 00:05:47,980
+naar een tamelijk arbitraire codering.
+
+79
+00:05:48,540 --> 00:05:52,780
+Op een gortdroog niveau zouden we het Wauw-signaal kunnen herkennen...
+
+80
+00:05:52,780 --> 00:05:56,080
+als een normaalverdeling waarin elke waarde in de tijd...
+
+81
+00:05:56,080 --> 00:05:59,060
+feitelijk dezelfde ontologische betekenis heeft.
+
+82
+00:06:00,060 --> 00:06:03,320
+Zou een intelligente civilisatie echt haar best doen...
+
+83
+00:06:03,320 --> 00:06:05,740
+om informatie te stoppen in een signaal...
+
+84
+00:06:05,740 --> 00:06:08,880
+dan zou het bijvoorbeeld aan de volgende verwachtingen kunnen voldoen.
+
+85
+00:06:09,900 --> 00:06:13,420
+Hetzelfde signaal zou een paar keer achter elkaar verzonden kunnen worden.
+
+86
+00:06:14,020 --> 00:06:15,740
+Dan zouden we als luisteraars zeker weten...
+
+87
+00:06:16,460 --> 00:06:19,440
+dat we het complete pakket één keer hebben binnengehaald.
+
+88
+00:06:20,440 --> 00:06:24,740
+Het signaal zou op een heel specifieke dunne frequentieband kunnen worden uitgezonden.
+
+89
+00:06:25,740 --> 00:06:27,740
+Dit om het te onderscheiden van natuurlijke signalen...
+
+90
+00:06:27,740 --> 00:06:33,320
+en ook omdat het te veel energie kost om een signaal over een brede band uit te zenden.
+
+91
+00:06:34,280 --> 00:06:38,060
+Het signaal zou over de tijd een patroon kunnen weergeven.
+
+92
+00:06:38,600 --> 00:06:42,760
+Dan hoeven we niet aan een mysterieuze alienversie van Morse te denken.
+
+93
+00:06:43,520 --> 00:06:45,420
+Als we op aarde digitale informatieoverdracht doen...
+
+94
+00:06:45,420 --> 00:06:48,420
+dan is één van de belangrijke basisvoorwaarden...
+
+95
+00:06:48,420 --> 00:06:53,420
+dat een ontvanger kan weten hoe snel het signaal over de tijd gecodeerd wordt...
+
+96
+00:06:54,080 --> 00:06:56,180
+wanneer het begint en wanneer het eindigt.
+
+97
+00:06:56,940 --> 00:07:02,980
+Kijk voor de lol eens naar de typische EAN8 of EAN13 streepjescode op een product.
+
+98
+00:07:02,980 --> 00:07:07,220
+Doorgaans zien we die beginnen en eindigen met twee zwarte lijntjes.
+
+99
+00:07:07,800 --> 00:07:09,980
+De barcodescanner kan deze lijntjes herkennen...
+
+100
+00:07:10,660 --> 00:07:14,140
+en weet dan wat de afstand tussen de afzonderlijke streepjes is...
+
+101
+00:07:14,140 --> 00:07:16,480
+en wanneer de complete code gelezen is.
+
+102
+00:07:17,620 --> 00:07:21,760
+Of wat dacht u van uw kat die als enige door de catflap kan manoeuvreren?
+
+103
+00:07:22,400 --> 00:07:27,040
+De dierenarts injecteert daartoe een RFID-transponder in uw huisdier.
+
+104
+00:07:27,740 --> 00:07:31,280
+RFID staat voor Radiofrequentie-identificatie.
+
+105
+00:07:31,280 --> 00:07:35,760
+De werking van deze transponders is Europees gereguleerd...
+
+106
+00:07:35,760 --> 00:07:43,780
+en vastgelegd in ISO-standaarden 11784, 11785, 14223 en 24631.
+
+107
+00:07:44,040 --> 00:07:46,760
+En ik vind dat echt wel heel interessant.
+
+108
+00:07:47,140 --> 00:07:50,280
+In ISO-standaard 11784 staat vermeld...
+
+109
+00:07:50,800 --> 00:07:55,220
+wat voor slierd aan bits de chip in de nek van uw kat moet uitzenden...
+
+110
+00:07:55,220 --> 00:07:57,200
+als deze in een spoel terechtkomt.
+
+111
+00:07:57,800 --> 00:08:00,420
+Afhankelijk van de modus waarin de chip werkt...
+
+112
+00:08:00,420 --> 00:08:03,180
+begint dat verhaal met 8 of 11 startbits.
+
+113
+00:08:03,180 --> 00:08:07,660
+Dit is een vast patroon waaraan de ontvanger kan herkennen...
+
+114
+00:08:07,660 --> 00:08:12,620
+dat het hier daadwerkelijk een ISO-11784-compatibele chip betreft.
+
+115
+00:08:13,220 --> 00:08:17,400
+Na de startbits volgt een voorspelbare en eindige reeks bits...
+
+116
+00:08:17,400 --> 00:08:21,320
+die allemaal begrepen kunnen worden in de context van het complete signaal.
+
+117
+00:08:21,320 --> 00:08:28,800
+Nu bestaat er natuurlijk geen ISO-standaard in het heelal voor informatieuitwisseling...
+
+118
+00:08:28,800 --> 00:08:31,880
+maar aliens zouden op dit vlak wel hun best kunnen doen.
+
+119
+00:08:32,500 --> 00:08:37,320
+Een uitzending zou bijvoorbeeld kunnen starten en stoppen met een vast aantal pulsen...
+
+120
+00:08:37,320 --> 00:08:41,960
+die ons luisteraars vertellen hoe hard een puls is ten opzichte van geen puls...
+
+121
+00:08:41,960 --> 00:08:43,800
+en hoe lang deze in de tijd duren.
+
+122
+00:08:43,800 --> 00:08:47,860
+Tot slot zal een alien civilisatie begrijpen...
+
+123
+00:08:47,860 --> 00:08:52,620
+dat we iets van een gemeenschappelijke taal zullen moeten ontwikkelen om elkaar te begrijpen...
+
+124
+00:08:52,620 --> 00:08:56,920
+en zo zouden bijvoorbeeld prime getallen een functie kunnen bekleden in deze taal.
+
+125
+00:08:58,080 --> 00:09:01,620
+Om onze kansen te vergroten een dergelijk signaal te ontvangen...
+
+126
+00:09:01,620 --> 00:09:03,860
+als het überhaupt ooit wordt uitgezonden...
+
+127
+00:09:03,860 --> 00:09:08,980
+moeten we de radio sterrenhemel een stuk intensiever waarnemen dan we tot nu toe deden.
+
+128
+00:09:08,980 --> 00:09:16,540
+Uiteraard is er geen geld en personeel om de hele planeet specifiek voor dit doel vol te bouwen met radiotelescopen.
+
+129
+00:09:17,180 --> 00:09:21,360
+Maar sinds vorig jaar hebben we een aardig alternatief tot onze beschikking.
+
+130
+00:09:22,080 --> 00:09:23,920
+Het heet COSMIC, wat staat voor...
+
+131
+00:09:23,920 --> 00:09:27,400
+Commensal Open Source Multimode Interferometer Cluster.
+
+132
+00:09:28,140 --> 00:09:35,680
+Hierbij wordt gebruik gemaakt van de bestaande Carl G. Jansky Very Large Array of VLA in New Mexico.
+
+133
+00:09:35,680 --> 00:09:41,520
+Hier staan 28 radiotelescoopantennes die onderling verplaatst kunnen worden.
+
+134
+00:09:42,280 --> 00:09:48,200
+Het woord Commensal in de afkorting COSMIC zegt ons wat het grote voordeel van deze zoektocht is.
+
+135
+00:09:48,780 --> 00:09:52,100
+COSMIC leeft namelijk mee op bestaande waarnemingen.
+
+136
+00:09:52,720 --> 00:09:54,680
+In die zin is dit instrument commensaal.
+
+137
+00:09:55,720 --> 00:10:00,380
+Het maakt gebruik van een bestaande radioinfrastructuur zonder deze te belasten.
+
+138
+00:10:01,380 --> 00:10:04,680
+De VLA wordt dag en nacht gebruikt voor wetenschappelijke waarnemingen...
+
+139
+00:10:04,680 --> 00:10:10,320
+en de gegevens van al deze antennes worden ook in realtime met COSMIC gedeeld.
+
+140
+00:10:11,120 --> 00:10:16,680
+Dit houdt in dat de wetenschappers van CETI hun eigen berekeningen los kunnen laten op wat wordt waargenomen...
+
+141
+00:10:17,700 --> 00:10:20,760
+zonder de andere radiosterkundigen te hinderen.
+
+142
+00:10:21,740 --> 00:10:25,140
+COSMIC werkt aan de ontvangstkant grotendeels autonoom.
+
+143
+00:10:25,140 --> 00:10:29,140
+De gegevens van de VLA antennes komen in hun rauwe vorm binnen...
+
+144
+00:10:29,660 --> 00:10:34,140
+en worden met digitale signaalverwerkingsalgoritmes opgedeeld in losse series...
+
+145
+00:10:34,960 --> 00:10:38,480
+met een bandbreedte tussen de 1 Hz en de 1 MHz.
+
+146
+00:10:39,260 --> 00:10:44,320
+Ongeveer vijf minuten terug in de tijd wordt continu opgeslagen voor alle antennes...
+
+147
+00:10:44,320 --> 00:10:49,480
+zodat opvallende signalen direct nader kunnen worden onderzocht met de originele gegevens.
+
+148
+00:10:49,480 --> 00:10:55,480
+Omdat berichten van buitenaardse civilisaties verwacht worden te komen van exoplaneten...
+
+149
+00:10:56,160 --> 00:11:03,680
+kijkt COSMIC ook continu of de radiotelescopen uitgericht staan op een interessant object uit bijvoorbeeld de Gaia-catalogus.
+
+150
+00:11:04,600 --> 00:11:08,840
+Hierbij wordt gebruik gemaakt van een proces dat beamforming wordt genoemd.
+
+151
+00:11:09,560 --> 00:11:13,720
+Al die verschillende radioantennes ontvangen verschillende signalen op.
+
+152
+00:11:13,720 --> 00:11:20,520
+Die kunnen door middel van software worden gecombineerd tot afzonderlijke waarnemingen van verschillende objecten.
+
+153
+00:11:21,080 --> 00:11:23,720
+Dit is een van de verworvenheden van moderne ontvangstapparatuur...
+
+154
+00:11:24,980 --> 00:11:28,140
+en staat ook wel bekend als software-defined radio.
+
+155
+00:11:28,820 --> 00:11:32,720
+Waar vroeger dure elektronica werd gebruikt om radioontvangst te sturen...
+
+156
+00:11:33,480 --> 00:11:36,960
+kan een groot gedeelte daarvan tegenwoordig in software worden gedaan.
+
+157
+00:11:37,660 --> 00:11:40,360
+Ook uw mobiele telefoon maakt hij al gebruik van.
+
+158
+00:11:40,360 --> 00:11:44,360
+In de praktijk is COSMIC een rek vol computerapparatuur...
+
+159
+00:11:45,080 --> 00:11:47,360
+onder Field Programmable Gate Arrays.
+
+160
+00:11:48,560 --> 00:11:53,280
+Een heel team aan CETI-wetenschappers zal de programmatuur die in dit rek draait...
+
+161
+00:11:53,280 --> 00:11:54,360
+de komende jaren verfijnen.
+
+162
+00:11:55,720 --> 00:11:59,160
+In de eerste testen die in 2023 werden gedaan...
+
+163
+00:11:59,160 --> 00:12:03,360
+werd maar een heel klein gedeelte van de VLA-waarnemingen gebruikt door COSMIC...
+
+164
+00:12:03,840 --> 00:12:07,460
+maar werd al een groot aantal interessante kandidaatssignalen gevonden.
+
+165
+00:12:07,460 --> 00:12:11,460
+Het grote doel is natuurlijk om de complete dataset...
+
+166
+00:12:11,980 --> 00:12:14,460
+continu door te spitten met kunstmatige intelligentie...
+
+167
+00:12:15,180 --> 00:12:17,960
+om zodoende een veel grotere kans te krijgen...
+
+168
+00:12:17,960 --> 00:12:21,120
+op de ontvangst van een bericht van onze buitenaardse buren.
+
+169
+00:12:22,080 --> 00:12:25,300
+Volgens wetenschapper Genoa Tremblay van CETI...
+
+170
+00:12:25,300 --> 00:12:27,460
+is de apparatuur inmiddels zo goed geworden...
+
+171
+00:12:28,020 --> 00:12:31,660
+dat we misschien ook berichten kunnen ontvangen die helemaal niet voor ons bedoeld waren.
+
+172
+00:12:31,660 --> 00:12:38,660
+U kunt dan denken aan communicatie tussen ruimtevaartuigen en andere civilisaties.
+
+173
+00:12:40,460 --> 00:12:42,960
+Een bijzonder doel waar COSMIC zich op richt...
+
+174
+00:12:42,960 --> 00:12:45,660
+is signalen die in frequentie over de tijd wat afbuigen.
+
+175
+00:12:46,980 --> 00:12:49,660
+Want als een signaal niet van onze aarde afkomstig is...
+
+176
+00:12:50,180 --> 00:12:53,660
+dan zal het ten opzichte van ons over de tijd wat gaan afwijken...
+
+177
+00:12:53,660 --> 00:12:57,920
+wanneer zender en ontvanger in positie iets veranderen ten opzichte van elkaar.
+
+178
+00:12:58,580 --> 00:13:01,080
+Een aardsignaal heeft hier geen last van...
+
+179
+00:13:01,080 --> 00:13:04,760
+omdat zender en ontvanger dan samen dezelfde reis afleggen.
+
+180
+00:13:05,320 --> 00:13:09,220
+Dit zijn allemaal kleine eigenschappen die maken dat we onderscheid kunnen maken...
+
+181
+00:13:09,220 --> 00:13:11,560
+tussen signalen van hun en van ons.
+
+182
+00:13:12,940 --> 00:13:15,660
+Mocht project COSMIC succesvol blijken te zijn...
+
+183
+00:13:15,660 --> 00:13:18,840
+dan zijn er nog veel meer radiotelescopen op aarde...
+
+184
+00:13:18,840 --> 00:13:22,000
+waarop een soortgelijke wijze gebruik van kan worden gemaakt.
+
+185
+00:13:22,720 --> 00:13:24,560
+En hoe u het ook went of keert...
+
+186
+00:13:24,560 --> 00:13:29,580
+het is een uiterst kostende effectieve methode van het bedrijven van radiosterrenkunde.
+
+187
+00:13:30,340 --> 00:13:33,680
+COSMIC is fysiek niet meer dan een aantal kasten met apparatuur.
+
+188
+00:13:34,500 --> 00:13:38,520
+In vergelijking met de bouw en bediening van radiotelescopen zelf...
+
+189
+00:13:38,520 --> 00:13:40,100
+kost zoiets maar een fractie.
+
+190
+00:13:40,800 --> 00:13:44,740
+En de open source basis van de programmatuur die wordt gebruikt...
+
+191
+00:13:44,740 --> 00:13:46,960
+maakt dat het relatief eenvoudig zal zijn...
+
+192
+00:13:46,960 --> 00:13:50,200
+om meerdere kosmic-achtige projecten te realiseren.
+
+193
+00:13:51,240 --> 00:13:53,960
+Persoonlijk wacht ik al een paar decennia op het bericht...
+
+194
+00:13:53,960 --> 00:13:58,960
+dat buitenaardse technologisch geavanceerde civilisaties daadwerkelijk bestaan...
+
+195
+00:13:58,960 --> 00:14:01,940
+dus ik ben wel enthousiast over dit project COSMIC.
+
+196
+00:14:02,840 --> 00:14:06,040
+Wilt u er graag nog wat meer over lezen of horen...
+
+197
+00:14:06,040 --> 00:14:10,860
+dan vindt u in de show notes van deze aflevering een link naar een gesprek van een uur...
+
+198
+00:14:10,860 --> 00:14:15,460
+tussen Molly Bentley, Genoa Tremblay en Mark Ruzendana op YouTube.
+
+199
+00:14:15,460 --> 00:14:20,600
+Een technisch artikel over de implementatie van COSMIC vindt u als pdf...
+
+200
+00:14:20,600 --> 00:14:22,240
+eveneens in de show notes.
+
+201
+00:14:22,820 --> 00:14:23,940
+Tot de volgende keer!
+

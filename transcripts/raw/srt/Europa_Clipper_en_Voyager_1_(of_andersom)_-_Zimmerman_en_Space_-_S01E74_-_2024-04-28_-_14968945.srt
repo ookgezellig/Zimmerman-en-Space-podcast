@@ -1,0 +1,1304 @@
+1
+00:00:00,160 --> 00:00:01,860
+Hoef, ik vind het spannend. Ja, ready.
+
+2
+00:00:02,400 --> 00:00:05,700
+U luistert naar Zimmerman & Space.
+
+3
+00:00:06,280 --> 00:00:08,140
+Hé, waar gaan we het vandaag eens over hebben, Hens?
+
+4
+00:00:08,480 --> 00:00:13,220
+Nou, in deze aflevering wou ik het met u hebben over twee onderwerpen...
+
+5
+00:00:13,220 --> 00:00:15,240
+die heel vloeiend in elkaar overlopen.
+
+6
+00:00:16,440 --> 00:00:20,000
+Onderwerp 1 is de inmiddels bejaarde Voyager 1 ruimtesonde...
+
+7
+00:00:20,760 --> 00:00:25,120
+en onderwerp 2 is het nog te lanceren Europa Clipper ruimtevaartuig.
+
+8
+00:00:25,680 --> 00:00:28,060
+Maar laten we beginnen met de Voyager 1.
+
+9
+00:00:28,280 --> 00:00:28,580
+Oké.
+
+10
+00:00:28,580 --> 00:00:32,840
+We hebben het al wel eens eerder over die Voyager ruimtevaartuigen gehad.
+
+11
+00:00:33,740 --> 00:00:37,600
+Na vijf maanden van stilte is het NASA vorige week gelukt...
+
+12
+00:00:37,600 --> 00:00:40,260
+om weer gegevens te ontvangen van Voyager 1.
+
+13
+00:00:40,400 --> 00:00:40,680
+Jee!
+
+14
+00:00:40,980 --> 00:00:45,260
+Dit is redelijk indrukwekkend, dus ik wou even stilstaan bij wat er mis was...
+
+15
+00:00:45,260 --> 00:00:48,160
+en wat NASA heeft gedaan om het contact te herstellen.
+
+16
+00:00:48,860 --> 00:00:53,720
+Maar eerst even een heel beknopte samenvatting van wat en waar Voyager 1 is.
+
+17
+00:00:53,980 --> 00:00:58,060
+Dit ruimteschip werd gelanceerd op 5 september 1977.
+
+18
+00:00:58,580 --> 00:01:08,420
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1.
+
+19
+00:01:08,420 --> 00:01:11,980
+MDS, we hebben een lift-off.
+
+20
+00:01:14,460 --> 00:01:16,420
+Het programma is in op tijd.
+
+21
+00:01:16,600 --> 00:01:17,940
+De voetstof is normaal.
+
+22
+00:01:19,380 --> 00:01:20,920
+TVC-bots, het ziet er goed.
+
+23
+00:01:21,020 --> 00:01:21,940
+Deze vraag is goed.
+
+24
+00:01:23,020 --> 00:01:26,040
+MDS, dit programma is in op tijd.
+
+25
+00:01:26,460 --> 00:01:27,860
+De voetstof is normaal.
+
+26
+00:01:27,860 --> 00:01:37,620
+Het ruimtevaartuig bezocht planeet Jupiter op 5 maart 1979 en Saturnus op 12 november 1980.
+
+27
+00:01:38,480 --> 00:01:43,920
+Na een indrukwekkende missie, waarbij bijvoorbeeld ook de Saturnusmaan Titan werd bezocht...
+
+28
+00:01:43,920 --> 00:01:48,900
+bleef Voyager 1 werken en scheerde van ons weg de interstellaire ruimte in.
+
+29
+00:01:49,860 --> 00:01:54,980
+Inmiddels is het ruimtevaartuig ruim 46 jaar onderweg en functioneert nog altijd.
+
+30
+00:01:55,120 --> 00:01:56,620
+Dat kan je je toch niet voorstellen?
+
+31
+00:01:56,860 --> 00:02:02,060
+De stroombron van Voyager 1 is niet meer op het niveau van 46 jaar geleden...
+
+32
+00:02:02,060 --> 00:02:06,840
+maar nog krachtig genoeg om wetenschappelijke gegevens te verzamelen en naar de aarde te zenden.
+
+33
+00:02:06,840 --> 00:02:13,600
+Specifiek wordt de stroom geleverd door drie radioisotoop thermoelektrische generatoren.
+
+34
+00:02:14,460 --> 00:02:20,480
+Elke generator werkt op basis van radioactief verval van plutonium-238 oxide.
+
+35
+00:02:21,600 --> 00:02:28,320
+Daarbij wordt warmte omgezet in stroom door middel van een thermoelektrische koppeling van silicon-germanium.
+
+36
+00:02:28,980 --> 00:02:30,020
+Tuurlijk, Hens.
+
+37
+00:02:30,020 --> 00:02:37,220
+Om stroom te besparen en het maximale uit de Voyager 1 te halen is een aantal subsystemen uitgeschakeld.
+
+38
+00:02:38,200 --> 00:02:40,060
+De camera's zijn bijvoorbeeld uit.
+
+39
+00:02:40,920 --> 00:02:44,680
+De kans is bijzonder klein dat deze weer ingeschakeld kunnen worden...
+
+40
+00:02:44,680 --> 00:02:48,580
+en bovendien, zelfs al zou dat lukken, dan is het weinig interessant.
+
+41
+00:02:48,920 --> 00:02:52,680
+We zouden misschien wat sterren zien, maar dat lukt vanaf de aarde ook wel.
+
+42
+00:02:52,680 --> 00:03:02,660
+Waar Voyager 1 zich nu bevindt, op een respectabele afstand van ruim 24 miljard kilometer van de aarde, is het vooral heel donker.
+
+43
+00:03:03,500 --> 00:03:07,640
+Dat is trouwens ongeveer 163 keer de afstand van de aarde tot de zon.
+
+44
+00:03:08,260 --> 00:03:08,780
+Zoveel?
+
+45
+00:03:09,000 --> 00:03:17,060
+Zo verschrikkelijk ver van ons vandaan doet elektromagnetische straling er ruim 22 uur over om de afstand één keer af te leggen.
+
+46
+00:03:17,260 --> 00:03:17,620
+Nee!
+
+47
+00:03:17,620 --> 00:03:22,620
+Dat betekent dat een commando vanaf de aarde pas na 22 uur aankomt bij Voyager 1...
+
+48
+00:03:23,240 --> 00:03:28,620
+en we vervolgens nog eens 22 uur moeten wachten op een bevestiging.
+
+49
+00:03:32,960 --> 00:03:39,280
+Voyager 1 reist momenteel met een snelheid van 17 kilometer per seconde ten opzichte van de zon.
+
+50
+00:03:40,220 --> 00:03:42,620
+In plaats van op te noemen wat er allemaal is uitgeschakeld...
+
+51
+00:03:42,620 --> 00:03:47,680
+kunnen we misschien beter noemen wat nog wel functioneert aan boord van Voyager 1.
+
+52
+00:03:48,280 --> 00:03:53,040
+Het CRS of Cosmic Ray Subsystem meet nog steeds kosmische straling.
+
+53
+00:03:53,400 --> 00:04:00,500
+Het LACP of Low Energy Charged Particles Instrument staat nog aan om geladen deeltjes te detecteren.
+
+54
+00:04:00,960 --> 00:04:04,460
+De magnetometer of Mach meet magnetische straling.
+
+55
+00:04:04,460 --> 00:04:09,460
+En het Plasma Wave Subsystem of BWS meet nog immer plasmagolven.
+
+56
+00:04:10,120 --> 00:04:11,120
+Ah...
+
+57
+00:04:11,120 --> 00:04:15,460
+Dat zegt ons mogelijk nog niks, dus we kunnen het ook omschrijven als een meetinstrument...
+
+58
+00:04:15,460 --> 00:04:20,640
+om de dichtheid van los rondvliegende elektronen op elk moment in de tijd te meten.
+
+59
+00:04:20,740 --> 00:04:22,900
+Oh, ik denk dat ik het nu begin te snappen.
+
+60
+00:04:23,440 --> 00:04:26,520
+Verder werken de computers aan boord van Voyager ook nog...
+
+61
+00:04:26,520 --> 00:04:30,160
+en kan er communicatie met de aarde onderhouden worden in beide richtingen.
+
+62
+00:04:30,160 --> 00:04:38,380
+Voyager 1 heeft diverse computers aan boord, waaronder de CCS, wat staat voor Computer Command System.
+
+63
+00:04:39,460 --> 00:04:42,960
+Dit instrument kunt u beschouwen als het brein van Voyager 1.
+
+64
+00:04:44,220 --> 00:04:50,260
+Deze CCS heeft de eer om de computer te zijn die het langst aanstaat in de menselijke geschiedenis.
+
+65
+00:04:50,720 --> 00:04:56,320
+De CCS-computer werd namelijk ingeschakeld op zondag 20 augustus 1977.
+
+66
+00:04:56,320 --> 00:05:01,000
+Wat deed u op die dag? Of bestond u toen nog niet?
+
+67
+00:05:01,520 --> 00:05:05,600
+Ik was toen 10 jaar, dus misschien was ik aan het rolschaatsen in de buurt.
+
+68
+00:05:06,300 --> 00:05:09,320
+Of ik was aan het staren naar mijn model van de Geos-satelliet...
+
+69
+00:05:10,080 --> 00:05:17,320
+die ik een maand eerder, op 15 juli 1977, had gevonnen als vierde prijs van de Afro-televisier-ruimtequiz...
+
+70
+00:05:17,840 --> 00:05:22,400
+naar aanleiding van de lancering van Kriet titulaarsboek De Mens in het Heelal.
+
+71
+00:05:22,520 --> 00:05:23,560
+Dat was een lange zin.
+
+72
+00:05:23,560 --> 00:05:26,780
+Maar even terug naar de computers van Voyager 1.
+
+73
+00:05:27,820 --> 00:05:34,540
+Dit zijn voor deze missie ontwikkelde computers op basis van Texas Instruments 7400 Nant Gates.
+
+74
+00:05:34,880 --> 00:05:36,320
+Nou, interessant.
+
+75
+00:05:36,760 --> 00:05:42,560
+Als u geen beat te doen heeft of nog een hobby zoekt, is er het leuke project Nant2Tetris...
+
+76
+00:05:42,560 --> 00:05:45,900
+waarmee u leert hoe een computer werkt met alleen Nant Gates.
+
+77
+00:05:46,900 --> 00:05:49,560
+Dat project is toegegeven nogal een forse tijdsinvestering...
+
+78
+00:05:49,560 --> 00:05:55,560
+dus als vrije tijd voor u momenteel geen serieuze optie is, is er ook NantGame.com.
+
+79
+00:05:56,700 --> 00:05:57,280
+Ook leuk?
+
+80
+00:05:57,880 --> 00:06:00,700
+Probeer de eerste vijf puzzels maar eens op te lossen.
+
+81
+00:06:01,760 --> 00:06:05,560
+Links naar deze websites vindt u uiteraard in het bijschrift van deze aflevering.
+
+82
+00:06:06,180 --> 00:06:06,760
+Dankjewel!
+
+83
+00:06:06,760 --> 00:06:11,760
+Een andere computer van de Voyager 1, de FDS, oftewel het Flight Data Subsystem...
+
+84
+00:06:12,700 --> 00:06:16,760
+was er de oorzaak van dat Voyager 1 op 14 november 2023...
+
+85
+00:06:17,720 --> 00:06:22,240
+stopte met het versturen van leesbare wetenschappelijke gegevens naar de aarde.
+
+86
+00:06:22,980 --> 00:06:26,760
+Dit FDS-systeem verpakt de vergaarde wetenschappelijke gegevens...
+
+87
+00:06:26,760 --> 00:06:31,180
+en huidige status van het ruimtevaartuig in een bitstream...
+
+88
+00:06:31,180 --> 00:06:33,260
+die vervolgens naar de aarde verzonden wordt.
+
+89
+00:06:34,260 --> 00:06:37,760
+Dat de FDS-computer defect was, moest worden geconcludeerd...
+
+90
+00:06:38,520 --> 00:06:40,760
+uit het schijnbaar willekeurige pakket onzingegevens...
+
+91
+00:06:41,980 --> 00:06:43,960
+dat de Voyager 1 nog wel verzond.
+
+92
+00:06:44,900 --> 00:06:47,760
+Waarschijnlijk is een deel van het FDS-geheugen defect geraakt...
+
+93
+00:06:48,560 --> 00:06:51,880
+bijvoorbeeld door inslag van een hoog energetisch deeltje.
+
+94
+00:06:51,880 --> 00:06:56,740
+Nu is het ongelooflijke dat de Voyager ook op een afstand...
+
+95
+00:06:56,740 --> 00:06:59,880
+van 24 miljard kilometer van ons vandaan...
+
+96
+00:06:59,880 --> 00:07:02,160
+een firmware-update kan uitvoeren.
+
+97
+00:07:02,780 --> 00:07:07,020
+Op 18 april van dit jaar werd de nieuwe code verzonden naar de Voyager 1...
+
+98
+00:07:07,020 --> 00:07:10,100
+waarbij de instructie aan Voyagers 1 computers was...
+
+99
+00:07:10,100 --> 00:07:13,240
+om delen van de code te verhuizen naar gezonde gedeeltes...
+
+100
+00:07:13,240 --> 00:07:15,220
+van het FDS-computergeheugen.
+
+101
+00:07:16,100 --> 00:07:19,120
+Dit roept mogelijk de vraag op, kan dat zomaar?
+
+102
+00:07:19,120 --> 00:07:23,120
+En hoezo zijn er nog ongebruikte gedeeltes van het computergeheugen...
+
+103
+00:07:23,640 --> 00:07:25,520
+waar een programma naartoe kan verhuizen?
+
+104
+00:07:25,580 --> 00:07:27,080
+Ik snap hier helemaal niks van.
+
+105
+00:07:27,400 --> 00:07:30,620
+Ook de computers aan boord van de Voyager werken op een wijze...
+
+106
+00:07:30,620 --> 00:07:33,500
+die vergelijkbaar is met die van uw moderne computer.
+
+107
+00:07:34,300 --> 00:07:37,020
+Als u een webbrowser of tekstverwerker start...
+
+108
+00:07:37,020 --> 00:07:39,800
+wordt het programma in het geheugen van uw computer geladen.
+
+109
+00:07:40,760 --> 00:07:43,120
+Tot dat moment is het programma alleen een reeks instructies...
+
+110
+00:07:43,880 --> 00:07:46,460
+die bijvoorbeeld op een vaste schijf staan opgeslagen.
+
+111
+00:07:46,460 --> 00:07:49,300
+Op het moment dat u het programma gebruikt...
+
+112
+00:07:49,300 --> 00:07:51,580
+bestaan instructies en documenten...
+
+113
+00:07:51,580 --> 00:07:54,820
+in de meeste gevallen naast elkaar in het computergeheugen.
+
+114
+00:07:55,240 --> 00:07:58,180
+Dit heet de von Neumann-architectuur.
+
+115
+00:07:59,180 --> 00:08:02,440
+Het vrije geheugen van de computer is één groot veld...
+
+116
+00:08:02,440 --> 00:08:03,460
+van elektronische schakelaars...
+
+117
+00:08:04,400 --> 00:08:06,700
+die dus zowel voor programma-instructies...
+
+118
+00:08:06,700 --> 00:08:09,180
+als voor gegevensopslag kunnen worden ingezet.
+
+119
+00:08:09,380 --> 00:08:12,580
+Maar als de stroom van deze schakelaars afgaat...
+
+120
+00:08:12,580 --> 00:08:13,660
+raakt alles verloren.
+
+121
+00:08:13,660 --> 00:08:17,680
+Om die reden kunnen computerprogramma's...
+
+122
+00:08:17,680 --> 00:08:19,660
+delen uit het geheugen naar disk wegschrijven.
+
+123
+00:08:21,120 --> 00:08:23,660
+Er zijn natuurlijk ook allemaal uitzonderingen op dit systeem.
+
+124
+00:08:24,940 --> 00:08:27,960
+Als gegevens niet de hele tijd voorhanden hoeven te zijn...
+
+125
+00:08:27,960 --> 00:08:31,520
+kan het efficiënter zijn deze tijdelijk weg te schrijven naar disk...
+
+126
+00:08:31,520 --> 00:08:34,600
+zodat er meer geheugen overblijft voor andere doeleinden.
+
+127
+00:08:35,400 --> 00:08:38,780
+Ook kan een programma code bijladen naar het geheugen...
+
+128
+00:08:38,780 --> 00:08:40,100
+deze code gebruiken...
+
+129
+00:08:40,100 --> 00:08:42,680
+en dat gedeelte van het geheugen weer vrijgeven.
+
+130
+00:08:42,680 --> 00:08:47,960
+De Voyager-computers waren in eerste instantie redundant ingericht.
+
+131
+00:08:48,100 --> 00:08:49,300
+Mag het in het Nederlands?
+
+132
+00:08:49,500 --> 00:08:51,840
+Dat wil zeggen dat er overal twee van waren...
+
+133
+00:08:51,840 --> 00:08:54,640
+voor het geval dat een onderdeel zou komen te overlijden.
+
+134
+00:08:55,520 --> 00:09:00,040
+Dat is inmiddels in die 46 jaar in de ruimte veelvuldig voorgekomen...
+
+135
+00:09:00,040 --> 00:09:02,720
+zodat de Voyager nu niet meer redundant werkt.
+
+136
+00:09:03,480 --> 00:09:06,280
+Het onderdeel dat het afgelopen half jaar defect was...
+
+137
+00:09:06,280 --> 00:09:09,900
+was zoals gezegd de FDS, het Flight Data Subsystem.
+
+138
+00:09:09,900 --> 00:09:13,180
+Deze FDS bestaat voornamelijk uit CMOS-transistoren...
+
+139
+00:09:13,180 --> 00:09:15,420
+om gegevens op te slaan.
+
+140
+00:09:16,080 --> 00:09:20,120
+En CMOS staat voor Complementary Metal Oxide Semiconductor.
+
+141
+00:09:20,720 --> 00:09:23,380
+De Voyager was NASA's eerste ruimtevaartig...
+
+142
+00:09:23,380 --> 00:09:27,320
+dat zo'n cruciaal gedeelte helemaal in CMOS-chips in gebruik had.
+
+143
+00:09:27,860 --> 00:09:31,120
+Het grote gevaar is dat de stroom naar de FDS wegvalt...
+
+144
+00:09:31,120 --> 00:09:33,200
+en dan zijn alle bewaarde gegevens weg.
+
+145
+00:09:33,340 --> 00:09:34,640
+Dat is vervelend.
+
+146
+00:09:34,900 --> 00:09:37,700
+Om die reden loopt er een rechtstreekse voedingslijn...
+
+147
+00:09:37,700 --> 00:09:41,200
+van de radio-isotoopgenerator naar de FDS-computer.
+
+148
+00:09:41,960 --> 00:09:46,840
+NASA JPL voorzag al snel dat het FDS-geheugen vol zou kunnen lopen...
+
+149
+00:09:46,840 --> 00:09:49,640
+met wetenschappelijke gegevens van sensoren...
+
+150
+00:09:49,640 --> 00:09:52,640
+en dat deze niet op tijd naar de aarde konden worden verzonden.
+
+151
+00:09:52,800 --> 00:09:53,680
+Uh-oh.
+
+152
+00:09:53,680 --> 00:09:59,040
+In Voyager 1 zit dan ook een digitale 8-spoor-tape-recorder...
+
+153
+00:09:59,040 --> 00:10:00,800
+die tot de dag van vandaag werkt.
+
+154
+00:10:02,720 --> 00:10:05,940
+De FDS kan dan gegevens op tape dumpen...
+
+155
+00:10:05,940 --> 00:10:09,020
+die op een later tijdstip naar de aarde kunnen worden gestuurd.
+
+156
+00:10:09,860 --> 00:10:13,860
+Nu de meeste instrumenten aan boord van Voyager 1 zijn uitgeschakeld...
+
+157
+00:10:13,860 --> 00:10:18,160
+kunnen allerlei programma's in zowel de CCS als de FDS-computers...
+
+158
+00:10:18,160 --> 00:10:20,360
+gewist worden of vereenvoudigd worden.
+
+159
+00:10:20,360 --> 00:10:24,280
+Bepaalde inputs van sensoren die uitstaan...
+
+160
+00:10:24,280 --> 00:10:26,200
+kunnen eenvoudigweg genegeerd worden.
+
+161
+00:10:26,960 --> 00:10:30,260
+Dit maakt dat op aarde nieuwe programma's kunnen worden ontwikkeld...
+
+162
+00:10:30,260 --> 00:10:33,120
+die rekening houden met defecte geheugenadressen...
+
+163
+00:10:33,120 --> 00:10:37,520
+en de Voyager 1 is volledig ingericht om die nieuwe programma's te accepteren...
+
+164
+00:10:37,520 --> 00:10:40,920
+en naar de opgedragen gedeeltes van het geheugen te kopiëren...
+
+165
+00:10:40,920 --> 00:10:42,200
+en dan te activeren.
+
+166
+00:10:42,860 --> 00:10:46,300
+U kunt het misschien een beetje vergelijken met de bad sectors...
+
+167
+00:10:46,300 --> 00:10:47,980
+op een magnetische harddisk.
+
+168
+00:10:47,980 --> 00:10:53,120
+Bij het scannen van uw harddisk kunnen bepaalde sectoren als defect worden aangemerkt...
+
+169
+00:10:53,120 --> 00:10:58,740
+waarna de computer zelf zorg draagt nooit meer gebruik te maken van dergelijke defecte onderdelen.
+
+170
+00:10:59,960 --> 00:11:01,900
+Als u er nog veel dieper in wilt duiken...
+
+171
+00:11:02,480 --> 00:11:06,900
+is er een mooi gratis NASA-document met de titel Computers in Spaceflight...
+
+172
+00:11:07,420 --> 00:11:09,900
+waarna u een link vindt in het bijschrift van deze aflevering.
+
+173
+00:11:11,040 --> 00:11:14,560
+Maar nog even terug naar onze tot voor kort defecte Voyager 1.
+
+174
+00:11:14,560 --> 00:11:20,700
+De firmware-update deed er inderdaad ruim 22 uur over om te arriveren bij Voyager 1...
+
+175
+00:11:20,700 --> 00:11:24,520
+want ook radiogegevens reizen nou eenmaal met de lichtsnelheid.
+
+176
+00:11:25,060 --> 00:11:29,540
+En op 20 april kwam het eerste gezonde pakket gegevens weer aan op aarde...
+
+177
+00:11:29,540 --> 00:11:31,380
+via het Deep Space Network.
+
+178
+00:11:34,140 --> 00:11:39,700
+Als u eens wilt zien wat het Deep Space Network met haar schotels op elk moment van de dag ontvangt...
+
+179
+00:11:39,700 --> 00:11:42,760
+dan vindt u daarvoor een link in het bijschrift van deze aflevering.
+
+180
+00:11:43,420 --> 00:11:46,180
+Voyager 1 heeft daar de afkorting VGR 1.
+
+181
+00:11:47,020 --> 00:11:50,840
+De komende weken worden nog meer updates naar Voyager 1 verzonden...
+
+182
+00:11:50,840 --> 00:11:55,760
+om ervoor te zorgen dat alle verzamelde wetenschappelijke gegevens weer op aarde terechtkomen.
+
+183
+00:11:55,840 --> 00:11:56,780
+Oh, gelukkig!
+
+184
+00:11:56,940 --> 00:11:59,020
+Als u hier nog niet van onder de indruk bent...
+
+185
+00:11:59,020 --> 00:12:03,100
+dan is het misschien wel interessant om te weten om wat voor vermogens we het hier hebben.
+
+186
+00:12:03,100 --> 00:12:07,220
+Volgens de National Radio Astronomy Observatory...
+
+187
+00:12:07,220 --> 00:12:13,200
+zendt Voyager 1 radiosignalen naar de aarde met een uitzendvermogen van 22,4 watt.
+
+188
+00:12:13,820 --> 00:12:19,920
+Maar wat op aarde arriveert is door de immense afstand nog maar een radiosignaal van ongeveer 1 attowatt.
+
+189
+00:12:20,100 --> 00:12:21,120
+Nou, dat is ook niet veel.
+
+190
+00:12:21,260 --> 00:12:25,740
+Dit alles gebeurt op een frequentie van 2,3 of 8,4 gigahertz.
+
+191
+00:12:25,740 --> 00:12:30,920
+Omgekeerd zendt het Deep Space Network radiogegevens naar Voyager 1...
+
+192
+00:12:30,920 --> 00:12:35,380
+op een frequentie van 2,1 gigahertz met een vermogen van 20 kilowatt.
+
+193
+00:12:36,100 --> 00:12:36,580
+Zoveel?
+
+194
+00:12:36,700 --> 00:12:40,380
+Dat laatste moet ook wel, want de kleine antenne van Voyager 1...
+
+195
+00:12:40,380 --> 00:12:44,600
+is anders niet in staat het radiosignaal van planeet aarde nog te ontvangen.
+
+196
+00:12:44,820 --> 00:12:45,620
+Ja, dat zeg jij.
+
+197
+00:12:45,860 --> 00:12:47,900
+Daar is ook nog een aardig document over.
+
+198
+00:12:48,140 --> 00:12:49,980
+Voyager Telecommunications.
+
+199
+00:12:49,980 --> 00:12:53,940
+Van NASA, waarna u een link vindt in het bijschrift van deze aflevering.
+
+200
+00:12:53,940 --> 00:12:57,180
+Voorlopig functioneert Voyager 1 dus weer...
+
+201
+00:12:57,180 --> 00:13:02,400
+en hoopt iedereen dat het ruimtevaartuig het in ieder geval tot 2025 volhoudt...
+
+202
+00:13:02,400 --> 00:13:05,960
+om gegevens over de interstellaire ruimte aan ons te sturen.
+
+203
+00:13:06,700 --> 00:13:11,280
+NASA verwacht nog tot 2036 te kunnen communiceren met Voyager 1.
+
+204
+00:13:12,020 --> 00:13:16,000
+Wel is het de vraag hoeveel nuttige gegevens er dan nog kunnen worden uitgewisseld.
+
+205
+00:13:16,120 --> 00:13:17,300
+Dat is eigenlijk een goede vraag.
+
+206
+00:13:17,300 --> 00:13:21,820
+Na 2036 zal het elektrisch vermogen te gering worden...
+
+207
+00:13:21,820 --> 00:13:24,680
+en begint Voyager 1 aan een solitair bestaan.
+
+208
+00:13:30,040 --> 00:13:35,020
+Maar weet u nog dat er gouden platen meereizen met de Voyager-ruimtevaartuigen?
+
+209
+00:13:35,020 --> 00:13:36,540
+Oh ja, inderdaad.
+
+210
+00:13:36,800 --> 00:13:40,540
+Aflevering 10 van Zimmerman In Space ging hier helemaal over.
+
+211
+00:13:40,540 --> 00:13:45,540
+Die gouden platen zijn zeg maar onze cadeautjes voor buitenaardse beschavingen...
+
+212
+00:13:46,060 --> 00:13:50,940
+die misschien ooit in de verre toekomst zo'n Voyager-ruimtevaartuig weten te onderscheppen.
+
+213
+00:13:56,540 --> 00:14:00,960
+Het meesturen van dergelijke souvenirs is een goede gewoonte van NASA.
+
+214
+00:14:01,680 --> 00:14:06,540
+Later dit jaar wordt, als het mee zit, het Europa Clipper-ruimtevaartuig gelanceerd...
+
+215
+00:14:06,540 --> 00:14:10,340
+met ook zo'n mooi gebaar naar onze mede-helalbewoners aan boord.
+
+216
+00:14:11,220 --> 00:14:14,860
+Europa Clipper verdient een hele aflevering van deze podcast...
+
+217
+00:14:14,860 --> 00:14:18,140
+dus die zal ik ergens de komende maanden voor u in elkaar zetten.
+
+218
+00:14:18,240 --> 00:14:18,780
+Dat is goed.
+
+219
+00:14:19,600 --> 00:14:23,320
+Vandaag kijken we alleen naar de equivalent van Voyager's Goudenplaats...
+
+220
+00:14:23,320 --> 00:14:25,400
+zoals die meereist met Europa Clipper.
+
+221
+00:14:26,040 --> 00:14:27,240
+De naam verraadt het al.
+
+222
+00:14:27,420 --> 00:14:30,160
+Dit ruimteschip heeft Europa als bestemming.
+
+223
+00:14:31,420 --> 00:14:33,040
+Nee, niet uw achtertuin.
+
+224
+00:14:33,040 --> 00:14:36,440
+Dat andere Europa, een maan van de planeet Jupiter.
+
+225
+00:14:37,480 --> 00:14:44,060
+De huidige planning van NASA is dat Europa Clipper op 10 oktober 2024 gelanceerd wordt...
+
+226
+00:14:44,060 --> 00:14:46,880
+en dan in 2030 arriveert bij Jupiter.
+
+227
+00:14:47,200 --> 00:14:48,240
+Dit duurt zo lang.
+
+228
+00:14:48,480 --> 00:14:51,440
+Ik ben heel benieuwd of ik tegen die tijd nog steeds wekelijks...
+
+229
+00:14:51,440 --> 00:14:54,440
+een aflevering van deze podcast weet te publiceren...
+
+230
+00:14:54,440 --> 00:14:56,080
+maar dat zien we tegen die tijd wel.
+
+231
+00:14:56,920 --> 00:15:02,040
+Omdat Jupiter maan Europa hoogstwaarschijnlijk een enorme oceaan vol water huisvest...
+
+232
+00:15:02,040 --> 00:15:06,280
+heeft NASA het thema water gebruikt voor de meereizende souvenir.
+
+233
+00:15:07,400 --> 00:15:11,040
+De gegevens van deze souvenir staan in een afdekplaat geëtst...
+
+234
+00:15:11,580 --> 00:15:13,120
+die toch al mee moest reizen.
+
+235
+00:15:13,760 --> 00:15:18,520
+Het ruimtevaartuig is dus niet zwaarder geworden door deze niet-functionele franje.
+
+236
+00:15:19,200 --> 00:15:24,420
+Deze afdekplaat moet elektronica aan boord van Europa Clipper beschermen tegen straling...
+
+237
+00:15:24,420 --> 00:15:29,480
+en is gemaakt van Tantal, ook wel Tantalium genoemd, met atoom nummer 72.
+
+238
+00:15:29,480 --> 00:15:35,960
+Het is een 1 mm dikke, driehoekige plaat van ongeveer 18 bij 28 centimeter.
+
+239
+00:15:36,640 --> 00:15:40,700
+Beide zijden van de plaat bevatten gegevens voor nieuwsgierige aliens.
+
+240
+00:15:41,540 --> 00:15:45,620
+Aan de ene zijde zien we allemaal golfvormen van geluidsbestanden.
+
+241
+00:15:46,160 --> 00:15:50,800
+Dit zijn 103 uitspraken van het woord water in allemaal verschillende talen.
+
+242
+00:15:51,440 --> 00:15:54,380
+We kunnen er wel een paar beluisteren als u dat leuk vindt...
+
+243
+00:15:54,380 --> 00:15:57,560
+trouwens ook wanneer u dat niet leuk vindt, want hier komen ze.
+
+244
+00:15:57,560 --> 00:15:58,160
+Aan de.
+
+245
+00:15:58,300 --> 00:15:58,700
+Dze.
+
+246
+00:15:58,860 --> 00:15:59,100
+Me.
+
+247
+00:15:59,480 --> 00:16:00,040
+Pani.
+
+248
+00:16:00,540 --> 00:16:01,420
+Jeen.
+
+249
+00:16:01,700 --> 00:16:01,940
+Ur.
+
+250
+00:16:02,180 --> 00:16:02,900
+Amens.
+
+251
+00:16:03,160 --> 00:16:03,620
+Pani.
+
+252
+00:16:03,880 --> 00:16:04,320
+Duy.
+
+253
+00:16:04,500 --> 00:16:05,020
+Ondo.
+
+254
+00:16:05,340 --> 00:16:05,860
+Water.
+
+255
+00:16:06,260 --> 00:16:06,660
+Water.
+
+256
+00:16:06,980 --> 00:16:07,400
+De loo.
+
+257
+00:16:07,620 --> 00:16:08,020
+Wasser.
+
+258
+00:16:08,300 --> 00:16:08,740
+Aqua.
+
+259
+00:16:08,980 --> 00:16:09,380
+Aqua.
+
+260
+00:16:09,680 --> 00:16:10,400
+Shoei.
+
+261
+00:16:10,600 --> 00:16:11,000
+Agua.
+
+262
+00:16:11,320 --> 00:16:11,840
+Magi.
+
+263
+00:16:12,240 --> 00:16:17,900
+In het midden van die geluidsgrafieken staat het symbool van water in de Amerikaanse standaard gebarentaal.
+
+264
+00:16:18,560 --> 00:16:22,660
+Dan draaien we de plaat om en dan zien we bovenin de Drake Equation.
+
+265
+00:16:22,840 --> 00:16:23,160
+Huh?
+
+266
+00:16:23,340 --> 00:16:29,460
+Dat is de formule waarmee de in 2022 overleden wetenschapper Frank Drake liet zien...
+
+267
+00:16:29,460 --> 00:16:33,760
+dat we de waarschijnlijkheid van buitenaards leven bij benadering kunnen uitrekenen.
+
+268
+00:16:34,120 --> 00:16:39,460
+Er staat verder niks over uitgelegd, dus een gemiddelde alien zal hiernaar kijken en dan...
+
+269
+00:16:39,460 --> 00:16:40,760
+Oké!
+
+270
+00:16:40,940 --> 00:16:41,380
+...zeggen.
+
+271
+00:16:42,260 --> 00:16:47,620
+Onder de Drake Equation zien we een grafuren van een fles, de letterlijke message in a bottle.
+
+272
+00:16:48,300 --> 00:16:51,460
+Ook een van de beste nummers van de police, maar dat terzijde.
+
+273
+00:16:52,260 --> 00:16:56,340
+Rond die fles zien we de symbolen van de vier grootste Jupiter-manen.
+
+274
+00:16:56,700 --> 00:16:59,100
+Io, Ganymedes, Europa en Callisto.
+
+275
+00:16:59,940 --> 00:17:05,160
+Maar ook vinden we in de fles een klein schijfje silicon, ongeveer zo groot als een vingernagel...
+
+276
+00:17:05,160 --> 00:17:08,020
+waarin 2,6 miljoen namen geëtst staan.
+
+277
+00:17:08,540 --> 00:17:14,260
+Misschien ook wel die van u, want elke aardbewoner kon haar of zijn naam laten toevoegen aan de lijst.
+
+278
+00:17:14,900 --> 00:17:16,880
+Die van mij staat er ook ergens tussen.
+
+279
+00:17:16,880 --> 00:17:18,480
+Nou, blij om dat te horen.
+
+280
+00:17:18,760 --> 00:17:22,200
+Iets meer naar onder zien we een uitleg van de zogenaamde Waterhole.
+
+281
+00:17:23,400 --> 00:17:29,080
+Dat is een frequentieband tussen de 1420 en 1666 megahertz...
+
+282
+00:17:29,080 --> 00:17:34,660
+waarbinnen een technologisch ontwikkelde samenleving het logisch zal vinden te zenden en te ontvangen...
+
+283
+00:17:34,660 --> 00:17:38,620
+in een poging contact te zoeken met andere civilisaties in het heelal.
+
+284
+00:17:39,460 --> 00:17:42,920
+Dan zien we nog een portret van ruimtevaartwetenschapper Ron Greeley.
+
+285
+00:17:42,920 --> 00:17:49,460
+Greeley overleed in 2011 en is een van de belangrijkste namen in het planeetonderzoek buiten de aarde.
+
+286
+00:17:50,140 --> 00:17:54,780
+Tot slot zien we nog een gedicht van Ada Limon, geëtst in haar eigen handschrift.
+
+287
+00:17:55,240 --> 00:17:59,680
+Ik vind het een mooi gedicht en zal het aan het einde van deze aflevering plakken.
+
+288
+00:18:00,220 --> 00:18:03,440
+De versie die u dan hoort is door haar zelf voorgelezen.
+
+289
+00:18:03,440 --> 00:18:09,140
+Zoals gezegd, aan de hele Europa Clipper missie zullen we binnenkort aandacht besteden...
+
+290
+00:18:09,140 --> 00:18:11,380
+maar dan vanuit wetenschappelijke verwondering.
+
+291
+00:18:12,300 --> 00:18:14,980
+Mocht u nu al nieuwsgierig zijn naar de Europa Clipper...
+
+292
+00:18:15,600 --> 00:18:19,540
+NASA heeft werkelijk een buitengewoon mooie website gemaakt voor deze missie.
+
+293
+00:18:20,240 --> 00:18:26,900
+U kunt 3D-modellen van het ruimtevaartuig en de afdekplaats met inscripties ronddraaien in uw webbrowser.
+
+294
+00:18:26,900 --> 00:18:33,500
+Dat ziet er tegenwoordig met OpenGL of WebGL, moet ik eigenlijk zeggen, fantastisch mooi uit.
+
+295
+00:18:34,300 --> 00:18:37,440
+Voor nu een prettige meivakantie en tot de volgende keer.
+
+296
+00:18:37,440 --> 00:18:42,220
+In praise of mystery.
+
+297
+00:18:43,380 --> 00:18:45,000
+A poem for Europa.
+
+298
+00:18:46,980 --> 00:18:49,460
+Arching under the night sky.
+
+299
+00:18:50,100 --> 00:18:52,420
+Inky with black expansiveness.
+
+300
+00:18:53,160 --> 00:18:55,920
+We point to the planets we know.
+
+301
+00:18:55,920 --> 00:18:59,600
+We pin quick wishes on stars.
+
+302
+00:19:00,300 --> 00:19:07,180
+From Earth we read the sky as if it is an unerring book of the universe.
+
+303
+00:19:07,860 --> 00:19:09,520
+Expert and evident.
+
+304
+00:19:10,680 --> 00:19:14,860
+Still, there are mysteries below our sky.
+
+305
+00:19:15,520 --> 00:19:16,600
+The whale song.
+
+306
+00:19:17,100 --> 00:19:21,740
+The songbird singing its call in the bow of a wind-shaken tree.
+
+307
+00:19:21,740 --> 00:19:26,120
+We are creatures of constant awe.
+
+308
+00:19:26,120 --> 00:19:34,620
+Curious at beauty, at leaf and blossom, at grief and pleasure, sun and shadow.
+
+309
+00:19:35,620 --> 00:19:39,260
+And it is not darkness that unites us.
+
+310
+00:19:39,500 --> 00:19:42,000
+Not the cold distance of space.
+
+311
+00:19:42,000 --> 00:19:44,860
+But the offering of water.
+
+312
+00:19:45,540 --> 00:19:47,520
+Each drop of rain.
+
+313
+00:19:47,520 --> 00:19:48,840
+Each rivulet.
+
+314
+00:19:49,040 --> 00:19:50,020
+Each pulse.
+
+315
+00:19:50,200 --> 00:19:51,000
+Each vein.
+
+316
+00:19:51,500 --> 00:19:53,120
+O second moon.
+
+317
+00:19:53,120 --> 00:19:56,800
+We too are made of water.
+
+318
+00:19:56,800 --> 00:19:59,700
+Of vast and beckoning seas.
+
+319
+00:20:00,120 --> 00:20:02,900
+We too are made of wonders.
+
+320
+00:20:03,380 --> 00:20:05,940
+Of great and ordinary loves.
+
+321
+00:20:06,320 --> 00:20:08,800
+Of small, invisible worlds.
+
+322
+00:20:09,360 --> 00:20:13,060
+Of a need to call out through the dark.
+
+323
+00:20:13,060 --> 00:20:16,120
+Next Jedaji
+
+324
+00:20:16,120 --> 00:20:25,640
+A söyle
+
+325
+00:20:25,640 --> 00:20:28,120
+A ballная
+
+326
+00:20:28,120 --> 00:20:34,180
+A ball kümpa
+

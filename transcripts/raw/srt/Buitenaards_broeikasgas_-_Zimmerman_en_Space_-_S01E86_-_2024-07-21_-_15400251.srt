@@ -1,0 +1,992 @@
+1
+00:00:00,000 --> 00:00:03,700
+U luistert naar Zimmerman & Space.
+
+2
+00:00:04,020 --> 00:00:05,000
+Oh, gelukkig!
+
+3
+00:00:05,940 --> 00:00:10,640
+Volgens een persbericht van het Copernicus-programma van 4 juli van dit jaar...
+
+4
+00:00:10,640 --> 00:00:14,340
+is juni 2024 de twaalfde maand op rij...
+
+5
+00:00:14,340 --> 00:00:18,940
+dat de gemiddelde temperatuur op aarde 1,5 graden Celsius hoger is...
+
+6
+00:00:18,940 --> 00:00:21,080
+dan het pre-industriele gemiddelde.
+
+7
+00:00:22,020 --> 00:00:26,440
+Alleen al deze openingszin zal mij wel weer een hoop haatmeel opleveren...
+
+8
+00:00:26,440 --> 00:00:29,980
+of leiden tot negatieve reviews in Apple Podcasts.
+
+9
+00:00:30,740 --> 00:00:32,120
+Maar dat even terzijde.
+
+10
+00:00:32,200 --> 00:00:35,280
+We hebben natuurlijk te maken met een opwarmende planeet...
+
+11
+00:00:35,280 --> 00:00:37,360
+met allebei behorende narigheid.
+
+12
+00:00:37,500 --> 00:00:38,440
+1,5.
+
+13
+00:00:38,500 --> 00:00:39,220
+1,5.
+
+14
+00:00:39,280 --> 00:00:40,200
+1,5 graden.
+
+15
+00:00:40,320 --> 00:00:40,980
+Global warning.
+
+16
+00:00:46,300 --> 00:00:50,140
+In ons aardse geval is dat waarschijnlijk onwenselijk...
+
+17
+00:00:50,140 --> 00:00:52,820
+en daarom doet een deel van de bevolking haar best...
+
+18
+00:00:52,820 --> 00:00:55,420
+om deze tendens enigszins tegen te gaan.
+
+19
+00:00:56,300 --> 00:00:57,720
+Maar stelt u zich eens voor...
+
+20
+00:00:57,720 --> 00:01:00,840
+dat u onderdeel van een buitenaardse beschaving bent...
+
+21
+00:01:00,840 --> 00:01:03,120
+en het nieuws is van een heel andere orde.
+
+22
+00:01:03,800 --> 00:01:07,160
+De naderende eistijd zal voor dood en verderf zorgen.
+
+23
+00:01:07,820 --> 00:01:11,200
+Voor de twaalfde maand op rij is er alweer sneeuw gevallen...
+
+24
+00:01:11,200 --> 00:01:13,740
+anders dan de vorige eeuwen op deze planeet.
+
+25
+00:01:13,740 --> 00:01:17,800
+We moeten alles op alles zetten om de planeet op te warmen.
+
+26
+00:01:18,760 --> 00:01:22,120
+Of wat zou een beschaving ondernemen bij overbevolking...
+
+27
+00:01:22,120 --> 00:01:25,180
+en het bijzondere geval dat de buurplaneet verderop...
+
+28
+00:01:25,180 --> 00:01:27,360
+ideaal is om naartoe te verhuizen...
+
+29
+00:01:27,360 --> 00:01:29,760
+behalve dan die winterse temperaturen...
+
+30
+00:01:29,760 --> 00:01:31,220
+waarin ook nog niks groeit.
+
+31
+00:01:31,220 --> 00:01:34,880
+Ook in zo'n geval zou men kunnen besluiten...
+
+32
+00:01:34,880 --> 00:01:39,240
+artificiële broeikasgassen in de atmosfeer ter plekke te injecteren...
+
+33
+00:01:39,240 --> 00:01:43,280
+opdat de planeet in kwestie een aangenamer leefklimaat ontwikkelt.
+
+34
+00:01:44,420 --> 00:01:47,340
+Voor ons mensen op aarde klinkt dat misschien allemaal...
+
+35
+00:01:47,340 --> 00:01:49,240
+verder weg van ons bed dan ooit...
+
+36
+00:01:49,240 --> 00:01:51,400
+maar het is daadwerkelijk een scenario...
+
+37
+00:01:51,400 --> 00:01:53,500
+waar wetenschappers zich mee bezighouden.
+
+38
+00:01:53,500 --> 00:01:57,500
+Op 25 juni van dit jaar verscheen een artikel met de titel...
+
+39
+00:01:58,080 --> 00:02:01,500
+Artificial Greenhouse Gases as Exoplanet Technosignatures...
+
+40
+00:02:01,500 --> 00:02:03,380
+in The Astrophysical Journal.
+
+41
+00:02:04,480 --> 00:02:07,880
+Auteurs zijn astronoom Edward Schwieterman en collega's.
+
+42
+00:02:08,720 --> 00:02:11,540
+U kunt het hele artikel kosteloos raadplegen...
+
+43
+00:02:11,540 --> 00:02:13,960
+omdat het een open access artikel betreft.
+
+44
+00:02:15,020 --> 00:02:18,740
+Een link vindt u uiteraard in het bijschrift van deze aflevering.
+
+45
+00:02:19,500 --> 00:02:21,580
+Het uitgangspunt van dit artikel is...
+
+46
+00:02:21,580 --> 00:02:25,580
+dat artificiële broeikasgassen eenvoudiger waar te nemen zijn...
+
+47
+00:02:25,580 --> 00:02:29,440
+dan andere biosignaturen in de atmosfeer van exoplaneten.
+
+48
+00:02:30,080 --> 00:02:32,660
+De gassen die de auteurs onderzoeken...
+
+49
+00:02:32,660 --> 00:02:36,580
+zijn afwijkend van de typische bijproducten van industriële processen...
+
+50
+00:02:37,200 --> 00:02:40,420
+zoals koolstofdioxide, methaan en stikstofoxide.
+
+51
+00:02:41,660 --> 00:02:45,680
+Specifiek keken zij naar de spectrale eigenschappen van broeikasgassen...
+
+52
+00:02:45,680 --> 00:02:50,420
+die niet-toxisch, langlevend en ondubbelzinnig detecteerbaar zijn.
+
+53
+00:02:50,420 --> 00:02:53,280
+Maar over wat voor gassen hebben we het dan?
+
+54
+00:02:54,200 --> 00:02:56,240
+Als voorbeelden noemen de auteurs...
+
+55
+00:02:56,240 --> 00:02:58,420
+koolstof tetrafluoride, CF4...
+
+56
+00:02:59,440 --> 00:03:01,420
+hexafluorethaan, C2F6...
+
+57
+00:03:02,760 --> 00:03:05,420
+perfluorpropaan, C3F8...
+
+58
+00:03:05,940 --> 00:03:08,420
+en zwavelhexafluoride, SF6.
+
+59
+00:03:09,420 --> 00:03:12,520
+We kunnen ons gelijk afvragen welk nut het heeft...
+
+60
+00:03:12,520 --> 00:03:14,940
+om naar artificiële broeikasgassen te zoeken.
+
+61
+00:03:14,940 --> 00:03:20,000
+De grootste motivator hiertoe is onze astrobiologische zoektocht...
+
+62
+00:03:20,000 --> 00:03:21,820
+naar leven buiten onze planeet.
+
+63
+00:03:22,580 --> 00:03:26,300
+Ik denk dat de vraag of er elders leven in het heelal bestaat...
+
+64
+00:03:26,300 --> 00:03:28,800
+ons altijd bezig zal blijven houden...
+
+65
+00:03:28,800 --> 00:03:30,340
+zelfs als we het gevonden hebben.
+
+66
+00:03:31,040 --> 00:03:32,680
+En met ons bedoel ik dan de mensheid...
+
+67
+00:03:32,680 --> 00:03:36,620
+en met altijd uiteraard zolang als we het volhouden.
+
+68
+00:03:37,440 --> 00:03:39,900
+Het is mijns inziens best mogelijk...
+
+69
+00:03:39,900 --> 00:03:43,440
+dat we er over een paar honderd of duizend jaar helemaal niet meer zijn...
+
+70
+00:03:43,440 --> 00:03:45,340
+al dan niet door ons eigen toedoen.
+
+71
+00:03:48,060 --> 00:03:50,900
+En het is eveneens mogelijk dat een ander organisme...
+
+72
+00:03:51,600 --> 00:03:53,900
+dan in de door ons geschapen vacature stapt...
+
+73
+00:03:54,460 --> 00:03:57,780
+en doorontwikkeld tot de dominante levensvorm op aarde.
+
+74
+00:03:58,640 --> 00:04:01,800
+Of dergelijke wezens zich ook af zullen vragen...
+
+75
+00:04:01,800 --> 00:04:03,900
+of er buitenaards leven bestaat...
+
+76
+00:04:03,900 --> 00:04:05,700
+is uiteraard maar zeer de vraag.
+
+77
+00:04:06,460 --> 00:04:08,100
+Er bestaat een theorie die zegt...
+
+78
+00:04:08,100 --> 00:04:09,820
+dat de grootte van onze hersens...
+
+79
+00:04:09,820 --> 00:04:12,120
+en daarmee wellicht ons zelfbewustzijn...
+
+80
+00:04:12,120 --> 00:04:13,840
+een foutje van de natuur is.
+
+81
+00:04:13,940 --> 00:04:15,420
+Hens, ik twijfel je eraan.
+
+82
+00:04:15,600 --> 00:04:18,760
+En zoals trouwe luisteraars van deze podcast weten...
+
+83
+00:04:18,760 --> 00:04:20,600
+kan ik zoiets niet zomaar beweren...
+
+84
+00:04:20,600 --> 00:04:22,020
+zonder de bron te vermelden.
+
+85
+00:04:22,120 --> 00:04:23,960
+Oh ja, dat kan je achteraf doen natuurlijk.
+
+86
+00:04:24,200 --> 00:04:27,920
+Uit fossielen weten we dat zo'n 2 tot 3 miljoen jaar geleden...
+
+87
+00:04:27,920 --> 00:04:30,480
+een versnelde evolutie van de mens optrad.
+
+88
+00:04:31,180 --> 00:04:33,340
+In vergelijking met onze voorgangers...
+
+89
+00:04:33,340 --> 00:04:36,340
+de Australopithecines groeide onze hersenen...
+
+90
+00:04:36,340 --> 00:04:37,940
+tot bijna drie keer zo groot.
+
+91
+00:04:38,100 --> 00:04:42,060
+Dit was altijd een groot evolutionair raadsel...
+
+92
+00:04:42,060 --> 00:04:44,880
+dat in 2018 gedeeltelijk werd opgelost...
+
+93
+00:04:44,880 --> 00:04:46,820
+door professor Pierre van der Hagen...
+
+94
+00:04:46,820 --> 00:04:50,260
+van het Flanders Instituut voor Biotechnologie in België.
+
+95
+00:04:51,060 --> 00:04:53,080
+Professor van der Hagen en zijn team...
+
+96
+00:04:53,080 --> 00:04:55,480
+waren op zoek naar de genen in ons DNA...
+
+97
+00:04:55,480 --> 00:04:58,040
+die tot deze versnelde groei aanspoorde.
+
+98
+00:04:58,740 --> 00:05:01,140
+Deze zoektocht leidde tot de ontdekking...
+
+99
+00:05:01,140 --> 00:05:03,500
+van 35 hominide genen...
+
+100
+00:05:03,500 --> 00:05:05,620
+die we alleen zien in mensen en apen.
+
+101
+00:05:05,620 --> 00:05:10,520
+Genen die bovendien een actieve rol spelen in feutaal weefsel.
+
+102
+00:05:11,480 --> 00:05:14,340
+Van der Hagen ontdekte dat de drie nieuwe genen...
+
+103
+00:05:14,340 --> 00:05:16,540
+met de naam Notch 2NL...
+
+104
+00:05:16,540 --> 00:05:18,720
+waren ontstaan door kopieerfouten...
+
+105
+00:05:18,720 --> 00:05:20,480
+van het originele Notch-gen.
+
+106
+00:05:21,480 --> 00:05:23,900
+Een link naar het artikel in Horizon...
+
+107
+00:05:23,900 --> 00:05:27,120
+het EU Research & Innovatie Tijdschrift...
+
+108
+00:05:27,120 --> 00:05:29,540
+vindt u in het bijschrift van deze aflevering.
+
+109
+00:05:30,560 --> 00:05:31,840
+Maar goed, daar zitten we dan.
+
+110
+00:05:32,460 --> 00:05:36,060
+Mensen met een relatief grote prefrontale cortex...
+
+111
+00:05:36,060 --> 00:05:38,380
+waardoor we ons continu zorgen maken...
+
+112
+00:05:38,380 --> 00:05:40,520
+en ons afvragen of we alleen zijn...
+
+113
+00:05:40,520 --> 00:05:42,380
+in dit onmetelijk grote heelal.
+
+114
+00:05:42,380 --> 00:05:47,200
+Aangezien exoplaneten vervelend ver weg staan...
+
+115
+00:05:47,200 --> 00:05:50,540
+zijn onze methodes om te zoeken naar andere civilisaties...
+
+116
+00:05:50,540 --> 00:05:51,800
+enigszins beperkt.
+
+117
+00:05:52,840 --> 00:05:55,840
+Grofweg zouden we kunnen zeggen dat we naar twee dingen zoeken.
+
+118
+00:05:55,980 --> 00:05:59,660
+1. Biosignaturen en 2. Technosignaturen.
+
+119
+00:05:59,760 --> 00:06:01,520
+Hans, kan je dit iets beter uitleggen?
+
+120
+00:06:01,700 --> 00:06:05,300
+Bij biosignaturen kunt u denken aan spectroscopische...
+
+121
+00:06:05,300 --> 00:06:07,660
+en eventueel temporele indicaties...
+
+122
+00:06:07,660 --> 00:06:10,380
+dat een planeet beschikt over eenvoudige levensvormen.
+
+123
+00:06:11,080 --> 00:06:13,240
+Ik weet niet of dat echt een antwoord op de vraag is.
+
+124
+00:06:13,560 --> 00:06:16,440
+Dan kunnen we zoeken naar de spectrale indicatoren...
+
+125
+00:06:16,440 --> 00:06:19,960
+van moleculen zoals zuurstof, ozon, methaan...
+
+126
+00:06:19,960 --> 00:06:21,580
+en d-stikstofmonoxide.
+
+127
+00:06:23,020 --> 00:06:25,520
+Inderdaad, die laatste kennen we als lachgas.
+
+128
+00:06:25,840 --> 00:06:28,480
+Een narcosegas dat ook op straat wordt gebruikt...
+
+129
+00:06:28,480 --> 00:06:30,880
+door mensen die minder redenen om te lachen hebben.
+
+130
+00:06:31,740 --> 00:06:35,320
+Zeker na langdurig gebruik van d-stikstofmonoxide.
+
+131
+00:06:36,380 --> 00:06:38,260
+Er bestaat nog een biosignatuur...
+
+132
+00:06:38,260 --> 00:06:40,980
+die bekend staat als de Vegetation Red Edge.
+
+133
+00:06:41,440 --> 00:06:44,560
+Dit is een speciale eigenschap van chlorofiel.
+
+134
+00:06:45,280 --> 00:06:47,220
+Maar wat was ook alweer chlorofiel?
+
+135
+00:06:47,340 --> 00:06:48,420
+Eh, even kijken.
+
+136
+00:06:48,960 --> 00:06:52,900
+Chlorofiel is een groen stofje in de bladeren van planten en bomen...
+
+137
+00:06:52,900 --> 00:06:55,240
+en het komt ook voor in sommige bacteriën.
+
+138
+00:06:55,880 --> 00:06:59,680
+Deze stof zit heel dicht op elkaar gepakt in de bladgroenkorrels.
+
+139
+00:07:00,560 --> 00:07:03,100
+Die bladgroenkorrels zitten weer zo dicht op elkaar...
+
+140
+00:07:03,100 --> 00:07:04,660
+dat het hele blad groen lijkt.
+
+141
+00:07:06,120 --> 00:07:07,900
+Chlorofiel vangt fotonen op...
+
+142
+00:07:07,900 --> 00:07:09,580
+en gebruikt de energie daarvan...
+
+143
+00:07:09,580 --> 00:07:13,720
+om van koolstofdioxide in de lucht en water suiker te maken.
+
+144
+00:07:13,720 --> 00:07:17,740
+Dit proces heet fotosynthese...
+
+145
+00:07:17,740 --> 00:07:20,860
+en de suiker gebruikt de plant om te overleven en te groeien.
+
+146
+00:07:22,580 --> 00:07:26,520
+Dit chlorofiel heeft een heel aparte spectrale eigenschap.
+
+147
+00:07:27,200 --> 00:07:29,820
+Als we wit licht op chlorofiel schijnen...
+
+148
+00:07:29,820 --> 00:07:32,900
+dan zien we dat het paars-blauw-groene gedeelte van het licht...
+
+149
+00:07:32,900 --> 00:07:34,800
+uitstekend geabsorbeerd wordt.
+
+150
+00:07:35,020 --> 00:07:39,200
+Dit loopt zeg maar van 400 tot 760 nanometer.
+
+151
+00:07:39,200 --> 00:07:44,020
+Maar licht met een grotere golflengte, rood en infrarood licht...
+
+152
+00:07:44,020 --> 00:07:45,840
+wordt door de plant gereflecteerd.
+
+153
+00:07:46,740 --> 00:07:49,600
+Waarschijnlijk heeft dit een evolutionair voordeel...
+
+154
+00:07:49,600 --> 00:07:52,720
+omdat de plant dan beter bestand is tegen warmte.
+
+155
+00:07:53,800 --> 00:07:57,520
+Het netto-resultaat is dat bladgroen goed herkend kan worden...
+
+156
+00:07:57,520 --> 00:07:59,560
+door naar het spectrum van licht te kijken.
+
+157
+00:08:00,420 --> 00:08:04,080
+Ook op aarde wordt deze red edge of rode rand gebruikt...
+
+158
+00:08:04,080 --> 00:08:07,060
+om de gezondheid van gewassen vanuit de ruimte te meten.
+
+159
+00:08:07,060 --> 00:08:11,880
+Gezonde gewassen reflecteren namelijk beter op het grensgebiedje...
+
+160
+00:08:11,880 --> 00:08:15,060
+rond de 700 nanometer dan ongezonde gewassen.
+
+161
+00:08:16,020 --> 00:08:19,380
+En dan komen we aan bij de tweede groep van indicatoren...
+
+162
+00:08:19,380 --> 00:08:20,980
+de technosignaturen.
+
+163
+00:08:22,260 --> 00:08:24,880
+Nee, dat betekent niet dat buitenaardse DJ's...
+
+164
+00:08:25,480 --> 00:08:27,880
+technomuziek hebben uitgevonden en het heelal instralen.
+
+165
+00:08:28,660 --> 00:08:31,140
+Al zou dat natuurlijk wel een mooie kennismaking...
+
+166
+00:08:31,140 --> 00:08:33,600
+met een buitenaardse civilisatie betekenen.
+
+167
+00:08:33,600 --> 00:08:39,600
+Technosignaturen zijn indicatoren van een technologisch ontwikkelde civilisatie...
+
+168
+00:08:39,600 --> 00:08:43,480
+die door middel van astronomische observaties waargenomen kunnen worden.
+
+169
+00:08:44,280 --> 00:08:47,300
+De Dyson-sferen waar we het onlangs al over hadden...
+
+170
+00:08:47,300 --> 00:08:49,740
+behoren bijvoorbeeld tot technosignaturen.
+
+171
+00:08:50,360 --> 00:08:51,420
+Maar ook radiosignalen...
+
+172
+00:08:52,100 --> 00:08:53,420
+laserflitsen...
+
+173
+00:08:54,420 --> 00:08:55,420
+stadsverlichting...
+
+174
+00:08:55,960 --> 00:08:59,280
+en modificaties aan het oppervlak en aan de atmosfeer...
+
+175
+00:08:59,280 --> 00:09:01,420
+kunnen we scharen onder de technosignaturen.
+
+176
+00:09:01,420 --> 00:09:05,420
+De zoektocht naar artificiële broeikasgassen...
+
+177
+00:09:05,420 --> 00:09:09,180
+is een van die modificaties waar het artikel van vandaag over gaat.
+
+178
+00:09:10,260 --> 00:09:13,520
+In hun artikel beschrijven de auteurs een simulatie...
+
+179
+00:09:13,520 --> 00:09:16,440
+in het TRAPPIST-1-stelsel van exoplaneten.
+
+180
+00:09:16,600 --> 00:09:18,120
+Mag het in het Nederlands?
+
+181
+00:09:18,300 --> 00:09:20,420
+TRAPPIST-1 bestaat uit zeven exoplaneten...
+
+182
+00:09:21,040 --> 00:09:24,060
+die we op een afstand van veertig lichtjaar van de aarde vinden.
+
+183
+00:09:24,620 --> 00:09:25,260
+Zoveel?
+
+184
+00:09:25,260 --> 00:09:27,380
+Wat Schwieterman en collega's deden...
+
+185
+00:09:27,380 --> 00:09:29,260
+was simuleren wat er zou gebeuren...
+
+186
+00:09:29,260 --> 00:09:31,100
+als buitenaardse wezens...
+
+187
+00:09:31,100 --> 00:09:34,640
+de exoplaneet TRAPPIST-1f zouden terra vormen.
+
+188
+00:09:35,640 --> 00:09:37,260
+Dus bewust zouden modificeren...
+
+189
+00:09:38,260 --> 00:09:40,640
+met behulp van artificiële broeikasgassen.
+
+190
+00:09:41,400 --> 00:09:44,180
+Inderdaad het lijstje van moleculen dat we net noemden.
+
+191
+00:09:45,060 --> 00:09:49,260
+TRAPPIST-1f cirkelt in negen dagen rond haar ster TRAPPIST-1...
+
+192
+00:09:49,260 --> 00:09:52,280
+en valt daarmee in de bevoonbare zone.
+
+193
+00:09:53,060 --> 00:09:55,720
+Dat is ook omdat die ster TRAPPIST-1...
+
+194
+00:09:55,720 --> 00:09:57,820
+een ultrakoele dwergster is.
+
+195
+00:09:58,620 --> 00:10:02,320
+Dan is het minder snel te warm in een baan dicht rond die ster.
+
+196
+00:10:03,100 --> 00:10:06,340
+TRAPPIST-1f heeft ongeveer de massa van onze aarde...
+
+197
+00:10:06,340 --> 00:10:10,340
+0,93 plus of min 0,08 keer om precies te zijn.
+
+198
+00:10:11,100 --> 00:10:13,460
+De doorsnede van TRAPPIST-1f...
+
+199
+00:10:13,460 --> 00:10:16,220
+komt bijna exact overeen met die van onze planeet.
+
+200
+00:10:16,220 --> 00:10:20,600
+Kortom, een uitstekende exoplaneet om naar leven op te zoeken.
+
+201
+00:10:21,380 --> 00:10:23,100
+Die ster TRAPPIST-1...
+
+202
+00:10:23,100 --> 00:10:27,220
+en dus ook alle zeven exoplaneten die we inmiddels hebben ontdekt daaromheen...
+
+203
+00:10:27,220 --> 00:10:31,320
+vinden we vanuit ons gezien in het sterrenbeeld Aquarius, de Waterman.
+
+204
+00:10:32,700 --> 00:10:35,680
+Het bijzondere wat Schwieterman en collega's ontdekten...
+
+205
+00:10:35,680 --> 00:10:38,860
+is dat de James Webb ruimtetelescoop in staat is...
+
+206
+00:10:38,860 --> 00:10:42,040
+dergelijke artificiële broeikasgassen waar te nemen.
+
+207
+00:10:42,140 --> 00:10:43,640
+Dat kan je je toch niet voorstellen?
+
+208
+00:10:43,640 --> 00:10:47,760
+Zij zeggen dat een broeikasgas als zwafelhexafluoride...
+
+209
+00:10:47,760 --> 00:10:51,460
+gemakkelijk duizend jaar meegaat in de atmosfeer van een planeet...
+
+210
+00:10:51,460 --> 00:10:57,720
+en 23.500 keer zo effectief is als koolstofdioxide om een planeet te terraformen.
+
+211
+00:10:57,800 --> 00:10:58,660
+Zoé, wat veel!
+
+212
+00:10:58,980 --> 00:11:01,560
+Door TRAPPIST-1f te terraformen...
+
+213
+00:11:01,560 --> 00:11:04,640
+kunnen aliens deze planeet aangenaam opwarmen...
+
+214
+00:11:04,640 --> 00:11:06,880
+zodat er bijvoorbeeld water kan gaan stromen.
+
+215
+00:11:06,880 --> 00:11:12,200
+De lange levensduur van bepaalde broeikasgassen...
+
+216
+00:11:12,200 --> 00:11:14,540
+maakt dat het interessant is om daarnaar te zoeken.
+
+217
+00:11:14,920 --> 00:11:19,880
+Want dan kan het maar zo zijn dat dergelijke gassen zelfs nog waargenomen kunnen worden...
+
+218
+00:11:19,880 --> 00:11:24,300
+als de bewoners het experiment al hebben gestaakt of er al zijn gaan wonen.
+
+219
+00:11:25,300 --> 00:11:28,500
+En vereist deze zoektocht nog speciale apparatuur?
+
+220
+00:11:28,640 --> 00:11:31,300
+Ja, dat is wel een hele interessante vraag.
+
+221
+00:11:31,540 --> 00:11:32,720
+Nou, dat is het mooie.
+
+222
+00:11:32,720 --> 00:11:33,400
+Nee.
+
+223
+00:11:34,800 --> 00:11:38,960
+De James Webb Ruimtetelescoop is met name een infraroodtelescoop.
+
+224
+00:11:39,720 --> 00:11:42,880
+De absorptielijnen in de spectra van exoplaneten...
+
+225
+00:11:42,880 --> 00:11:45,720
+die wijzen op de aanwezigheid van artificiële broeikasgassen...
+
+226
+00:11:46,500 --> 00:11:51,820
+vinden we grofweg in het gebied tussen de 8 en 12 micrometer, het mid-infrarood...
+
+227
+00:11:51,820 --> 00:11:55,020
+met mogelijk nog wat aanwijzingen in het nabij-infrarood.
+
+228
+00:11:55,620 --> 00:11:58,720
+Het enige wat hoeft te gebeuren is de James Webb Ruimtetelescoop...
+
+229
+00:11:59,320 --> 00:12:01,560
+te richten op interessante exoplaneten.
+
+230
+00:12:01,560 --> 00:12:05,500
+Een onderzoek als dit geeft mijns inziens maar weer aan...
+
+231
+00:12:05,500 --> 00:12:07,760
+hoe dicht we tegen een ontdekking aanzitten.
+
+232
+00:12:08,500 --> 00:12:11,820
+Voor zover ik kan nagaan is de James Webb Ruimtetelescoop...
+
+233
+00:12:11,820 --> 00:12:14,040
+nog niet gericht op TRAPPIST-1f.
+
+234
+00:12:14,760 --> 00:12:19,600
+Wel werd een andere exoplaneet in dit systeem, TRAPPIST-1b, bestudeerd.
+
+235
+00:12:19,840 --> 00:12:20,400
+Waarom?
+
+236
+00:12:20,540 --> 00:12:23,560
+Dit was een studie onder leiding van astronoom Olivia Lim...
+
+237
+00:12:24,200 --> 00:12:27,560
+naar de mogelijkheden om spectrale gegevens van een exoplaneet...
+
+238
+00:12:27,560 --> 00:12:30,460
+uit de meetgegevens te extraheren.
+
+239
+00:12:30,460 --> 00:12:34,400
+Het resultaat van het onderzoek naar TRAPPIST-1b...
+
+240
+00:12:34,400 --> 00:12:36,080
+was op zichzelf teleurstellend.
+
+241
+00:12:37,620 --> 00:12:39,880
+Geen atmosfeer van betekenis.
+
+242
+00:12:40,520 --> 00:12:43,340
+Maar de ervaring die hiermee is opgedaan...
+
+243
+00:12:43,340 --> 00:12:45,720
+maakt dat met meer vertrouwen zal worden gekeken...
+
+244
+00:12:45,720 --> 00:12:49,620
+naar de atmosferische omstandigheden van bijvoorbeeld TRAPPIST-1f.
+
+245
+00:12:49,620 --> 00:12:50,560
+Ja, dat zeg jij.
+
+246
+00:12:50,720 --> 00:12:53,560
+Ijs en wederdienende houd ik u al op de hoogte.
+
+247
+00:12:54,020 --> 00:12:55,180
+Tot de volgende keer.
+
+248
+00:12:55,180 --> 00:12:57,500
+na de hoogte door drawn neem het werent.
+

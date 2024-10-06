@@ -1,0 +1,165 @@
+In just a minute please.
+Dat noem me zelf.
+Om te voorkomen dat ik muziekrechten moet afdragen.
+En als laatste is deze podcast vanaf de naamswisseling veel meer van u.
+Het publiek.
+Dat betekent dat u mee kunt beslissen over de inhoud.
+Zelf geluidsfragmenten kunt insturen.
+Cute.
+Of zelfs Pod Save Music die u geschikt acht als achtergrondmuziek.
+En ook dat u mij kunt uitnodigen voor een bezoek aan uw instelling of bedrijf.
+En dat de afleveringen onder een Creative Commons CC0 licentie uitgegeven worden.
+Mag het in het Nederlands?
+De geluidsbestanden vallen dus onder het publieke domein.
+En u kunt ermee doen wat u wilt.
+Vandaag behandelen we een interessant onderwerp waar meermalen om werd gevraagd.
+De Z-factor.
+Dit getal komen we regelmatig tegen in astronomische publicaties.
+En vertelt ons iets over de afstand en de afgelegde tijd.
+Maar wat precies is mogelijk enigszins in nevelen gehuld.
+Z staat overigens niet voor Zimmerman, mocht u dat denken.
+Z kunnen we ook uitdrukken als de roodverschuivingsfactor.
+Deze term, roodverschuiving, is op zichzelf al iets wat cryptisch.
+Het ongewapende oor zou het kunnen opvatten als dat er iets aan het rode licht verschoven zou zijn.
+Maar dat is natuurlijk niet correct.
+Om het hopelijk helemaal te begrijpen haal ik onze passerende auto er maar weer even bij.
+Dit noemen we ook wel het Doppler effect.
+Dat de toonhoogte van hoog naar laag gaat.
+In het geval van een passerende auto betreft het de geluidsgolven die respectievelijk in elkaar worden gedrukt en dan uitgerekt.
+Maar hetzelfde effect gaat op voor alle periodieke golfverschijnselen die in de ruimte en de tijd propageren.
+Dat in elkaar drukken en uitrekken van golven zegt ons dat het verschijnsel relatief is.
+Dus plaatsvindt ten opzichte van de waarnemer.
+Als u in een bocht staat bij de TT in Assen en u hoort dit, dan hoort iemand die een kilometer verderop staat iets heel anders.
+Ditzelfde geldt voor elektromagnetische straling die onze instrumenten bereikt.
+Als we daarbij aan datzelfde Doppler effect, dus het uitreken of inkrimpen van de golven, een getal kunnen hangen...
+dan kunnen we iets zeggen over de tijd dat de straling onderweg is geweest naar ons.
+Dat is voor de goede orde niet hetzelfde als de afstand van het object tot de waarnemer.
+We kijken namelijk in het verleden omdat de straling een tijd onderweg is geweest.
+In een heelal dat uitdijdt is de kans dus groot dat het object inmiddels verder van ons af staat.
+Een enkeling denkt misschien, staan objecten niet sowieso verder van ons af als het heelal uitdijdt?
+Maar met zo'n bewering moeten we voorzichtig zijn.
+Voor objecten die bij ons in de buurt staan kan het effect van de zwaartekracht groter zijn dan het effect van een uitdijend heelal.
+Dat blijkt te gelden voor ongeveer honderd sterrenstelsels in onze lokale groep, waaronder M31, de Andromeda-nevel.
+M31 is trouwens een van de meest dankbare objecten om eens te bekijken in een verrekijker of telescoop.
+Bovendien is M31 op dit moment van het jaar heel goed aan de hemel te vinden.
+Aan het begin van de avond staat deze Andromeda-nevel hoog in het zuiden en gaat dan pas helaas nachts onder.
+Dus als het eens kraakhelder is en u niks beters te doen heeft, probeer dan zelf eens dit buurmelkwegstelsel te vinden.
+Bij objecten als M31, die dus naar ons toe bewegen, zullen we geen roodverschuiving maar blauwverschuiving waarnemen.
+Ja, dat is logisch.
+Roodverschuiving betekent dat alle elektromagnetische straling die ons bereikt, verschoven is in frequentie in de richting van blauw naar rood.
+Blauwverschuiving is precies het omgekeerde.
+Als de straling die wij van een object meten rood verschoven is, betekent dit dat de afstand tussen het object en ons groter wordt.
+Immers de straling beweegt met exacte lichtsnelheid door de lege ruimte.
+In een statisch helal, waar dus niks verandert, zou de frequentie van die straling bij aankomst hetzelfde zijn als bij verzending.
+Maar omdat ons helal uitdijdt, rekt de straling tijdens de reis tussen verzenden en ontvangen uit en daalt de frequentie.
+En als de frequentie daalt, neemt de golflengte uiteraard weer toe.
+Hier is het dat die z-parameter in beeld komt.
+We kunnen die roodverschuiving, die we voor de meeste objecten in het helal zullen waarnemen, uitdrukken met z door een eenvoudige formule.
+Pak de rekenmachine er maar bij.
+Z is het verschil tussen de gemeten golflengte en de oorspronkelijke golflengte, gedeeld door die oorspronkelijke golflengte.
+Voordat we bij het bepalen van die oorspronkelijke golflengte komen, eerst even een voorbeeld.
+Een deeltje wordt in het zichtbare licht uitgezonden in een ster ver van ons vandaan, met een golflengte van 420 nanometer.
+Dat is voor ons oog violet licht.
+Maar als we het licht ontvangen bij ons op aarde, heeft het een golflengte van 650 nanometer.
+Dat is voor ons oog oranje licht.
+En dit is maar een voorbeeld, hè.
+Deze straling is rood verschoven omdat de frequentie ervan kleiner is geworden en de golflengte groter.
+Het verschil in golflengtes is 650 min 420, dat is 230.
+En dat delen we weer door 420, de oorspronkelijke golflengte.
+Onze waarde voor zet is dan 230 delen van 420 is ongeveer 0,55.
+De vraag is dan natuurlijk wat we aan dit getal hebben.
+Hey, what is this?
+Het is belangrijk om te beseffen dat zet ons alleen iets vertelt over hoe lang het licht onderweg is geweest naar ons toe.
+En niet rechtstreeks zegt hoe ver het object in kwestie op dit moment van ons afstaat.
+Ja, schiet nou maar op.
+Want wat we waarnemen is een moment uit een ver verleden.
+In een uitdijend helal staat het oorspronkelijke object inmiddels veel verder van ons af.
+Er bestaat gelukkig wel een tabel die we kunnen raadplegen om bij benadering en met de kennis van nu een bewering te doen over dit object.
+In die tabel vinden we dat het licht van een ster met een zet van 0,55 iets meer dan 5 miljard jaar onderweg is geweest om dusdanig te zijn uitgerekt.
+Maar het object staat dus niet automatisch op een afstand van iets meer dan 5 miljard lichtjaar van ons vandaan.
+In werkelijkheid staat het object al 6 miljard lichtjaar van ons vandaan.
+Dat zou kunnen, ja.
+Denken we tenminste.
+Om het uitdijen van het helal in getallen uit te drukken gebruiken we de Hubble-factor.
+Die staat op dit moment op 70 kilometer per seconde per megaparsec.
+Waarbij een parsec dan weer een afstand van ruim 3 lichtjaar is.
+Ik zet de zet-tabel wel in de show notes van deze aflevering.
+We vragen ons af wat we hier nu verder mee moeten.
+De onzekerheid over de afstand van objecten heeft te maken met onze huidige onzekerheid over ons helal.
+Ah, I don't know.
+Het is nog niet helemaal duidelijk wat de Hubble-constante precies is.
+Hoe deze varieert over de tijd en misschien zelfs in de rest van het helal.
+En wat op de grote schaal de kromming van de ruimtetijd is.
+Ik denk dat iedereen dit ongemakkelijk vindt.
+Naarmate ons zetgetal groter wordt, worden de onzekerheden ook groter.
+Met een zet onder de 0.1 zijn de verschillende modellen over het helal het nog wel met elkaar eens.
+Nu weet u dus wat zet inhoudt.
+Het is natuurlijk eigenlijk een heel simpel verhaal.
+Dan beantwoorden we nu nog wat vragen die hiermee samenhangen.
+En die ik de afgelopen tijd binnen heb gekregen.
+Eerst maar even die oorspronkelijke frequentie of golflengte.
+Want hoe weten we nou met welke frequentie iets werd uitgezonden.
+Als we alleen het miljarden jaren oude verwrongen beeld daarvan kunnen ontvangen.
+Ja, dat is wel een hele interessante vraag.
+Dit heeft te maken met de absorptie- en emissielijnen in het spectrum van licht.
+Hier waren de afgelopen maanden wel vragen over binnengekomen.
+Emissie- en absorptielijnen zien we in het spectrum van licht door het toedoen van gasvormige of geioniseerde bronnen.
+Voorbeelden hiervan die we in het hele helal tegenkomen zijn recombinatielijnen van geioniseerd waterstof,
+de rotatielijnen van polaire moleculen zoals koolstofmonoxide,
+en de 21 centimeter lijn van interstellaire waterstof.
+Deze lijnen zijn getuigenissen van kwantumverschijnselen in de natuur om ons heen.
+Een emissielijn ontstaat bijvoorbeeld als een waterstofatoom,
+dat om een of andere reden in een hogere energiestaat is gekomen,
+terugvalt naar een lagere energiestaat.
+Bij dat proces komt dan energievrij in de vorm van een foton.
+En als dat in een bepaald object zoals een ster heel veel gebeurt,
+dan zien we een duidelijke heldere lijn in het spectrum van die ster.
+Aangezien veel van dit soort lijnen voorspelbare frequenties hebben,
+omdat bijvoorbeeld alle hoofdreeks sterren waterstof fuseren tot helium,
+kunnen we ook zien wanneer en hoeveel die lijnen in frequentie zijn gezakt.
+Ik kreeg de vraag of er zoiets als een prisma bestaat voor radiostraling,
+en of in radiostraling ook dit soort emissie- en absorptielijnen kunnen worden waargenomen.
+De huis-, tuin- en keuken-radiontvanger is een voorbeeld van een soort prisma voor radiostraling.
+Als u afstemt op bijvoorbeeld 95 MHz,
+kijkt uw radiontvanger in werkelijkheid naar een stukje radiostraling
+met een bandbreedte van ongeveer 200 kHz of 0,2 MHz.
+Voor een radiotelescoop geldt hetzelfde.
+Men stemt deze af op een bepaalde frequentieband met een onder- en een bovengrens,
+en binnen die band kan de hoeveelheid energie worden gemeten per frequentie.
+En zo kan ook de equivalent van absorptie- en emissielijnen worden waargenomen in radiostraling.
+Sterker nog, als straling zich maar lang genoeg door het heelal weet te verplaatsen,
+dan zullen de absorptie- en emissielijnen van het zichtbare licht
+op de lange duur uitgerekt zijn tot pieken en dalen in een stukje radiostraling.
+Hens, ik twijfel hieraan.
+Ik dacht dat het misschien wel aardig zou zijn om als einde van deze column
+terug te keren bij het oorspronkelijke onderwerp, Z.
+We kunnen ons namelijk afvragen of het heelal wel oud genoeg is
+om radiotelescopen in staat te stellen,
+emissielijnen uit het zichtbare licht
+van een of ander ver weggelegen object als radiostraling waar te nemen.
+Er zit met andere woorden een grens aan wat Z kan zijn.
+Een Z van 10 betekent dat de straling ruim 13 miljard jaar onderweg is geweest,
+wat ook zo'n beetje het begin van ons heelal was.
+Dus stel dat we een golflengte van, ik noem maar wat, 540 nanometer groen licht
+in onze Z-formule pluggen.
+Bij een Z van 10, wat is dan de golflengte van de waargenomen straling?
+Pak de rekenmachine er maar bij.
+Wie mee wil rekenen, 10 is dan gelijk aan tussen haakjes x-540 gedeeld door 540.
+Dan komen we uit op een waargenomen golflengte van 5950 nanometer,
+oftewel 6 micrometer.
+Straling met die golflengte zit nog comfortabel in het mid-infrarood
+en is nog lang geen radiostraling.
+Dus het heelal is nog niet oud genoeg voor het waarnemen van radiostraling,
+die ooit als zichtbaar licht werd uitgezonden.
+Dat kan je je toch niet voorstellen?
+Blijft u met vragen zitten of wilt u meepraten over deze podcast?
+Dat kan.
+We hebben een Discord-server.
+Maar wel een beetje nerderig.
+Het adres daarvan vindt u in de show notes van deze podcast.
+U kunt natuurlijk ook gewoon e-mailen.
+Mail dan naar Hans Zimmerman...
+Nou, kut. Sorry.
+Mail dan naar hanszimmerman.gmail.com
+Bedankt voor het luisteren en tot de volgende keer.
+De Zimmerman & Space podcast is gelicenseerd onder een Creative Commons CC01.0 licentie.

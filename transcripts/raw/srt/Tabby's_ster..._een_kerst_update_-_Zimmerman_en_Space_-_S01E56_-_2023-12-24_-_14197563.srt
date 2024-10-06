@@ -1,0 +1,476 @@
+1
+00:00:00,000 --> 00:00:04,000
+U luistert naar Zimmerman & Space.
+
+2
+00:00:30,000 --> 00:00:31,800
+Uiteraard doen waar we zin in hebben.
+
+3
+00:00:34,640 --> 00:00:42,000
+Dus laat ons voor een keer doen alsof er buiten een immens pak sneeuw ligt met daarboven een kraakheldere sterrenhemel.
+
+4
+00:00:43,340 --> 00:00:52,580
+Met stevige wandelschoenen en dik ingepakt verlaten we de kerstgekte voor een moment om buiten te aanschouwen wat het heelal ons nog meer te bieden heeft.
+
+5
+00:00:52,580 --> 00:01:00,060
+Daar in het zuid-zuidoosten staat uiteraard rond deze tijd van het jaar dat mooie sterrenbeeld Orion.
+
+6
+00:01:01,220 --> 00:01:10,380
+Maar voor Tebby's ster moeten we onze aandacht richten naar de noordwestelijke horizon waar sterrenbeeld de Zwaan, Cygnus, aan het ondergaan is.
+
+7
+00:01:11,340 --> 00:01:14,720
+De Zwaan is dan ook meer een sterrenbeeld om in augustus op te zoeken.
+
+8
+00:01:15,460 --> 00:01:19,960
+Dan staat dit sterrenbeeld zo rond 10 of 11 uur s'avonds hoog in het zuiden.
+
+9
+00:01:19,960 --> 00:01:25,620
+De ster waar we het vandaag maar weer eens over gaan hebben staat in dat sterrenbeeld de Zwaan.
+
+10
+00:01:26,340 --> 00:01:27,460
+Tebby's star.
+
+11
+00:01:28,060 --> 00:01:30,560
+Ook wel Boyerian star genoemd.
+
+12
+00:01:31,860 --> 00:01:38,260
+Wie op dit moment warm binnen zit met een kerstdrankje en deze ster in stellarium op de computer probeert te zoeken,
+
+13
+00:01:38,400 --> 00:01:41,880
+kan het beste zoeken naar de GuideStar catalog aanduiding.
+
+14
+00:01:42,880 --> 00:01:47,120
+GSC 03162 00665
+
+15
+00:01:47,120 --> 00:01:50,460
+Wat was ook alweer Tebby's star?
+
+16
+00:01:51,220 --> 00:01:59,160
+De inmiddels afgeschreven Kepler-ruimtetelescoop keek gedurende bijna 10 jaar naar een vast gebied aan onze sterrenhemel.
+
+17
+00:01:59,920 --> 00:02:04,540
+Dit gebied omvatte delen van de sterrenbeelden Zwaan, Lier en Draak.
+
+18
+00:02:04,540 --> 00:02:11,520
+In dit gebied aan de hemel keek de Kepler-telescoop naar 530.506 sterren,
+
+19
+00:02:11,620 --> 00:02:17,120
+waardoor 2778 exoplaneetontdekkingen konden worden bevestigd.
+
+20
+00:02:18,080 --> 00:02:25,600
+De missiegegevens van Kepler werden deels beschikbaar gemaakt voor burgerwetenschappers in het Planet Hunters project.
+
+21
+00:02:25,600 --> 00:02:36,480
+In deze zoektocht door vrijwilligers dook een vreemd object op dat in de Kepler-input-catalogue staat als KIC 8462852.
+
+22
+00:02:37,480 --> 00:02:41,460
+Het is een op zich onschuldig F-type hoofdreekssterretje.
+
+23
+00:02:41,460 --> 00:02:47,780
+Met een magnitude van 11.7 kunnen wij die met het ongewapende oog niet waarnemen,
+
+24
+00:02:47,960 --> 00:02:54,100
+maar in een forse telescoop onder uiterst gunstige omstandigheden valt Debbie's ster nog wel te vinden.
+
+25
+00:02:54,880 --> 00:02:57,100
+Dan zien we er nog niets vreemds aan.
+
+26
+00:02:57,800 --> 00:03:01,580
+Pas als we de helderheid van deze ster over de tijd aanschouwen,
+
+27
+00:03:01,800 --> 00:03:06,200
+blijkt dat Debbie's ster van tijd tot tijd ernstige schommelingen vertoont.
+
+28
+00:03:06,200 --> 00:03:15,120
+De vrijwilligers van Planet Hunters zagen een dip van 22% in helderheid in de lichtcurve van de Kepler-ruimtetelescoop.
+
+29
+00:03:15,800 --> 00:03:20,860
+Tot op heden zien astronomen grillige schommelingen in de helderheid van Debbie's ster.
+
+30
+00:03:21,240 --> 00:03:25,860
+En ook in de historische gegevens, al zijn die niet altijd even betrouwbaar,
+
+31
+00:03:26,720 --> 00:03:30,940
+worden anomalieën aangetroffen omtrent de helderheid van Debbie's ster.
+
+32
+00:03:30,940 --> 00:03:37,080
+Sindsdien is er van alles geschreven en gespeculeerd over deze helderheid schommelingen.
+
+33
+00:03:37,700 --> 00:03:44,260
+Een zwerm van kometen, ringen van stof, gedesintegreerde planeten, et cetera.
+
+34
+00:03:45,140 --> 00:03:48,920
+Maar eigenlijk weet niemand precies wat er met deze ster aan de hand is.
+
+35
+00:03:50,080 --> 00:03:55,680
+Toch kunnen we er in deze kerstige aflevering nog wel drie dingen over zeggen die redelijk uniek zijn.
+
+36
+00:03:55,680 --> 00:04:01,100
+Het eerste ding is het meest onzeker, maar wel in zekere zin opwindend.
+
+37
+00:04:01,720 --> 00:04:08,000
+Wat in de historische gegevens gezien wordt, is dat Debbie's ster behalve de vreemde schommelingen
+
+38
+00:04:08,000 --> 00:04:12,620
+ook over de langere periode langzaam zakt in helderheid.
+
+39
+00:04:13,380 --> 00:04:17,680
+Dit nu is niet het typische gedrag van een F-type hoofdreeksster.
+
+40
+00:04:18,480 --> 00:04:23,780
+Het moeilijke aan dit gegeven is dat het gebaseerd is op onzekere historische gegevens.
+
+41
+00:04:23,780 --> 00:04:31,560
+Dus we kunnen zeggen, of het is gewoon niet waar en Debbie's ster is over de grote linie constant in helderheid,
+
+42
+00:04:31,780 --> 00:04:34,000
+en dat konden ze vroeger nog niet goed meten,
+
+43
+00:04:34,520 --> 00:04:39,840
+of iets vreet energie weg van de ster op een wijze die ons nog niet bekend is.
+
+44
+00:04:40,460 --> 00:04:45,540
+Het tweede interessante ding is dat de hoofdonderzoeker naar wie de ster genoemd is,
+
+45
+00:04:45,760 --> 00:04:49,440
+astronoom Debbie Bayer-Jan, van geen ophouden weet.
+
+46
+00:04:49,440 --> 00:04:55,720
+Van haar hand is ook de website Where's the Flux, waarnaar u een link vindt in de show notes.
+
+47
+00:04:56,460 --> 00:05:00,260
+Maar dat is natuurlijk niet het interessante ding omtrent Debbie's ster.
+
+48
+00:05:01,380 --> 00:05:07,220
+Samen met collega-astronomen Massimo Stiavelli, Thomas Beattie en Jason Wright,
+
+49
+00:05:07,440 --> 00:05:13,440
+diende Tabeta Bayer-Jan een aanvraag in voor waarneemtijd met de James Webb ruimtetelescoop
+
+50
+00:05:13,440 --> 00:05:15,840
+om nog eens beter naar dit object te kijken.
+
+51
+00:05:16,720 --> 00:05:21,420
+Dat was op 8 mei van dit jaar en de JWST-aanvraag kreeg de aanduiding
+
+52
+00:05:21,420 --> 00:05:33,440
+In hun aanvraag stellen de astronomen voor om met de Neerspec en Miri-instrumenten
+
+53
+00:05:33,440 --> 00:05:39,460
+van de James Webb ruimtetelescoop spectra waar te nemen in het infrarode bereik.
+
+54
+00:05:40,020 --> 00:05:44,420
+En nog spannender, de aanvraag is gehonoreerd en de waarnemingen zijn al gedaan.
+
+55
+00:05:45,160 --> 00:05:51,340
+Het statusrapport kunnen we gewoon opvragen en dan zien we dat er 9 observaties zijn uitgevoerd,
+
+56
+00:05:51,540 --> 00:05:56,680
+respectievelijk op 21 juni, 14 juli en 5 augustus van dit jaar.
+
+57
+00:05:57,500 --> 00:06:00,780
+Op de uitkomst van het onderzoek moeten we helaas nog even wachten.
+
+58
+00:06:00,780 --> 00:06:06,440
+Dat zou wel het slechtste einde van een podcastaflevering in de geschiedenis zijn
+
+59
+00:06:06,440 --> 00:06:10,120
+en daarom is er ook nog een derde ding dat ik u niet wil onthouden.
+
+60
+00:06:11,020 --> 00:06:14,940
+In november 2021 verscheen het artikel
+
+61
+00:06:14,940 --> 00:06:31,240
+Van Edward Schmid, astronoom aan de Universiteit van Nebraska in de Verenigde Staten.
+
+62
+00:06:32,080 --> 00:06:38,400
+Schmid beschrijft in dit artikel dat het moeilijk is om zo'n vreemd object als Debbie's ster te kunnen begrijpen
+
+63
+00:06:38,400 --> 00:06:40,980
+met maar één exemplaar om te bestuderen.
+
+64
+00:06:40,980 --> 00:06:45,820
+En zo startte hij de zoektocht naar vergelijkbare objecten.
+
+65
+00:06:46,680 --> 00:06:54,300
+In 2020 begon Schmid hier al mee, maar het artikel uit 2021 beschrijft 15 kandidaat-objecten
+
+66
+00:06:54,300 --> 00:06:56,640
+met vergelijkbaar vreemde helderheidsschommelingen.
+
+67
+00:06:57,960 --> 00:07:04,180
+Hij noemt deze sterren slow dippers omdat ze tamelijk lange periodes van verduistering kennen.
+
+68
+00:07:04,180 --> 00:07:09,200
+Dat wijkt dus af van wat we gewend zijn van gewone variabele sterren.
+
+69
+00:07:10,000 --> 00:07:13,680
+Schmid gebruikte twee catalogie voor zijn onderzoek.
+
+70
+00:07:14,420 --> 00:07:18,240
+De Northern Sky Variable Survey of NSVS
+
+71
+00:07:18,240 --> 00:07:24,540
+en de All Sky Automated Survey for Supernovae of ASASSN.
+
+72
+00:07:24,540 --> 00:07:29,540
+Van de 15 sterren die vergelijkbaar gillig gedrag in helderheid vertonen,
+
+73
+00:07:30,240 --> 00:07:35,500
+bleek dat ze opmerkelijk dicht bij elkaar liggen in het zogenaamde hertsprong-Russel-diagram.
+
+74
+00:07:35,700 --> 00:07:36,740
+Heb je een vertaling?
+
+75
+00:07:36,900 --> 00:07:40,560
+Dat kunnen we vertalen als dat deze sterren vergelijkbaar zijn
+
+76
+00:07:40,560 --> 00:07:44,600
+voor wat betreft hun spectraalklasse en evolutionaire pad.
+
+77
+00:07:45,460 --> 00:07:47,640
+Maar er was nog iets anders aan de hand.
+
+78
+00:07:47,640 --> 00:07:54,360
+9 van deze 15 sterren liggen opvallend dicht in de buurt van Tebby's ster.
+
+79
+00:07:55,140 --> 00:07:58,500
+Dat wil zeggen dat ze ongeveer op hetzelfde punt aan de hemel staan,
+
+80
+00:07:58,760 --> 00:08:02,780
+op dezelfde afstand bij elkaar in de buurt daar in het sterrenbeeld te zwaan.
+
+81
+00:08:03,600 --> 00:08:07,160
+Schmid zegt in zijn artikel, en ik vertaal het maar even voor u,
+
+82
+00:08:08,440 --> 00:08:13,680
+aangezien er nog geen bevredigende verklaring is gevonden voor het gedrag van Tebby's ster,
+
+83
+00:08:13,940 --> 00:08:17,520
+en daarom ook niet voor de vergelijkbare kandidaat in dit artikel,
+
+84
+00:08:17,880 --> 00:08:21,940
+is het voorbarig om te proberen het bestaan van het cluster te verklaren.
+
+85
+00:08:22,700 --> 00:08:28,300
+Echter, de mogelijkheid dat buitenaardse beschavingen interstellaire reizen hebben ontwikkeld
+
+86
+00:08:28,300 --> 00:08:32,760
+en zich hebben uitgebreid buiten hun oorspronkelijke planetaire systemen,
+
+87
+00:08:32,940 --> 00:08:37,460
+is breed besproken in verband met de zoektocht naar buitenaardse intelligentie,
+
+88
+00:08:37,780 --> 00:08:40,180
+bijvoorbeeld in verband met de Fermi-paradox.
+
+89
+00:08:40,880 --> 00:08:47,260
+Als dit daadwerkelijk mogelijk is, zou het kunnen leiden tot een cluster van sterren met bewoonbare planeten
+
+90
+00:08:47,260 --> 00:08:49,800
+over een uitgebreid gebied van de ruimte.
+
+91
+00:08:50,460 --> 00:08:57,420
+Astronoom Fila Roel en collega's, die een zoektocht beschreven naar sterren met ongebruikelijk fotometrisch gedrag,
+
+92
+00:08:57,680 --> 00:08:58,320
+merkten op,
+
+93
+00:08:58,320 --> 00:09:06,680
+Als een regio aan de hemel de neiging heeft om een onverwacht groot aantal kandidaten te produceren in vergelijking met de achtergrond,
+
+94
+00:09:06,880 --> 00:09:12,640
+verdient deze regio, of hotspot, mogelijk extra aandacht met betrekking tot SETI,
+
+95
+00:09:12,920 --> 00:09:15,800
+de zoektocht naar buitenaardse civilisaties.
+
+96
+00:09:16,560 --> 00:09:23,260
+Met deze overwegingen in gedachten stel ik voor dat de dippers in het cluster en andere sterren in dezelfde regio
+
+97
+00:09:23,260 --> 00:09:26,400
+geschikte doelen zouden zijn voor SETI onderzoeken.
+
+98
+00:09:30,200 --> 00:09:35,660
+Dit hele cluster van vreemde sterren staat op zo'n 1500 lichtjaar van ons vandaan.
+
+99
+00:09:36,120 --> 00:09:39,260
+Dus daarmee kijken we ook 1500 jaar in het verleden.
+
+100
+00:09:39,860 --> 00:09:45,180
+Ik ben heel benieuwd wat Debbie en collega's zelf aantreffen in de James Webb-waarnemingen.
+
+101
+00:09:45,940 --> 00:09:49,260
+Dit jaar gaan we het niet meer horen, denk ik, want het is bijna voorbij.
+
+102
+00:09:49,260 --> 00:09:55,020
+Als er volgend jaar iets te vertellen valt over Debbie's star, dan hoort u het hier waarschijnlijk als eerste.
+
+103
+00:09:55,680 --> 00:09:58,260
+Hopelijk blijft u ook volgend jaar luisteren naar deze podcast,
+
+104
+00:09:58,980 --> 00:10:05,560
+maar als u liever een terrasje uitzoekt en een Pan Galactic Gargle Blaster bestelt, dan geef ik u geen ongelijk.
+
+105
+00:10:06,120 --> 00:10:13,860
+Voor nu een heel fijne kerst en dat 2024 maar wat meer in de richting mag gaan van de poster met de duif die op ons raam hangt
+
+106
+00:10:13,860 --> 00:10:15,860
+en waar Peace Now op staat.
+
+107
+00:10:15,860 --> 00:10:21,940
+Ik ga maar weer naar binnen uit de virtuele sneeuw en de ongure wind die is gaan waaien.
+
+108
+00:10:23,740 --> 00:10:25,240
+Tot de volgende keer.
+
+109
+00:10:25,240 --> 00:10:35,240
+MUZIEK
+
+110
+00:10:35,240 --> 00:10:45,240
+MUZIEK
+
+111
+00:10:45,240 --> 00:10:55,240
+MUZIEK
+
+112
+00:10:55,240 --> 00:11:05,240
+MUZIEK
+
+113
+00:11:05,240 --> 00:11:07,240
+MUZIEK
+
+114
+00:11:07,240 --> 00:11:09,240
+MUZIEK
+
+115
+00:11:09,240 --> 00:11:23,240
+MUZIEK
+
+116
+00:11:23,240 --> 00:11:25,240
+MUZIEK
+
+117
+00:11:25,240 --> 00:11:27,240
+MUZIEK
+
+118
+00:11:27,240 --> 00:11:29,240
+MUZIEK
+
+119
+00:11:29,240 --> 00:11:49,240
+MUZIEK
+

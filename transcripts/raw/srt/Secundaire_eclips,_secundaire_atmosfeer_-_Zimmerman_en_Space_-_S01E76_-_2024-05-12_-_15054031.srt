@@ -1,0 +1,664 @@
+1
+00:00:00,000 --> 00:00:03,660
+U luistert naar Zimmerman & Space.
+
+2
+00:00:04,160 --> 00:00:04,660
+Een podcast?
+
+3
+00:00:05,000 --> 00:00:05,520
+Ja, een podcast.
+
+4
+00:00:05,920 --> 00:00:06,240
+Wat?
+
+5
+00:00:06,600 --> 00:00:07,540
+Ja, over sterren.
+
+6
+00:00:07,980 --> 00:00:08,580
+Sterren?
+
+7
+00:00:08,800 --> 00:00:11,020
+Nou, ik weet niet of ik daar naar wil luisteren hoor.
+
+8
+00:00:11,480 --> 00:00:17,040
+De aflevering van vandaag vertelt ons hoe ver de astronomische wetenschap al gevorderd is,
+
+9
+00:00:17,200 --> 00:00:19,960
+mocht u daar op dit moment in uw leven behoefte aan hebben.
+
+10
+00:00:20,060 --> 00:00:20,900
+Ah, I don't know.
+
+11
+00:00:20,960 --> 00:00:23,240
+En ook als u daar geen behoefte aan heeft.
+
+12
+00:00:23,420 --> 00:00:24,320
+Oh, gelukkig.
+
+13
+00:00:24,320 --> 00:00:33,760
+Het begint allemaal met een artikel dat vorige maand, april 2024, werd geaccepteerd voor publicatie in het tijdschrift Nature met als titel
+
+14
+00:00:33,760 --> 00:00:38,180
+A secondary atmosphere on the rocky exoplanet 55 Cancri e.
+
+15
+00:00:38,660 --> 00:00:46,200
+Dit artikel gaat over de rotsachtige exoplaneet 55 Cancri e in het dierenriemsterrenbeeld de Kreeft.
+
+16
+00:00:46,200 --> 00:00:55,820
+Kreeftster 55A beschikt over minstens vijf exoplaneten waarvan 55e het dichtst rond de ster draait.
+
+17
+00:00:56,500 --> 00:01:04,780
+In vergelijking met ons eigen zonnestelsel draait 55e op ongeveer 1,25ste van de afstand van Mercurius tot de zon.
+
+18
+00:01:05,520 --> 00:01:10,880
+Dus als u denkt dat het op 55e tamelijk warm zal zijn, dan heeft u groot gelijk.
+
+19
+00:01:10,880 --> 00:01:17,120
+In 0,74 dagen zoeft 55e eenmaal rond haar ster.
+
+20
+00:01:17,740 --> 00:01:26,540
+De kans is daarom groot dat 55e in een toestand van baanresonantie verkeert en altijd met dezelfde zijde naar haar ster wijst.
+
+21
+00:01:27,440 --> 00:01:31,080
+Dan is het aan een kant altijd dag en aan de andere kant altijd nacht.
+
+22
+00:01:31,500 --> 00:01:37,500
+Dat is te vergelijken met het bakken van een hamburger en dan vergeet het ding in de pan een keer om te draaien.
+
+23
+00:01:37,500 --> 00:01:49,380
+Voordat we zullen bespreken wat er met de VEP ruimtetelescoop is ontdekt bij deze exoplaneet en wat de titel van deze aflevering daarmee te maken heeft, zullen we eerst wat details bespreken.
+
+24
+00:01:49,500 --> 00:01:50,020
+Dat is goed.
+
+25
+00:01:50,700 --> 00:01:59,980
+55 Kangri-E werd al in 2004 ontdekt door middel van de transitmethode met behulp van metingen met de aardse Hobby-Eberley-telescoop.
+
+26
+00:02:00,080 --> 00:02:02,500
+Dit vraagt denk ik om wat extra uitleg.
+
+27
+00:02:02,500 --> 00:02:12,720
+Bij die transitmethode zien astronomen dat sterrenlicht tijdelijk en regelmatig iets verduisterd wordt wanneer de exoplaneet vanuit ons gezien voor de ster langs trekt.
+
+28
+00:02:13,420 --> 00:02:21,700
+Immers een planeet straalt van zichzelf geen licht uit en wanneer we zien dat deze voor de ster langs beweegt zien we per definitie de nachtzijde.
+
+29
+00:02:23,660 --> 00:02:28,140
+55e staat op een afstand van ongeveer 41 lichtjaar van ons vandaan.
+
+30
+00:02:28,140 --> 00:02:35,900
+Deze exoplaneet heeft ongeveer 8 keer de massa van onze aarde en 1,84 keer de radius van de aarde.
+
+31
+00:02:36,780 --> 00:02:39,140
+Daarmee is dit een zogenaamde superaarde.
+
+32
+00:02:39,400 --> 00:02:40,120
+Ja, dat zeg jij.
+
+33
+00:02:40,620 --> 00:02:45,760
+Astronomen schatten de dichtheid van de planeet op 5,4 keer die van onze planeet Jupiter.
+
+34
+00:02:46,280 --> 00:02:51,500
+En de zwaartekracht op het oppervlak is dan 2,37 keer die van onze planeet aarde.
+
+35
+00:02:51,860 --> 00:02:54,020
+Oftewel 2,37 g.
+
+36
+00:02:54,020 --> 00:03:07,300
+De ster 55a in sterrenbeeld de kreeft waar exoplaneet 55e omheen draait is een K045 ster met een massa van ongeveer 0,9 keer die van onze zon.
+
+37
+00:03:08,340 --> 00:03:14,520
+Omdat 55e zo dicht om haar ster draait is het beslist geen planeet waar we leven kunnen verwachten.
+
+38
+00:03:14,660 --> 00:03:15,560
+Weet je dat wel zeker?
+
+39
+00:03:15,560 --> 00:03:18,220
+Toch vinden astronomen het een boeiend object.
+
+40
+00:03:18,560 --> 00:03:21,680
+Omdat het hoogst waarschijnlijk een rotsachtige planeet is.
+
+41
+00:03:21,800 --> 00:03:24,820
+Net zoals onze aarde, Mercurius, Venus en Mars.
+
+42
+00:03:25,780 --> 00:03:30,040
+Maar rotsachtig doet als beschrijvende term deze exoplaneet tekort.
+
+43
+00:03:30,160 --> 00:03:34,420
+Want 55e zal waarschijnlijk vooral gesmolten steen bevatten.
+
+44
+00:03:35,240 --> 00:03:35,800
+Magma.
+
+45
+00:03:36,620 --> 00:03:42,820
+En dat is interessant, want onze aarde was in de begindagen ook een onherbergzame wereld van gesmolten steen.
+
+46
+00:03:42,820 --> 00:03:49,640
+En toch is bij onze planeet ooit een atmosfeer ontstaan waarin u nu naar deze aflevering luistert.
+
+47
+00:03:49,760 --> 00:03:50,500
+Ja, dat zeg jij.
+
+48
+00:03:50,800 --> 00:03:58,400
+In 2012 kwam 55e al in het nieuws toen gesuggereerd werd dat de planeet grotendeels uit diamant zou bestaan.
+
+49
+00:03:59,360 --> 00:04:04,620
+Sommigen van ons begonnen al ruimtevaartuigen in elkaar te lassen om de buit op te gaan halen.
+
+50
+00:04:05,280 --> 00:04:12,060
+Maar gelukkig bleef iedereen met beide voeten op aarde, want 55e verloor haar status als diamantenplaneet.
+
+51
+00:04:12,820 --> 00:04:20,460
+Er zijn wel sterke aanwijzingen dat koolstof, het hoofdbestanddeel van diamant, aanwezig is op 55e.
+
+52
+00:04:20,980 --> 00:04:23,960
+Maar niet in de vorm van diamant, denken astronomen nu.
+
+53
+00:04:24,060 --> 00:04:25,340
+Dat is vervelend.
+
+54
+00:04:25,600 --> 00:04:28,620
+Hoe het wel zit met die koolstof bespreken we zo meteen.
+
+55
+00:04:28,800 --> 00:04:29,140
+Oké.
+
+56
+00:04:30,400 --> 00:04:33,680
+55e kwam eind 2015 ook al in het nieuws.
+
+57
+00:04:33,680 --> 00:04:35,480
+Toen verscheen het artikel
+
+58
+00:04:35,480 --> 00:04:39,000
+Variability in the Super Earth 55 CNCE
+
+59
+00:04:39,000 --> 00:04:43,000
+In the Monthly Notices of the Royal Astronomical Society.
+
+60
+00:04:44,060 --> 00:04:48,420
+Hierin lezen we dat het onderzoeken van de atmosfeer van rotsachtige exoplaneten
+
+61
+00:04:48,420 --> 00:04:52,900
+met een massa tussen de 1 en 10 keer die van onze aarde problematisch is.
+
+62
+00:04:53,500 --> 00:04:56,380
+Want uit de spectra van dergelijke exoplaneten
+
+63
+00:04:56,380 --> 00:05:00,840
+konden met de apparatuur in die tijd geen bruikbare spectra verkregen worden.
+
+64
+00:05:00,960 --> 00:05:02,380
+Ik snap hier helemaal niks van.
+
+65
+00:05:02,380 --> 00:05:07,480
+Bruikbaar zijn spectra waaruit iets gezegd kan worden over de samenstelling van de atmosfeer.
+
+66
+00:05:08,200 --> 00:05:13,120
+Maar 55e kreeg wel de eer de eerste rotsachtige exoplaneten zijn
+
+67
+00:05:13,120 --> 00:05:16,440
+waarop atmosferische activiteit kon worden gemeten.
+
+68
+00:05:17,240 --> 00:05:19,720
+Hoe kan dat dan wel, vraagt u zich wellicht af.
+
+69
+00:05:19,860 --> 00:05:21,060
+Dat is eigenlijk een goede vraag.
+
+70
+00:05:21,340 --> 00:05:26,120
+Nou, wat gezien werd, waren grote temperatuurschommelingen op 55e.
+
+71
+00:05:26,560 --> 00:05:31,000
+In een periode van twee jaar werd gezien dat de temperatuur op het oppervlak
+
+72
+00:05:31,000 --> 00:05:35,220
+bijna drie keer hoger kon worden aan de dagzijde van 55e,
+
+73
+00:05:35,580 --> 00:05:39,580
+variërend van ongeveer 1000 tot 2700 graden Celsius.
+
+74
+00:05:40,420 --> 00:05:40,980
+Zoveel?
+
+75
+00:05:41,020 --> 00:05:42,340
+Dat is een enorm verschil.
+
+76
+00:05:43,560 --> 00:05:47,000
+Deze schommelingen kunnen bijvoorbeeld verklaard worden door vulkanisme.
+
+77
+00:05:47,860 --> 00:05:51,840
+En dan niet zozeer dat de atmosfeer boven een vulkaan een stuk warmer wordt,
+
+78
+00:05:51,840 --> 00:05:57,560
+maar meer dat de atmosfeer op 55e dan tijdelijk ernstig verduisterd wordt door vulkanisme
+
+79
+00:05:57,560 --> 00:06:01,380
+en dat die verduistering warmtestraling vasthoudt in de atmosfeer.
+
+80
+00:06:02,940 --> 00:06:08,060
+Astronoom Diana Dragomier van de Universiteit van Nieuw-Mexico bestudeert 55e
+
+81
+00:06:08,060 --> 00:06:14,300
+al vele jaren met behulp van meetgegevens van ruimtetelescopen als Hubble en Spitzer.
+
+82
+00:06:15,220 --> 00:06:21,560
+Waarnemingen met deze instrumenten deden al vermoeden dat 55e iets van een atmosfeer zou kunnen hebben,
+
+83
+00:06:21,780 --> 00:06:26,120
+maar de gevoeligheid van de Hubble en Spitzer ruimtetelescopen was nog niet voldoende
+
+84
+00:06:26,120 --> 00:06:29,220
+om duidelijk te krijgen wat voor atmosfeer dat dan is.
+
+85
+00:06:30,040 --> 00:06:33,660
+Is het een atmosfeer zoals op onze aarde met vergelijkbare gassen?
+
+86
+00:06:33,660 --> 00:06:40,560
+Of is het simpelweg te warm op 55e en vinden we alleen verdampt magma rond 55e?
+
+87
+00:06:40,740 --> 00:06:41,060
+Huh?
+
+88
+00:06:41,340 --> 00:06:44,460
+Want ook dat kan als een soort eile atmosfeer gezien worden.
+
+89
+00:06:44,580 --> 00:06:45,800
+Oh ja, inderdaad.
+
+90
+00:06:45,940 --> 00:06:51,240
+Op zich draait 55e in zo'n korte tijd om haar ster, minder dan een aardse dag,
+
+91
+00:06:51,480 --> 00:06:56,700
+dat er genoeg gelegenheden zijn om met een spectroscoop te kijken naar veranderingen in het spectrum
+
+92
+00:06:56,700 --> 00:06:59,660
+wanneer 55e voor haar ster langstrekt.
+
+93
+00:06:59,660 --> 00:07:06,880
+Een ander gegeven dat 55e zo interessant maakt voor astronomen
+
+94
+00:07:06,880 --> 00:07:11,660
+is dat dit een van de dichtst bij de aarde gevonden rotsachtige exoplaneten is.
+
+95
+00:07:13,920 --> 00:07:19,200
+En toen was er de James Webb ruimtetelescoop met gevoeligere instrumenten aan boord.
+
+96
+00:07:21,720 --> 00:07:26,340
+Hiermee konden Dragomier en collega's iets doen waar u wellicht nog nooit van gehoord had.
+
+97
+00:07:26,340 --> 00:07:33,440
+Het heet een secundaire eclipse en dit is het moment dat de exoplaneet vanaf ons gezien achter de ster verdwijnt.
+
+98
+00:07:34,940 --> 00:07:38,140
+Dan nemen we dus korte tijd alleen het sterrenlicht waar.
+
+99
+00:07:38,880 --> 00:07:42,680
+Maar komt 55e dan weer achter de ster tevoorschijn,
+
+100
+00:07:42,860 --> 00:07:47,240
+dan zien we in eerste instantie de felverlichte dagzijde van die exoplaneet.
+
+101
+00:07:47,240 --> 00:07:54,300
+Met behulp van de Neerkam-camera, de Grism spectrometer en de Miri spectrometer van de webtelescoop
+
+102
+00:07:54,300 --> 00:08:00,560
+kon eindelijk gezien worden wat de spectrale samenstelling van het licht van exoplaneet 55e is.
+
+103
+00:08:01,360 --> 00:08:07,020
+En ook vooral wat het verschil is in het spectrum tussen alleen de ster, 55 Cancri A,
+
+104
+00:08:07,180 --> 00:08:09,380
+en de ster plus de exoplaneet.
+
+105
+00:08:09,380 --> 00:08:14,540
+Specifiek werd gekeken in het golfbreik van 4 tot 12 micrometer.
+
+106
+00:08:14,660 --> 00:08:15,740
+Even kijken.
+
+107
+00:08:16,040 --> 00:08:20,720
+Dat komt neer op infrarood licht tussen de 25 en 75 terahertz.
+
+108
+00:08:21,760 --> 00:08:25,960
+De eerste indicatie dat 55e een bona fide atmosfeer kent,
+
+109
+00:08:26,060 --> 00:08:28,640
+was de gemete temperatuur van de exoplaneet.
+
+110
+00:08:29,120 --> 00:08:31,920
+Als het hier alleen om magma en lava zou gaan,
+
+111
+00:08:31,920 --> 00:08:37,660
+zou 55e aan de dagzijde een temperatuur hebben van rond de 2200 graden Celsius.
+
+112
+00:08:37,660 --> 00:08:43,200
+Maar het Miri-instrument van de webtelescoop gaf een koudere temperatuur aan,
+
+113
+00:08:43,420 --> 00:08:46,320
+meer in de orde van 1540 graden Celsius.
+
+114
+00:08:46,700 --> 00:08:47,480
+Dat is ook niet veel.
+
+115
+00:08:47,720 --> 00:08:52,680
+Dit interpreteren astronomen als sterke aanwijzing voor de aanwezigheid van een atmosfeer,
+
+116
+00:08:52,900 --> 00:08:57,400
+want dit betekent dat er door zo'n atmosfeer transport plaatsvindt van warmte
+
+117
+00:08:57,400 --> 00:09:00,860
+van de dagzijde naar de nachtzijde van 55e.
+
+118
+00:09:01,660 --> 00:09:07,400
+Een alleen maar gesmolten magma-wereld met een minimale atmosfeer van gesmolten steen
+
+119
+00:09:07,400 --> 00:09:12,740
+is niet in staat energie-efficiënt genoeg te transporteren om dit verschil te kunnen verklaren.
+
+120
+00:09:13,280 --> 00:09:17,040
+Maar de tweede indicatie voor een atmosfeer was nog veel stelliger.
+
+121
+00:09:17,680 --> 00:09:23,880
+In het spectrum van de dagzijde van 55e werden met de betere instrumenten van de webtelescoop
+
+122
+00:09:23,880 --> 00:09:27,400
+dips waargenomen tussen de 4 en 5 micrometer.
+
+123
+00:09:27,400 --> 00:09:34,740
+Deze dips kennen natuurkundigen en astronomen als indicatoren voor de aanwezigheid van koolstofmonoxide
+
+124
+00:09:34,740 --> 00:09:38,780
+of koolstofdioxide, oftewel atmosferische gassen.
+
+125
+00:09:39,880 --> 00:09:44,820
+Deze moleculen absorberen een gedeelte van het sterrenlicht waardoor de dips in het spectrum
+
+126
+00:09:44,820 --> 00:09:45,780
+kunnen worden gezien.
+
+127
+00:09:46,560 --> 00:09:52,040
+Dit is op een afstand van 41 lichtjaar van ons vandaan niet anders dan in onze eigen atmosfeer.
+
+128
+00:09:52,040 --> 00:09:55,800
+En dat vind ik ook wel een van de mooie dingen van astronomie.
+
+129
+00:09:56,420 --> 00:10:01,380
+Als we om ons heen kijken zien we dat de natuur overal in het heelal vergelijkbaar is
+
+130
+00:10:01,380 --> 00:10:04,500
+en volgens dezelfde natuurkundige wetten functioneert.
+
+131
+00:10:05,340 --> 00:10:10,920
+Dit maakt ontdekkingen zoals deze atmosfeer rond rotsplaneet 55e überhaupt mogelijk.
+
+132
+00:10:11,540 --> 00:10:16,360
+En daarmee kunnen we de aanwezigheid van koolstof op 55e dus ook beter duiden.
+
+133
+00:10:16,960 --> 00:10:20,300
+Geen kostbare diamanten, maar koolstofverbindingen.
+
+134
+00:10:20,300 --> 00:10:27,020
+In de titel van deze podcast staat ook secundaire atmosfeer, dus daar moeten we het nog even over hebben.
+
+135
+00:10:27,840 --> 00:10:33,920
+Op zich is het merkwaardig dat een exoplaneet zo dicht in de buurt van een ster überhaupt een atmosfeer kent.
+
+136
+00:10:34,040 --> 00:10:35,080
+Maar hoe zit dat dan?
+
+137
+00:10:35,160 --> 00:10:39,600
+Als we naar onze planeet Mercurius kijken bijvoorbeeld zien we helemaal geen atmosfeer
+
+138
+00:10:39,600 --> 00:10:46,180
+en Mercurius staat nog altijd 25 keer verder van de zon af dan 55e van haar ster afstaat.
+
+139
+00:10:46,940 --> 00:10:48,180
+Dus wat is hier gaande?
+
+140
+00:10:48,180 --> 00:10:51,020
+Om nog even bij Mercurius te blijven.
+
+141
+00:10:51,460 --> 00:10:55,100
+Deze planeet staat te dicht bij de zon om een atmosfeer te behouden.
+
+142
+00:10:55,600 --> 00:10:59,340
+Als er al ooit zoiets als een atmosfeer rond Mercurius bestond,
+
+143
+00:10:59,580 --> 00:11:03,180
+dan is die er met de tijd rond weggeroosterd door onze zon.
+
+144
+00:11:04,200 --> 00:11:08,220
+Het beste dat we Mercurius kunnen geven is een zogenaamde exosfeer.
+
+145
+00:11:08,220 --> 00:11:18,620
+Een hele eilen staart van atomen, ionen en wat moleculen die van het planeet oppervlak losgevrikt zijn door het constante bombardement van zonnestraling.
+
+146
+00:11:19,460 --> 00:11:23,320
+Maar 55e in sterrenbeeld de kreeft is een ander verhaal.
+
+147
+00:11:23,320 --> 00:11:33,740
+Ook hier geldt dat, als er ooit sprake was van een primaire atmosfeer, deze allang weggeblazen is door de straling van de ster waar 55e omheen cirkelt.
+
+148
+00:11:33,740 --> 00:11:40,900
+Maar uit die bubbelende magma en lava massa ontstaat iets wat we een secundaire atmosfeer noemen,
+
+149
+00:11:41,140 --> 00:11:46,160
+en wel eentje die continu aangevuld wordt vanuit die oceaan van gesmolten gesteent.
+
+150
+00:11:46,480 --> 00:11:51,460
+Deze secundaire atmosfeer bevat moleculen die we ook in de aardatmosfeer zien.
+
+151
+00:11:52,040 --> 00:11:57,760
+Moleculen opgebouwd uit koolstof, waterstof, zuurstof, stikstof, zwavel en fosfor.
+
+152
+00:11:57,760 --> 00:12:08,060
+Kennelijk zijn er in de gesmolten steenoceanen op exoplaneet 55e processen gaande die iets van een oeratmosfeer in het leven roepen.
+
+153
+00:12:08,720 --> 00:12:12,480
+Wellicht vergelijkbaar met wat ooit op onze aarde moet zijn voorgevallen.
+
+154
+00:12:12,960 --> 00:12:19,760
+Of er ooit een leefbare atmosfeer rond 55e ontstaat, waarin apen van boom tot boom springen,
+
+155
+00:12:19,760 --> 00:12:27,220
+en kakatoeachtige wezens hun eieren in vrolijk in de wind wiegende bomen uitbroeden, is buitengewoon onwaarschijnlijk.
+
+156
+00:12:27,760 --> 00:12:30,260
+Daar is het eenvoudigweg te heet voor.
+
+157
+00:12:31,340 --> 00:12:42,240
+Maar zeg nooit nooit, want 55e kan door zwaartekracht wisselwerking met de andere planeten en de ster op een dag ook naar een verder weggelegen punt rond de ster migreren.
+
+158
+00:12:42,940 --> 00:12:47,440
+Een punt dat wel in de bewoonbare zone rond ster 55a ligt.
+
+159
+00:12:47,980 --> 00:12:56,660
+En misschien, heel misschien, is de uit magma geboren secundaire atmosfeer dan wel een gunstige voorwaarde om leven te laten evolueren.
+
+160
+00:12:56,660 --> 00:13:00,040
+Maar ach, dat is maar wat dagdromen en speculeren.
+
+161
+00:13:00,740 --> 00:13:08,860
+Wat de wetenschap concreet aan de nieuwe inzichten met de webtelescoop heeft, is inzicht verkrijgen in de evolutie van rotsachtige planeten.
+
+162
+00:13:09,760 --> 00:13:14,800
+En het geeft, zoals we in het begin al zeiden, aan hoe ver gevorderd de astronomie al is,
+
+163
+00:13:15,000 --> 00:13:19,500
+dat we gegevens kunnen betrekken uit metingen aan de dagzijde van exoplaneten.
+
+164
+00:13:19,500 --> 00:13:24,120
+Ik zie in het nieuws heel wat dingen die ik veel minder indrukwekkend vind.
+
+165
+00:13:24,700 --> 00:13:25,940
+Tot de volgende keer.
+
+166
+00:13:26,120 --> 00:13:29,020
+Dan zult u er het volle profijt van hebben.
+

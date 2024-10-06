@@ -1,0 +1,660 @@
+1
+00:00:01,000 --> 00:00:03,780
+Hoe klinken de volgende zinnen?
+
+2
+00:00:04,500 --> 00:00:06,520
+Boos of vriendelijk?
+
+3
+00:00:06,880 --> 00:00:11,880
+Ja, hoe staat het eigenlijk met die peperdure James Webb ruimtetelescoop?
+
+4
+00:00:12,080 --> 00:00:16,100
+Dat apparaat werd dan eindelijk gelanceerd in 2021.
+
+5
+00:00:16,700 --> 00:00:19,480
+Maar er is nog steeds geen leven ontdekt ofzo.
+
+6
+00:00:19,960 --> 00:00:21,780
+En die mooie plaatjes zijn heel leuk.
+
+7
+00:00:22,560 --> 00:00:27,020
+Maar wat zijn die meer dan dat wat we van de Hubble-telescoop al kennen,
+
+8
+00:00:27,180 --> 00:00:28,520
+maar dan met wat meer sterren?
+
+9
+00:00:28,520 --> 00:00:31,520
+Dat vraag ik me ook wel eens af.
+
+10
+00:00:32,200 --> 00:00:38,200
+En daarom vandaag een U bevindt zich hier overzicht van het onderzoek naar leven op andere planeten
+
+11
+00:00:38,200 --> 00:00:41,080
+met behulp van die James Webb ruimtetelescoop.
+
+12
+00:00:41,680 --> 00:00:46,500
+Als kapstok voor dit verhaal nemen we de eerste bevestiging van een exoplaneet
+
+13
+00:00:46,500 --> 00:00:50,740
+met de James Webb ruimtetelescoop zoals die vorige maand in het nieuws kwam.
+
+14
+00:00:51,320 --> 00:00:55,360
+Deze exoplaneet heet LHS 475b.
+
+15
+00:00:55,360 --> 00:01:02,820
+Dat dit de eerste bevestigde exoplaneet met behulp van de James Webb ruimtetelescoop is, is significant.
+
+16
+00:01:03,420 --> 00:01:08,120
+Want met behulp van het TESS ruimtevaartuig was al het vermoeden ontstaan
+
+17
+00:01:08,120 --> 00:01:12,560
+dat er een exoplaneet rond de ster LHS 475 draaide,
+
+18
+00:01:12,800 --> 00:01:17,780
+maar met de James Webb ruimtetelescoop was het betrekkelijk eenvoudig om dit vermoeden te bevestigen.
+
+19
+00:01:17,780 --> 00:01:22,500
+Extra bijzonder is dat het hier een redelijk kleine exoplaneet betreft.
+
+20
+00:01:23,240 --> 00:01:27,520
+Van de ruim 5000 bevestigde exoplaneten die inmiddels ontdekt zijn,
+
+21
+00:01:28,100 --> 00:01:30,780
+is maar een handje vergelijkbaar met onze aarde.
+
+22
+00:01:31,340 --> 00:01:37,800
+Dat is natuurlijk ook het geval omdat het eenvoudiger is om grotere exoplaneten te detecteren dan kleinere.
+
+23
+00:01:37,920 --> 00:01:39,400
+Ja, dat is logisch.
+
+24
+00:01:39,400 --> 00:01:45,380
+Voor ons buitenstaanders is het misschien de vraag waarom er überhaupt naar een bepaalde ster wordt gekeken.
+
+25
+00:01:46,040 --> 00:01:48,300
+Er zijn er immers zo verschrikkelijk veel.
+
+26
+00:01:49,620 --> 00:01:56,060
+Hoe bepaal je dan waar de kostbare waarneemtijd van de James Webb ruimtetelescoop aan besteed mag worden?
+
+27
+00:01:57,000 --> 00:02:00,080
+En die vraag staat eigenlijk centraal in deze aflevering.
+
+28
+00:02:00,080 --> 00:02:04,560
+Het begint al met die ster LHS 475.
+
+29
+00:02:05,360 --> 00:02:09,640
+Dat klinkt als een saai rangnummer uit een of andere catalogus.
+
+30
+00:02:12,060 --> 00:02:16,360
+En dat klopt, ten dele. Het is alleen niet zo saai.
+
+31
+00:02:17,100 --> 00:02:19,960
+LHS staat voor Luiten Half Second.
+
+32
+00:02:20,760 --> 00:02:26,800
+Dit is inderdaad een catalogus en wel van de astronoom Willem Jacob Luiten uit 1979.
+
+33
+00:02:26,800 --> 00:02:34,400
+Dit was al de opvolger van de eerdere Luiten Five Tense catalogus van diezelfde Willem Jacob Luiten.
+
+34
+00:02:35,160 --> 00:02:41,420
+Wat hij vastlegde in zijn catalogus, hier was een lijst van sterren die een grote eigen beweging aan de hemel hebben.
+
+35
+00:02:41,560 --> 00:02:43,040
+Mag het in het Nederlands?
+
+36
+00:02:43,160 --> 00:02:50,440
+Als we van dag tot dag naar de sterrenhemel kijken, zien we dat sommige sterren sterker van plaats veranderen dan andere sterren.
+
+37
+00:02:50,440 --> 00:02:56,920
+Een deel van die bewegingen ten opzichte van de achtergrondsterren valt te wijd aan onze beweging rond de zon.
+
+38
+00:02:58,080 --> 00:03:03,560
+Eigen beweging of proper motion van sterren is gecorrigeerd voor dat gegeven.
+
+39
+00:03:03,860 --> 00:03:08,740
+En dan kijken we dus naar de daadwerkelijke snelheid waarmee sterren over de hemelbol migreren.
+
+40
+00:03:09,480 --> 00:03:11,440
+Dit zijn natuurlijk maar heel kleine bewegingen.
+
+41
+00:03:12,480 --> 00:03:16,440
+Maar toch kunnen we dan kijken welke sterren er relatief snel van plaats veranderen.
+
+42
+00:03:16,440 --> 00:03:21,840
+Het is dus inderdaad zo dat de sterrenhemel nooit exact hetzelfde is.
+
+43
+00:03:22,200 --> 00:03:25,320
+Dat ligt deels aan die eigen beweging van sterren.
+
+44
+00:03:25,980 --> 00:03:33,500
+Het feit dat onze polster langzaam dichter naar de hemelpool beweegt, en zo rond het jaar 2100 daar weer vanaf beweegt,
+
+45
+00:03:33,920 --> 00:03:37,860
+heeft te maken met het rammelen van onze aardas, wat we precessie noemen.
+
+46
+00:03:38,440 --> 00:03:41,760
+Dat is een heel ander proces dan eigen beweging van de sterren.
+
+47
+00:03:41,860 --> 00:03:43,780
+Oh, ik denk dat ik het nu begin te snappen.
+
+48
+00:03:43,780 --> 00:03:52,500
+In Luitens half second catalogus vinden we de sterren die een eigen beweging van meer dan een halve boogseconde per jaar laten zien.
+
+49
+00:03:53,280 --> 00:03:56,500
+Een boogseconde is 1 zestigste van een boogminuut.
+
+50
+00:03:57,020 --> 00:03:59,600
+En een boogminuut is 1 zestigste van een graad.
+
+51
+00:04:00,300 --> 00:04:04,280
+De maan en de zon zijn ongeveer een halve graad breed aan onze hemel.
+
+52
+00:04:04,960 --> 00:04:11,880
+Een grote halve cirkel van de ene kant van de horizon voor u naar de horizon achter u omvat 180 graden.
+
+53
+00:04:11,880 --> 00:04:14,740
+Dan heeft u een beetje een beeld van wat dat betekent.
+
+54
+00:04:15,440 --> 00:04:22,160
+In de oorspronkelijke catalogus van Luit uit 1979 vinden we ongeveer 4000 sterren.
+
+55
+00:04:23,000 --> 00:04:31,260
+In 2002 verscheen een revisie van deze catalogus die, u raadt het al, revised Luitens half second catalogus heet.
+
+56
+00:04:31,940 --> 00:04:38,300
+Hierin vinden we 6433 sterren met een eigen beweging van een halve boogseconde of meer.
+
+57
+00:04:38,300 --> 00:04:47,540
+Op positie 475 vinden we hier een met het blote oog niet zichtbaar sterretje aan het zuidelijk halfrond in het sterrenbeeld Octans.
+
+58
+00:04:48,240 --> 00:04:52,300
+In het Nederlands of Belgisch zouden we dat ook het sterrenbeeld Octant kunnen noemen.
+
+59
+00:04:52,840 --> 00:04:57,300
+Een Octant is grappig genoeg ook gerelateerd aan afstanden aan de hemelbol.
+
+60
+00:04:57,300 --> 00:05:04,760
+Zevaarders konden tijdens hun reizen over de zeeën navigeren op basis van de stand van de sterren aan de hemelbol.
+
+61
+00:05:05,800 --> 00:05:10,060
+Een Octant was dan een hulpmiddel om dergelijke stand nauwkeurig te bepalen.
+
+62
+00:05:10,580 --> 00:05:11,720
+Maar goed, ik dwaal af.
+
+63
+00:05:12,500 --> 00:05:17,060
+Sterren met een grote eigen beweging zijn doorgaans sterren die dicht bij ons staan.
+
+64
+00:05:17,860 --> 00:05:21,000
+Dat is misschien vergelijkbaar met uit het autoraam kijken.
+
+65
+00:05:21,000 --> 00:05:24,800
+Een roofvogel vlak naast de weg zoeft voorbij.
+
+66
+00:05:25,460 --> 00:05:28,240
+Koeien in de wijf verderop trekken langzaam aan u voorbij.
+
+67
+00:05:28,420 --> 00:05:32,460
+En die auto's aan de horizon lijken haast wel stil te staan ten opzichte van u.
+
+68
+00:05:33,580 --> 00:05:41,060
+Ook de ster LHS 475 staat relatief dicht bij ons op een afstand van slechts 40,7 lichtjaar.
+
+69
+00:05:41,060 --> 00:05:47,740
+De grote eigen beweging was eerder al reden om met de TESS ruimtetelescoop naar deze ster te kijken.
+
+70
+00:05:48,500 --> 00:05:54,320
+En zo krijgt deze ster de minstens even spannende naam TOI 910.01.
+
+71
+00:05:54,900 --> 00:05:58,520
+Waarbij TOI staat voor TESS Object of Interest.
+
+72
+00:05:59,340 --> 00:06:04,240
+In de TESS waarnemingen kon wel iets wat op een exoplaneet Transit Lake worden gezien.
+
+73
+00:06:04,240 --> 00:06:08,240
+Maar het was op basis van die waarnemingen nog geen bevestigde exoplaneet.
+
+74
+00:06:08,900 --> 00:06:09,840
+Hey, wat is dit?
+
+75
+00:06:09,840 --> 00:06:18,380
+Pas toen astronomen Kevin Stevenson en Jacob Lustig-Jager besloten de James Webb ruimtetelescoop naar deze ster te laten kijken,
+
+76
+00:06:18,640 --> 00:06:21,340
+dook de exoplaneet al snel op in de data.
+
+77
+00:06:22,360 --> 00:06:28,240
+Op 10 januari van dit jaar publiceerden Stevenson en Lustig-Jager, samen met collega's,
+
+78
+00:06:28,240 --> 00:06:30,560
+een artikel hierover met de titel
+
+79
+00:06:30,560 --> 00:06:36,800
+A JWST Transmission Spectrum of a Nearby Earth-Sized Exoplanet.
+
+80
+00:06:36,800 --> 00:06:44,460
+Deze exoplaneet heet nu LHS-475b en heeft praktisch dezelfde afmeting als onze aarde.
+
+81
+00:06:44,660 --> 00:06:45,480
+Dat is incredible.
+
+82
+00:06:45,480 --> 00:06:52,800
+De waarneming werd trouwens al gedaan op 31 augustus 2022 en 4 september 2022.
+
+83
+00:06:53,740 --> 00:07:03,720
+Maar zoals het wetenschap betaamt, moest eerst met een aan zekerheid grenzende onzekerheid worden vastgesteld dat wat werd waargenomen daadwerkelijk een exoplaneet betreft.
+
+84
+00:07:03,720 --> 00:07:11,220
+Een valse positieve waarneming kan zowel aan de instrumenten als aan de astrofysische omstandigheden liggen.
+
+85
+00:07:11,220 --> 00:07:13,080
+Maar er was duidelijk geen sprake van.
+
+86
+00:07:13,880 --> 00:07:23,160
+Wat meehoudt is dat planeet LHS-475b in een kleine 40 uur één keer om haar ster LHS-475 draait.
+
+87
+00:07:23,660 --> 00:07:32,440
+Met het neerspekinstrument van de James Webb ruimtetelescoop werd twee keer gezien hoe de exoplaneet het sterrenlicht periodiek doet dimmen.
+
+88
+00:07:32,440 --> 00:07:42,300
+We noemen deze detectietechniek de transitmethode, omdat een exoplaneet vanuit ons gezien een transit langs de ster maakt en zo wat licht wegneemt.
+
+89
+00:07:42,760 --> 00:07:48,020
+Ik zet een link naar het NASA-artikel over deze ontdekking in de show notes van deze aflevering.
+
+90
+00:07:48,640 --> 00:07:52,840
+Voor de aardigheid is het wel interessant te zien hoe zo'n lichtcurve eruit ziet.
+
+91
+00:07:53,360 --> 00:07:59,020
+De dip in helderheid laat eigenlijk geen twijfel bestaan over het feit dat hier iets voor de ster schuift.
+
+92
+00:07:59,020 --> 00:08:04,800
+De waarnemingen werden verder verwerkt met Python-programma's zoals de Eureka Pipeline.
+
+93
+00:08:05,340 --> 00:08:12,760
+Als u dit razend interessant vindt, de broncode staat gewoon in GitHub en u kunt dus zelf kijken hoe een en ander precies werkt.
+
+94
+00:08:13,220 --> 00:08:15,140
+Ik zet wel een link in de show notes.
+
+95
+00:08:16,140 --> 00:08:22,600
+Maar moet ons hart nu sneller gaan kloppen omdat we een exoplaneet in beeld hebben die ongeveer zo groot is als onze aarde?
+
+96
+00:08:22,600 --> 00:08:32,900
+Dat is natuurlijk geheel aan u, maar dit nieuws is meer een proof of concept voor de James Webb Space Telescoop dan een mogelijke detectie van leven.
+
+97
+00:08:34,260 --> 00:08:45,340
+Want onze exoplaneet LHS-475b draait dichter bij de ster LHS-475 dan wat we in de zogenaamde habitable zone noemen.
+
+98
+00:08:45,340 --> 00:08:56,140
+Daarmee is nog niet gezegd dat leven onmogelijk is op deze exoplaneet, maar we moeten ergens grenzen trekken in onze zoektocht en deze exoplaneet ligt dus buiten de grens.
+
+99
+00:08:57,020 --> 00:08:59,340
+Wat betekent die habitable zone eigenlijk?
+
+100
+00:08:59,680 --> 00:09:00,660
+Heb je een vertaling?
+
+101
+00:09:00,660 --> 00:09:11,200
+Letterlijk vertaald is het de leefbare zone en daarmee bedoelen astronomen de afstand tot de ster van planeten waar vloeibaar water op het oppervlak van een planeet kan bestaan.
+
+102
+00:09:12,240 --> 00:09:25,960
+Daarmee wordt dan niet gezegd dat er leven of zelfs water op voorkomt, maar we achten de kans op leven groter op planeten waar water kan stromen dan op verschroeide rotsblokken dicht bij een ster of ijzige gasreuzen ver verwijderd van een ster.
+
+103
+00:09:25,960 --> 00:09:32,660
+Deze aanname is gebaseerd op het leven op aarde, waarbij we veelal een grote behoefte aan water zien.
+
+104
+00:09:33,400 --> 00:09:39,620
+Vissen, insecten, mensen, capybaras en eencelligen, allemaal zijn we verzot op water.
+
+105
+00:09:40,540 --> 00:09:47,580
+En LHS-475b bevindt zich dus helaas niet in die leefbare zone, maar dichterbij de ster.
+
+106
+00:09:48,700 --> 00:09:54,580
+Nu is LHS-475 een rode dwergster en dus een stuk koeler dan onze zon.
+
+107
+00:09:54,580 --> 00:09:59,360
+En LHS-475b is tidally locked.
+
+108
+00:09:59,780 --> 00:10:04,420
+Dat betekent dat altijd dezelfde zijde van de exoplaneet naar de ster is gericht.
+
+109
+00:10:05,420 --> 00:10:11,060
+Die permanente dagzijde bereikt daarmee een temperatuur van zo'n 475 graden Celsius.
+
+110
+00:10:11,060 --> 00:10:12,940
+Het is niet gemakkelijk hot, dat is alles.
+
+111
+00:10:12,940 --> 00:10:20,980
+Omdat het maar een rode dwergster is, is het niet uitgesloten dat er een atmosfeer bestaat rond LHS-475b.
+
+112
+00:10:21,760 --> 00:10:32,560
+In het artikel van Lustig, Jäger en collega's over de ontdekking lezen we dat er in het spectrum van de transit vooral bepaalde samenstellingen van atmosferen kunnen worden uitgesloten.
+
+113
+00:10:32,560 --> 00:10:41,640
+De waarnemingen met de James Webb ruimtetelescoop laten zien dat deze exoplaneet geen atmosfeer van puur methaan of waterstof kan hebben.
+
+114
+00:10:41,760 --> 00:10:42,840
+Ja, het klinkt niet lekker.
+
+115
+00:10:42,840 --> 00:10:50,540
+De auteurs hebben meer waarnemingen nodig om te bepalen of het hier een exoplaneet betreft met een eile marsachtige atmosfeer,
+
+116
+00:10:50,700 --> 00:10:57,740
+een dikke wolkendek zoals bij Venus, of juist helemaal geen atmosfeer zoals bijvoorbeeld bij Mercurius.
+
+117
+00:10:58,780 --> 00:11:08,020
+Maar het mooie aan de huidige stand van de wetenschap is dat we nu een instrument tot onze beschikking hebben waarmee überhaupt dit soort waarnemingen gedaan kunnen worden.
+
+118
+00:11:08,020 --> 00:11:19,680
+En daarmee is deze ontdekking het hoopvolle startschot voor onderzoek naar de atmosfeer van exoplaneten die lijken op onze aarde en wel binnen de habitable zone van hun ster cirkelen.
+
+119
+00:11:20,360 --> 00:11:30,660
+Voor het eerst in de geschiedenis kunnen uitspraken worden gedaan over de atmosfeer van exoplaneten op basis van een gasdichtheid onder de 50 parts per million.
+
+120
+00:11:30,660 --> 00:11:38,660
+Dat is een dikke duim omhoog voor de signaalruisverhouding van de neerspekapparatuur aan boord van de James Webb Ruimtetelescoop.
+
+121
+00:11:39,860 --> 00:11:48,340
+Als deze ruimtetelescoop nog jaren perfect blijft functioneren en de atmosferen van allerlei verschillende exoplaneten bekeken gaan worden,
+
+122
+00:11:48,640 --> 00:12:00,160
+dan zal hopelijk nog tijdens ons leven het moment aanbreken dat een exoplaneet binnen de habitable zone van een ster atmosferische kenmerk laat zien die congruent zijn aan het leven.
+
+123
+00:12:00,660 --> 00:12:06,880
+Dat kunnen bijvoorbeeld overtuigende spectra van stofwisselingsprocessen van levende wezens zijn.
+
+124
+00:12:09,300 --> 00:12:15,740
+Of spectra van bijproducten van vervuilingsprocessen die alleen optreden bij industrialisatie.
+
+125
+00:12:18,240 --> 00:12:26,180
+In beide gevallen zal het een kwestie blijven van meer gegevens verzamelen om de hypothese van buitenaards leven te bevestigen.
+
+126
+00:12:26,180 --> 00:12:32,200
+Plaatjes van wezens op zo'n ander hemellichaam zullen nog wel lange tijd op zich moeten laten wachten.
+
+127
+00:12:33,200 --> 00:12:40,180
+Maar zeker als de James Webb Ruimtetelescoop industriële vervuilingsproducten waarneemt in de atmosfeer van een exoplaneet,
+
+128
+00:12:41,180 --> 00:12:46,980
+zal het interessant zijn een dergelijke locatie ook in andere golflengteschade te gaan slaan.
+
+129
+00:12:46,980 --> 00:12:51,320
+De signaal worden vervindelijk als radioimpulsers naar ruimte.
+
+130
+00:12:51,320 --> 00:12:58,700
+Een levensvorm die industrialisatie in gang heeft weten te zetten, zal mogelijk ook gebruik maken van radiotransmissies.
+
+131
+00:13:02,920 --> 00:13:06,660
+Een nieuwe kandidaat exoplaneet komt deze week in het nieuws.
+
+132
+00:13:07,320 --> 00:13:09,340
+Wolf 1069 b.
+
+133
+00:13:09,340 --> 00:13:16,340
+Ook deze exoplaneet staat relatief dicht bij ons op een afstand van 31 lichtjaar.
+
+134
+00:13:17,740 --> 00:13:22,060
+Ook Wolf 1069 b draait om een rode dwergster.
+
+135
+00:13:22,920 --> 00:13:27,360
+Maar Wolf 1069 b bevindt zich wel in de habitable zone.
+
+136
+00:13:27,360 --> 00:13:32,980
+En omdat deze planeet ook nog meer op onze aarde lijkt dan LHS 475 b,
+
+137
+00:13:33,240 --> 00:13:39,620
+zouden we geneigd zijn te zeggen dat onze James Webb Ruimtetelescoop hier dan maar spoedig op gericht dient te worden.
+
+138
+00:13:39,760 --> 00:13:40,260
+Dat is right.
+
+139
+00:13:40,400 --> 00:13:45,000
+Want kom maar op met het nieuws dat we niet alleen zijn in dit grote helal, nietwaar?
+
+140
+00:13:45,080 --> 00:13:49,140
+Ja, ik denk wel dat je daar gelijk in hebt.
+
+141
+00:13:49,380 --> 00:13:56,540
+Het is dan goed om te begrijpen dat Wolf 1069 b niet door een transit voor de ster langs is ontdekt.
+
+142
+00:13:57,360 --> 00:14:03,120
+Deze exoplaneet draait vanuit ons gezien in een ander vlak en komt nooit voor de ster langs.
+
+143
+00:14:03,860 --> 00:14:11,460
+Wolf 1069 b werd met een aardse telescoop in Spanje ontdekt door middel van de radial velocity methode.
+
+144
+00:14:12,120 --> 00:14:16,820
+Hierbij wordt een periodieke wobbel in het spectrum van een ster waargenomen,
+
+145
+00:14:17,380 --> 00:14:20,640
+die ontstaat omdat er een exoplaneet omheen draait.
+
+146
+00:14:20,640 --> 00:14:29,220
+Het sterrenlicht wordt iets uitgerekt als de ster van ons afbeweegt en iets ingedoet als de ster tijdelijk iets meer naar ons toe beweegt.
+
+147
+00:14:30,120 --> 00:14:38,120
+Ja, want een planeet draait niet alleen om een ster, maar beiden draaien om het centrum van massa, ook al Bari-centrum genoemd.
+
+148
+00:14:38,120 --> 00:14:43,420
+Waar een planeet om een ster draait, draait een ster dus ook om die planeet,
+
+149
+00:14:43,680 --> 00:14:48,100
+wat een kleine periodieke schommeling in het spectrum van de ster teweeg brengt.
+
+150
+00:14:48,740 --> 00:14:55,000
+En dat nemen wij waar als een periodieke blauw respectievelijk roodverschuiving die zich steeds weer herhaalt.
+
+151
+00:14:55,120 --> 00:14:56,900
+Herhaalt, herhaalt, herhaalt.
+
+152
+00:14:57,320 --> 00:15:02,300
+Op zich reuze knap dat het lukt dit te detecteren, helemaal vanaf de aarde.
+
+153
+00:15:02,300 --> 00:15:09,700
+Maar helaas is het spectrum van de exoplaneet, en dus specifiek van de atmosfeer daarvan, voor ons niet zichtbaar.
+
+154
+00:15:10,080 --> 00:15:14,700
+En ook de James Webb ruimtetelescoop kan ons hier niet bij van dienst zijn.
+
+155
+00:15:15,500 --> 00:15:16,960
+Dus, terug bij af?
+
+156
+00:15:17,380 --> 00:15:18,160
+Echt niet.
+
+157
+00:15:18,640 --> 00:15:24,160
+Er zijn nog heel veel test objects of interest waar de James Webb ruimtetelescoop op gericht kan worden,
+
+158
+00:15:24,320 --> 00:15:27,720
+en waar exoplaneten wellicht wel voor de ster langs bewegen.
+
+159
+00:15:27,720 --> 00:15:35,180
+Het is nu aan de astronomische wetenschap om de beschikbare waarneemtijd met deze ruimtetelescoop goed te verdelen.
+
+160
+00:15:36,000 --> 00:15:40,760
+Als leven in ons heelal werkelijk zoveel voorkomt als sommige wetenschappers vermoeden,
+
+161
+00:15:40,920 --> 00:15:45,900
+dan is het een kwestie van tijd voordat we voorpaginanieuws over buitenaards leven hebben.
+
+162
+00:15:46,480 --> 00:15:50,040
+En tot die tijd leven we dan maar een beetje in onzekerheid, nietwaar?
+
+163
+00:15:50,580 --> 00:15:51,880
+Tot de volgende keer.
+
+164
+00:15:52,160 --> 00:15:53,160
+Zend dit maar niet uit.
+
+165
+00:15:53,160 --> 00:15:54,160
+Zend dit maar niet uit.
+

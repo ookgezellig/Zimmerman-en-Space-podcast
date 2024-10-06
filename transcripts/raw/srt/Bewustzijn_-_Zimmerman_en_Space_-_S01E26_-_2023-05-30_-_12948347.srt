@@ -1,0 +1,584 @@
+1
+00:00:00,000 --> 00:00:11,600
+Over het algemeen houden astronomen zich voornamelijk bezig met het bestuderen van astronomische objecten en fenomenen in het universum,
+
+2
+00:00:11,900 --> 00:00:17,700
+zoals sterren, planeten, sterrenstelsel, zwarte gaten en de kosmische achtergrondstraling.
+
+3
+00:00:19,080 --> 00:00:28,000
+Ze richten zich op het verzamelen en analyseren van astronomische gegevens en het ontwikkelen van modellen en theorieën om het universum te begrijpen.
+
+4
+00:00:28,000 --> 00:00:39,080
+Bewustzijn daarentegen is een onderwerp dat voornamelijk valt binnen het domein van de neurowetenschappen, filosofie, psychologie en cognitieve wetenschappen.
+
+5
+00:00:39,860 --> 00:00:44,260
+Hoewel er enige overlap kan zijn tussen de verschillende disciplines,
+
+6
+00:00:44,260 --> 00:00:50,660
+is het niet gebruikelijk dat astronomen en natuurkundigen zich bezighouden met het onderzoek naar bewustzijn.
+
+7
+00:00:52,120 --> 00:00:54,360
+Maar er is een probleem.
+
+8
+00:00:54,360 --> 00:01:04,020
+Al die droge natuurkundige verantwoorde beschrijvingen van het heelal vertellen ons weinig tot niets over hoe ons bewustzijn daarbinnen functioneert.
+
+9
+00:01:04,760 --> 00:01:11,080
+We kunnen uitleggen welke golflengtes van zichtbaar licht onze netvliezen bereiken als we een strandwandeling maken,
+
+10
+00:01:11,300 --> 00:01:16,040
+maar daarmee leren we niet welke sensaties ons bewustzijn daarmee genereert.
+
+11
+00:01:16,040 --> 00:01:26,180
+Nou kunnen we natuurlijk achterover gaan zitten en wetenschappelijke beweringen over het bewustzijn overlaten aan neurowetenschappers, filosofen en psychologen,
+
+12
+00:01:26,440 --> 00:01:35,520
+maar juist de laatste jaren is duidelijk geworden dat ook ons bewustzijn op het niveau van de kwantumwetenschappen een belangrijke rol lijkt te spelen.
+
+13
+00:01:35,520 --> 00:01:48,180
+Experimenten laten zien dat deeltjes zich op het kwantumniveau gedragen als wolken van mogelijkheden die pas tot een meetbare toestand vernauwen als we met ons bewustzijn een meting verrichten.
+
+14
+00:01:48,940 --> 00:01:55,200
+Wij, toeschouwers met een bewustzijn, zijn nodig om de wereld om ons heen gestalten te geven.
+
+15
+00:01:55,200 --> 00:02:05,260
+En hoe zit het dan als twee verschillende toeschouwers met ieder hun eigen bewustzijn bewust worden van bijvoorbeeld een vogel die om hen heen fladdert?
+
+16
+00:02:05,900 --> 00:02:14,440
+Ontstaat er dan een vogelobject dat door twee bewustzijns in het leven wordt geroepen, als een soort gemiddelde van wat Alice en Bob waarnemen?
+
+17
+00:02:15,460 --> 00:02:19,880
+Of ontstaan er twee verschillende vogels, eentje voor Alice en eentje voor Bob?
+
+18
+00:02:20,800 --> 00:02:23,100
+En kunnen ze elkaars vogel helemaal niet kennen?
+
+19
+00:02:23,100 --> 00:02:31,260
+Of kunnen twee bewustzijnsvredig naast elkaar bestaan met ieder hun eigen invulling van het bewustgeworden vogelobject?
+
+20
+00:02:32,520 --> 00:02:33,900
+Vragen, vragen
+
+21
+00:02:33,900 --> 00:02:40,840
+Bewustzijn is een van de meest fascinerende en complexe onderwerpen in de moderne wetenschap.
+
+22
+00:02:41,440 --> 00:02:44,660
+Het is de essentie van onze ervaring en ons bestaan.
+
+23
+00:02:45,020 --> 00:02:48,200
+En toch blijft het dus een raadselachtig fenomeen.
+
+24
+00:02:48,200 --> 00:02:55,560
+Om ons betoog in deze podcast aflevering te beginnen, moeten we misschien eerst bewustzijn definiëren.
+
+25
+00:02:55,720 --> 00:02:56,960
+Ja, daar konden we op wachten.
+
+26
+00:02:57,320 --> 00:03:06,160
+In essentie verwijst bewustzijn naar het vermogen om subjectieve ervaringen te hebben en bewust te zijn van onszelf en de wereld om ons heen.
+
+27
+00:03:07,940 --> 00:03:13,440
+Bewustzijn omvat onze sensaties, emoties, gedachten en bewuste waarneming.
+
+28
+00:03:13,440 --> 00:03:22,900
+Bewustzijn is ook onlosmakelijk verbonden met onze identiteit en ons vermogen om te redeneren en betekenis te geven aan onze ervaringen.
+
+29
+00:03:23,640 --> 00:03:28,700
+De aard van bewustzijn heeft eeuwenlang filosofen en wetenschappers geïntrigeerd.
+
+30
+00:03:29,520 --> 00:03:35,740
+Filosofen hebben verschillende perspectieven geformuleerd, variërend van dualisme tot materialisme.
+
+31
+00:03:35,740 --> 00:03:46,800
+Dualisme stelt dat bewustzijn een aparte entiteit is die losstaat van het fysieke lichaam, terwijl materialisme beweert dat bewustzijn voortkomt uit hersenactiviteit.
+
+32
+00:03:47,720 --> 00:03:58,840
+Moderne wetenschappers zoals Sean Carroll neigen naar een materialistisch wereldbeeld, waarbij de focus ligt op het begrijpen van de fysieke processen die ten grondslag liggen aan bewustzijn.
+
+33
+00:03:58,840 --> 00:04:07,440
+Maar er zijn ook wetenschappers zoals Lee Smolin die vinden dat het tijd wordt voor een nieuwe beschouwing van ons bewustzijn.
+
+34
+00:04:08,340 --> 00:04:15,800
+Smolin is een theoretisch natuurkundige bekend om zijn werk op het gebied van kwantumgravitatie en cosmologie.
+
+35
+00:04:16,780 --> 00:04:23,460
+Zijn expertise ligt voornamelijk op het gebied van de theoretische fysica en de ontwikkeling van de snaartheorie.
+
+36
+00:04:23,460 --> 00:04:32,360
+Volgens Smolin is er geen groter wetenschappelijk vraagstuk dan hoe we bewustzijn moeten integreren in het grotere web van de wetenschap.
+
+37
+00:04:32,800 --> 00:04:34,180
+Of eigenlijk zegt hij...
+
+38
+00:04:34,180 --> 00:04:48,640
+Samen met collega's zoals Marina Cortes en Stuart Kaufman zoekt Lee Smolin naar een manier om het bewustzijn een prominentere plaats te geven in de wetenschap.
+
+39
+00:04:48,640 --> 00:04:55,540
+Volgens Smolin komen we anders nooit uit de grote vraagstukken waar het bewustzijn een rol bij speelt.
+
+40
+00:04:56,320 --> 00:05:01,840
+Neem bijvoorbeeld de tijd waar we het in deze reeks podcasts uit en daarna over hebben gehad.
+
+41
+00:05:02,740 --> 00:05:09,660
+Waarom beweegt deze tijd de kant op die je doet op een wijze die ons oorzaak en gevolg geeft en niet andersom?
+
+42
+00:05:11,000 --> 00:05:13,960
+Dit probleem houdt de mensen al eeuwen bezig.
+
+43
+00:05:13,960 --> 00:05:23,780
+Bijvoorbeeld Emmanuel Kant, een Duitse filosoof uit de 18e eeuw, die uitgebreid heeft geschreven over bewustzijn en de aard van het menselijk denken.
+
+44
+00:05:24,540 --> 00:05:30,080
+In zijn werk, met name in het boek Kritiek der Rijnenvernunft, Kritiek van de zuivere reden,
+
+45
+00:05:30,500 --> 00:05:36,480
+stelde Kant een complexe filosofische theorie voor over het bewustzijn en de aard van kennis.
+
+46
+00:05:36,480 --> 00:05:42,520
+Volgens Kant is het bewustzijn geen passieve weerspiegeling van de externe wereld,
+
+47
+00:05:42,660 --> 00:05:48,240
+maar een actieve, structurerende kracht die onze percepties en ervaringen vormgeeft.
+
+48
+00:05:48,900 --> 00:05:58,840
+Nu wist Kant nog niks over kwantummechanica en zal hij zeker niet bedoeld hebben dat het bewustzijn daadwerkelijk vormgeeft aan wat hij de nouumenale werkelijkheid noemde.
+
+49
+00:05:58,840 --> 00:06:04,960
+Maar Kant zat toch een aardig eind in de richting van wat Lee, Smolin en collega's beogen.
+
+50
+00:06:05,780 --> 00:06:11,020
+En die ideeën breken met de heersende theorie die we physicalisme zouden kunnen noemen,
+
+51
+00:06:11,020 --> 00:06:16,240
+waarbij alles in regels en wetten wordt gevat waar het bewustzijn geen rol in speelt.
+
+52
+00:06:16,920 --> 00:06:26,780
+Al sinds Galileo en Newton is onze buitenwereld in exacte regels omschreven en wordt bewustzijn afgeserveerd als een artefact van ons brein.
+
+53
+00:06:26,780 --> 00:06:32,840
+Niks geen mystieke geest in de machine, maar een handig bijproduct van ons geëvolueerde brein.
+
+54
+00:06:33,540 --> 00:06:40,280
+Zo denkt bijvoorbeeld Sean Carroll van het California Institute of Technology en Santa Fe Institute erover.
+
+55
+00:06:40,980 --> 00:06:48,400
+In zijn artikel Consciousness and the Laws of Physics zegt Carroll dat het nogal wietig is dat we de bewustzijn niet begrijpen,
+
+56
+00:06:48,560 --> 00:06:55,620
+omdat we in ons brein minstens 100 miljard neuronen aantreffen met zo'n 700 miljoen synaptische verbindingen.
+
+57
+00:06:55,620 --> 00:07:02,340
+Daarmee is het menselijk brein zo'n beetje de ingewikkeldste structuur die we in het heelal kennen volgens Carroll.
+
+58
+00:07:02,980 --> 00:07:07,240
+Met genoeg geduld zouden we dus iets dergelijks na kunnen bouwen in een computer
+
+59
+00:07:07,240 --> 00:07:12,260
+en zou bewustzijn ook in een dergelijk kunstmatig brein kunnen opduiken.
+
+60
+00:07:13,900 --> 00:07:20,540
+Carroll is dus een fysikalist en hij verwijst in dit artikel dan ook naar wetenschappers als Joseph Levine,
+
+61
+00:07:20,540 --> 00:07:24,220
+die hierover al in 1983 schreef in zijn artikel
+
+62
+00:07:24,220 --> 00:07:27,920
+Materialism and Qualia, the explanatory gap.
+
+63
+00:07:28,260 --> 00:07:31,680
+Die Qualia duiken de hele tijd op in deze discussie.
+
+64
+00:07:31,820 --> 00:07:33,320
+Mag het in het Nederlands?
+
+65
+00:07:33,480 --> 00:07:40,740
+Qualia verwijzen naar de subjectieve ervaring van iets, zoals de smaak van een citroen of de kleur Vermiljoen.
+
+66
+00:07:41,280 --> 00:07:47,320
+Precies dus die extra informatie die ons bewustzijn bovenop de natuurkundige wereld weet te plakken
+
+67
+00:07:47,320 --> 00:07:50,080
+en die ons leven weer zo interessant maakt.
+
+68
+00:07:51,100 --> 00:07:55,140
+Volgens filosoof Philip Goff van de Britse Durham University
+
+69
+00:07:55,140 --> 00:08:00,160
+is de huidige natuurkunde zo succesvol geworden in het beschrijven van de wereld om ons heen
+
+70
+00:08:00,160 --> 00:08:02,500
+zonder het bewustzijn daarbij te betrekken,
+
+71
+00:08:03,020 --> 00:08:06,040
+juist omdat het bewustzijn daarbij wordt weggelaten.
+
+72
+00:08:06,040 --> 00:08:11,120
+En er zijn meer wetenschappers die beginnen te twijfelen aan de ingeslagen weg.
+
+73
+00:08:11,620 --> 00:08:14,380
+Neem bijvoorbeeld de filosoof Jannan Ismael.
+
+74
+00:08:14,380 --> 00:08:19,600
+Zij houdt zich onder andere bezig met de filosofische consequenties van ontdekkingen
+
+75
+00:08:19,600 --> 00:08:21,880
+die door kwantumnatuurkundigen worden gedaan.
+
+76
+00:08:22,820 --> 00:08:25,680
+Op haar website kunt u al haar artikelen lezen
+
+77
+00:08:25,680 --> 00:08:31,440
+en die schurken in veel opzichten aan de onderwerpen die we in deze podcast regelmatig behandelen.
+
+78
+00:08:32,040 --> 00:08:34,640
+Een link vindt u uiteraard in de show notes.
+
+79
+00:08:35,480 --> 00:08:40,260
+Volgens Ismael is diegene die observeert veel meer naar de voorgrond getreden
+
+80
+00:08:40,260 --> 00:08:42,700
+door de ontdekkingen van de kwantummechanica.
+
+81
+00:08:42,700 --> 00:08:48,080
+Maar ja, hoe dan kunnen we een zinnige volgende stap maken?
+
+82
+00:08:50,200 --> 00:08:56,160
+We zouden kunnen veronderstellen dat bewustzijn een intrinsieke eigenschap van de materie is.
+
+83
+00:08:57,260 --> 00:09:01,220
+Dit is de kant die mensen als Smolin en Ismael op durven te denken.
+
+84
+00:09:02,180 --> 00:09:05,980
+Uiteraard is een dergelijke theorie niet vrij van controversie
+
+85
+00:09:05,980 --> 00:09:09,500
+en voornoemde Sean Carroll moet er dan ook niets van weten.
+
+86
+00:09:10,300 --> 00:09:16,560
+Die ziet het als een noodoplossing die de gevestigde wetenschap vervuilt met iets wat we nog niet goed begrijpen.
+
+87
+00:09:17,300 --> 00:09:21,320
+Een andere filosoof, Eleanor Knox van het King's College London,
+
+88
+00:09:21,540 --> 00:09:27,980
+is ook geen voorstander van het panpsychisme dat bewustzijn als intrinsieke eigenschap van de materie introduceert.
+
+89
+00:09:27,980 --> 00:09:32,860
+En eerlijk gezegd vind ik het zelf ook een beetje naar religie ruiken.
+
+90
+00:09:35,260 --> 00:09:38,880
+Knox wijst op nog iets anders wat ook nog niet goed begrepen wordt
+
+91
+00:09:38,880 --> 00:09:41,660
+en waar bewustzijn ook mee verklaard zou kunnen worden.
+
+92
+00:09:42,260 --> 00:09:45,980
+In het Engels noemen we het emergence, wat we zouden kunnen vertalen als verschijning,
+
+93
+00:09:46,800 --> 00:09:51,980
+maar wat mijns inziens in die vertaling toch ook wat verliest van de originele Engelse term.
+
+94
+00:09:51,980 --> 00:09:56,920
+Een voorbeeld van emergence laat het misschien beter in woorden vatten.
+
+95
+00:09:57,600 --> 00:09:57,980
+Neem water.
+
+96
+00:10:00,900 --> 00:10:04,440
+Eén watermolecuul, H2O, is niet nat.
+
+97
+00:10:05,060 --> 00:10:09,980
+Het is een klein groepje atomen die middels covalente binding aan elkaar geknoopt zitten.
+
+98
+00:10:10,620 --> 00:10:14,980
+Met een heel klein flipperkastje zouden we het heen weer kunnen flipperen onder een elektronenmicroscoop,
+
+99
+00:10:16,140 --> 00:10:17,300
+maar nat is het niet.
+
+100
+00:10:17,300 --> 00:10:22,300
+En toch gooi je een hele hoop watermoleculen op een hoop bij kamertemperatuur
+
+101
+00:10:23,040 --> 00:10:25,300
+en de eigenschap van natheid verschijnt.
+
+102
+00:10:26,720 --> 00:10:32,300
+Is bewustzijn dan toch weer iets wat verschijnt als we maar genoeg synapsen met elkaar verbinden?
+
+103
+00:10:32,980 --> 00:10:39,440
+In dat geval is het een kwestie van tijd eer artificiële intelligentie bewustzijn zal ontwikkelen, nietwaar?
+
+104
+00:10:40,800 --> 00:10:46,260
+Maar voor Lee Smolin en collega's Cortes en Verde gaat het allemaal niet ver genoeg.
+
+105
+00:10:46,260 --> 00:10:54,900
+Zij stellen dat tijd, die alsmaar in één richting tikkende klok die we vaak als illusie zien, fundamenteel is.
+
+106
+00:10:55,260 --> 00:11:01,100
+De natuur is volgens Smolin een opeenvolging van samenhangende momenten in de tijd.
+
+107
+00:11:01,820 --> 00:11:06,720
+Dit gooit het idee van ruimtetijd, dat we sinds Einstein kennen, flinkende war.
+
+108
+00:11:06,720 --> 00:11:15,820
+In Smolins wereldbeeld is er ook geen determinisme, wat stelt dat de toekomst vaststaat en met genoeg kennis geheel voorspeld zou kunnen worden.
+
+109
+00:11:16,920 --> 00:11:21,080
+Lee Smolin ziet gebeurtenissen in twee categorieën verdeeld worden.
+
+110
+00:11:21,080 --> 00:11:25,680
+Gebeurtenissen die met genoeg kennis tot op grote hoogte voorspeld kunnen worden.
+
+111
+00:11:25,680 --> 00:11:36,000
+En onvoorspelbare gebeurtenissen die gedicteerd worden door wat de kwantumfluctuaties in het heelal doen met immer evoluerende wetmatigheden.
+
+112
+00:11:37,040 --> 00:11:43,940
+Het aardige is dus dat dit idee van Lee Smolin compatibel is met wat de kwantumwetenschappen ons leren.
+
+113
+00:11:43,940 --> 00:11:48,620
+Maar ook Smolin zelf zegt niet dat hij de waarheid in pacht heeft.
+
+114
+00:11:49,200 --> 00:11:51,980
+Hij durft alleen moeilijke vragen te stellen, zegt hij.
+
+115
+00:11:52,720 --> 00:11:55,140
+Of het klopt, dat zal de tijd ons leren.
+
+116
+00:11:55,420 --> 00:11:57,280
+Of die nu fundamenteel is of niet.
+
+117
+00:11:58,220 --> 00:12:02,540
+Hier zullen interdisciplinaire experimenten misschien bij kunnen helpen.
+
+118
+00:12:03,260 --> 00:12:08,680
+Bijvoorbeeld als kwantum-experimenten kunnen worden uitgevoerd die ons meer leren over die kwalia,
+
+119
+00:12:08,680 --> 00:12:12,580
+over onze persoonlijke ervaringen van fysieke processen.
+
+120
+00:12:12,580 --> 00:12:21,080
+Jen en Ismaël hoopt dat we wat meer kunnen afstappen van het model waarbij we beginnen met de kleinste bouwstenen
+
+121
+00:12:21,080 --> 00:12:25,580
+en dan met de regels die daarvoor gelden het grotere geheel proberen te begrijpen.
+
+122
+00:12:26,320 --> 00:12:29,560
+Dat betekent niet dat de natuurkunde moet stoppen met wat zij doet.
+
+123
+00:12:30,260 --> 00:12:35,200
+Sterker nog, volgens Ismaël kan de natuurkunde ongehinderd doorgaan te doen wat zij doet
+
+124
+00:12:35,200 --> 00:12:39,140
+en nieuwe zaken ontdekken over het heelal en de natuur om ons heen.
+
+125
+00:12:39,140 --> 00:12:45,200
+Maar ondertussen is het ook zaak dat sommige wetenschappers bijvoorbeeld eens beginnen met het bewustzijn
+
+126
+00:12:45,200 --> 00:12:50,760
+en dan kijken wat voor consequenties bewustwordingsprocessen hebben op de wereld om ons heen.
+
+127
+00:12:51,520 --> 00:12:54,620
+Dat is immers iets wat we misschien wel kunnen meten.
+
+128
+00:12:55,800 --> 00:13:03,000
+Quantum wetenschapper Carlo Rovelli vindt dat we moeten erkennen dat objecten buiten ons bewustzijn niet reëel zijn.
+
+129
+00:13:03,000 --> 00:13:04,160
+Wacht, wacht, wacht, wacht.
+
+130
+00:13:04,300 --> 00:13:10,980
+Alles wat wij ervaren bestaat uit relaties tussen ons, de waarnemers en de materie, wat dat dan ook mogen zijn.
+
+131
+00:13:12,240 --> 00:13:17,000
+Veel van wat we vandaag besproken hebben klinkt misschien vaag en in zekere zin nutteloos.
+
+132
+00:13:18,260 --> 00:13:25,360
+Maar het is goed om te weten dat alle in deze aflevering genoemde wetenschappers werkzaam zijn in gerenommeerde instituten
+
+133
+00:13:25,360 --> 00:13:31,000
+en hun theorieën delen met de wetenschappelijke wereld om eventueel onderuit gehaald te kunnen worden.
+
+134
+00:13:31,800 --> 00:13:37,220
+En iemand als Carlo Rovelli kunnen wij niet wegzetten als een weirdo die maar wat beweert.
+
+135
+00:13:37,860 --> 00:13:45,160
+Dit is dezelfde wetenschapper die samen met Abbe Ashtikar de loop-kwantum zwaartekracht voor het eerst beschreef.
+
+136
+00:13:45,160 --> 00:13:52,840
+Dit zijn stuk voor stuk mensen die aan de grenzen van de huidige wetenschap wroeten naar antwoorden die we allemaal willen horen.
+
+137
+00:13:53,600 --> 00:13:57,300
+Hun denkbeelden mogen dan op bepaalde details van elkaar verschillen,
+
+138
+00:13:57,500 --> 00:14:03,120
+maar deze wetenschappers gaan de discussie met elkaar aan en rekenen verder aan elkaars beweringen.
+
+139
+00:14:03,820 --> 00:14:11,580
+Dat er geen enkelvoudige sterile realiteit bestaat buiten ons bewustzijn om, dat vermoeden de meesten van ons al wel.
+
+140
+00:14:11,580 --> 00:14:18,600
+Zelfs de nou-umenale wereld van Immanuel Kant was in zijn woorden onkenbaar voor de mens,
+
+141
+00:14:18,780 --> 00:14:22,880
+omdat het apparaat van bewustwording er per definitie tussen moet zitten.
+
+142
+00:14:23,600 --> 00:14:30,200
+Het zou mij niets verbazen als we de komende jaren nog veel meer vreemde bevindingen van een kwantummechanica ontdekken
+
+143
+00:14:30,200 --> 00:14:36,620
+en uiteindelijk wel moeten erkennen dat het bewustzijn de realiteit die we ervaren mede gestalte geeft.
+
+144
+00:14:37,320 --> 00:14:40,240
+En dat is in zekere zin ook wel geruststellend,
+
+145
+00:14:40,240 --> 00:14:45,940
+want dan kunt u vandaag beginnen met het vormen van uw eigen mooiere versie van de werkelijkheid.
+
+146
+00:14:46,760 --> 00:14:49,560
+Heel veel succes daarmee en tot de volgende keer!
+

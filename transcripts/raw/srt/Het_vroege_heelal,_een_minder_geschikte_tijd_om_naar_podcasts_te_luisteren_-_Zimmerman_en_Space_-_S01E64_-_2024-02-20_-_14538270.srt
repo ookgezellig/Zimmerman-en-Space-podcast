@@ -1,0 +1,496 @@
+1
+00:00:00,000 --> 00:00:02,340
+U luistert naar Zimmerman & Space.
+
+2
+00:00:03,580 --> 00:00:07,980
+Deze malle podcast loopt best goed, mag u gerust weten.
+
+3
+00:00:08,380 --> 00:00:15,900
+Nauwelijks een jaar in de lucht in deze vorm brak Zimmerman & Space twee weken geleden door de grens van een half miljoen downloads.
+
+4
+00:00:15,900 --> 00:00:45,880
+APPLAUS
+
+5
+00:00:45,900 --> 00:00:53,340
+Dat is goed.
+
+6
+00:00:53,440 --> 00:00:59,800
+Twee daarvan werden gedaan met behulp van de James Webb Ruimtetelescoop en één met een aards observatorium.
+
+7
+00:01:00,680 --> 00:01:02,100
+Laten we met die laatste beginnen.
+
+8
+00:01:02,820 --> 00:01:05,560
+Het artikel dat hierover verscheen heeft als titel...
+
+9
+00:01:05,560 --> 00:01:10,320
+The Accretion of a Solar Mass per day by a 17 billion solar mass black hole.
+
+10
+00:01:10,320 --> 00:01:17,200
+De ontdekking betreft een zogenaamde quasar en ook het helderste object ooit waargenomen in ons heelal.
+
+11
+00:01:18,580 --> 00:01:25,540
+Voordat we het over het hoe en wat van deze ontdekking zullen hebben, moeten we eerst weer even helder krijgen wat ook alweer een quasar is.
+
+12
+00:01:25,760 --> 00:01:27,260
+Ja, dat is de vraag.
+
+13
+00:01:27,260 --> 00:01:33,540
+De term quasar is een contractie van de woorden quasi en star, een nepster dus.
+
+14
+00:01:34,340 --> 00:01:38,040
+Een nettere term is quasi stellar object of QSO.
+
+15
+00:01:38,900 --> 00:01:45,880
+We danken die naam quasar aan een publicatie van astronoom Hong Yi Chu uit 1964 in Physics Today.
+
+16
+00:01:45,880 --> 00:01:52,100
+Maar de ontdekking van de eerste quasar werd in 1963 gedaan door astronoom Maarten Schmid.
+
+17
+00:01:53,420 --> 00:02:00,380
+Inderdaad kan een quasar aangezien worden voor een ster, maar in werkelijkheid is het de actieve kern van een melkwegstelsel.
+
+18
+00:02:02,080 --> 00:02:07,840
+Zoals u wellicht weet, vinden we in de kern van praktisch elk melkwegstelsel een superzwaar zwart gat.
+
+19
+00:02:07,840 --> 00:02:16,640
+In een enkel geval is zo'n centraal zwart gat in staat een immense hoeveelheid licht te veroorzaken door het verhitten van invallend gas.
+
+20
+00:02:17,660 --> 00:02:23,840
+Dat wat zoveel licht uitstraalt is dus niet het zwarte gat zelf, maar verder daarvan af gas in het melkwegstelsel.
+
+21
+00:02:25,340 --> 00:02:32,980
+Dit gas wordt dusdanig onelegant naar het zwarte gat gezogen dat het van de schrik zalf gaat gloeien op allerlei golflengtes.
+
+22
+00:02:32,980 --> 00:02:37,980
+Behalve zichtbaar licht stralen quasars ook helder aan de radiosterrenhemel.
+
+23
+00:02:39,320 --> 00:02:44,980
+Inmiddels kennen we wel een paar miljoen quasars dankzij instrumenten zoals de Hubble Ruimtetelescoop.
+
+24
+00:02:45,700 --> 00:02:48,960
+Het centrum van onze eigen melkweg is duidelijk geen quasar.
+
+25
+00:02:49,760 --> 00:03:01,420
+Sagittarius A-star, zoals het zwarte gat in het centrum van onze melkweg heet, is weinig actief en kon alleen zichtbaar gemaakt worden door wereldwijde inspanningen van de Event Horizon Telescoop.
+
+26
+00:03:01,420 --> 00:03:10,140
+Interessant is dat quasars meer voorkwamen in het prillehelal dan heden ten dagen, met een piek zo'n 10 miljard jaar geleden.
+
+27
+00:03:11,140 --> 00:03:16,780
+Dit weten we sinds 1995 door het werk van de eerder genoemde Maarten Schmid en collega's.
+
+28
+00:03:17,300 --> 00:03:26,620
+Nu is dus de helderste quasar ooit ontdekt met behulp van de Very Large Telescope van de European Southern Observatory of ESO.
+
+29
+00:03:26,620 --> 00:03:33,920
+Deze extreem heldere quasar heeft de catalogusnaam J05294351.
+
+30
+00:03:34,440 --> 00:03:38,620
+En het licht dat wij van deze quasar ontvangen is 12 miljard jaar oud.
+
+31
+00:03:38,820 --> 00:03:39,920
+Zo, jemers zeg!
+
+32
+00:03:41,340 --> 00:03:48,120
+J05294351 staat dus ook heel ver van de aarde verwijderd, als deze vandaag de dag überhaupt nog bestaat natuurlijk.
+
+33
+00:03:48,940 --> 00:03:55,100
+En dat is maar goed ook, want dit geval schijnt met ruim 500 biljoen keer zoveel licht als onze eigen zon.
+
+34
+00:03:55,100 --> 00:04:05,320
+Juist deze helderheid maakte dat de quasar in eerdere waarnemingen in eerste instantie werd aangezien voor een dichterbij staande huistuin- en keukenster.
+
+35
+00:04:06,320 --> 00:04:11,600
+Dat roept bij u wellicht de vraag op hoe we het verschil kunnen zien tussen een ster en een quasar.
+
+36
+00:04:11,960 --> 00:04:17,700
+Door naar het spectrum van een object te kijken kunnen astronomen zien hoe ver het van ons vandaan staat.
+
+37
+00:04:17,700 --> 00:04:28,760
+Bekende spectrale lijnen van elementen als waterstof verschuiven richting rood naarmate het licht van een object langer naar ons onderweg is in een uitdijend hillel.
+
+38
+00:04:29,460 --> 00:04:35,360
+De hoeveelheid licht daarentegen kunnen we rechtstreeks meten als de hoeveelheid fotonen die een sensor bereikt.
+
+39
+00:04:35,360 --> 00:04:45,740
+Door deze twee gegevens te combineren komen we dan in sommige gevallen uit op objecten die veel te veel licht uitstralen om een ster te kunnen zijn.
+
+40
+00:04:45,840 --> 00:04:46,420
+It's impossible.
+
+41
+00:04:46,640 --> 00:04:50,940
+Geen enkele ster straalt 500 biljoen keer zoveel licht uit als onze zon.
+
+42
+00:04:52,320 --> 00:04:56,620
+Die eer gaat dus naar quasar J05294351.
+
+43
+00:04:56,620 --> 00:05:04,740
+Er is nog iets raadselachtigs aan de helderste quasars wat mooi aansluit bij de nieuwsberichten die we hierna zullen bespreken.
+
+44
+00:05:05,440 --> 00:05:13,460
+De massa van het zwarte gat van quasar J05294351 wordt geschat op 19 miljard keer die van onze zon.
+
+45
+00:05:13,660 --> 00:05:14,560
+Zoé, wat veel!
+
+46
+00:05:14,740 --> 00:05:20,800
+De grote vraag is hoe dit zwarte gat dit zo vroeg in de geschiedenis van ons heelal klaar heeft weten te spelen.
+
+47
+00:05:21,800 --> 00:05:23,760
+Was daar wel genoeg tijd voor?
+
+48
+00:05:23,760 --> 00:05:33,760
+We hebben het al eens vaker besproken, maar astronomen weten nog niet waarom er een superzwaar zwart gat bestaat in het centrum van bijna elk melkwegstelsel.
+
+49
+00:05:34,580 --> 00:05:35,020
+Waarom?
+
+50
+00:05:35,140 --> 00:05:41,140
+En de bijkomende vraag is dan of er eerst een zwart gat is waaromheen een melkwegstelsel ontstaat,
+
+51
+00:05:41,280 --> 00:05:46,160
+of dat er in een melkwegstelsel in het midden uiteindelijk een superzwaar zwart gat ontstaat.
+
+52
+00:05:46,800 --> 00:05:52,200
+Of, wat ook heel goed mogelijk is, dat beide objecten om een of andere reden co-evolueren.
+
+53
+00:05:52,200 --> 00:06:01,220
+Maar een nieuwe waarneming met de James Webb Ruimtetelescoop laat nu zien dat superzware zwarte gaten er waarschijnlijk eerst waren.
+
+54
+00:06:01,640 --> 00:06:05,460
+Misschien zelfs al zo vroeg als 50 miljoen jaar na de oerknal.
+
+55
+00:06:05,600 --> 00:06:07,100
+Dat kan je je toch niet voorstellen?
+
+56
+00:06:07,400 --> 00:06:12,520
+Daarmee zouden deze zwarte gaten de katalysators kunnen zijn van stervorming.
+
+57
+00:06:12,520 --> 00:06:19,800
+Joseph Silk, teamleider van het James Webb Onderzoek en docent aan de John Hopkins Universiteit,
+
+58
+00:06:20,040 --> 00:06:24,080
+zegt dat sterrenstelsels die met de James Webb Ruimtetelescoop gezien worden,
+
+59
+00:06:24,220 --> 00:06:29,300
+in sommige gevallen te helder zijn en dus een versnelde evolutie moeten hebben doorgemaakt.
+
+60
+00:06:30,100 --> 00:06:33,060
+Hier spelen superzware zwarte gaten een rol bij,
+
+61
+00:06:33,200 --> 00:06:37,980
+door bijvoorbeeld gassen en stofwolken met zwaartekracht te dwingen tot sterformatie.
+
+62
+00:06:37,980 --> 00:06:42,880
+Tot nu toe werd vaak gedacht dat superzware zwarte gaten ontstonden,
+
+63
+00:06:43,020 --> 00:06:48,380
+toen zware sterren in het begin van de geschiedenis van het heelal hun waterstof hadden opgebruikt
+
+64
+00:06:48,380 --> 00:06:50,140
+en vergingen tot zwarte gaten.
+
+65
+00:06:51,480 --> 00:06:55,420
+Daarna zouden deze zwarte gaten dan omliggende massen aangetrokken hebben,
+
+66
+00:06:55,580 --> 00:06:58,440
+om uiteindelijk te groeien tot hun superzware vorm.
+
+67
+00:06:59,520 --> 00:07:05,200
+Maar nu moeten we dit model mogelijk loslaten en accepteren dat zwarte gaten er eerst waren.
+
+68
+00:07:05,200 --> 00:07:11,980
+Het artikel van Silk en collega's verscheen in de Astrophysical Journal letters met de titel
+
+69
+00:07:11,980 --> 00:07:24,380
+Als zwarte gaten niet zijn ontstaan door het overlijden van zware sterren, hoe zijn ze dan ontstaan?
+
+70
+00:07:24,480 --> 00:07:25,340
+Dat is de vraag!
+
+71
+00:07:25,760 --> 00:07:32,380
+Hier kunnen we een nieuwe term introduceren, de DCBH, wat staat voor Direct Collapse Black Hole.
+
+72
+00:07:32,380 --> 00:07:40,080
+Een dergelijk soort gat is nooit een ster geweest, maar is ontstaan door de immense zwaartekracht die in een gaswolk kan ontstaan.
+
+73
+00:07:40,980 --> 00:07:46,380
+In het begin van ons heelal moet er zeker veel dichtgeconcentreerd gas aanwezig zijn geweest,
+
+74
+00:07:46,520 --> 00:07:48,580
+voornamelijk in de vorm van waterstof.
+
+75
+00:07:49,740 --> 00:07:53,580
+Het is mijns inziens wel aardig om even een stap opzij te maken.
+
+76
+00:07:53,580 --> 00:08:02,560
+Ziet u in dat we met onze James Webb ruimtetelescoop nu eindelijk meer beginnen te begrijpen over het ontstaan van alles?
+
+77
+00:08:02,820 --> 00:08:03,800
+Oh, ik zie.
+
+78
+00:08:04,020 --> 00:08:09,160
+Nog niet wat de oorzaak van de oerknal was, als deze überhaupt een oorzaak had natuurlijk.
+
+79
+00:08:09,860 --> 00:08:14,980
+Maar wel wordt steeds meer duidelijk wat de beginomstandigheden van het heelal moeten zijn geweest
+
+80
+00:08:14,980 --> 00:08:20,040
+om te komen tot het heelal wat we nu zien, met zoveel sterren en sterrenstelsels.
+
+81
+00:08:20,040 --> 00:08:21,700
+En zwarte gaten.
+
+82
+00:08:22,560 --> 00:08:27,020
+Het derde artikel van deze aflevering sluit heel mooi aan bij de vorige twee.
+
+83
+00:08:27,560 --> 00:08:28,600
+Het kreeg de titel
+
+84
+00:08:28,600 --> 00:08:31,700
+A small and vigorous black hole in the early universe.
+
+85
+00:08:31,880 --> 00:08:38,840
+En beschrijft de detectie van het oudst bekende zwarte gat in het centrum van het sterrenstelsel GNZ-11.
+
+86
+00:08:39,960 --> 00:08:46,040
+Dit sterrenstelsel werd onlangs ontdekt met het neerspekinstrument van de James Webb ruimtetelescoop.
+
+87
+00:08:46,360 --> 00:08:49,980
+Het artikel verschijnt eerder dit jaar in de wetenschappelijke pers.
+
+88
+00:08:50,040 --> 00:08:56,460
+GNZ-11 vinden we overigens in het sterrenbeeld de grote beer of Ursa Major.
+
+89
+00:08:56,960 --> 00:09:02,700
+Ook wel bekend als het steelpannetje dat we in België en Nederland op elke heldere avond goed kunnen zien.
+
+90
+00:09:03,700 --> 00:09:13,300
+De roodverschuiving van GNZ-11 is dusdanig groot dat sterrenstelsel en zwart gat al 400 miljoen jaar na de oerknal moeten hebben bestaan.
+
+91
+00:09:13,300 --> 00:09:14,460
+Het lijkt me niet te geloven.
+
+92
+00:09:14,460 --> 00:09:14,500
+Het lijkt me niet te geloven.
+
+93
+00:09:14,500 --> 00:09:25,840
+Ondanks dat GNZ-11 zo'n honderd keer kleiner is dan onze melkweg, straalt het helder door de aanwezigheid van dat zwarte gat in het midden en wordt het dus inderdaad ook wel een kwaaser genoemd.
+
+94
+00:09:26,540 --> 00:09:33,420
+Ook hier moet de astronomie bekennen dat er niet genoeg tijd is geweest om een dergelijk zwaar zwart gat te kunnen laten ontstaan.
+
+95
+00:09:33,420 --> 00:09:43,500
+En dus wijst ook GNZ-11 in de richting van een andere manier van het ontstaan van zwarte gaten in het begin van de geschiedenis van dit helal.
+
+96
+00:09:44,500 --> 00:09:52,100
+Het feit dat GNZ-11 veel kleiner is dan onze melkweg kan ook juist te maken hebben met de aanwezigheid van het superzware zwarte gat.
+
+97
+00:09:52,100 --> 00:10:07,540
+Want een dergelijk actief zwart gat trekt niet alleen heel veel gas aan, waaruit dan geen sterren meer kunnen ontstaan, maar zorgt ook voor een uitstroom in de andere richting waardoor gas wegvlucht van GNZ-11 en niet meer compact genoeg is voor sterformatie.
+
+98
+00:10:08,620 --> 00:10:15,080
+Astronoom Silk van het artikel dat we hiervoor noemden suggereert dat het helal drie verschillende fasen kent.
+
+99
+00:10:15,080 --> 00:10:22,080
+1. Direct na de oerknal ontstonden op wat voor wijze dan ook zwarte gaten en daarmee actieve centra van melkwegstelsels.
+
+100
+00:10:23,240 --> 00:10:33,820
+2. In de fase daarna was het helal heel turbulent en ontstonden ook veel sterren als gevolg van dit turbulente helal waarin straling en materie alle kanten op werden geslingerd.
+
+101
+00:10:34,180 --> 00:10:44,560
+3. In het huidige helal bevinden we ons in de derde fase, waarin energie geconserveerd wordt binnen sterrenstelsels en sterformatie veel minder snel verloopt.
+
+102
+00:10:44,560 --> 00:10:56,200
+Het is goed mogelijk dat de huidige fase, waarin u nu naar deze podcast luistert, beter geschikt is voor het luisteren naar podcasts met een kopje koffie of thee dan de twee fasen daarvoor.
+
+103
+00:10:56,340 --> 00:10:58,040
+Dit slaat toch allemaal helemaal nergens op eigenlijk.
+
+104
+00:10:59,500 --> 00:11:04,280
+Hoe zou het zijn als we konden terugkijken in een helal dat nog maar 100 miljoen jaar oud is?
+
+105
+00:11:05,440 --> 00:11:10,240
+Bijna 13,8 miljard jaar terug in de tijd. Terug naar een compact helal.
+
+106
+00:11:10,240 --> 00:11:16,500
+Onze aanwezigheid hier kan op den duur leiden tot het ontstaan van hele sterrenstelsels.
+
+107
+00:11:17,940 --> 00:11:24,060
+De vleugelslag van één vlinder in Brazilië kan een orkaan veroorzaken in Texas, zegt men wel eens.
+
+108
+00:11:26,240 --> 00:11:34,540
+Hier staan we oog in oog met de eerste zwarte gaten van ons helal, al zien we alleen de accretie van materie rond dergelijke zwarte gaten.
+
+109
+00:11:34,540 --> 00:11:40,540
+Wat is de ontstaansgeschiedenis van deze monsterlijke kosmische stofzuigers?
+
+110
+00:11:42,140 --> 00:11:47,440
+Er bestaan theorieën dat oerzwarte gaten bestaan in de vorm van donkere materie.
+
+111
+00:11:48,460 --> 00:11:54,460
+Sterker nog, dat dat wat we nu meten als donkere materie bestaat uit oeroude zwarte gaten.
+
+112
+00:11:55,620 --> 00:12:03,040
+Het Wikipedia-artikel, waarnaar u een link vindt in de beschrijving bij deze aflevering, heeft een mooi overzicht van dergelijke theorieën.
+
+113
+00:12:03,040 --> 00:12:11,040
+Als dat zou kloppen, hoeft de wetenschap geen nieuw deeltje te ontdekken dat onzichtbaar blijft voor alles behalve zwaartekracht-interactie.
+
+114
+00:12:12,360 --> 00:12:14,420
+Klinkt best plausibel, vindt u niet?
+
+115
+00:12:15,260 --> 00:12:21,380
+En dan is er nog de intrigerende optie dat oerzwarte gaten mogelijk zijn ontstaan uit antimaterie.
+
+116
+00:12:21,380 --> 00:12:34,540
+Volgens de huidige theorieën over zwarte gaten zijn we per definitie niet in staat het verschil te zien tussen zwarte gaten die uit reguliere materie zijn ontstaan en zwarte gaten die uit antimaterie zijn ontstaan.
+
+117
+00:12:34,540 --> 00:12:43,960
+Dit staat ook wel bekend als de no-hair-hypothese die ons zegt dat zwarte gaten extern alleen maar te beschrijven zijn met drie parameters.
+
+118
+00:12:44,720 --> 00:12:48,540
+Massa, elektrische lading en impulsmoment.
+
+119
+00:12:49,160 --> 00:12:53,680
+Alles wat we kunnen zeggen over een zwart gat valt terug te leiden tot die drie parameters.
+
+120
+00:12:53,680 --> 00:13:02,960
+En of een zwart gat ooit is ontstaan uit materie of uit antimaterie is voor ons altijd uit het zicht verdwenen achter die waarnemingshorizon.
+
+121
+00:13:04,080 --> 00:13:09,000
+Het zou in ieder geval verklaren waar een hoop van die missende antimaterie is gebleven.
+
+122
+00:13:10,380 --> 00:13:21,020
+Het goede nieuws is dat de James Webb ruimtetelescoop nog maar aan het begin staat van wat er allemaal mogelijk is en ons hoogst waarschijnlijk nog lang niet alles heeft geleerd over het begin van ons heelal.
+
+123
+00:13:21,020 --> 00:13:27,980
+Op dit moment zijn mensen bezig waarnemingen te verzinnen of uit te pluizen op zoek naar de antwoorden.
+
+124
+00:13:28,700 --> 00:13:30,560
+Tot de volgende keer dan maar weer.
+

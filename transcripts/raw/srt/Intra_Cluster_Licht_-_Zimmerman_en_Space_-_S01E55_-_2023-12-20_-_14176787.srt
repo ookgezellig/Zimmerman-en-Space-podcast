@@ -1,0 +1,564 @@
+1
+00:00:00,000 --> 00:00:02,480
+Wat andere zwaar je hoorde? U moet me vertellen.
+
+2
+00:00:02,880 --> 00:00:05,180
+U luistert naar Zimmerman & Space.
+
+3
+00:00:05,840 --> 00:00:11,760
+U weet vast wel dat we in het ons bekende heelal allemaal clusters van sterren aantreffen.
+
+4
+00:00:12,340 --> 00:00:20,200
+Elliptische stelsels, bolvormige sterrenhopen, spiraalstelsels, balkspiraalstelsels en wat dies meer zijn.
+
+5
+00:00:20,920 --> 00:00:27,000
+In 2016 werd aan de Universiteit van Nottingham op basis van waarnemingen met de Hubble-telescoop
+
+6
+00:00:27,000 --> 00:00:32,100
+een schatting gemaakt van het aantal sterrenstelsels in het ons bekende heelal.
+
+7
+00:00:32,640 --> 00:00:34,960
+2 biljoen sterrenstelsels.
+
+8
+00:00:35,160 --> 00:00:36,100
+Zoé, wat veel!
+
+9
+00:00:36,360 --> 00:00:41,100
+En mogelijk zijn het er nog veel meer omdat we niet weten hoe groot het heelal werkelijk is.
+
+10
+00:00:42,100 --> 00:00:46,680
+Als we één zo'n sterrenstelsel bekijken dan zien we de hoop van sterren
+
+11
+00:00:46,680 --> 00:00:50,620
+die door de zwaartekracht van zo'n sterrenstelsel bij elkaar worden gehouden.
+
+12
+00:00:50,920 --> 00:00:56,460
+Met de huidige kennis van de astronomie gaan we ervan uit dat een dergelijk sterrenstelsel
+
+13
+00:00:56,460 --> 00:01:01,960
+in de meeste gevallen nog veel groter is en een halo van donkere materie kent.
+
+14
+00:01:04,600 --> 00:01:10,700
+Maar we weten ook dat deze donkere materie vooralsnog niet rechtstreeks waargenomen kan worden
+
+15
+00:01:10,700 --> 00:01:15,960
+en zo ontstond de vraag hoe hier dan toch informatie over kan worden verkregen.
+
+16
+00:01:16,500 --> 00:01:20,460
+Een interessante casus ontstaat wanneer verschillende sterrenstelsels
+
+17
+00:01:21,260 --> 00:01:24,960
+door hun onderlinge zwaartekracht naar elkaar toe worden getrokken.
+
+18
+00:01:24,960 --> 00:01:28,880
+Dit gebeurt wanneer sterrenstelsels zo dicht bij elkaar staan
+
+19
+00:01:28,880 --> 00:01:32,360
+dat de zwaartekracht het wint van de uitdijing van het heelal.
+
+20
+00:01:32,980 --> 00:01:37,440
+Zoals bijvoorbeeld het geval is bij onze eigen melkweg en de Andromeda-nevel.
+
+21
+00:01:38,600 --> 00:01:40,820
+Inderdaad, dat heeft u goed onthouden.
+
+22
+00:01:41,900 --> 00:01:46,420
+Ver voordat twee of meer sterrenstelsels samen klonteren tot één geheel
+
+23
+00:01:46,420 --> 00:01:51,340
+worden afzonderlijke sterren in de periferie al losgevrikt uit hun banen
+
+24
+00:01:51,340 --> 00:01:56,360
+en ontstaat er bij wijze van spreken een soort mist van bijna niet waar te nemen
+
+25
+00:01:56,360 --> 00:01:59,220
+solitaire sterren tussen sterrenstelsels.
+
+26
+00:01:59,720 --> 00:02:06,320
+De officiële naam van deze mist is Intra Cluster Light, vaak afgekort als ICL.
+
+27
+00:02:07,200 --> 00:02:12,480
+Dit Intra Cluster Licht wordt gevormd door de collectieve gloed van al deze sterren.
+
+28
+00:02:12,480 --> 00:02:17,700
+Gedurende miljoenen jaren als sterrenstelsels botsen en saamsmelten
+
+29
+00:02:17,700 --> 00:02:23,440
+vormt Intra Cluster Licht als het ware een fossiel verslag van de dynamische interacties
+
+30
+00:02:23,440 --> 00:02:27,840
+met een schat aan informatie over de geschiedenis van dit clustersysteem
+
+31
+00:02:27,840 --> 00:02:31,900
+en daarmee ook over de geschiedenis van het universum op de grote schaal.
+
+32
+00:02:32,920 --> 00:02:34,740
+Alleen er is een probleem.
+
+33
+00:02:35,820 --> 00:02:39,520
+Dit licht is dusdanig zwak dat het met de huidige technologie
+
+34
+00:02:39,520 --> 00:02:42,080
+niet of nauwelijks waargenomen kan worden.
+
+35
+00:02:42,080 --> 00:02:43,300
+Oh, dat is niet best.
+
+36
+00:02:44,300 --> 00:02:49,720
+Een van de hoofdonderzoekers van het Intra Cluster Licht fenomeen is astronoom Mireia Montes,
+
+37
+00:02:49,920 --> 00:02:55,900
+momenteel werkzaam aan het Astrofysisch Instituut Canarias La Laguna in Tenerife, Spanje.
+
+38
+00:02:56,780 --> 00:03:00,520
+Van haar hand verscheen een aantal artikelen over Intra Cluster Licht,
+
+39
+00:03:00,780 --> 00:03:03,200
+zoals in 2019 het artikel
+
+40
+00:03:03,200 --> 00:03:04,580
+Intra Cluster Licht.
+
+41
+00:03:04,580 --> 00:03:08,360
+Een luminous tracer voor dark matter in clusters of galaxies.
+
+42
+00:03:08,980 --> 00:03:13,500
+Hierin doet ze uit de doeken dat Intra Cluster Licht een uitstekende methode is
+
+43
+00:03:13,500 --> 00:03:18,080
+om de distributie van donkere materie in sterrenstelsels te bestuderen.
+
+44
+00:03:18,760 --> 00:03:21,180
+Maar nu hebben we natuurlijk nog een instrument nodig
+
+45
+00:03:21,180 --> 00:03:24,600
+om dit zwakke schijnsel fotografisch vast te kunnen leggen.
+
+46
+00:03:25,800 --> 00:03:29,600
+Dat zal dan wel weer de James Webb Telescope zijn, zou u kunnen denken,
+
+47
+00:03:29,600 --> 00:03:31,380
+maar die vlieger gaat niet op.
+
+48
+00:03:31,640 --> 00:03:31,820
+Oh?
+
+49
+00:03:32,140 --> 00:03:37,060
+De James Webb Telescope kijkt met name in het infrarood en het rode zichtbare licht.
+
+50
+00:03:37,560 --> 00:03:42,520
+En voor Intra Cluster Licht willen we eigenlijk het complete zichtbare licht opvangen.
+
+51
+00:03:42,700 --> 00:03:43,960
+Oh ja, inderdaad.
+
+52
+00:03:44,220 --> 00:03:47,360
+En ook is de James Webb Telescope met name bedoeld
+
+53
+00:03:47,360 --> 00:03:51,280
+om in te zoomen op hele kleine gedeeltes van onze hemelkoepel.
+
+54
+00:03:51,660 --> 00:03:55,220
+Wat we voor het waarnemen van Intra Cluster Licht nodig hebben,
+
+55
+00:03:55,220 --> 00:04:01,420
+is een survey-telescoop die in het zichtbare licht grotere gedeeltes van de hemelkoepel vastlegt.
+
+56
+00:04:02,200 --> 00:04:05,480
+Het moet ook een buitengewoon gevoelig instrument zijn,
+
+57
+00:04:05,600 --> 00:04:09,080
+omdat Intra Cluster Licht minstens duizend keer zwakker is
+
+58
+00:04:09,080 --> 00:04:12,140
+dan de donkere nachtelijke hemel die we kunnen waarnemen.
+
+59
+00:04:12,820 --> 00:04:17,220
+Intra Cluster Licht is daarom grotendeels verborgen gebleven voor bestaande telescopen,
+
+60
+00:04:17,880 --> 00:04:19,080
+omdat het zo zwak is.
+
+61
+00:04:19,300 --> 00:04:20,780
+Ja, dat is logisch.
+
+62
+00:04:20,780 --> 00:04:25,120
+Het instrument dat hier verandering in gaat brengen wordt op dit moment gebouwd.
+
+63
+00:04:25,580 --> 00:04:28,340
+Het heeft de naam Vera Rubin Observatory.
+
+64
+00:04:29,520 --> 00:04:36,820
+Als het mee zit, zal januari 2025 de officiële start zijn van de Legacy Survey of Space and Time.
+
+65
+00:04:37,040 --> 00:04:37,360
+Jee!
+
+66
+00:04:37,780 --> 00:04:42,040
+Met behulp van de uiterst gevoelige telescoop van het Rubin Observatorium
+
+67
+00:04:42,040 --> 00:04:47,280
+zullen wetenschappers dan eindelijk het uiterst zwakke Intra Cluster Licht kunnen waarnemen.
+
+68
+00:04:47,280 --> 00:04:54,920
+Het Rubin Observatorium wordt gezamenlijk gefinancierd door de Amerikaanse National Science Foundation
+
+69
+00:04:54,920 --> 00:04:57,580
+en het Amerikaanse Ministerie van Energie.
+
+70
+00:04:59,000 --> 00:05:04,800
+Sterren die zijn ontnomen aan hun sterrenstelsels belanden in de ruimte tussen deze sterrenstelsels.
+
+71
+00:05:05,360 --> 00:05:10,840
+Deze sterren zijn als het stof dat vrijkomt van een stuk krijt wanneer je op een schoolbord schrijft,
+
+72
+00:05:11,120 --> 00:05:12,460
+zegt Mireia Montes.
+
+73
+00:05:12,460 --> 00:05:16,560
+Door het stelaire krijtstof met de Rubin Telescoop te volgen,
+
+74
+00:05:16,760 --> 00:05:21,320
+hopen we de woorden op het schoolbord van het sterrenstelselcluster te kunnen lezen.
+
+75
+00:05:22,460 --> 00:05:28,120
+Hoeveel van de sterren van een cluster zweven daadwerkelijk vrij rond en dragen bij aan de gloed?
+
+76
+00:05:28,720 --> 00:05:29,980
+Hoe zijn ze verdeeld?
+
+77
+00:05:30,640 --> 00:05:33,560
+De antwoorden op deze vragen zijn nu nog niet goed bekend,
+
+78
+00:05:33,720 --> 00:05:37,700
+omdat Intra Cluster Licht tot nu toe zo moeilijk te bestuderen is geweest.
+
+79
+00:05:37,700 --> 00:05:43,780
+De Rubin Telescoop zal elke paar nachten gedurende 10 jaar de hele zuidelijke hemel scannen
+
+80
+00:05:43,780 --> 00:05:47,220
+met de op dit moment beste digitale camera ter wereld.
+
+81
+00:05:47,920 --> 00:05:52,040
+De CCD-chip van deze camera bevat 3200 miljoen pixels.
+
+82
+00:05:52,860 --> 00:05:56,700
+Hiermee wordt elke keer een flink deel van de sterrenhemel vastgelegd,
+
+83
+00:05:56,780 --> 00:05:59,580
+zo'n 3,5 graad in hoogte en breedte.
+
+84
+00:06:00,300 --> 00:06:02,540
+De Rubin Telescoop kent drie spiegels,
+
+85
+00:06:02,540 --> 00:06:05,940
+waarvan de grootste een diameter heeft van 8,4 meter.
+
+86
+00:06:05,940 --> 00:06:12,940
+Bijzonder is ook dat dit gevaarte in vijf seconden al kan worden uitgericht op een ander deel van de sterrenhemel,
+
+87
+00:06:13,220 --> 00:06:16,480
+waardoor er dus grote delen kunnen worden vastgelegd bij goed weer.
+
+88
+00:06:17,980 --> 00:06:23,560
+Overigens zal het Rubin Observatorium voor nog veel meer dan alleen Intra Cluster Licht worden gebruikt.
+
+89
+00:06:24,360 --> 00:06:28,820
+Door met zo'n gevoelig instrument de gehele zuidelijke sterrenhemel te fotograferen,
+
+90
+00:06:28,820 --> 00:06:32,180
+hopen astronomen nog veel meer sterrenstelsels te ontdekken.
+
+91
+00:06:32,180 --> 00:06:38,540
+Ook de distributie van sterrenstelsels kan ons uiteindelijk misschien leren wat donkere materie precies is.
+
+92
+00:06:39,460 --> 00:06:43,220
+En als er zo vaak foto's worden gemaakt van dezelfde sterrenhemel,
+
+93
+00:06:43,360 --> 00:06:46,980
+dan krijgen we ook een veel grotere kans om veranderingen op te sporen.
+
+94
+00:06:47,640 --> 00:06:50,940
+Dan kunt u denken aan supernova's, variabele sterren,
+
+95
+00:06:51,180 --> 00:06:53,940
+maar ook eenmalige flitsen in het optische bereik.
+
+96
+00:06:53,940 --> 00:06:58,920
+En dan zijn er nog rotsblokken of anderszins langs de hemel trekkende objecten,
+
+97
+00:06:59,100 --> 00:07:01,280
+waarvan we ook graag het bestaan leren kennen.
+
+98
+00:07:02,300 --> 00:07:07,580
+Dat kunnen bezoekers uit de interstellaire ruimte zijn, zoals het rotsblok Oumuamua,
+
+99
+00:07:07,920 --> 00:07:12,840
+en ook planeten en rotsblokken die gewoon onderdeel uitmaken van ons eigen zonnestelsel.
+
+100
+00:07:13,560 --> 00:07:16,860
+Heel veel van wat rond de zon draait hebben we namelijk nog niet ontdekt.
+
+101
+00:07:16,860 --> 00:07:22,360
+De Rubin-telescoop zal naar grote waarschijnlijkheid een enorme hoeveelheid mini-planeten,
+
+102
+00:07:22,560 --> 00:07:25,800
+asteroïden en rotsblokken vinden die om de zon cirkelen.
+
+103
+00:07:26,840 --> 00:07:32,980
+Bijzonder aardig aan het Rubin-observatorium is dat educatie een belangrijk onderdeel van de missie uitmaakt.
+
+104
+00:07:33,520 --> 00:07:38,160
+Als u docent of geïnteresseerder bent, kunt u nu al beginnen met een bezoek aan de website
+
+105
+00:07:38,160 --> 00:07:40,900
+en zogenaamde investigations starten.
+
+106
+00:07:41,620 --> 00:07:45,840
+Het lesmateriaal is beschikbaar in het Engels en het Spaans en ziet er goed uit.
+
+107
+00:07:45,840 --> 00:07:52,000
+Fijne interactieve bladerpagina's, geheel gratis, beschikbaar voor u of uw leerlingen.
+
+108
+00:07:52,940 --> 00:07:58,680
+Daarnaast gaat het Rubin-observatorium een samenwerking aan met de burgerwetenschapwebsite Zooniverse.
+
+109
+00:07:59,740 --> 00:08:04,820
+Op dit moment is daar nog geen aan Rubin gerelateerd project voor u om uw tanden in te zetten,
+
+110
+00:08:04,820 --> 00:08:08,660
+maar als de telescoop begin 2025 in werking treedt,
+
+111
+00:08:08,740 --> 00:08:13,160
+zullen diverse projecten op Zooniverse gestart worden waar uw hulp welkom bij is.
+
+112
+00:08:13,160 --> 00:08:18,860
+Misschien vraagt u zich wel af hoe zo'n aardse telescoop kans van slagen heeft
+
+113
+00:08:18,860 --> 00:08:22,460
+met de megaklusters van satellieten die gelanceerd worden.
+
+114
+00:08:23,060 --> 00:08:27,480
+Met andere woorden, worden de foto's van het Rubin-observatorium niet vervuild
+
+115
+00:08:27,480 --> 00:08:31,880
+door strepen van Starlink-satellieten en vergelijkbaar gespuis.
+
+116
+00:08:32,100 --> 00:08:32,320
+O ja?
+
+117
+00:08:32,320 --> 00:08:33,820
+Ja, helaas wel.
+
+118
+00:08:35,560 --> 00:08:41,660
+In een studie van de ESO, de European Organization for Astronomical Research in the Southern Hemisphere,
+
+119
+00:08:41,900 --> 00:08:48,380
+werd geconcludeerd dat tussen de 30 en 50 procent van de waarnemingen die met de Rubin-telescoop zullen worden gedaan,
+
+120
+00:08:48,600 --> 00:08:52,760
+ernstig vervuild zal worden door weerkaatst zonlicht van aardse satellieten.
+
+121
+00:08:52,900 --> 00:08:53,900
+O, dat is niet best.
+
+122
+00:08:53,900 --> 00:08:55,840
+Verschillende effecten treden op.
+
+123
+00:08:56,580 --> 00:09:01,060
+Rechtstreeks licht dat op de CCD-sensor valt zal pixels verzadigen,
+
+124
+00:09:01,200 --> 00:09:04,560
+waardoor achterliggende astronomische gegevens overstemd worden.
+
+125
+00:09:05,180 --> 00:09:09,160
+Ook zal het relatief felle licht van kunstmanen leiden tot crosstalk,
+
+126
+00:09:09,300 --> 00:09:12,820
+waarbij het beeld van omliggende pixels ook aangetast wordt,
+
+127
+00:09:12,960 --> 00:09:15,100
+zonder dat deze rechtstreeks belicht worden.
+
+128
+00:09:15,800 --> 00:09:18,440
+En er treedt ook een effect op wat ghosting heet.
+
+129
+00:09:18,440 --> 00:09:21,780
+Hierbij lichten pixels abusieflijk op,
+
+130
+00:09:21,880 --> 00:09:27,260
+omdat de optiek van de telescoop door interne reflecties voor verstrooiing van licht zorgt.
+
+131
+00:09:28,000 --> 00:09:30,440
+Overleg bestaat in ieder geval met de firma SpaceX,
+
+132
+00:09:31,220 --> 00:09:33,440
+waar geprobeerd wordt de satellieten wat te verduisteren.
+
+133
+00:09:34,100 --> 00:09:35,080
+Ik twijfel hieraan.
+
+134
+00:09:35,240 --> 00:09:38,480
+Maar laten we deze aflevering niet deprimerend eindigen.
+
+135
+00:09:39,380 --> 00:09:44,120
+Van de evolutie van sterrenstelselclusters tot de verdeling van donkere materie,
+
+136
+00:09:44,120 --> 00:09:51,920
+Intraclusterlicht bevat belangrijke aanwijzingen over hoe de grootschalige structuur van het universum is ontstaan.
+
+137
+00:09:53,000 --> 00:09:56,840
+Intraclusterlicht mag dan misschien iets heel kleins en onbeduidends lijken,
+
+138
+00:09:57,260 --> 00:10:00,080
+maar het heeft veel implicaties, zegt Montes.
+
+139
+00:10:00,760 --> 00:10:06,280
+Het vult aan wat we al weten en opent nieuwe vensters naar de geschiedenis van ons universum.
+
+140
+00:10:07,100 --> 00:10:09,320
+Oftewel iets om naar uit te kijken.
+
+141
+00:10:09,900 --> 00:10:11,080
+Tot de volgende keer.
+

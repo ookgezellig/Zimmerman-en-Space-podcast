@@ -1,0 +1,544 @@
+1
+00:00:00,000 --> 00:00:02,660
+U luistert naar Zimmerman & Space.
+
+2
+00:00:03,560 --> 00:00:09,200
+Daar was opeens het nieuwsbericht dat er mogelijk leven is gevonden op een andere planeet.
+
+3
+00:00:09,560 --> 00:00:12,820
+Tantalizing sign of possible life on faraway world.
+
+4
+00:00:12,960 --> 00:00:13,980
+Melde de BBC.
+
+5
+00:00:14,920 --> 00:00:16,080
+Forbes had het over.
+
+6
+00:00:16,380 --> 00:00:20,620
+Possible sign of life found on a planet 120 light years away.
+
+7
+00:00:21,600 --> 00:00:26,240
+Laten we vandaag eens kijken hoe spectaculair dit nieuws wel of niet is.
+
+8
+00:00:26,440 --> 00:00:26,920
+Oké.
+
+9
+00:00:26,920 --> 00:00:30,040
+Te beginnen met die exoplaneet waar alles om te doen is.
+
+10
+00:00:31,400 --> 00:00:31,960
+K218b.
+
+11
+00:00:32,980 --> 00:00:40,960
+Dit is een superaarde of sub-Neptunus exoplaneet met een massa van 8 plus of min 1,9 keer die van onze aarde.
+
+12
+00:00:42,120 --> 00:00:49,060
+Het object heeft ongeveer 2,3 keer de straal van onze aarde en 2,6 keer de dichtheid van onze planeet Jupiter.
+
+13
+00:00:50,320 --> 00:00:55,420
+In de Earth Similarity Index scoort deze planeet 0,815.
+
+14
+00:00:55,420 --> 00:01:00,420
+Wat betekent dat deze exoplaneet een heel eind in de richting van onze aarde komt.
+
+15
+00:01:00,900 --> 00:01:10,420
+Dat K2 in de naam wil zeggen dat deze exoplaneet is ontdekt in campagne 1 van de Extended K2-missie van het Kepler-ruimtevaartuig.
+
+16
+00:01:10,420 --> 00:01:20,780
+Behalve met de aanduiding K2-18b kunt u deze exoplaneet ook vinden als Epic 2019-12552b.
+
+17
+00:01:21,780 --> 00:01:22,380
+Oké.
+
+18
+00:01:22,380 --> 00:01:27,160
+Deze exoplaneet vinden we vanaf ons gezien in het sterrenbeeld Leo de Leeuw.
+
+19
+00:01:27,960 --> 00:01:38,840
+De rode dwergster waar deze exoplaneet omheen draait, K2-18, is met magnitude 13,5 te lichtzwak om voor ons te zien met het blote oog.
+
+20
+00:01:39,700 --> 00:01:46,680
+Bovendien is september niet de ideale tijd om sterrenbeeld de Leeuw te gaan zoeken omdat de zon er nu precies in staat.
+
+21
+00:01:46,680 --> 00:01:51,160
+Zon en sterrenbeeld de Leeuw gaan dan samen onder de horizon.
+
+22
+00:01:51,960 --> 00:01:56,560
+Als u de Leeuw eens wilt aanschouwen is het beter rond maart te kijken.
+
+23
+00:01:58,420 --> 00:02:03,020
+Rond dit sterretje K2-18 zijn twee exoplaneten ontdekt.
+
+24
+00:02:03,480 --> 00:02:07,440
+Behalve K2-18b is er dus ook K2-18c.
+
+25
+00:02:08,520 --> 00:02:14,860
+Deze laatste exoplaneet is voor ons minder interessant omdat deze te dicht bij de ster in kwestie draait.
+
+26
+00:02:14,860 --> 00:02:25,080
+Maar ons object van vandaag, K2-18b, draait wel degelijk rondjes om de ster in wat we de bewoonbare zone of habitable zone noemen.
+
+27
+00:02:26,040 --> 00:02:29,800
+Dit is de afstand van de ster waar water nog vloeibaar kan zijn.
+
+28
+00:02:30,800 --> 00:02:34,860
+K2-18b werd in 2015 ontdekt met de transitmethode.
+
+29
+00:02:34,860 --> 00:02:45,460
+Daarbij wordt een dip in de helderheid van de ster waargenomen wanneer de planeet ervoor langs beweegt en een beetje sterrenlicht tegenhoudt vanuit ons gezien.
+
+30
+00:02:45,620 --> 00:02:47,180
+Aha, zo zit het dus!
+
+31
+00:02:47,180 --> 00:02:59,220
+Een jaar op K2-18b duurt maar 33 aardse dagen, zodat we al zeker weten dat deze exoplaneet op 11 oktober van dit jaar weer voor de ster langs beweegt vanuit ons gezien.
+
+32
+00:02:59,960 --> 00:03:05,460
+En dat is significant omdat er met nieuwe interesse naar deze exoplaneet gekeken wordt.
+
+33
+00:03:05,460 --> 00:03:13,760
+Het is niet zuiver toevallig dat deze exoplaneet door de James Webb ruimtetelescoop in het vizier werd genomen.
+
+34
+00:03:14,180 --> 00:03:20,720
+Want K2-18b valt in een nieuwe categorie exoplaneten die we ook wel Hycien planets noemen.
+
+35
+00:03:20,860 --> 00:03:22,320
+Mag het in het Nederlands?
+
+36
+00:03:22,480 --> 00:03:26,120
+Hycien is een samenvoeging van twee woorden tot een nieuwe term.
+
+37
+00:03:26,680 --> 00:03:30,480
+Hydrogen of waterstof en ocean of oceaan.
+
+38
+00:03:30,480 --> 00:03:43,740
+Dit is een belangrijke nieuwe term omdat astronomen er pas sinds eind 2021 gebruik van maken om aan te geven dat er een nieuwe klasse exoplaneten bestaat waar leven op voorkant kan komen.
+
+39
+00:03:44,740 --> 00:03:51,320
+Eerder werd de zoektocht naar buitenaards leven vooral toegespitst op terrestriale planeten die erg op onze aarde lijken.
+
+40
+00:03:51,320 --> 00:04:04,680
+Maar langzaamaan is de astronomische wetenschapper van overtuigd geraakt dat grotere planeet met een oceaan als oppervlak en waterstof in de atmosfeer ook buitengewoon geschikte objecten zijn om op naar leven te zoeken.
+
+41
+00:04:05,560 --> 00:04:12,240
+Omdat deze exoplaneten groter zijn dan onze aarde zijn ze ook gemakkelijker te vinden en dus te bestuderen.
+
+42
+00:04:12,500 --> 00:04:13,920
+Ja, dat is logisch.
+
+43
+00:04:13,920 --> 00:04:26,700
+K2-18b in het sterrenbeeld De Leo is het prototype Heis-Yin-planeet en precies om die reden is er waarneemtijd van de James Webb ruimtetelescoop gebruikt om deze planeet nader te bestuderen.
+
+44
+00:04:27,640 --> 00:04:34,640
+In totaal werd er twee keer gekeken naar een transit van K2-18b voor de ster K2-18 langs.
+
+45
+00:04:34,640 --> 00:04:47,560
+De eerste keer was op 20 en 21 januari 2023 toen met het NIRIS instrument van de James Webb ruimtetelescoop 5,3 uur naar K2-18b werd gekeken.
+
+46
+00:04:48,320 --> 00:04:56,380
+De tweede keer was op 1 juni van dit jaar toen met het NIRIS instrument 4,9 uur naar K2-18b werd gekeken.
+
+47
+00:04:57,200 --> 00:05:03,120
+De gecombineerde onderzoeksresultaten worden beschreven in een artikel dat eerder deze maand met de titel
+
+48
+00:05:03,120 --> 00:05:08,620
+in de wetenschappelijke pers verscheen.
+
+49
+00:05:09,680 --> 00:05:16,440
+Een reden waarom de wereld niet op de kop staat van dit nieuws is de grote onzekerheid die nog bestaat rond deze ontdekking.
+
+50
+00:05:16,560 --> 00:05:18,460
+Nou, dat klinkt niet goed, Hans.
+
+51
+00:05:18,680 --> 00:05:30,020
+Voor wie niet beschikt over al te veel geduld is het misschien ook wel bevreemdend dat er berichten in het nieuws komen die met zo weinig overtuigingskracht melding maken over mogelijk buitenaards leven.
+
+52
+00:05:30,020 --> 00:05:36,640
+Wat dit artikel en de daarvan afgeleide populair wetenschappelijke artikelen berichten,
+
+53
+00:05:36,860 --> 00:05:41,920
+is gebaseerd op onderzoek dat zich afspeelt op de grenzen van wat er op dit moment mogelijk is.
+
+54
+00:05:42,780 --> 00:05:47,900
+Hopelijk kan de aflevering waar u nu naar luistert enig licht in de duisternis brengen
+
+55
+00:05:47,900 --> 00:05:52,300
+en wat respect afdwingen voor de situatie waar we ons nu nog in bevinden.
+
+56
+00:05:52,300 --> 00:05:53,440
+Ja, schiet nou maar op.
+
+57
+00:05:53,520 --> 00:05:57,840
+We zeiden al dat de ster waar deze planeet omheen draait voor ons niet zichtbaar is.
+
+58
+00:05:58,520 --> 00:06:03,480
+Met de James Webb ruimtetelescoop daarentegen kan het sterrenlicht wel worden waargenomen.
+
+59
+00:06:04,140 --> 00:06:10,620
+Dit sterrenlicht kunnen we bovendien op specifieke frequentiebanden waarnemen door de apparatuur die daarbij gebruikt wordt.
+
+60
+00:06:11,300 --> 00:06:17,280
+Wanneer de planeet K218b vanuit ons gezien voor de ster K218 langs beweegt,
+
+61
+00:06:17,280 --> 00:06:22,280
+verandert de samenstelling van het frequentiespectrum van het licht een heel klein beetje,
+
+62
+00:06:22,460 --> 00:06:28,760
+omdat we dan ook een heel klein beetje licht waarnemen dat door de atmosfeer van K218b gefilterd wordt.
+
+63
+00:06:29,700 --> 00:06:33,400
+Dit zegt ons hoe goed de James Webb ruimtetelescoop is.
+
+64
+00:06:33,600 --> 00:06:35,040
+Nou, blij om dat te horen.
+
+65
+00:06:35,260 --> 00:06:39,680
+In dit gefilterde licht kunnen we dan mogelijk biomarkers aanwijzen.
+
+66
+00:06:39,860 --> 00:06:40,140
+Wat?
+
+67
+00:06:40,140 --> 00:06:48,140
+Dat zijn absorptie- en emissielijnen in het spectrum die duiden op de aanwezigheid van bepaalde moleculen in de atmosfeer van die exoplaneet
+
+68
+00:06:48,720 --> 00:06:52,580
+die inherent zijn aan de stofwisseling van levende wezens.
+
+69
+00:06:55,300 --> 00:06:56,440
+Het artikel
+
+70
+00:06:56,440 --> 00:06:59,980
+Carbon-bearing molecules in a possible high-sea atmosphere
+
+71
+00:06:59,980 --> 00:07:06,840
+beschrijft vooral de databewerkingen die nodig zijn om iets zinnigs te kunnen zeggen over dat wat waargenomen wordt.
+
+72
+00:07:07,880 --> 00:07:09,160
+Hoe zit dat dan?
+
+73
+00:07:09,160 --> 00:07:18,920
+Uit de meetinstrumenten van de James Webb ruimtetelescoop rolt een reeks nummers die staan voor de waarde van bepaalde frequenties licht over de tijd.
+
+74
+00:07:19,920 --> 00:07:28,300
+De schommelingen hierin zijn minimaal omdat zo'n exoplaneet maar een heel klein beetje licht tegenhoudt als deze voor de ster langsdrekt.
+
+75
+00:07:29,240 --> 00:07:37,920
+De spectrale afwijkingen die duiden op bepaalde moleculen in de atmosfeer van K218b zijn dan in verhouding nog veel geringer.
+
+76
+00:07:37,920 --> 00:07:45,340
+Als het licht wordt opgedeeld in kleinere frequentiebanden moet ook de ruis uit de waarneming gefilterd worden.
+
+77
+00:07:45,780 --> 00:07:47,780
+We ontkomen niet aan ruis.
+
+78
+00:07:47,780 --> 00:07:52,320
+Meetapparatuur heeft aan de ondergrens van de waarneming een ruisvloer.
+
+79
+00:07:52,940 --> 00:07:56,040
+Processen in het heelal voegen ook ruis toe aan waarnemingen.
+
+80
+00:07:56,960 --> 00:08:01,020
+Uiteraard wordt alles gedaan om deze ruis tot een minimum te beperken.
+
+81
+00:08:01,540 --> 00:08:08,300
+Maar goed, het is wat het is en de ruis moet er zo goed mogelijk uit worden gefilterd zonder artefacten toe te voegen.
+
+82
+00:08:08,300 --> 00:08:22,720
+Dan zijn er inderdaad ook bij de CCD-chips van de James Webb ruimtetelescoop dode pixels en kleine afwijkingen tussen de afzonderlijke pixels die er door middel van een dark frame weer uit moeten worden vereffend.
+
+83
+00:08:22,720 --> 00:08:35,560
+Opvallend genoeg hebben spectroscopische waarnemingen van exoplaneten die bij een transit voor de ster langs gemaakt worden ook stevast te maken met lichtverschijnselen die op de ster zelf plaatsvinden.
+
+84
+00:08:35,560 --> 00:08:46,780
+Net als bij onze zon komen ook bij een ster als K2-18 fakkelvelden en zonnevlekken voor, waarvoor ook gecorrigeerd dient te worden.
+
+85
+00:08:47,180 --> 00:09:00,840
+De auteurs van het artikel vermelden dat deze verschijnselen frequentieafhankelijk zijn en dus uit de data gefilterd moeten worden om onjuiste conclusies over de samenstelling van de atmosfeer van K2-18b te voorkomen.
+
+86
+00:09:00,840 --> 00:09:12,600
+Na al deze exercities blijft er een grafiek over van het waargenomen sterrenlicht en hoe dit op bepaalde frequenties afwijkt wanneer de planeet er voor langs schuift.
+
+87
+00:09:13,400 --> 00:09:20,180
+In dit specifieke geval werd gekeken in het bereik van 0,9 tot 5,2 micrometer.
+
+88
+00:09:22,120 --> 00:09:29,660
+Hoofdauteur van het artikel waar we het vandaag vooral over hebben, Niku Madhusudan, was in 2020 al auteur van het artikel.
+
+89
+00:09:30,840 --> 00:09:46,060
+Hierin wordt beschreven hoe waterstof en water worden aangetroffen in de atmosfeer van K2-18b op basis van waarnemingen toen nog met de Hubble- en Spitzerruimtetelescopen.
+
+90
+00:09:47,060 --> 00:09:54,960
+Met de nieuwe waarnemingen met de James Webb-ruimtetelescoop komen details aan het licht die intrigerend richting levende wezens wijzen.
+
+91
+00:09:54,960 --> 00:10:03,120
+Het gaat op dit moment om vier moleculen en het is mijns inziens interessant om te weten in hoeverre deze een rol spelen.
+
+92
+00:10:03,800 --> 00:10:06,880
+1. Methaan of CH4
+
+93
+00:10:06,880 --> 00:10:13,080
+In het spectrum van exoplaneet K2-18b wordt met grote zekerheid methaan gezien.
+
+94
+00:10:13,780 --> 00:10:18,880
+Methaan heeft een aantal specifieke uitschieters in het spectrum van licht en deze worden waargenomen.
+
+95
+00:10:20,480 --> 00:10:28,060
+Op aarde wordt methaan veelal door micro-organismen gegenereerd en komt voornamelijk via veedieren in onze atmosfeer terecht.
+
+96
+00:10:28,060 --> 00:10:36,900
+Het is niet exclusief voorbehouden aan levende wezens om methaan te produceren, maar wel een heel interessante biomarker.
+
+97
+00:10:37,580 --> 00:10:45,260
+Vooral ook omdat methaan relatief snel wordt afgebroken door straling en dus continu moet worden aangevuld om gemeten te kunnen worden.
+
+98
+00:10:46,200 --> 00:10:54,720
+Wellicht herinnert u zich nog wel hoe ook op onze planeet Mars van tijd tot tijd methaan wordt waargenomen en hoe dit de gemoederen bezig blijft houden.
+
+99
+00:10:54,720 --> 00:10:58,040
+2. Koolstofdioxide of CO2
+
+100
+00:10:58,060 --> 00:11:04,960
+Ook koolstofdioxide wordt met grote zekerheid gemeten in het spectrum van K2-18b.
+
+101
+00:11:05,820 --> 00:11:11,860
+Ook koolstofdioxide hoeft niet uitsluitend te worden toegeschreven aan de stofwisseling van levende wezens,
+
+102
+00:11:12,120 --> 00:11:17,360
+maar het is wel een molecuul dat op aarde veel in verband wordt gebracht met biologische processen.
+
+103
+00:11:17,860 --> 00:11:21,760
+3. De afwezigheid van ammonia of NH3
+
+104
+00:11:22,460 --> 00:11:26,660
+Ammonia werd niet aangetroffen in de spectra van K2-18b
+
+105
+00:11:26,660 --> 00:11:33,660
+En dit maakt de zaak aannemelijker voor een gematigde waterstofhoudende atmosfeer boven een wateroceaan.
+
+106
+00:11:34,660 --> 00:11:43,040
+4. De mogelijke aanwezigheid van dimethylsulfide, ook wel DMS genoemd, met chemische formule CH3-2S.
+
+107
+00:11:43,040 --> 00:11:48,040
+Het bestaat uit één zwavelatoom dat gebonden is aan twee methylgroepen.
+
+108
+00:11:49,160 --> 00:11:58,160
+Dit is het molecuul waar alle hype om te doen is, maar ook het molecuul wat vooralsnog met geringe zekerheid is gemeten in het spectrum van K2-18b.
+
+109
+00:11:58,340 --> 00:11:59,340
+Oh, dat is niet best.
+
+110
+00:12:00,340 --> 00:12:05,040
+Dimethylsulfide is een stinkend gas wat we bijvoorbeeld kennen van het koken van kool- en zeevruchten.
+
+111
+00:12:05,040 --> 00:12:13,100
+De bulk van dimethylsulfide in de aardse atmosfeer wordt gemaakt door fitoplankton in onze oceanen.
+
+112
+00:12:14,420 --> 00:12:19,060
+Dimethylsulfide wordt op aarde uitsluitend door levende organismen geproduceerd.
+
+113
+00:12:19,780 --> 00:12:28,440
+In kleine mate wordt het in de industrie geproduceerd, maar de natuur zelf kent geen abiotische processen waarbij dimethylsulfide vrijkomt.
+
+114
+00:12:28,440 --> 00:12:38,720
+Dat we dit molecuul in de atmosfeer van een exoplaneet meten is groot nieuws en zou weleens kunnen duiden op levende wezens op K2-18b.
+
+115
+00:12:39,100 --> 00:12:42,740
+Al zouden het maar op fitoplankton gelijkende beestjes zijn.
+
+116
+00:12:43,980 --> 00:12:44,440
+Maar waarom...
+
+117
+00:12:44,980 --> 00:12:45,660
+Waarom?
+
+118
+00:12:45,780 --> 00:12:52,440
+...wordt nou precies dit spannende molecuul niet met grote zekerheid gemeten in het spectrum van K2-18b?
+
+119
+00:12:52,560 --> 00:12:53,360
+Ik snap het niet.
+
+120
+00:12:53,540 --> 00:12:57,720
+Dat heeft te maken met de spectrale eigenschappen van dimethylsulfide.
+
+121
+00:12:57,720 --> 00:12:59,060
+Tuurlijk, zouden we niet.
+
+122
+00:12:59,300 --> 00:13:09,540
+Het heeft vrij botten pieken op frequenties 3.5 en 4.5 micrometer, waarbij het ook nog eens overlapt met de spectra van koolstofdioxide en methaan.
+
+123
+00:13:09,640 --> 00:13:11,020
+Too long, didn't read.
+
+124
+00:13:11,180 --> 00:13:15,060
+Het zou met andere woorden ook een artefact van de waarneming kunnen zijn.
+
+125
+00:13:16,160 --> 00:13:23,180
+We moeten dus nog wat geduld betrachten voordat we van de daken kunnen schreeuwen dat er leven bestaat buiten onze planeetaarde.
+
+126
+00:13:23,180 --> 00:13:23,580
+Oh.
+
+127
+00:13:23,580 --> 00:13:32,860
+De mogelijke aanwezigheid van dimethylsulfide werd nu gezien in het spectrum tussen 0.9 en 5.2 micrometer.
+
+128
+00:13:33,700 --> 00:13:44,420
+Maar ditzelfde molecuul heeft een duidelijkere spectrale piek rond 7 micrometer, wat met het MIRI-LRS-instrument van de James Webb-ruimtetelescoop kan worden waargenomen.
+
+129
+00:13:44,520 --> 00:13:46,000
+Dat is fascinerend wat je nu zegt.
+
+130
+00:13:46,000 --> 00:13:52,000
+Bijzonder gunstig is dat K2-18b elke 33 dagen voor de ster lang schuift.
+
+131
+00:13:53,000 --> 00:14:01,620
+Ik vermoed dat er binnen een jaar wel nieuws zal zijn over het al dan niet waarnemen van dimethylsulfide op een frequentie van 7 micrometer.
+
+132
+00:14:02,840 --> 00:14:08,720
+We weten waar we moeten kijken en we beschikken over het juiste instrument en de methode om het te onderzoeken.
+
+133
+00:14:08,720 --> 00:14:20,200
+En minstens zo belangrijk, er wordt vanaf nu ook met nieuwe interesse naar grotere Hyzion exoplaneten gekeken in onze zoektocht naar buitenaards leven.
+
+134
+00:14:20,780 --> 00:14:21,920
+Tot de volgende keer.
+
+135
+00:14:22,460 --> 00:14:28,940
+En luistert u ook naar de sterrenstofpodcast van Anko van Hal, waarin ik aanstaande vrijdag weer mag aanschuiven.
+
+136
+00:14:28,940 --> 00:14:37,360
+Ik ben vooral benieuwd wanneer jij zemenminnen in space gaat behandelen.
+

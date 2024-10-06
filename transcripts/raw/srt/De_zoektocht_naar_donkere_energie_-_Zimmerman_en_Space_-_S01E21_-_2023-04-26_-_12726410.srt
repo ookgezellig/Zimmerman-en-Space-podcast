@@ -1,0 +1,660 @@
+1
+00:00:00,000 --> 00:00:08,340
+Onlangs vroeg iemand mij waarom tijdens de oerknal niet onmiddellijk een zwart gat ontstond.
+
+2
+00:00:10,020 --> 00:00:18,060
+Daar hadden we immers alle materie waar dit heelal uit bestaat verpakt in een heelal ter grootte van een speldeknop of iets dergelijks.
+
+3
+00:00:18,620 --> 00:00:22,220
+Dat klinkt toch als het ultieme recept voor een mooi zwart gat.
+
+4
+00:00:23,240 --> 00:00:25,680
+Eerlijk is eerlijk, ik moest het ook opzoeken.
+
+5
+00:00:26,100 --> 00:00:29,160
+Je bedoelt, daar stond je met je bek vol tanden.
+
+6
+00:00:29,160 --> 00:00:30,480
+Ja, zoiets.
+
+7
+00:00:31,260 --> 00:00:34,760
+Het antwoord vond ik in Physics Stack Exchange.
+
+8
+00:00:35,320 --> 00:00:39,680
+Er zijn twee condities die vervuld moeten worden om een zwart gat te creëren.
+
+9
+00:00:40,140 --> 00:00:47,720
+De eerste is een centrum van massa waar alle nabije massa naartoe kan bewegen en wat het centrum van het zwarte gat zal worden.
+
+10
+00:00:47,720 --> 00:00:58,720
+En de tweede conditie is dat de deeltjes traag genoeg bewegen, zodat de zwaartekracht ze kan vangen en naar dat centrum van massa toe kan trekken.
+
+11
+00:00:59,160 --> 00:01:03,360
+Beide condities werden niet vervuld door de oerknal.
+
+12
+00:01:03,360 --> 00:01:15,000
+We waren er natuurlijk niet bij, maar het huidige lambda-CDM-model van de astronomie ziet de oerknal als het plotseling zich manifesteren van een uitdijend heelal.
+
+13
+00:01:15,000 --> 00:01:23,260
+Dit is geen explosie, dus dat onderdeel knal van de oerknal is weinig gelukkig gekozen.
+
+14
+00:01:24,040 --> 00:01:30,320
+Het complete helal was er en de massa daarin was uniform verdeeld, zonder centrum van massa.
+
+15
+00:01:30,320 --> 00:01:37,200
+En de massa van dit ultra-prille helal was onvergelijkbaar met wat we nu in het helal waarnemen.
+
+16
+00:01:37,820 --> 00:01:46,200
+Zo ongeveer de eerste 10 tot de min 32e seconde waren er geen elementaire deeltjes en wist het helal immens uit de dijen.
+
+17
+00:01:48,140 --> 00:01:52,540
+En bij dat uitdijende helal proberen we vandaag een beetje stil te staan.
+
+18
+00:01:52,680 --> 00:01:53,240
+Dat is goed.
+
+19
+00:01:53,240 --> 00:01:59,200
+Het uitdijende helal van ons is een van de grotere hoofdpijndossiers van de astronomie.
+
+20
+00:01:59,980 --> 00:02:00,640
+Hoe zit dat?
+
+21
+00:02:00,840 --> 00:02:02,520
+Ja, daar snap ik dus niks van.
+
+22
+00:02:02,860 --> 00:02:11,240
+Volgens de algemene relativiteitstheorie van Albert Einstein zou de zwaartekracht op den duur het uitdijen van het helal weer moeten omkeren.
+
+23
+00:02:12,240 --> 00:02:12,980
+Reik moe.
+
+24
+00:02:13,040 --> 00:02:13,240
+Reik moe.
+
+25
+00:02:13,240 --> 00:02:13,520
+Reik moe.
+
+26
+00:02:13,520 --> 00:02:13,620
+Reik moe.
+
+27
+00:02:13,620 --> 00:02:13,700
+Reik moe.
+
+28
+00:02:13,700 --> 00:02:13,800
+Reik moe.
+
+29
+00:02:13,800 --> 00:02:13,860
+Reik moe.
+
+30
+00:02:13,860 --> 00:02:13,920
+Reik moe.
+
+31
+00:02:13,920 --> 00:02:14,020
+Reik moe.
+
+32
+00:02:14,020 --> 00:02:14,420
+Reik moe.
+
+33
+00:02:14,420 --> 00:02:15,020
+Reik moe.
+
+34
+00:02:15,020 --> 00:02:15,100
+Reik moe.
+
+35
+00:02:15,100 --> 00:02:15,160
+Reik moe.
+
+36
+00:02:15,160 --> 00:02:15,200
+Reik moe.
+
+37
+00:02:15,200 --> 00:02:15,260
+Reik moe.
+
+38
+00:02:15,260 --> 00:02:16,260
+Reik moe.
+
+39
+00:02:16,260 --> 00:02:17,200
+Reik moe.
+
+40
+00:02:17,200 --> 00:02:18,200
+Reik moe.
+
+41
+00:02:18,200 --> 00:02:28,200
+Reik moe.
+
+42
+00:02:28,740 --> 00:02:30,620
+Reik moe.
+
+43
+00:02:30,620 --> 00:02:32,620
+Reik moe.
+
+44
+00:02:32,620 --> 00:02:34,500
+Reik moe.
+
+45
+00:02:38,500 --> 00:02:41,160
+Reii moe.
+
+46
+00:02:41,160 --> 00:02:41,700
+Reik moe.
+
+47
+00:02:41,700 --> 00:02:45,520
+Reik moe.
+
+48
+00:02:45,520 --> 00:02:50,460
+Het helal bestaat uit een exotische vorm van energie die de ruimte uit elkaar drijft.
+
+49
+00:02:51,700 --> 00:02:57,280
+Deze exotische energie is nog niet rechtstreeks waargenomen en heet donkere energie.
+
+50
+00:02:58,800 --> 00:03:04,020
+Voor 1998 wisten we al enkele decennia dat het helal uitdijdt.
+
+51
+00:03:04,760 --> 00:03:09,300
+Dankzij het werk van astronomen zoals Henrietta Lievitt en Edwin Hubble...
+
+52
+00:03:09,300 --> 00:03:17,060
+...is ons bekend dat de verder weggelegen sterrenstelsels sneller van ons verwijderen dan dichtbijgelegen sterrenstelsels.
+
+53
+00:03:17,980 --> 00:03:23,560
+En dit effect wordt ook in alle richtingen waargenomen waaruit we voorzichtig kunnen concluderen...
+
+54
+00:03:23,560 --> 00:03:26,300
+...dat het complete helal zoals we het nu kennen uitdijdt.
+
+55
+00:03:27,640 --> 00:03:34,680
+Dat het helal ook nog versneld uitdijdt werd ontdekt door naar de helderheid van type 1a supernova's te kijken.
+
+56
+00:03:34,680 --> 00:03:42,820
+Deze kosmische gebeurtenissen hebben allemaal een bijna identieke maximale intrinsieke helderheid...
+
+57
+00:03:42,820 --> 00:03:45,580
+...waardoor ze als eikpost te kunnen worden gebruikt.
+
+58
+00:03:46,060 --> 00:03:51,340
+Want de helderheid van zo'n supernova zegt ons dus rechtstreeks iets over de afstand.
+
+59
+00:03:51,620 --> 00:03:52,800
+Veel succes!
+
+60
+00:03:53,100 --> 00:03:57,680
+De twee onafhankelijke teams die het versneld uitdijdend helal wisten te meten...
+
+61
+00:03:58,320 --> 00:04:03,600
+...zagen dat dergelijke supernova's een kwart minder helder waren dan dat werd verwacht.
+
+62
+00:04:03,600 --> 00:04:08,420
+Op het moment dat ons helal ongeveer twee derde van haar huidige grootte had bereikt.
+
+63
+00:04:09,180 --> 00:04:14,600
+De ontdekking van een versneld uitdijdend helal werd in 2011 gewaardeerd met een Nobelprijs.
+
+64
+00:04:17,600 --> 00:04:21,600
+Maar nu zitten we wel opgescheept met het mysterie van donkere energie...
+
+65
+00:04:22,360 --> 00:04:25,920
+...die materie uit elkaar drijft in plaats van naar elkaar toe beweegt.
+
+66
+00:04:26,060 --> 00:04:27,780
+Ja, dat klinkt niet lekker.
+
+67
+00:04:27,780 --> 00:04:32,680
+Een theorie is dat de materie in het begin van de geschiedenis van ons helal...
+
+68
+00:04:32,680 --> 00:04:36,860
+...nog dicht genoeg op elkaar zat om deze donkere energie te overwinnen...
+
+69
+00:04:36,860 --> 00:04:42,520
+...maar dat alles inmiddels zo wijd verspreid is dat de donkere energie op het gaspedaal kan trappen.
+
+70
+00:04:44,480 --> 00:04:47,780
+Donkere materie is overigens een geheel ander fenomeen.
+
+71
+00:04:48,500 --> 00:04:48,880
+Hoezo?
+
+72
+00:04:48,880 --> 00:04:55,140
+Als we zeggen dat energie en materie twee verschijningsvormen zijn van één onderliggend fenomeen...
+
+73
+00:04:55,140 --> 00:04:59,880
+...dan denken astronomen dat zo'n 70% van het helal bestaat uit donkere energie...
+
+74
+00:05:00,600 --> 00:05:04,940
+...25% donkere materie en 5% gewone materie.
+
+75
+00:05:06,780 --> 00:05:10,940
+Die donkere materie reageert niet met elektromagnetische straling...
+
+76
+00:05:10,940 --> 00:05:12,760
+...maar oefent wel zwaartekracht uit.
+
+77
+00:05:13,220 --> 00:05:15,260
+Maar goed, daar hebben we het vandaag dus niet over.
+
+78
+00:05:15,500 --> 00:05:15,880
+Oh, gelukkig!
+
+79
+00:05:15,880 --> 00:05:22,900
+Een verklaring voor donkere energie is dat deze intrinsiek is aan de lege ruimte, het vacuüm.
+
+80
+00:05:23,620 --> 00:05:26,940
+Dit is ook wel wat we de cosmologische constante noemen.
+
+81
+00:05:27,880 --> 00:05:32,340
+In dit model zou het vacuüm een bron van negatieve druk kunnen zijn...
+
+82
+00:05:32,340 --> 00:05:36,060
+...die de uitdijing van het helal bewerkstelligt en zelfs versnelt.
+
+83
+00:05:36,900 --> 00:05:41,240
+We kunnen ons zelfs voorstellen dat lege ruimte lege ruimte schept.
+
+84
+00:05:41,240 --> 00:05:47,100
+En waar een nieuw stukje lege ruimte ontstaat met dezelfde intrinsieke energie...
+
+85
+00:05:47,100 --> 00:05:51,500
+...ontstaat vanzelf een versnelling omdat er steeds meer lege ruimte ontstaat...
+
+86
+00:05:51,500 --> 00:05:56,880
+...van waaruit lege ruimte ontstaat, van waaruit lege ruimte ontstaat, van waaruit lege ruimte.
+
+87
+00:05:58,360 --> 00:06:00,540
+Maar dit is allemaal heel speculatief.
+
+88
+00:06:00,720 --> 00:06:05,040
+Vandaar dat veel wetenschappers proberen te onderzoeken wat hier nu echt gaande is.
+
+89
+00:06:05,040 --> 00:06:13,400
+Een grote vraag is bijvoorbeeld hoe de uitdijing van het helal over de lange tijd zal plaatsvinden.
+
+90
+00:06:14,240 --> 00:06:17,500
+Zo kennen we de zogenaamde quintessentie-theorie...
+
+91
+00:06:17,500 --> 00:06:22,720
+...waarbij een nieuw aan het Higgs-bozonverwand veld in het leven wordt geroepen door astronomen.
+
+92
+00:06:23,880 --> 00:06:25,900
+Als zo'n veld daadwerkelijk bestaat...
+
+93
+00:06:25,900 --> 00:06:30,600
+...dan zou donkere energie op de lange termijn dynamisch kunnen blijken te zijn...
+
+94
+00:06:30,600 --> 00:06:32,760
+...en over de tijd weer gaan afzwakken.
+
+95
+00:06:32,760 --> 00:06:39,640
+In dat geval zou ons helal zo'n 100 miljard jaar in de toekomst alsnog in een big crunch kunnen eindigen.
+
+96
+00:06:40,340 --> 00:06:43,900
+Daarbij wordt dan alsnog alles tot elkaar getrokken tot één punt.
+
+97
+00:06:44,780 --> 00:06:47,900
+En wie weet begint het proces van de oerknal dan weer opnieuw.
+
+98
+00:06:48,060 --> 00:06:49,800
+Neem je ons nou in een maling of...
+
+99
+00:06:49,800 --> 00:06:55,300
+Ik hoop alleen niet identiek, want nog een keer ditzelfde leven door leven lijkt me onwenselijk.
+
+100
+00:06:55,780 --> 00:06:57,980
+Laat staan oneindig vaak achter elkaar.
+
+101
+00:06:57,980 --> 00:07:04,860
+Maar het is natuurlijk ook denkbaar dat donkere energie een constante is en ook zo blijft...
+
+102
+00:07:04,860 --> 00:07:09,120
+...in welk geval het complete helal alsmaar eiler en groter wordt.
+
+103
+00:07:10,120 --> 00:07:15,040
+En in het meest exotische scenario waarin donkere energie toeneemt...
+
+104
+00:07:15,040 --> 00:07:16,860
+...eindigt het helal in een big rip...
+
+105
+00:07:17,400 --> 00:07:20,600
+...waarbij de uitdijing op den duur zo snel wordt...
+
+106
+00:07:20,600 --> 00:07:23,300
+...dat alles in ons helal uit elkaar wordt getrokken.
+
+107
+00:07:24,500 --> 00:07:26,680
+Wij gaan dat gelukkig niet meer meemaken.
+
+108
+00:07:27,980 --> 00:07:33,220
+Maar we zijn natuurlijk wel benieuwd naar het hoe, wat en waarom van die donkere energie...
+
+109
+00:07:33,220 --> 00:07:34,860
+...als die al bestaat.
+
+110
+00:07:35,240 --> 00:07:36,740
+Ja, dat is de vraag.
+
+111
+00:07:36,740 --> 00:07:42,480
+Er zijn twee initiatieven waar ik u, de geïnteresseerde luisteraar, nog graag op wil wijzen.
+
+112
+00:07:43,460 --> 00:07:46,980
+Links vindt u uiteraard in de show notes van deze aflevering.
+
+113
+00:07:47,140 --> 00:07:50,140
+Dan zult u er het volle profijt van hebben.
+
+114
+00:07:50,580 --> 00:07:54,600
+Het eerste project heet project DES, de Dark Energy Survey.
+
+115
+00:07:54,600 --> 00:07:59,840
+Dit is een project waarbij een groot gedeelte van onze nachtelijke hemel in kaart wordt gebracht...
+
+116
+00:07:59,840 --> 00:08:06,660
+...om te onderzoeken hoe het helal is veranderd in de eerste 13,8 miljard jaar sinds die oerknal.
+
+117
+00:08:07,460 --> 00:08:11,080
+Project DES doet dit met een vier meter brede telescoop...
+
+118
+00:08:11,080 --> 00:08:13,660
+...die in Chili hoog bovenop een berg staat.
+
+119
+00:08:14,560 --> 00:08:20,760
+Zo'n 300 wetenschappers uit zeven landen werken voor project DES samen om donkere energie te onderzoeken.
+
+120
+00:08:20,760 --> 00:08:28,380
+Behalve naar supernova's wordt ook gekeken naar de distributie van sterrenstelsels en hun onderlinge bewegingen...
+
+121
+00:08:28,380 --> 00:08:30,380
+...en naar zwaartekrachtlenswerking.
+
+122
+00:08:31,080 --> 00:08:35,520
+Als u interesse heeft in donkere energie is de website van DES heel aardig.
+
+123
+00:08:36,260 --> 00:08:42,220
+Veel van deze website is heel leesbaar en wie het aandurft vindt hier ook alle onderzoekspublicaties...
+
+124
+00:08:42,220 --> 00:08:44,960
+...die wetenschappers van project DES hebben geschreven.
+
+125
+00:08:44,960 --> 00:08:49,820
+Alhoewel project DES al sinds 2012 waarnemingen heeft gedaan...
+
+126
+00:08:49,820 --> 00:08:53,060
+...vat er nog een heleboel te verwachten van de verzamelde gegevens.
+
+127
+00:08:53,620 --> 00:08:58,620
+Want ook de astronomie omarmt artificiële intelligentie en machine learning.
+
+128
+00:08:59,940 --> 00:09:06,760
+Zo is bijvoorbeeld veel winst bereikt door gegevens van DES middels artificiële intelligentie te combineren...
+
+129
+00:09:06,760 --> 00:09:12,280
+...met verzamelde gegevens van de Sloan Digital Sky Survey of SDSS.
+
+130
+00:09:12,280 --> 00:09:21,140
+Een artikel hierover met de titel Deep Learning at Scale for the Construction of Galaxy Catalogs in the Dark Energy Survey...
+
+131
+00:09:21,140 --> 00:09:24,460
+...verscheen al in 2019 in Science Direct.
+
+132
+00:09:25,980 --> 00:09:28,720
+En toch hebben astronomen ook uw hulp nodig.
+
+133
+00:09:29,000 --> 00:09:29,460
+Echt waar?
+
+134
+00:09:29,780 --> 00:09:33,080
+En dat is het tweede initiatief waar ik u graag op wil wijzen.
+
+135
+00:09:33,640 --> 00:09:39,280
+Als onderdeel van de bekende citizen science of burgerwetenschap website Zooniverse...
+
+136
+00:09:39,280 --> 00:09:44,000
+...vindt u de Dark Energy Explorers waarbij uw hulp gebruikt kan worden.
+
+137
+00:09:44,240 --> 00:09:44,540
+Jee!
+
+138
+00:09:45,060 --> 00:09:48,140
+Ik ben er zelf voor deze aflevering ook in gedoken...
+
+139
+00:09:48,140 --> 00:09:54,100
+...en het is een citizen science project waarin u de waarnemingen van project HEDDEX klassificeert.
+
+140
+00:09:54,740 --> 00:10:00,280
+HEDDEX staat voor de Hobby Eberley Telescope Dark Energy Experiment...
+
+141
+00:10:00,280 --> 00:10:04,600
+...waarbij de zoektocht zich vooral richt op donkere energie in het brillenhelal.
+
+142
+00:10:05,240 --> 00:10:10,600
+Voor dat doel kunt u foto's sorteren in de twee categorieën Keep en Throwback.
+
+143
+00:10:11,160 --> 00:10:14,520
+Deze foto's worden al sinds 2016 gemaakt...
+
+144
+00:10:14,520 --> 00:10:18,960
+...en de bedoeling is een driedimensionale map te maken van het brillenhelal...
+
+145
+00:10:18,960 --> 00:10:23,380
+...om de invloed van donkere energie op de vorming van ons helal in kaart te brengen.
+
+146
+00:10:23,380 --> 00:10:29,140
+Met name de zogenaamde Lyman Alpha sterrenstelsels worden onderzocht voor dit project.
+
+147
+00:10:29,800 --> 00:10:36,280
+Aan u de schone taak om deze te onderscheiden van ruis en dichterbij gesitueerde sterrenstelsels.
+
+148
+00:10:37,240 --> 00:10:41,540
+Lyman Alpha is trouwens een spectrale lijn van waterstof...
+
+149
+00:10:41,540 --> 00:10:45,380
+...die zichtbaar is in waterstofatomen waar elektronen een sprong maken...
+
+150
+00:10:45,380 --> 00:10:47,380
+...naar de banen van het laagste energieniveau.
+
+151
+00:10:48,180 --> 00:10:49,440
+O ja, inderdaad!
+
+152
+00:10:49,440 --> 00:10:53,800
+Lyman Alpha emitters, zoals deze sterrenstelsels genoemd worden...
+
+153
+00:10:53,800 --> 00:10:57,580
+...bevatten nog veel informatie over het vroege universum...
+
+154
+00:10:57,580 --> 00:11:02,320
+...en daarmee misschien hints naar wat dark energy of donkere energie eigenlijk is.
+
+155
+00:11:03,040 --> 00:11:08,200
+En er is nog iets bijzonders, want normaal zouden deze spectra niet zichtbaar zijn op aarde...
+
+156
+00:11:08,200 --> 00:11:11,180
+...aangezien ze in het ultraviolet worden uitgezonden.
+
+157
+00:11:11,940 --> 00:11:14,440
+Maar omdat we zo ver in het verleden kijken...
+
+158
+00:11:14,440 --> 00:11:17,720
+...zijn deze spectra ernstig rood verschoven...
+
+159
+00:11:17,720 --> 00:11:21,980
+...en dringen ze toch door de aardse atmosfeer heen op een lagere frequentie.
+
+160
+00:11:22,840 --> 00:11:26,280
+De Hobby-Eberley-telescoop staat dan ook gewoon op aarde...
+
+161
+00:11:26,280 --> 00:11:29,160
+...in Texas, de Verenigde Staten wel te verstaan.
+
+162
+00:11:29,860 --> 00:11:35,420
+Lyman Alpha emitters zijn trouwens onderwerp voor een toekomstige aflevering van deze podcast.
+
+163
+00:11:36,100 --> 00:11:38,540
+En nu verder veel succes...
+
+164
+00:11:38,540 --> 00:11:39,780
+...en tot de volgende keer.
+
+165
+00:11:39,780 --> 00:11:41,800
+...put je spacesuits en helmet op en en move uit.
+

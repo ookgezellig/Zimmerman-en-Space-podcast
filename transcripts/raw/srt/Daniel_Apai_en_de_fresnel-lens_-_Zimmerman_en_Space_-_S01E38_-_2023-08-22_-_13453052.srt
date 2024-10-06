@@ -1,0 +1,660 @@
+1
+00:00:00,000 --> 00:00:02,400
+U luistert naar Zimmerman & Space.
+
+2
+00:00:03,100 --> 00:00:05,340
+Hé, waar gaan we het vandaag eens over hebben, Hans?
+
+3
+00:00:05,600 --> 00:00:10,780
+De James Webb Ruimtetelescoop heeft de eerste verjaardag alweer ruimschoots achter zich.
+
+4
+00:00:11,000 --> 00:00:11,800
+Happy birthday.
+
+5
+00:00:12,260 --> 00:00:15,700
+Buitengewoon scherpe foto's komen nu en dan in de pers...
+
+6
+00:00:15,700 --> 00:00:19,620
+en we kijken verder terug in de tijd dan ooit eerder mogelijk was.
+
+7
+00:00:20,700 --> 00:00:25,160
+Het is ook vrij zeker dat er nog jarenlang wetenschap bedreven zal gaan worden...
+
+8
+00:00:25,160 --> 00:00:27,060
+met dit fantastische instrument.
+
+9
+00:00:27,060 --> 00:00:30,380
+Ik hoor dat er een maar aankomt.
+
+10
+00:00:31,460 --> 00:00:35,500
+Maar we kunnen ons afvragen wat er nodig is...
+
+11
+00:00:35,500 --> 00:00:38,960
+om de James Webb Ruimtetelescoop ooit nog te overtreffen.
+
+12
+00:00:39,740 --> 00:00:43,060
+Met een budgetoverschrijding van 9 miljard dollar...
+
+13
+00:00:43,940 --> 00:00:46,060
+ruim 20 jaar werk...
+
+14
+00:00:46,940 --> 00:00:50,060
+en een bijna 15 jaar uitgestelde lancering...
+
+15
+00:00:50,640 --> 00:00:55,060
+beschikt de astronomie nu over een 6500-kilowegend gevaarte...
+
+16
+00:00:55,060 --> 00:00:57,980
+van 21 bij 14 meter.
+
+17
+00:00:58,620 --> 00:01:01,100
+Hoe komen we hier nog overheen?
+
+18
+00:01:01,340 --> 00:01:04,560
+Door er simpelweg meer geld tegenaan te gooien?
+
+19
+00:01:05,400 --> 00:01:06,320
+Misschien niet.
+
+20
+00:01:06,900 --> 00:01:09,440
+Aan sommige ontwikkelingen zitten ook grenzen.
+
+21
+00:01:10,220 --> 00:01:11,960
+Neem bijvoorbeeld een computerchip.
+
+22
+00:01:12,780 --> 00:01:16,660
+Er is een ondergrens aan de grootte van de transistoren op zo'n chip.
+
+23
+00:01:17,500 --> 00:01:20,060
+De geschiedenis van de computerchip is bijzonder interessant...
+
+24
+00:01:20,060 --> 00:01:22,300
+en nog geen eeuw gaande.
+
+25
+00:01:22,960 --> 00:01:25,460
+De transistor zelf stamt nog maar uit 1947...
+
+26
+00:01:26,460 --> 00:01:30,820
+en een chip is feitelijk ook maar een pakket transistoren op één drager.
+
+27
+00:01:30,940 --> 00:01:33,660
+Dat klinkt eigenlijk redelijk logisch.
+
+28
+00:01:33,880 --> 00:01:37,960
+Zo rond 1960 kwamen geïntegreerde circuits op de markt...
+
+29
+00:01:37,960 --> 00:01:41,460
+waarbij NASA in de vorm van het Apollo ruimtevaartprogramma...
+
+30
+00:01:41,460 --> 00:01:45,080
+op dat moment één van de grootste consumenten van die chips was.
+
+31
+00:01:45,080 --> 00:01:51,000
+Deze chips werden ontwikkeld door Fairchild Semiconductor.
+
+32
+00:01:51,860 --> 00:01:56,880
+Zo rond 1970 waren zogenaamde MOSFET-transistoren op chips...
+
+33
+00:01:56,880 --> 00:01:59,520
+rond de 10 micrometer in doorsnede.
+
+34
+00:01:59,880 --> 00:02:02,900
+Dat klinkt misschien al indrukwekkend klein...
+
+35
+00:02:02,900 --> 00:02:07,380
+maar sindsdien werden transistoren alsmaar kleiner en kleiner en kleiner.
+
+36
+00:02:08,520 --> 00:02:14,080
+Nu, in 2023, zitten we met onze transistoren zo rond de 5 nanometer.
+
+37
+00:02:15,080 --> 00:02:16,040
+Wauw!
+
+38
+00:02:16,280 --> 00:02:20,400
+IBM zegt transistoren van 2 nanometer te hebben ontwikkeld...
+
+39
+00:02:20,400 --> 00:02:23,680
+maar die zien we nog niet op commerciële schaal gebruikt worden.
+
+40
+00:02:23,840 --> 00:02:24,860
+Oh, dat is niet best.
+
+41
+00:02:25,340 --> 00:02:28,380
+In de Apple M2 Ultra microprocessor...
+
+42
+00:02:28,380 --> 00:02:31,680
+die u mogelijk al in uw desktopcomputer heeft zitten...
+
+43
+00:02:31,680 --> 00:02:35,040
+vinden we 134 miljard transistoren...
+
+44
+00:02:35,040 --> 00:02:37,720
+van allemaal ongeveer 5 nanometer breed.
+
+45
+00:02:38,360 --> 00:02:38,960
+Wauw!
+
+46
+00:02:39,200 --> 00:02:42,560
+Toch is het maar de vraag of we nog veel kleiner kunnen gaan...
+
+47
+00:02:42,560 --> 00:02:44,460
+met onze transistorproductie.
+
+48
+00:02:44,460 --> 00:02:45,980
+Dat is vervelend.
+
+49
+00:02:46,620 --> 00:02:50,780
+Een siliciumatoom zelf heeft een breedte van ongeveer 0,2 nanometer...
+
+50
+00:02:51,340 --> 00:02:57,000
+dus u kunt wel nagaan dat het einde van de krimp van siliciumtransistoren in zicht komt.
+
+51
+00:02:57,120 --> 00:02:58,100
+Well, I don't see it.
+
+52
+00:02:58,100 --> 00:03:02,060
+Bij een bepaalde grootte werkt de natuurkunde nu eenmaal niet meer mee.
+
+53
+00:03:02,980 --> 00:03:07,220
+Hier nu is het dat technologie overschakelt op iets geheel nieuws.
+
+54
+00:03:07,380 --> 00:03:07,540
+Tada!
+
+55
+00:03:08,180 --> 00:03:13,460
+In het geval van computerchips zou u kunnen denken aan transistoren van een ander materiaal...
+
+56
+00:03:13,460 --> 00:03:14,800
+zoals bijvoorbeeld bismut.
+
+57
+00:03:15,480 --> 00:03:17,480
+Of het stapelen van meerdere chips.
+
+58
+00:03:17,480 --> 00:03:20,640
+Of de quantumcomputer natuurlijk.
+
+59
+00:03:20,640 --> 00:03:22,080
+Oh ja, inderdaad.
+
+60
+00:03:22,220 --> 00:03:25,380
+Allemaal zaken waar op dit moment hard aan gewerkt wordt.
+
+61
+00:03:26,400 --> 00:03:30,840
+Net zoals we ooit van de vacuumbuizen overstapten op transistoren...
+
+62
+00:03:30,840 --> 00:03:36,820
+komt onherroepelijk het moment dat we ook de conventionele siliconenchips achter ons zullen laten.
+
+63
+00:03:37,340 --> 00:03:39,200
+Dat is nu eenmaal de aard van de mens.
+
+64
+00:03:39,580 --> 00:03:40,860
+Het is nooit genoeg.
+
+65
+00:03:40,860 --> 00:03:44,760
+Maar even terug naar onze ruimtetelescopen.
+
+66
+00:03:44,820 --> 00:03:45,360
+Dat is goed.
+
+67
+00:03:45,540 --> 00:03:46,800
+Hoe moet het daar nu mee?
+
+68
+00:03:47,400 --> 00:03:51,620
+De James Webb ruimtetelescoop is al min of meer aan de grenzen gekomen...
+
+69
+00:03:51,620 --> 00:03:54,180
+van wat haalbaar is met spiegeltechnologie.
+
+70
+00:03:54,980 --> 00:03:58,120
+21 bij 14 meter, dat is een immens ding.
+
+71
+00:03:59,460 --> 00:04:03,180
+Deze ruimtetelescoop was al een huzarenstukje om te lanceren...
+
+72
+00:04:03,900 --> 00:04:06,680
+en in de ruimte uit te vouwen en te kalibreren.
+
+73
+00:04:06,680 --> 00:04:14,300
+In de staat Arizona in de Verenigde Staten vinden we de Universiteit van Arizona.
+
+74
+00:04:15,040 --> 00:04:19,500
+Aan deze universiteit is astrofysicus Daniel Apai werkzaam.
+
+75
+00:04:20,640 --> 00:04:25,060
+Daniel werkt, onder andere voor NASA, aan de grenzen van wat er mogelijk is...
+
+76
+00:04:25,060 --> 00:04:28,080
+om onderzoek naar buitenaardse werelden te verbeteren.
+
+77
+00:04:28,980 --> 00:04:33,040
+Ook doet Daniel zelf als astrobioloog onderzoek naar exoplaneten.
+
+78
+00:04:33,040 --> 00:04:39,240
+In 2016, toen de James Webb ruimtetelescoop dus al gebouwd was...
+
+79
+00:04:39,240 --> 00:04:42,060
+en een extensieve testfase inging...
+
+80
+00:04:42,060 --> 00:04:47,320
+vroeg fabrikant Northrop Grumman aan Daniel en nog een dozijn experts van NASA...
+
+81
+00:04:47,320 --> 00:04:49,040
+en daaraan verwante onderzoeksinstituten...
+
+82
+00:04:49,900 --> 00:04:54,460
+om in Los Angeles te vergaderen over de toekomst van de ruimtetelescoop.
+
+83
+00:04:55,320 --> 00:04:58,040
+Northrop Grumman had eigenhandig kunnen concluderen...
+
+84
+00:04:58,040 --> 00:05:03,040
+dat de grenzen min of meer overschreden waren met de constructie van de James Webb ruimtetelescoop...
+
+85
+00:05:03,720 --> 00:05:07,040
+en was benieuwd wat de experts zouden aandragen als alternatieven.
+
+86
+00:05:08,460 --> 00:05:10,340
+Want het mogen duidelijk zijn...
+
+87
+00:05:10,340 --> 00:05:14,040
+nog grotere spiegels op een nog groter oppervlak in de ruimte uitvouwen...
+
+88
+00:05:14,560 --> 00:05:17,920
+brengt te veel kosten en te veel risico's met zich mee.
+
+89
+00:05:19,520 --> 00:05:25,760
+Om licht te focusseren op een gevoelige sensor kunnen we spiegels of lenzen gebruiken.
+
+90
+00:05:25,900 --> 00:05:27,380
+Ja, dat is logisch.
+
+91
+00:05:27,380 --> 00:05:31,040
+Hoe groter en dus ook zwaarder deze lenzen of spiegels worden...
+
+92
+00:05:31,040 --> 00:05:34,320
+hoe moeilijker ze te construeren en te lanceren worden.
+
+93
+00:05:34,800 --> 00:05:36,860
+En dus ook duurder en riskanter.
+
+94
+00:05:38,440 --> 00:05:41,380
+Conventionele lenzen, zoals bijvoorbeeld in een loop of in een bril...
+
+95
+00:05:41,940 --> 00:05:45,320
+gebruiken een natuurkundig effect dat bekend staat als refractie.
+
+96
+00:05:45,700 --> 00:05:48,460
+Dit vraagt, denk ik, om wat extra uitleg.
+
+97
+00:05:48,880 --> 00:05:53,720
+Lichtstralen buigen daarbij af wanneer ze van het ene medium in het andere terechtkomen.
+
+98
+00:05:53,720 --> 00:05:59,200
+Dit is ook de reden dat lichtstralen afbuigen in water, bijvoorbeeld in een aquarium.
+
+99
+00:06:00,260 --> 00:06:04,660
+Maar conventionele lenzen worden ook boller, zwaarder en duurder...
+
+100
+00:06:04,660 --> 00:06:06,220
+naarmate we ze groter maken.
+
+101
+00:06:07,280 --> 00:06:11,060
+Er is nog een technologie, de diffractie- of Fresnel-lens.
+
+102
+00:06:11,060 --> 00:06:14,720
+Dergelijke lenzen kennen we al sinds 1819...
+
+103
+00:06:14,720 --> 00:06:20,440
+toen ze werden uitgevonden door de Franse ingenieur en natuurkundige Augustin-Jean Fresnel.
+
+104
+00:06:21,220 --> 00:06:23,720
+Deze diffractielensen werden door Fresnel uitgevonden...
+
+105
+00:06:24,580 --> 00:06:27,720
+om efficiënte en goedkope lenzen te bouwen voor vuurtorens.
+
+106
+00:06:28,720 --> 00:06:33,940
+De Fresnel-lens is in tegenstelling tot een conventionele lens bijna helemaal plat.
+
+107
+00:06:33,940 --> 00:06:40,260
+Dan weten we al gelijk dat deze lens lichter, goedkoper en gemakkelijker te lanceren zal zijn.
+
+108
+00:06:40,440 --> 00:06:42,020
+Aha, zo zit het dus!
+
+109
+00:06:42,180 --> 00:06:45,300
+Op de Fresnel-lens vinden we concentrische ringen...
+
+110
+00:06:45,300 --> 00:06:48,440
+die hetzelfde effect bewerkstelligen als een bollenlens...
+
+111
+00:06:48,440 --> 00:06:50,480
+maar dan min of meer in het platte vlak.
+
+112
+00:06:51,280 --> 00:06:54,180
+In eerste instantie klinkt het natuurlijk ideaal...
+
+113
+00:06:54,180 --> 00:06:57,580
+maar er kleeft wel een nadeel aan de oorspronkelijke Fresnel-lens.
+
+114
+00:06:57,920 --> 00:07:00,120
+En dat is de vervorming van het beeld.
+
+115
+00:07:00,240 --> 00:07:01,220
+Oh, dat is niet best.
+
+116
+00:07:01,360 --> 00:07:05,360
+Voor zoiets als een vuurtoren of toneellicht geeft het allemaal niet zo...
+
+117
+00:07:05,360 --> 00:07:08,120
+maar voor een ruimtetelescoop is het wel vervelend...
+
+118
+00:07:08,120 --> 00:07:11,240
+als de lens in kwestie het beeld ernstig vertekent.
+
+119
+00:07:13,300 --> 00:07:19,900
+Na de bijeenkomst in 2016 was Daniel Apai gefascineerd door het idee van de Fresnel-lens...
+
+120
+00:07:19,900 --> 00:07:24,140
+en besloot het concept verder te onderzoeken aan de Universiteit van Arizona.
+
+121
+00:07:25,140 --> 00:07:30,500
+Hij ging samenwerken met Thomas Milster, expert op het gebied van de diffractielens.
+
+122
+00:07:31,520 --> 00:07:34,520
+In plaats van de concentrische ringen van Fresnel...
+
+123
+00:07:34,520 --> 00:07:40,460
+etchten Apai en Milster complexe patronen op microscopische schaal op plastic en glas.
+
+124
+00:07:40,760 --> 00:07:47,360
+In augustus 2018 presenteerde zij een eerste prototype hoge kwaliteit Fresnel-lens...
+
+125
+00:07:47,360 --> 00:07:50,640
+van 5 centimeter diameter aan geïnteresseerden.
+
+126
+00:07:50,640 --> 00:07:54,960
+Dit was niet langer het vage beeld van de eerste Fresnel-lensen...
+
+127
+00:07:54,960 --> 00:07:58,280
+maar een haarscherp gefocuseerd beeld.
+
+128
+00:07:59,040 --> 00:08:01,960
+En door het ontwerp van de platte lens is het veel eenvoudiger...
+
+129
+00:08:02,540 --> 00:08:08,140
+een grotere Fresnel-lens met een betere lichtopbrengst en scheidend vermogen te construeren.
+
+130
+00:08:08,800 --> 00:08:13,980
+Op dit moment wordt gewerkt aan een Fresnel-lens met een diameter van 24 centimeter.
+
+131
+00:08:13,980 --> 00:08:20,300
+Het project staat inmiddels bekend als project Nautilus en heeft een eigen webpagina...
+
+132
+00:08:20,300 --> 00:08:23,700
+waarnaar u een link vindt in de show notes van deze aflevering.
+
+133
+00:08:24,740 --> 00:08:28,300
+Apai en collega's verwachten dat er een ruimtetelescoop kan worden gebouwd...
+
+134
+00:08:28,300 --> 00:08:32,440
+met Fresnel-lensen met een diameter van 8,5 meter.
+
+135
+00:08:33,060 --> 00:08:36,980
+Ondertussen blijft zo'n lens echter slechts een halve centimeter dik...
+
+136
+00:08:36,980 --> 00:08:39,760
+waardoor de technologie gemakkelijk drie keer lichter is...
+
+137
+00:08:39,760 --> 00:08:44,040
+dan vergelijkbare spiegels aan boord van de James Webb Ruimtetelescoop.
+
+138
+00:08:44,860 --> 00:08:45,840
+En er is nog meer.
+
+139
+00:08:46,380 --> 00:08:48,300
+Want de spiegels van de James Webb Ruimtetelescoop...
+
+140
+00:08:49,140 --> 00:08:52,800
+waren duur, ingewikkeld en tijdrovend om te bouwen.
+
+141
+00:08:52,800 --> 00:08:57,860
+De Fresnel-lensen van Apai daarentegen zijn veel simpeler te construeren...
+
+142
+00:08:57,860 --> 00:08:59,720
+in een proces van massaproductie.
+
+143
+00:09:00,440 --> 00:09:04,400
+En ze zijn volgens Apai ook veel minder gevoelig voor optische fouten.
+
+144
+00:09:05,280 --> 00:09:08,440
+In plaats van één Fresnel-lens de ruimte in te sturen...
+
+145
+00:09:08,440 --> 00:09:10,660
+wordt nu gedacht aan een ruimtetelescoop...
+
+146
+00:09:10,660 --> 00:09:14,400
+die uit 35 van dergelijke diffractielenzen bestaat.
+
+147
+00:09:14,960 --> 00:09:18,760
+Die kunnen allemaal los van elkaar in een constellatie zweven.
+
+148
+00:09:19,420 --> 00:09:21,200
+Mocht één lens het begeven...
+
+149
+00:09:21,200 --> 00:09:23,580
+dan zijn er nog altijd 34 lenzen over.
+
+150
+00:09:24,520 --> 00:09:28,260
+De beelden van al deze losse Fresnel-lenzen en hun sensoren...
+
+151
+00:09:28,260 --> 00:09:31,220
+kunnen met computertechnologie bij elkaar opgeteld worden...
+
+152
+00:09:31,220 --> 00:09:33,380
+tot een buitengewoon precies plaatje.
+
+153
+00:09:33,960 --> 00:09:38,060
+Een dergelijke telescoop zou daarmee vele malen nauwkeuriger kunnen zijn...
+
+154
+00:09:38,060 --> 00:09:40,200
+dan de James Webb Ruimtetelescoop...
+
+155
+00:09:40,200 --> 00:09:43,980
+en wellicht de vondst van buitenaardsleven kunnen mogelijk maken.
+
+156
+00:09:44,820 --> 00:09:47,260
+Uiteraard zullen we nog vele jaren moeten wachten...
+
+157
+00:09:47,260 --> 00:09:51,880
+voordat Apais' constellatie van Fresnel-lensen daadwerkelijk gelanceerd wordt...
+
+158
+00:09:51,880 --> 00:09:54,320
+en foto's maakt voor de astronomie.
+
+159
+00:09:54,320 --> 00:09:57,380
+Toch is het indrukwekkend en ook verheugend, vind ik...
+
+160
+00:09:57,380 --> 00:10:00,500
+dat er nu al aan dergelijke ontwikkelingen gewerkt wordt.
+
+161
+00:10:01,200 --> 00:10:03,540
+Terwijl de grote resultaten van de zoektochten...
+
+162
+00:10:03,540 --> 00:10:06,740
+met de James Webb Ruimtetelescoop nog staan te gebeuren...
+
+163
+00:10:06,740 --> 00:10:09,900
+zijn er al mensen druk in de weer met onze toekomst.
+
+164
+00:10:10,340 --> 00:10:11,640
+Tot de volgende keer.
+
+165
+00:10:11,640 --> 00:10:18,000
+Gebruik het apparaat de eerste week niet langer dan één uur achter elkaar.
+

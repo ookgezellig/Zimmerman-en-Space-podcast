@@ -1,0 +1,568 @@
+1
+00:00:00,000 --> 00:00:02,700
+Nu laten we een super scientific test maken.
+
+2
+00:00:30,000 --> 00:00:49,740
+De SKA zal hopelijk in 2027 volledig in gebruik kunnen worden genomen.
+
+3
+00:00:49,740 --> 00:00:55,720
+En de antennes van de SKA zullen behalve in Zuid-Afrika ook in Australië komen te staan.
+
+4
+00:00:56,500 --> 00:00:59,260
+En waarom precies daar kunnen we ons afvragen?
+
+5
+00:00:59,260 --> 00:01:00,520
+Inderdaad, hoe kan dat?
+
+6
+00:01:00,680 --> 00:01:06,280
+Ten eerste is het zicht op onze Melkweg beter op het zuidelijk halfrond dan boven onze Evenaar.
+
+7
+00:01:06,560 --> 00:01:12,460
+En ten tweede is het eenvoudiger om radio's stille locaties te vinden ten zuiden van de Evenaar.
+
+8
+00:01:13,420 --> 00:01:18,140
+Voor nog meer radio's stilte zullen we dan moeten uitwerken naar onze buurvrouw La Luna.
+
+9
+00:01:18,140 --> 00:01:21,900
+En een radiotelescoop moeten bouwen op de achterzijde van de maan.
+
+10
+00:01:24,560 --> 00:01:28,640
+Maar goed, daar hebben we het een paar afleveringen geleden al over gehad.
+
+11
+00:01:28,640 --> 00:01:30,140
+Ik wil hier eigenlijk helemaal niet naar luisteren man.
+
+12
+00:01:30,180 --> 00:01:31,580
+Dit is gewoon onzin wat je nu aan het zeggen bent.
+
+13
+00:01:31,780 --> 00:01:38,980
+Het mag duidelijk zijn dat astronomen ambities koesteren om onze Melkweg beter te leren kennen in het radiospectrum.
+
+14
+00:01:39,300 --> 00:01:47,360
+En dan met name het centrum van onze Melkweg, waar we ook al speciale aandacht aan hebben besteed in een eerdere aflevering van deze podcast.
+
+15
+00:01:47,360 --> 00:01:58,680
+Met wat nu al in gebruik is van de Meerkat radiotelescoop, werd onlangs een foto gemaakt van dat centrum van onze Melkweg met meer detail dan ooit tevoren.
+
+16
+00:01:59,900 --> 00:02:07,260
+En op deze foto is iets te zien wat een nieuw licht doet schijnen op een fenomeen dat we al sinds 1984 kennen.
+
+17
+00:02:07,260 --> 00:02:12,780
+In dat jaar publiceerde astronoom Farad Youssef Zadeh een artikel met de titel
+
+18
+00:02:12,780 --> 00:02:16,420
+Large, highly organized radio structures near the galactic center.
+
+19
+00:02:16,420 --> 00:02:27,500
+Met de Very Large Array radiotelescoop werd in die tijd gekeken naar het centrum van onze Melkweg op een radiogolflengte van 20 centimeter, oftewel 1.5 gigahertz.
+
+20
+00:02:28,080 --> 00:02:31,900
+Als u ook de frequentie naar de golflengte heen en weer wilt kunnen rekenen...
+
+21
+00:02:31,900 --> 00:02:33,200
+Pak de rekenmachine er maar bij.
+
+22
+00:02:33,200 --> 00:02:35,940
+De relatie is f keer lambda is c.
+
+23
+00:02:36,280 --> 00:02:36,800
+Tuurlijk!
+
+24
+00:02:36,920 --> 00:02:41,640
+En daarbij is c de lichtsnelheid, f de frequentie en lambda de golflengte.
+
+25
+00:02:41,640 --> 00:02:50,120
+Voor een golflengte van 20 centimeter kunnen we de frequentie uitrekenen door de lichtsnelheid, c, te delen door die golflengte, lambda.
+
+26
+00:02:51,400 --> 00:03:01,140
+Dus dat is in dit geval 299.792.458 meter per seconde gedeeld door 0.2 meter.
+
+27
+00:03:01,140 --> 00:03:06,420
+Interessant is om te zien hoe de eenheden in zo'n geval ook precies gaan kloppen.
+
+28
+00:03:06,420 --> 00:03:14,180
+Want als we meters per seconde delen door meters, kunnen we die meters tegen elkaar wegstrepen en houden we een getal per seconde over.
+
+29
+00:03:14,740 --> 00:03:16,840
+En dat is precies wat een frequentie is.
+
+30
+00:03:16,980 --> 00:03:21,260
+Maar in plaats van per seconde zeggen we dan hertz, maar dat komt op hetzelfde neer.
+
+31
+00:03:21,260 --> 00:03:30,480
+Alleen omdat ons antwoord uit zoveel getallen voor de comma bestaat, delen we het door een miljard om onze uitkomst in gigahertz uit te kunnen drukken.
+
+32
+00:03:31,040 --> 00:03:35,220
+Maar even weer terug naar de meerkatfoto's van het centrum van onze melkweg.
+
+33
+00:03:35,340 --> 00:03:36,720
+Ik begon al in slaap te vallen.
+
+34
+00:03:36,720 --> 00:03:44,340
+Op de foto's werden filamenten, zeg maar slierten, zichtbaar die loodrecht staan op het platte vlak van onze melkweg.
+
+35
+00:03:45,380 --> 00:03:52,160
+Youssef Zadet en collega's bleven na die ontdekking in 1984 de individuele filamenten onderzoeken.
+
+36
+00:03:52,420 --> 00:03:57,200
+Maar het werd nooit duidelijk waar deze slierten van radiostraling door werden veroorzaakt.
+
+37
+00:03:57,200 --> 00:04:07,900
+Op de recentere foto's van de Meerkat-telescoop werden door de verbetering in kwaliteit van de ontvangers veel, maar dan ook veel meer slierten zichtbaar.
+
+38
+00:04:09,580 --> 00:04:16,620
+Als u het met eigen ogen wilt zien, is het misschien het beste om het originele research-artikel van dit jaar te downloaden.
+
+39
+00:04:17,100 --> 00:04:18,780
+Dit is een pdf met de titel
+
+40
+00:04:18,780 --> 00:04:23,100
+Statistical properties of the population of the galactic center filaments.
+
+41
+00:04:23,580 --> 00:04:26,800
+The spectral index and equipartition magnetic field.
+
+42
+00:04:26,800 --> 00:04:30,260
+Van hoofdauteur Youssef Zadet en collega's.
+
+43
+00:04:30,920 --> 00:04:37,640
+U kunt het gratis vinden op de ArcSiv pre-press server en een link vindt u uiteraard in de show notes van deze aflevering.
+
+44
+00:04:38,400 --> 00:04:42,580
+De bizarre foto's met slierten erop staan een beetje onderin het artikel.
+
+45
+00:04:43,380 --> 00:04:49,860
+Nu weet ik dat ik ook een aantal visueel beperkte luisteraars heb die niet in staat zijn de foto's te bekijken.
+
+46
+00:04:50,440 --> 00:04:52,880
+Ik zal mijn best doen te beschrijven hoe het eruit ziet.
+
+47
+00:04:52,880 --> 00:04:59,100
+Het centrum van onze melkweg kunnen we ons voorstellen als een op zijn kant liggende vlek.
+
+48
+00:04:59,340 --> 00:05:02,560
+Een beetje een rommelige ovaal met een bobbel in het midden.
+
+49
+00:05:03,320 --> 00:05:05,140
+Een ei dat op zijn kant ligt.
+
+50
+00:05:06,060 --> 00:05:11,880
+De radioslierten die worden waargenomen lopen als strepen van boven naar onder dwars door dat ei.
+
+51
+00:05:12,500 --> 00:05:14,140
+En ook links en rechts ervan.
+
+52
+00:05:14,140 --> 00:05:19,360
+Ook deze slierten vinden we geconcentreerd in het midden van onze melkweg.
+
+53
+00:05:20,580 --> 00:05:27,940
+Rechtsonder op de foto aan de rand waar nog sterren voorkomen in onze melkweg zien we overigens ook twee enorme bubbels.
+
+54
+00:05:28,540 --> 00:05:31,140
+Dat zijn radio uitzendingen van supernova resten.
+
+55
+00:05:32,160 --> 00:05:37,140
+Sterren die miljoenen jaren geleden ontploften en nog een schil van radiostraling uitstralen.
+
+56
+00:05:37,140 --> 00:05:47,920
+Om zo'n gedetailleerde foto te kunnen maken werd informatie van ongeveer 144 uur aan radio observaties samengevoegd tot één beeld.
+
+57
+00:05:48,600 --> 00:05:56,760
+In totaal werden 320 losse foto's gemaakt waarvan er 269 gecombineerd konden worden tot één scherper plaatje.
+
+58
+00:05:56,760 --> 00:06:02,140
+Deze waarnemingen werden gedaan in de zogenaamde L-band van het radiospectrum.
+
+59
+00:06:02,380 --> 00:06:07,040
+Tussen de 856 megahertz en 1712 megahertz.
+
+60
+00:06:07,360 --> 00:06:10,500
+Met een centrum op 1,28 gigahertz.
+
+61
+00:06:10,860 --> 00:06:13,560
+1280 megahertz als u dat liever zegt.
+
+62
+00:06:14,380 --> 00:06:26,100
+De foto waar de lijnen allemaal goed op zichtbaar zijn omspant een gedeelte van onze sterrenhemel met een breedte van ongeveer 3,5 graden en een hoogte van 2,5 graden aan onze sterrenhemel.
+
+63
+00:06:26,760 --> 00:06:33,100
+Een grote uitdaging bij het bedrijven van wetenschap op zo'n foto is de oneffenheid van de achtergrond.
+
+64
+00:06:33,780 --> 00:06:40,640
+Dit is namelijk een dusdanig groot gedeelte van de sterrenhemel dat niet elke sliert dezelfde achtergrond heeft.
+
+65
+00:06:41,320 --> 00:06:51,440
+Om toch zinnige conclusies te kunnen trekken uit de gemeten spectra van de individuele slierten moest die achtergrondinformatie dus eruit gefilterd worden.
+
+66
+00:06:51,440 --> 00:06:58,160
+Er werden ook spaghettiachtige kortere lijnen zichtbaar dichter bij het centrum van de melkweg.
+
+67
+00:06:58,860 --> 00:07:09,140
+Deze worden in verband gebracht met supernova restanten en de waterstof of moleculaire H2-wolken die we in deze stervormende regio in onze melkweg aantreffen.
+
+68
+00:07:09,140 --> 00:07:17,940
+Deze spaghettiachtige structuren worden dus als separaat verschijnsel van de langere radiofilamenten gezien door de onderzoekers.
+
+69
+00:07:18,980 --> 00:07:27,600
+Extra merkwaardig is dat veel van de filamenten in groepjes voorkomen als snaren van een harp die parallel naast elkaar gespannen staan.
+
+70
+00:07:27,600 --> 00:07:36,320
+Er zijn ook twee bijzonder goed zichtbare slierten en die kregen de naam slang en muis.
+
+71
+00:07:37,160 --> 00:07:44,080
+In de show notes van deze podcast aflevering vindt u een link naar een artikel waar de slang en de muis goed inzichtbaar zijn.
+
+72
+00:07:44,080 --> 00:07:52,860
+Met de nieuwe gedetailleerde waarnemingen kunnen astronomen voor het eerst goed kijken naar verschillen en overeenkomsten tussen de filamenten,
+
+73
+00:07:52,960 --> 00:08:01,600
+bijvoorbeeld in wat er voorkomt in de spectra, de richting van de lijnen ten opzichte van het galactisch vlak en ook magnetische eigenschappen van de lijnen.
+
+74
+00:08:03,200 --> 00:08:09,180
+Direct al viel op dat de spectra van de filamenten ernstig afwijken van die van supernova resten.
+
+75
+00:08:09,180 --> 00:08:20,520
+Supernova's schijnen ook helder in de radiohemel, maar de sterke verschillen in spectra de informatie doen vermoeden dat de filamenten een andere oorsprong kennen dan supernova's.
+
+76
+00:08:21,500 --> 00:08:29,000
+Nu weten we dat zich precies in het midden van onze melkweg een superzwaar zwart gat bevindt, Sagittarius A-star.
+
+77
+00:08:29,600 --> 00:08:31,280
+Misschien heeft u de foto wel gezien.
+
+78
+00:08:31,280 --> 00:08:40,500
+Alhoewel de vreemde lijnen niet precies in de richting wijzen van dit zwarte gat, wordt wel vermoed dat er een verband bestaat tussen beide verschijnselen.
+
+79
+00:08:41,220 --> 00:08:50,980
+Voordat we daarover door gaan emmeren is het misschien nuttig een beeld voor ons geestes oog te construeren van hoe het daaruit ziet daar in het centrum van onze melkweg.
+
+80
+00:08:52,020 --> 00:08:59,920
+Allereerst is daar dat superzware zwarte gat in het centrum wat onlangs goed op de foto kwam met behulp van de Event Horizon Telescoop.
+
+81
+00:08:59,920 --> 00:09:05,280
+Daaromheen vinden we in het platte vlak het spiraalstelsel dat onze melkweg is.
+
+82
+00:09:05,960 --> 00:09:13,640
+De schijf van sterren heeft een diameter van circa 60.000 lichtjaar en een dikte van slechts 6.000 lichtjaar.
+
+83
+00:09:14,320 --> 00:09:23,780
+Onze zon en daarmee onze planeet aarde bevindt zich zo'n 26.000 lichtjaar verwijderd van het galactisch centrum, maar maakt dus ook onderdeel uit van de melkweg.
+
+84
+00:09:23,780 --> 00:09:30,780
+Wat we op een heldere avond soms als de melkweg waarnemen, is dus het grootste gedeelte van de melkweg.
+
+85
+00:09:32,140 --> 00:09:35,780
+In onze melkweg vinden we in het centrum een paar vreemde verschijnselen.
+
+86
+00:09:36,820 --> 00:09:44,620
+Aan weerszijden van het zwarte gat in het centrum, dus onder en boven, zien we twee enorme bollen die we ook wel de Fermi-bubbels noemen.
+
+87
+00:09:44,620 --> 00:09:52,700
+Deze werden zichtbaar in het gamma-spectrum en steken tot zo'n 25.000 lichtjaar onder en boven de melkweg uit.
+
+88
+00:09:53,580 --> 00:09:58,620
+We kennen de gamma-bubbels sinds 2010 toen ze werden ontdekt met de Fermi-ruimtetelescoop.
+
+89
+00:10:00,280 --> 00:10:06,860
+Los daarvan zijn er ook dergelijke structuren onder en boven het galactisch centrum waargenomen in het radiospectrum.
+
+90
+00:10:06,860 --> 00:10:16,100
+Deze radiobubbels steken ieder zo'n 700 lichtjaar boven en onder onze melkweg uit en zijn dus een stuk kleiner dan de Fermi-bubbels.
+
+91
+00:10:17,080 --> 00:10:25,740
+En nu weten we sinds 1984 dus ook dat er allemaal vreemde lijnen in de buurt van dit galactisch centrum van boven naar onder te vinden zijn.
+
+92
+00:10:26,520 --> 00:10:30,340
+Deze lijnen zijn zichtbaar in het radio- en in het röntgenspectrum.
+
+93
+00:10:30,340 --> 00:10:38,840
+Nu in 2023 weten we dat er heel veel van dit soort lijnen bestaan die ook een soort onderlinge structuren lijken te vertonen.
+
+94
+00:10:40,180 --> 00:10:47,840
+De grote vraag is dan dus, kunnen we de bubbels, de lijnen en het superzware zwarte gat op eenvallige manier met elkaar in verbinding brengen?
+
+95
+00:10:48,220 --> 00:10:52,360
+Al deze structuren vinden we immers in het centrum van onze melkweg.
+
+96
+00:10:53,000 --> 00:10:58,280
+Wat Youssef Zade en collega's hebben gedaan is kijken naar het verloop van de filamenten.
+
+97
+00:10:58,280 --> 00:11:04,840
+De spectrale eigenschappen van de lijnen veranderen naarmate ze verder van het galactisch centrum afstaan.
+
+98
+00:11:05,520 --> 00:11:09,040
+In elke lijn zien we dus een verloop van het ene punt naar het andere.
+
+99
+00:11:09,680 --> 00:11:13,700
+Dit zou verklaard kunnen worden met iets wat synchroton-cooling wordt genoemd.
+
+100
+00:11:14,340 --> 00:11:20,380
+De theorie is dan dat er een soort van wind van kosmische straling vanuit onze melkweg naar buiten straalt.
+
+101
+00:11:21,160 --> 00:11:25,040
+De deeltjes, het verst van het centrum, zijn dus ook het oudst.
+
+102
+00:11:25,040 --> 00:11:34,720
+Als deze kosmische straling langs magneetlijnen beweegt en verouderd, zou het goed kunnen zijn dat de waargenomen verschillen in spectra ontstaan.
+
+103
+00:11:35,720 --> 00:11:42,860
+Deze theorie is bovendien consistent met de radiobubbels die eveneens door Youssef Zade en collega's werden ontdekt.
+
+104
+00:11:42,860 --> 00:11:53,080
+We weten nog niet wat de oorzaak is van die uitstroom van kosmische straling, maar de kans is redelijk groot dat we daar het zwarte gat eens streng voor moeten aankijken.
+
+105
+00:11:53,680 --> 00:12:00,980
+De auteurs van het artikel dat dit jaar verscheen achten die kans groter dan dat supernova's als schuldigen moeten worden aangewezen.
+
+106
+00:12:00,980 --> 00:12:07,760
+In de populair wetenschappelijke literatuur horen we keer op keer dat niks uit een zwart gat kan ontsnappen.
+
+107
+00:12:07,960 --> 00:12:12,640
+Maar de werkelijkheid is dat een zwart gat juist voor een hoop onheil zorgt in de buurt.
+
+108
+00:12:12,640 --> 00:12:22,440
+Als een deel van de omliggende materie, of dat nou sterren, gaswolken, stofwolken of andere zwarte gaten zijn, aangetrokken wordt, zorgt dat voor een hoop frictie.
+
+109
+00:12:25,340 --> 00:12:35,340
+De materie die dan misschien niet direct verzwolgen wordt, kan dan extreem vervormd en of verhit worden, waarbij allerlei andere natuurkundige processen gestart worden.
+
+110
+00:12:35,960 --> 00:12:42,020
+Als gevolg van dit soort frictie zou in het verleden een hoop kosmische stralingen de ronde kunnen zijn gestrooid.
+
+111
+00:12:42,640 --> 00:12:46,060
+Maar het laatste is er uiteraard nog lang niet over gezegd.
+
+112
+00:12:46,540 --> 00:12:52,520
+De radioastronomie maakt enorme stappen vooruit, getuigen bijvoorbeeld de recente foto's van zwarte gaten.
+
+113
+00:12:53,220 --> 00:13:02,060
+Als die square kilometer array, waar we het in het begin al over hadden, werkelijkheid is, kunnen we nog veel meer leren over de radio sterrenhemel.
+
+114
+00:13:02,680 --> 00:13:06,740
+Antwoorden op vragen zoals wat deze slierten zijn en hoe ze ontstaan.
+
+115
+00:13:06,740 --> 00:13:12,740
+En er zullen vast en zeker weer nieuwe vragen worden opgeroepen als nieuwe verschijnselen waargenomen worden.
+
+116
+00:13:13,780 --> 00:13:20,740
+Ik kan me tot slot voorstellen dat een enkeling van u bijvoorbeeld deze zomervakantie eens wat meer wil lezen over sterrenkunde.
+
+117
+00:13:21,900 --> 00:13:28,040
+Als u bijvoorbeeld wat naar het zuiden reist, kunt u wellicht met eigen oog een blik werpen op het centrum van onze melkweg.
+
+118
+00:13:28,760 --> 00:13:33,740
+Ik vind zelf de zomer altijd een mooie tijd om wat meer tijd te nemen voor het kijken naar de sterrenhemel.
+
+119
+00:13:33,740 --> 00:13:35,840
+Hier zijn wat tips.
+
+120
+00:13:37,040 --> 00:13:40,940
+Gratis te downloaden zijn twee pdf's van OpenStax.
+
+121
+00:13:41,540 --> 00:13:47,700
+Dit zijn Engelstalige cursusboeken over de sterrenkunde, zowel voor schoolonderwijs als voor zelfstudie.
+
+122
+00:13:48,320 --> 00:13:55,520
+Download de pdf's naar uw iPad en u kunt dagen zoet zijn en meer leren over het heelal dan u in deze podcast hoort.
+
+123
+00:13:56,300 --> 00:14:03,220
+De pdf's zijn prachtig vormgegeven en worden constant bijgewerkt door mensen die er meer verstand van hebben dan u en ik.
+
+124
+00:14:03,220 --> 00:14:12,980
+Wilt u gewoon met een boek in de hand zitten en een wat minder stijle leerkurve bewandelen, dan is er het prachtige handboek Sterrenkunde van Govert Schilling.
+
+125
+00:14:13,480 --> 00:14:19,520
+U kunt het bijvoorbeeld bij bol.com kopen, maar uw lokale boekhandel heeft het waarschijnlijk ook wel op de plank staan.
+
+126
+00:14:19,520 --> 00:14:25,140
+Ik heb het zelf ook en niemand kan natuurlijk zo mooi vertellen over het heelal als Govert.
+
+127
+00:14:26,280 --> 00:14:37,000
+Voor de meer praktische gidsen die u zeggen wat u vanavond kunt zien als u over de camping slentert, maar ook bordenvol tijdloze informatie staan, kunt u kiezen uit verschillende opties.
+
+128
+00:14:37,000 --> 00:14:42,940
+De hemelkalender 2023 van Andreas Dill en Christian Stijjaard.
+
+129
+00:14:43,760 --> 00:14:51,220
+Sterren en planeten 2023 van Erwin van Ballegooi, Eddie Echternach, Roy Keeres en Edwin Matlener.
+
+130
+00:14:52,260 --> 00:14:55,800
+Jaarboek Sterrenkunde 2023 van Govert Schilling.
+
+131
+00:14:56,800 --> 00:15:01,560
+Sterrengids 2023, de sterrenhemel van dag tot dag van Mat Drummen.
+
+132
+00:15:01,560 --> 00:15:08,880
+Ik zelf ben gezegend met de hemelkalender 2023 van Andreas Dill en Christian Stijjaard,
+
+133
+00:15:09,060 --> 00:15:15,340
+maar al deze gidsen zullen u op prettige wijze bij kunnen staan bij uw zoektocht aan de sterrenhemel deze zomer.
+
+134
+00:15:16,160 --> 00:15:21,800
+Om wegwijs te vinden in die sterrenhemel is het handig om ook een app te installeren op uw mobiele telefoon
+
+135
+00:15:21,800 --> 00:15:25,300
+en er een keer droog mee te oefenen op het moment dat het er niet toe doet,
+
+136
+00:15:25,300 --> 00:15:32,160
+zodat u niet gefrustreerd raakt als u eenmaal buiten staat en misschien al een rood wijntje en een stukje camembert verder bent.
+
+137
+00:15:32,820 --> 00:15:38,260
+Mijn persoonlijke favoriet is Sky Safari, maar dat is maar één van de vele opties die u heeft.
+
+138
+00:15:39,060 --> 00:15:43,440
+Ik wil evangelisatie van mijn eigen random keuzes graag voorkomen
+
+139
+00:15:43,440 --> 00:15:48,580
+en vertrouw erop dat de luisteraar van deze podcast zelf goed beslissingen kan nemen.
+
+140
+00:15:49,280 --> 00:15:53,400
+Mocht u er toch graag over willen corresponderen, dan kunt u mij gerust mailen.
+
+141
+00:15:53,400 --> 00:15:57,200
+Mail dan vooral naar henszimmerman.gmail.com
+
+142
+00:15:57,200 --> 00:16:01,880
+Tot de volgende keer waarin we het over een nog groter raadsel gaan hebben.
+

@@ -1,0 +1,552 @@
+1
+00:00:00,900 --> 00:00:03,780
+Hoe heet de burgemeester van Wezel?
+
+2
+00:00:06,020 --> 00:00:08,920
+Dat schreeuwt men in de nabijheid van een rotswand.
+
+3
+00:00:11,220 --> 00:00:18,000
+Waarschijnlijk komt het idee van de burgemeester van Wezel uit het dorpje Oberwezel aan de Midden-Rijn in Duitsland.
+
+4
+00:00:18,920 --> 00:00:29,500
+De spreuk Wie heißt der burgemeester van Wezel komt regelmatig voor in reisverslagen van boottochtjes over de Rijn in de buurt van de steile rotswand van Lorelei.
+
+5
+00:00:30,000 --> 00:00:33,360
+Een plek die bekend staat om de mooie, heldere echo's.
+
+6
+00:00:35,140 --> 00:00:37,520
+Want dat is wat dit is, een echo.
+
+7
+00:00:39,520 --> 00:00:43,540
+In de volksmond worden echo en galm nog wel eens door elkaar gehaald.
+
+8
+00:00:44,480 --> 00:00:49,780
+Echo is strikt genomen het effect dat we één of meer discrete kopieën van een geluid kunnen horen.
+
+9
+00:00:51,060 --> 00:00:59,460
+Een galm, dat is dit, dat er zoveel weerkaatsingen plaatsvinden dat we een diffuus tapijt van kopieën dwars door elkaar horen.
+
+10
+00:01:00,000 --> 00:01:08,940
+Beide effecten, zowel echo als galm, worden veroorzaakt door weerkaatsingen van geluidsgolven door de omgeving.
+
+11
+00:01:08,940 --> 00:01:14,940
+En afhankelijk van de fysieke omstandigheden van die omgeving horen we bijvoorbeeld echo's.
+
+12
+00:01:16,740 --> 00:01:17,980
+Of galm.
+
+13
+00:01:19,380 --> 00:01:22,100
+Of zelfs galm met een pre-delay.
+
+14
+00:01:22,100 --> 00:01:30,620
+Echo's zijn mooi separaat te horen als er een gladde rechte wal is waar ons geluid tegenaan kan ketsen.
+
+15
+00:01:31,320 --> 00:01:40,660
+En om dat geluidsgolven tamelijk langzaam voor te bewegen, met zo'n 343 meter per seconde, kunnen we wachten op het arriveren van de kopie.
+
+16
+00:01:40,660 --> 00:01:41,460
+Kopie.
+
+17
+00:01:42,240 --> 00:01:47,600
+Al dit gezwets over echo's is uiteraard een inleiding op een astronomisch verschijnsel.
+
+18
+00:01:47,680 --> 00:01:49,420
+Ja, daar konden we natuurlijk op wachten.
+
+19
+00:01:50,080 --> 00:01:54,620
+Want straling kan op vergelijkbare wijze door de omgeving weerkaatst worden.
+
+20
+00:01:54,620 --> 00:02:06,000
+Als u met een laser op een spiegel schijnt en het stipje van de laser achter u op de muur weerkaatst ziet, is dat een benadering van die geluidsecho.
+
+21
+00:02:07,280 --> 00:02:11,620
+De schemerlamp die de hele kamer doet oplichten komt weer meer in de buurt van galm.
+
+22
+00:02:12,020 --> 00:02:13,280
+Ja, ja, nu begrijpen we het wel.
+
+23
+00:02:13,840 --> 00:02:17,980
+Op 21 juni van dit jaar verscheen een artikel in Nature met de titel
+
+24
+00:02:17,980 --> 00:02:23,660
+X-ray polarization evidence for a 200 year old flare of Sagittarius A-star.
+
+25
+00:02:23,660 --> 00:02:27,320
+Van Frederik Marin en een lange lijst van collega-auteurs.
+
+26
+00:02:28,960 --> 00:02:38,080
+Dat Sagittarius A-star in de titel genoemd wordt, laat ons direct weten dat we het hier voor de zoveelste keer hebben over het centrum van onze melkweg.
+
+27
+00:02:39,300 --> 00:02:44,380
+Buitengewoon interessant vind ik dat we het over een Duits bestek van 200 jaar hebben.
+
+28
+00:02:45,120 --> 00:02:47,960
+Dat is een onastronomisch korte periode.
+
+29
+00:02:48,680 --> 00:02:50,520
+Ik bedoel maar 200 jaar geleden.
+
+30
+00:02:50,780 --> 00:02:52,280
+Dat is nog maar 1823.
+
+31
+00:02:53,660 --> 00:03:01,640
+Een bepaald onderdeel uit de titel polarisatie staat centraal in deze ontdekking en behoeft misschien wat uitleg.
+
+32
+00:03:02,760 --> 00:03:09,660
+We zullen het een beetje versimpelen, maar in grote lijnen krijgt u dan hopelijk een kloppend beeld van wat polarisatie is.
+
+33
+00:03:10,700 --> 00:03:13,880
+Golven transporteren informatie door een ruimte.
+
+34
+00:03:14,640 --> 00:03:18,880
+Dat gebeurt in de tijd, dus we kunnen een richting bij een golf aanwijzen.
+
+35
+00:03:18,880 --> 00:03:29,000
+Als iemand op een paar meter afstand van u tegen een tennisbal mept, wordt de trilling van de atmosfeer van de tennisbal naar uw trommelvlies getransporteerd.
+
+36
+00:03:30,080 --> 00:03:30,880
+Dat is een geluidsgolf.
+
+37
+00:03:31,620 --> 00:03:32,580
+No shit, Sherlock.
+
+38
+00:03:32,580 --> 00:03:43,000
+Zouden we in staat zijn zo'n geluidsgolf onder de microscoop te bekijken, dan zien we dat dit een sliert van verdichtingen en verdunningen van de moleculen in de aardatmosfeer is.
+
+39
+00:03:43,000 --> 00:03:49,420
+Dit heet een longitudinale golf en werkt een beetje zoals een regenworm voortbeweegt.
+
+40
+00:03:49,900 --> 00:03:54,540
+Het lijfje van de worm verdicht op bepaalde plaatsen en verdunt daartussenin.
+
+41
+00:03:55,400 --> 00:03:59,000
+Zo bewegen de geluidsgolf en de regenworm van A naar B.
+
+42
+00:03:59,560 --> 00:04:01,860
+Een treintje van verdichtingen en verdunningen.
+
+43
+00:04:02,760 --> 00:04:06,280
+Zo'n longitudinale golf kent geen polarisatie.
+
+44
+00:04:06,740 --> 00:04:12,500
+Heel anders is het bij elektromagnetische golven zoals licht, radio en röntgenstraling.
+
+45
+00:04:13,000 --> 00:04:19,980
+Hier zien we een elektrisch en een magnetisch veld die beide loodtrechten op de richting van de golf heen en weer trillen.
+
+46
+00:04:21,220 --> 00:04:26,880
+Dit heet een transversale golf en is beter te vergelijken met hoe bepaalde slangen voortbewegen.
+
+47
+00:04:27,400 --> 00:04:34,200
+Een slang die gekronkeld in het graslicht en richting u loopt, heeft een duidelijk vlak waarin deze beweegt.
+
+48
+00:04:34,200 --> 00:04:43,660
+Kantelen we de slang een kwart slag, dan zou deze als een soort lochnesmonster in een andere polarisatiehoek richting ons bewegen.
+
+49
+00:04:44,660 --> 00:04:52,520
+Maar in de praktijk zal de slang hem waarschijnlijk smeren, ons in de vingers bijten of als een boze kluwe gaan liggen sissen.
+
+50
+00:04:52,520 --> 00:04:59,860
+Maar hopelijk krijgt u nu een beetje een beeld van wat een transversale golf is en wat polarisatie in dat geval betekent.
+
+51
+00:05:00,000 --> 00:05:01,160
+Ik ben niet zeker, ik begrijp.
+
+52
+00:05:02,160 --> 00:05:11,020
+Voor polarisatie kijken we naar de hoek waaronder de elektrische component van elektromagnetische straling ten opzichte van de richting van de golf staat.
+
+53
+00:05:11,720 --> 00:05:16,460
+Voor de meeste lichtbronnen die wij kennen, zoals bijvoorbeeld een gloeilamp of onze zon,
+
+54
+00:05:16,460 --> 00:05:22,140
+is de polarisatie van het licht een optelsom van allerlei willekeurige polarisaties.
+
+55
+00:05:22,560 --> 00:05:24,860
+Maar we kennen wel een hoop uitzonderingen.
+
+56
+00:05:24,920 --> 00:05:25,820
+Oh, gelukkig!
+
+57
+00:05:26,040 --> 00:05:30,960
+Zonlicht dat gereflecteerd wordt door een watermassa of een motorkap op uw auto,
+
+58
+00:05:31,260 --> 00:05:38,920
+kan bij de reflectie sterk gefilterd worden, waardoor het gereflecteerde licht ons bereikt onder één bepaalde polarisatiehoek.
+
+59
+00:05:39,680 --> 00:05:44,460
+De Polaroid zonnebril en ook het polarisatiefilter voor op een fototoestel
+
+60
+00:05:44,460 --> 00:05:50,020
+zijn beide in staat dit gereflecteerde licht te onderdrukken op basis van die polarisatiehoek.
+
+61
+00:05:50,820 --> 00:05:56,520
+Draaien we de Polaroid zonnebril dan een kwart slag, dan zal het effect van de zonnebril sterk verminderen.
+
+62
+00:05:57,520 --> 00:06:03,660
+Ook LCD-displays zoals van bijvoorbeeld sommige horloges maken gebruik van een polarisatiefilter.
+
+63
+00:06:04,480 --> 00:06:09,660
+U kunt het duidelijk zien door uw Polaroid zonnebril ervoor te houden en dan langzaam rond te draaien.
+
+64
+00:06:09,660 --> 00:06:15,920
+Radio-uitzendingen kunnen gepolariseerd uitgezonden worden door de stand van de zendantenne.
+
+65
+00:06:18,920 --> 00:06:23,860
+Zend- en ontvangstantennen moeten dezelfde polarisatierichtingen aanhouden.
+
+66
+00:06:25,000 --> 00:06:29,600
+De moderne DAP-plus-uitzendingen zijn ook bijvoorbeeld verticaal gepolariseerd,
+
+67
+00:06:29,760 --> 00:06:36,020
+met als achterliggende gedachte dat de gemiddelde DAP-plus-ontvanger in een auto een verticale antenne zal hebben.
+
+68
+00:06:36,020 --> 00:06:38,600
+U hoort ons allemaal op DAP-plus.
+
+69
+00:06:39,000 --> 00:06:40,520
+En nieuwe geluid van radio.
+
+70
+00:06:41,560 --> 00:06:45,440
+Om het nieuws dat in deze aflevering centraal staat goed te begrijpen,
+
+71
+00:06:45,620 --> 00:06:48,680
+moeten we teruggaan naar het magistrale jaar 1978.
+
+72
+00:06:50,240 --> 00:06:56,020
+In november van dat jaar werd de Einstein-satelliet gelanceerd, de eerste röntgentelescoop.
+
+73
+00:06:56,020 --> 00:07:03,380
+Deze satelliet draaide vier jaar lang op een hoogte van zo'n 470 kilometer rondjes om de aarde,
+
+74
+00:07:03,540 --> 00:07:06,360
+om de röntgenhemel nauwgezet in kaart te brengen.
+
+75
+00:07:07,060 --> 00:07:10,420
+Dat lukt beter in een baan rond de aarde dan op het aardoppervlak,
+
+76
+00:07:10,560 --> 00:07:15,220
+omdat röntgenstraling uit de ruimte door onze atmosfeer gelukkig wordt tegengehouden.
+
+77
+00:07:16,180 --> 00:07:21,620
+De Einstein-ruimtetelescoop was een succesvol apparaat waar we veel ontdekkingen aan te danken hebben.
+
+78
+00:07:21,620 --> 00:07:25,460
+Een van de opmerkelijke dingen die deze satelliet waarnam,
+
+79
+00:07:25,680 --> 00:07:29,740
+was de emissie van röntgenstraling uit het centrum van onze melkweg.
+
+80
+00:07:31,400 --> 00:07:33,660
+Dit was zo rond het jaar 1981.
+
+81
+00:07:34,600 --> 00:07:40,840
+Een interessant fenomeen, maar nu waren astronomen benieuwd wat de bron van deze röntgenstraling kon zijn.
+
+82
+00:07:41,540 --> 00:07:46,360
+Het is aardig om deze wetenschappelijke zoektocht door de tijd te volgen.
+
+83
+00:07:47,240 --> 00:07:51,400
+Met zo'n beetje alle röntgendetectoren die na Einstein gelanceerd werden,
+
+84
+00:07:51,620 --> 00:07:54,540
+werd ook gekeken naar het centrum van onze melkweg.
+
+85
+00:07:55,380 --> 00:07:59,580
+In juli 1993 verscheen een artikel in Nature met de titel
+
+86
+00:07:59,580 --> 00:08:03,460
+T-Sources of Diffuse X-Ray Emission from the Galactic Center
+
+87
+00:08:03,460 --> 00:08:05,620
+van auteurs Markiewicz en collega's.
+
+88
+00:08:07,100 --> 00:08:11,840
+Hierin redeneren zij dat de waargenomen röntgenstraling in de moleculaire volken
+
+89
+00:08:11,840 --> 00:08:15,620
+in het centrum van onze melkweg waarschijnlijk incidentele röntgengebeurtenissen
+
+90
+00:08:15,620 --> 00:08:19,620
+in dichtere moleculaire volken als bron hebben.
+
+91
+00:08:19,620 --> 00:08:25,320
+En dat deze straling slechts deels wordt geabsorbeerd door de eile moleculaire volken.
+
+92
+00:08:25,420 --> 00:08:26,500
+Dat was een lange zin.
+
+93
+00:08:26,720 --> 00:08:30,360
+Wat we waarnemen zou dus gefilterde röntgenstraling kunnen zijn.
+
+94
+00:08:30,880 --> 00:08:36,520
+Ontstaan in de A-, B2- en C-moleculaire volken in het centrum van onze melkweg.
+
+95
+00:08:36,520 --> 00:08:43,680
+Maar in 1981 beschikten we nog niet over zulke exacte ruimtetelescopen als tegenwoordig.
+
+96
+00:08:44,560 --> 00:08:49,540
+De auteurs waren in 1993 ook uiterst voorzichtig met hun conclusies.
+
+97
+00:08:50,280 --> 00:08:53,820
+En eigenlijk worden we dan ook nog een beetje met een kluitje in het riet gestuurd
+
+98
+00:08:53,820 --> 00:08:57,820
+omdat nog steeds niet duidelijk was hoe deze röntgenstraling dan ontstaat.
+
+99
+00:08:59,040 --> 00:09:03,560
+En nu in juni 2023 lezen we eindelijk wat er aan de hand is.
+
+100
+00:09:03,560 --> 00:09:08,120
+In het begin noemden we de titel van het artikel al.
+
+101
+00:09:08,380 --> 00:09:13,900
+X-ray polarisation evidence for a 200 year old flare of Sagittarius A-star.
+
+102
+00:09:14,240 --> 00:09:18,260
+En met de lange introductie over echo's en deze titel in de hand,
+
+103
+00:09:18,440 --> 00:09:23,600
+gecombineerd met het feit dat ik waarschijnlijk de slechtste spannende verhalenverteller van het heelal ben,
+
+104
+00:09:23,880 --> 00:09:26,380
+weet u nu eigenlijk al wat er dus gaande is.
+
+105
+00:09:26,500 --> 00:09:27,500
+Ja, schiet nou maar op.
+
+106
+00:09:27,500 --> 00:09:33,940
+Zo'n 200 jaar geleden vrat het superzware zwarte gat in het centrum van onze melkweg iets op.
+
+107
+00:09:34,600 --> 00:09:41,200
+Een ster, een rotsblok, het ruimteschip van een vergevorderde civilisatie, wie zal het zeggen?
+
+108
+00:09:42,040 --> 00:09:47,240
+In ieder geval werd iets verwrongen door de intense zwaartekracht van het zwarte gat.
+
+109
+00:09:47,240 --> 00:09:53,680
+Bij dit proces kwam een heftige röntgenflits vrij.
+
+110
+00:09:55,400 --> 00:09:58,180
+Iets wat we wel vaker zien bij zwarte gaten.
+
+111
+00:09:58,960 --> 00:10:04,300
+We hebben het over materie die op behoorlijk onelegante wijze aan flarden wordt getrokken
+
+112
+00:10:04,300 --> 00:10:09,740
+en met relativistische snelheden richting de accretieschijf rond het zwarte gat getrokken wordt.
+
+113
+00:10:10,940 --> 00:10:16,660
+Dit is typisch een proces waarbij energie in de vorm van snelle röntgentrillingen vrijkomt.
+
+114
+00:10:17,240 --> 00:10:21,740
+Deze straling kan opgevangen worden door onze beste röntgen satellieten.
+
+115
+00:10:22,280 --> 00:10:27,500
+In dit geval hebben wij de ontdekking van vandaag te danken aan de IXPE-satelliet.
+
+116
+00:10:28,460 --> 00:10:32,500
+Deze röntgensatelliet werd pas in 2021 gelanceerd.
+
+117
+00:10:33,180 --> 00:10:37,880
+De belangrijkste röntgendetectoren van deze IXPE-satelliet werden ontwikkeld
+
+118
+00:10:37,880 --> 00:10:41,400
+door de Italiaanse ruimtevaartorganisatie ASI.
+
+119
+00:10:41,400 --> 00:10:50,060
+Ook de IXPE-satelliet draait in een relatief lage baan rond onze planeet op een hoogte van zo'n 540 kilometer.
+
+120
+00:10:51,060 --> 00:10:59,800
+Meer nog dan andere instrumenten is de IXPE-satelliet buitengewoon goed in staat de polarisatie van röntgenlicht te meten.
+
+121
+00:10:59,800 --> 00:11:06,480
+Deze polarisatie, de hoek die de röntgenstraling aanneemt ten opzichte van de richting van de straling,
+
+122
+00:11:06,680 --> 00:11:10,720
+kan ons weer veel vertellen over de weg die de fotonen hebben afgelegd.
+
+123
+00:11:11,800 --> 00:11:19,200
+Net als zonnestralen die ons verblinden door te reflecteren op de motorkap van de auto als wij geen Polaroidbril kunnen aanschaffen,
+
+124
+00:11:19,200 --> 00:11:27,880
+kan het moleculaire gas in het centrum van onze melkweg als een echomuur het invallende röntgenlicht weer kaatsen en polariseren.
+
+125
+00:11:27,880 --> 00:11:38,560
+En dit is wat Frederik Marin en een half A4'tje aan collega-astronomen hebben teruggerekend met de accretieschijf van het zwarte gat als röntgenbron.
+
+126
+00:11:39,220 --> 00:11:48,600
+De aard van polarisatie wil dat zij twee uitkomsten meten die corresponderen met de gebeurtenis 33 of 205 jaar geleden.
+
+127
+00:11:48,600 --> 00:11:49,140
+Oké.
+
+128
+00:11:49,300 --> 00:11:55,860
+Die eerste werd van de hand gewezen omdat we 33 jaar geleden al waarnemingen deden aan de röntgensterrenhemel
+
+129
+00:11:55,860 --> 00:11:59,920
+en een dergelijke flits op een of andere wijze we al zouden hebben waargenomen.
+
+130
+00:12:01,080 --> 00:12:05,700
+Specifiek zou zo'n flits dan met de ASCA-satelliet zijn gedetecteerd.
+
+131
+00:12:05,700 --> 00:12:18,840
+Wat dan overblijft is één gebeurtenis zo'n 205 jaar geleden waarbij ons verder uiterst tamme zwarte gat gedurende zo'n 1,6 jaar helder moet hebben opgelicht in de röntgensterrenhemel.
+
+132
+00:12:19,700 --> 00:12:25,700
+En het meest voor de hand liggende is dus dat dat komt doordat iets met een behoorlijke massa werd verzwolgen.
+
+133
+00:12:27,440 --> 00:12:30,140
+En wat we nu nog waarnemen is de echo daarvan.
+
+134
+00:12:31,380 --> 00:12:33,180
+Hoe mooi en simpel eigenlijk.
+
+135
+00:12:33,180 --> 00:12:40,800
+Wat nu nog gedaan kan worden en zelfs met diezelfde IXPE-satelliet is nog veel langer belichten.
+
+136
+00:12:41,560 --> 00:12:49,500
+Een dergelijke foto zou een hogere, spatiële resolutie hebben waardoor nog beter de oorsprong van onze röntgenecho kan worden bepaald.
+
+137
+00:12:50,480 --> 00:12:52,340
+Altijd weer meer om te ontdekken.
+
+138
+00:12:53,040 --> 00:12:56,760
+Voor nu een prettige dag of nacht en tot de volgende keer.
+

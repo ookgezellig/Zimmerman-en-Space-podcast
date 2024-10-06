@@ -1,0 +1,644 @@
+1
+00:00:00,000 --> 00:00:03,380
+U luistert naar Zimmerman & Space.
+
+2
+00:00:04,040 --> 00:00:10,920
+Misschien heeft u wel eens gehoord dat de James Webb ruimtetelescoop zich in het L2 Lagrange punt bevindt.
+
+3
+00:00:11,040 --> 00:00:16,360
+De zogenaamde Lagrange punten roepen regelmatig vragen van luisteraars op.
+
+4
+00:00:16,720 --> 00:00:25,280
+Bijvoorbeeld de vraag hoe groot zo'n punt is en of men er ongestraft ruimteschepen in kan hangen zonder dat die tegen elkaar aanbotsen.
+
+5
+00:00:25,280 --> 00:00:31,980
+Laten we vandaag eens wat dieper in deze materie duiken.
+
+6
+00:00:32,880 --> 00:00:35,000
+En voor wie vreest dat dit weer een...
+
+7
+00:00:35,000 --> 00:00:36,260
+Pak de rekenmachine er maar bij.
+
+8
+00:00:36,380 --> 00:00:40,620
+...onderwerp wordt? Wees gerust, de rekenmachine mag in de tassen blijven.
+
+9
+00:00:40,740 --> 00:00:41,660
+Oh, gelukkig!
+
+10
+00:00:42,600 --> 00:00:46,900
+Ah, ik hoor de schoolbel al. Zit iedereen op haar of zijn plek?
+
+11
+00:00:47,660 --> 00:00:50,080
+Hartstikke mooi. Dan kan de les beginnen.
+
+12
+00:00:51,180 --> 00:00:53,660
+Eerst maar eens, wat zijn Lagrange punten?
+
+13
+00:00:53,660 --> 00:01:08,060
+Lagrange punten zijn posities in de ruimte waar de zwaartekrachten van een systeem, zoals bijvoorbeeld de zon en de aarde, maar ook de aarde en de maan, versterkte gebieden van aantrekking en afstoting produceren.
+
+14
+00:01:08,840 --> 00:01:18,940
+Deze punten kunnen door ruimtevaartuigen worden gebruikt als parkeerplaatsen in de ruimte waar ze met minimaal brandstofverbruik in een vaste positie kunnen blijven hangen.
+
+15
+00:01:18,940 --> 00:01:29,860
+Eenmaal in positie reist een ruimtevaartuig, zoals bijvoorbeeld de James Webb ruimtetelescoop, als het ware gratis mee met de baan van de aarde om de zon.
+
+16
+00:01:30,320 --> 00:01:37,160
+Dit klinkt natuurlijk weer te goed om waar te zijn en dat moeten we dan ook kritisch bekijken, wat we zo zullen doen.
+
+17
+00:01:37,320 --> 00:01:38,060
+Ja, dat zeg jij.
+
+18
+00:01:38,060 --> 00:01:46,100
+Er bestaan precies vijf speciale punten in en om de baan van een object dat om een object met een grotere massa draait.
+
+19
+00:01:46,780 --> 00:01:58,120
+Een derde object met een veel kleinere massa, zoals bijvoorbeeld een ruimtevaartuig, maar ook een rotsblok, kan dan in een constant patroon meebewegen met de twee objecten met grotere massa's.
+
+20
+00:01:58,120 --> 00:02:04,920
+Deze punten ontstaan door de wisselwerking van de zwaartekracht invloeden van de twee objecten met grotere massa.
+
+21
+00:02:06,040 --> 00:02:14,780
+We kennen dit als het algemene drie-lichamen-probleem dat werd behandeld door de Italiaans-Franse wiskundige Joseph Louis Lagrange.
+
+22
+00:02:15,840 --> 00:02:22,780
+Hij publiceerde er in 1772 over en sindsdien kennen we deze punten als de Lagrange-punten.
+
+23
+00:02:22,780 --> 00:02:29,740
+Overigens had de wiskundige Leonard Euler een paar jaar daarvoor al drie Lagrange-punten ontdekt.
+
+24
+00:02:29,920 --> 00:02:30,100
+Oh?
+
+25
+00:02:30,380 --> 00:02:33,000
+Lagrange zelf beschreef twee extra punten.
+
+26
+00:02:33,880 --> 00:02:39,220
+Euler en Lagrange werkten veel samen en Euler was onder de indruk van het werk van Lagrange.
+
+27
+00:02:40,180 --> 00:02:45,600
+Heel algemeen kunnen we zeggen dat daar, waar twee hemellichamen om elkaar heen draaien,
+
+28
+00:02:45,800 --> 00:02:51,220
+automatisch vijf punten ontstaan waar de onderlinge zwaartekrachten met elkaar in balans zijn.
+
+29
+00:02:51,220 --> 00:02:59,620
+Maar de massa van deze objecten en ook de massaverhouding zijn van invloed op de grootte en stabiliteit van deze punten.
+
+30
+00:03:00,580 --> 00:03:05,960
+Van de vijf Lagrange-punten die we kennen noemen we er drie instabiel en twee stabiel.
+
+31
+00:03:06,980 --> 00:03:15,040
+De instabiele Lagrange-punten, aangeduid als L1, L2 en L3, liggen op de lijn die de twee grote massa's verbindt.
+
+32
+00:03:15,040 --> 00:03:23,680
+Dit zijn de punten die Euler al had ontdekt en waarvan er twee voorhuidige ruimtevaarttoepassingen het meest interessant zijn.
+
+33
+00:03:23,800 --> 00:03:24,500
+Interessant!
+
+34
+00:03:24,600 --> 00:03:30,360
+Voor deze aflevering zullen we de Lagrange-punten van het zon-aarde stelsel als voorbeelden gebruiken,
+
+35
+00:03:30,580 --> 00:03:36,240
+maar u kunt onthouden dat we vergelijkbare punten vinden in bijvoorbeeld het aardemaanstelsel,
+
+36
+00:03:36,440 --> 00:03:38,720
+het zon-jupiterstelsel,
+
+37
+00:03:38,720 --> 00:03:42,680
+of een stelsel waarbij een exoplaneet om een ster draait.
+
+38
+00:03:45,560 --> 00:03:50,600
+Het L1-punt van het zon-aardesysteem vinden we tussen de zon en de aarde,
+
+39
+00:03:50,780 --> 00:03:54,220
+op een afstand van anderhalf miljoen kilometer van ons vandaan.
+
+40
+00:03:54,880 --> 00:03:58,620
+Hier heeft een ruimtevaarttaag een ononderbroken zicht op de zon.
+
+41
+00:03:59,340 --> 00:04:03,900
+Dit L1-punt draait dus net als de aarde in precies een jaar rond de zon.
+
+42
+00:04:03,900 --> 00:04:06,880
+Het zal ook niet langzaam uit de pas gaan lopen,
+
+43
+00:04:07,040 --> 00:04:12,000
+omdat de wisselwerking van de zwaartekracht van de aarde en de zon het bestaansrecht geeft.
+
+44
+00:04:12,760 --> 00:04:18,880
+Een voorbeeld van een ruimtevaartuig dat in het L1-punt van het zon-aardesysteem hangt is SOHO.
+
+45
+00:04:19,500 --> 00:04:23,020
+Dit staat voor Solar and Heliospheric Observatory.
+
+46
+00:04:23,940 --> 00:04:26,920
+Als we in de toekomst te veel last van de zon krijgen,
+
+47
+00:04:26,920 --> 00:04:32,280
+ligt het voor de hand een kunstmatig gordijn op te hangen in het L1-Lagrange-punt.
+
+48
+00:04:32,280 --> 00:04:35,600
+En als u geniet van de zonsondergang,
+
+49
+00:04:35,820 --> 00:04:38,740
+ziet u dus respectievelijk de aardatmosfeer,
+
+50
+00:04:39,080 --> 00:04:41,740
+het L1-Lagrange-punt en de zon.
+
+51
+00:04:42,340 --> 00:04:45,900
+Maar misschien was uw blik alweer afgegleden naar de Tiki Bar,
+
+52
+00:04:46,120 --> 00:04:50,880
+waar een nietsvermoedende eenling net aan een alcoholvrije cocktail was begonnen.
+
+53
+00:04:51,840 --> 00:04:57,460
+Het L2-punt van het zon-aardesysteem vinden we precies aan de andere kant van de aarde,
+
+54
+00:04:57,760 --> 00:05:01,020
+ook weer anderhalf miljoen kilometer van ons vandaan.
+
+55
+00:05:01,020 --> 00:05:06,240
+Een ruimtevaartuig in deze positie staat dus verder weg van de zon dan de aarde,
+
+56
+00:05:06,480 --> 00:05:09,300
+maar draait ook weer in precies één jaar rond de zon.
+
+57
+00:05:10,160 --> 00:05:14,280
+Vanaf ons gezien bevindt een voorwerp in het L2-Lagrange-punt
+
+58
+00:05:14,280 --> 00:05:17,240
+zich dus altijd in de nachtzijde van onze hemel.
+
+59
+00:05:17,920 --> 00:05:20,340
+Dit is een ideale positie voor veel ruimteschepen,
+
+60
+00:05:21,140 --> 00:05:25,680
+omdat relatief eenvoudig contact met de aarde of de maan kan worden onderhouden
+
+61
+00:05:25,680 --> 00:05:27,860
+en er een goed zicht is op de ruimte.
+
+62
+00:05:28,900 --> 00:05:33,680
+Voorbeelden van ruimtevaartuigen in het L2-punt van het zon-aardesstelsel
+
+63
+00:05:33,680 --> 00:05:36,040
+zijn de James Webb-ruimtetelescoop,
+
+64
+00:05:36,260 --> 00:05:39,760
+de Planck-satelliet en de Gaia-satelliet van ESA.
+
+65
+00:05:40,640 --> 00:05:44,580
+Vanwege de gunstige omstandigheden van het L2-Lagrange-punt
+
+66
+00:05:44,580 --> 00:05:47,560
+zal dit ook het doel zijn van toekomstige missies
+
+67
+00:05:47,560 --> 00:05:50,940
+zoals de Nancy Grace Roman-ruimtetelescoop,
+
+68
+00:05:51,120 --> 00:05:53,520
+de PLATOMissie en de Ariel-missie.
+
+69
+00:05:54,400 --> 00:05:57,420
+Dergelijke ruimteschepen ontvangen in het L2-punt
+
+70
+00:05:57,420 --> 00:06:00,400
+nog genoeg zonlicht om van stroom te kunnen worden voorzien
+
+71
+00:06:00,400 --> 00:06:05,160
+en zullen hun observaties doorgaans precies afgewend van de zon uitvoeren.
+
+72
+00:06:06,180 --> 00:06:10,020
+Voordat we verder uitweiden over de resterende Lagrange-punten
+
+73
+00:06:10,020 --> 00:06:12,380
+is het tijd om een vraag te beantwoorden.
+
+74
+00:06:12,380 --> 00:06:17,760
+Hoeveel ruimteschepen kunnen ruimtevaartorganisaties straffeloos
+
+75
+00:06:17,760 --> 00:06:20,060
+in bijvoorbeeld zo'n L2-punt hangen
+
+76
+00:06:20,060 --> 00:06:23,580
+zonder dat deze elkaar gaan hinderen of zelfs tegen elkaar botsen?
+
+77
+00:06:23,640 --> 00:06:24,820
+Dat is eigenlijk een goede vraag.
+
+78
+00:06:25,100 --> 00:06:30,020
+We zeiden al dat de L1, L2 en L3-Lagrange-punten instabiel zijn.
+
+79
+00:06:30,740 --> 00:06:35,120
+Dat wil zoveel zeggen als dat ruimtevaartuigen die hier eenmaal aangekomen zijn
+
+80
+00:06:35,120 --> 00:06:37,940
+niet voor altijd passief op hun plek blijven.
+
+81
+00:06:37,940 --> 00:06:42,560
+In de praktijk cirkelen ruimtevaartuigen in het L2-Lagrange-punt
+
+82
+00:06:42,560 --> 00:06:46,760
+in kleine baantjes, zogenaamde halo- of lisajou-orbits
+
+83
+00:06:46,760 --> 00:06:51,620
+en worden ze met brandstof periodiek bijgestuurd om op hun plek te blijven.
+
+84
+00:06:52,460 --> 00:06:57,500
+Het grote voordeel van een Lagrange-punt is dat er maar heel weinig brandstof nodig is
+
+85
+00:06:57,500 --> 00:07:01,260
+om jarenlang betrouwbaar op die positie te blijven cirkelen.
+
+86
+00:07:01,260 --> 00:07:03,520
+Ik weet niet of dat echt een antwoord op de vraag is.
+
+87
+00:07:03,760 --> 00:07:05,260
+Nee, dat klopt. Die vraag is...
+
+88
+00:07:05,260 --> 00:07:09,100
+Hoe groot is nou zo'n L2-Lagrange-punt?
+
+89
+00:07:10,020 --> 00:07:15,480
+Het zou een oneindig klein punt zijn in het ideale geval dat een puntvormige aarde
+
+90
+00:07:15,480 --> 00:07:19,240
+een exacte cirkel om een puntvormige zon zou beschrijven.
+
+91
+00:07:19,720 --> 00:07:22,260
+Maar daar is uiteraard geen sprake van.
+
+92
+00:07:23,060 --> 00:07:26,940
+In werkelijkheid is het L2-punt een zadelvormige locatie
+
+93
+00:07:26,940 --> 00:07:32,240
+waar de zwaartekracht wisselwerking van de zon en de aarde een ruimteschip in meesleurt.
+
+94
+00:07:32,240 --> 00:07:38,840
+De vorm van dit zadel is net als de baan van de aarde om de zon instabiel en grillig.
+
+95
+00:07:40,040 --> 00:07:46,120
+Als we voor elk moment in de tijd een voor dat moment centraal L2-punt zouden aanwijzen,
+
+96
+00:07:46,120 --> 00:07:52,980
+dan zien we dat bijvoorbeeld de James Webb-ruimtetelescoop daar in zes maanden tijd ongeveer omheen cirkelt.
+
+97
+00:07:52,980 --> 00:07:58,560
+De afstand van de James Webb-ruimtetelescoop tot dat geïdealiseerde punt
+
+98
+00:07:58,560 --> 00:08:04,720
+varieert volgens NASA tussen de 250.000 en 832.000 kilometer.
+
+99
+00:08:05,280 --> 00:08:05,960
+Zoveel?
+
+100
+00:08:06,080 --> 00:08:10,980
+Om in deze baan te blijven vuren kleine raketten aan boord van de James Webb-ruimtetelescoop
+
+101
+00:08:11,580 --> 00:08:15,660
+ongeveer elke 21 dagen om een baankorrectie uit te voeren.
+
+102
+00:08:15,660 --> 00:08:23,920
+Met andere woorden, het L2-punt van het zon-aardestelsel is in de praktijk honderden duizenden kilometers breed
+
+103
+00:08:23,920 --> 00:08:29,660
+en biedt ruimte aan een veelheid aan satellieten die elkaar in alle waarschijnlijkheid nooit zullen treffen.
+
+104
+00:08:29,760 --> 00:08:31,460
+Echt supercool.
+
+105
+00:08:31,740 --> 00:08:36,440
+Een ruimtevaartuig dat geen brandstof meer heeft of waarmee het contact is verbroken
+
+106
+00:08:36,440 --> 00:08:42,400
+zal op den duur uit het L2-punt wegdwarrelen en in een heliocentrische baan terechtkomen.
+
+107
+00:08:42,560 --> 00:08:43,480
+In het Nederlands?
+
+108
+00:08:43,480 --> 00:08:47,520
+Dat is voor de goede orde een baan rond de zon, net als alle planeten.
+
+109
+00:08:48,520 --> 00:08:53,480
+En dan is er nog het L3-lagrangepunt dat Lennart Euler in de 18e eeuw ontdekte.
+
+110
+00:08:54,080 --> 00:08:56,540
+Dit ligt voor ons altijd precies achter de zon.
+
+111
+00:08:57,360 --> 00:09:01,100
+Er zijn nooit ruimtevaartuigen naar het L3-punt gelanceerd.
+
+112
+00:09:01,720 --> 00:09:07,440
+Dit ligt ook niet voor de hand, omdat communicatie met de aarde ingewikkeld is met altijd de zon ertussen.
+
+113
+00:09:07,960 --> 00:09:11,220
+Bovendien is het L3-lagrangepunt superonstabiel.
+
+114
+00:09:11,220 --> 00:09:20,920
+Een fictief ruimtevaartuig dat daar geparkeerd zou zijn, zou door de aantrekkingskracht van andere planeten eenvoudig uit haar baan kunnen worden getrokken.
+
+115
+00:09:20,920 --> 00:09:31,220
+Het enige logische scenario voor het gebruik van het L3-lagrangepunt is wanneer een buitenaardse civilisatie van plan is de aarde uit de weg te ruimen.
+
+116
+00:09:32,600 --> 00:09:38,740
+Voorbereidende activiteiten zouden dan mooi buiten het zicht van de aarde in het L3-punt kunnen plaatsvinden.
+
+117
+00:09:38,740 --> 00:09:48,040
+De L1- en L2-lagrangepunten van het zonaardestalsel liggen zoals gezegd ieder anderhalf miljoen kilometer van de aarde.
+
+118
+00:09:48,620 --> 00:09:52,740
+Het L3-lagrangepunt vinden we 300 miljoen kilometer van ons vandaan.
+
+119
+00:09:54,120 --> 00:10:03,020
+U kunt een denkbeeldige rechte lijn trekken van het L3-punt door de zon, door het L1-punt, door de aarde en eindigend in het L2-punt.
+
+120
+00:10:03,020 --> 00:10:06,280
+Dat was het geluid van een rechte lijn.
+
+121
+00:10:07,740 --> 00:10:11,660
+Lagrange beschreef nog twee extra punten, L4 en L5.
+
+122
+00:10:12,320 --> 00:10:19,560
+Deze punten draaien met de aarde mee in de baan rond de zon en zijn veel stabieler dan de punten L1 tot en met L3.
+
+123
+00:10:20,820 --> 00:10:28,180
+Voor alle gevallen in ons heelal waar objecten om elkaar heen draaien, bieden deze L4- en L5-punten stabiele banen,
+
+124
+00:10:28,180 --> 00:10:36,180
+zolang de massaverhouding tussen de twee grote massa's, bijvoorbeeld de zon en de aarde, groter is dan 25 staat tot 1.
+
+125
+00:10:36,900 --> 00:10:45,520
+Deze voorwaarde wordt vervuld door zowel het zon-aarde als het aardemaansysteem en voor vele andere paren van lichamen in ons zonnestelsel.
+
+126
+00:10:45,520 --> 00:10:55,660
+Objecten die zich in de L4- en L5-punten bevinden worden vaak Trojanen genoemd naar de drie grote asteroïden Agamemnon, Agilus en Hector,
+
+127
+00:10:55,960 --> 00:11:00,260
+die in de L4- en L5-punten van het zon-Jupiter-systeem bewegen.
+
+128
+00:11:01,240 --> 00:11:04,520
+Er zijn honderden Trojaanse asteroïden in alleen al ons zonnestelsel.
+
+129
+00:11:05,880 --> 00:11:08,400
+De meeste daarvan bewegen met Jupiter mee.
+
+130
+00:11:08,400 --> 00:11:15,220
+De stabiliteit van de L4- en L5-lagrange-punten heeft te maken met het Coriolis-effect.
+
+131
+00:11:15,900 --> 00:11:19,980
+Zodra een object uit het L4- of L5-punt begint te buitelen,
+
+132
+00:11:20,220 --> 00:11:24,380
+treedt het Coriolis-effect in werking en wordt het object weer teruggedwongen
+
+133
+00:11:24,380 --> 00:11:28,640
+in een min of meer cirkelvormige baan rond het Lagrange-punt van oorsprong.
+
+134
+00:11:29,400 --> 00:11:36,540
+De L4- en L5-punten vinden we in de cirkelbaan 60 graden achter ons en 60 graden voor ons.
+
+135
+00:11:36,540 --> 00:11:42,720
+En een cirkel zoals de baan van de aarde om de zon heeft zoals u vast wel weet 360 graden.
+
+136
+00:11:43,480 --> 00:11:49,460
+Het L4-punt loopt 60 graden op ons voor en het L5-punt loopt 60 graden op ons achter.
+
+137
+00:11:50,660 --> 00:11:56,000
+Het kan zijn dat we in de verre toekomst gebruik zullen maken van de L4- en L5-punten
+
+138
+00:11:56,000 --> 00:11:58,060
+om aardse kolonies te stichten.
+
+139
+00:11:58,360 --> 00:12:01,340
+Of ons te ontdoen van allemaal vervelende mensen.
+
+140
+00:12:01,340 --> 00:12:08,120
+Door de grote stabiliteit van die L4- en L5-punten is er praktisch geen brandstof nodig
+
+141
+00:12:08,120 --> 00:12:14,380
+om mensen die daar gaan wonen te voorzien van locaties die ook een jaar van 365 dagen kennen
+
+142
+00:12:14,380 --> 00:12:17,300
+en in direct contact met de aarde kunnen blijven.
+
+143
+00:12:17,920 --> 00:12:20,300
+Maar dat gaan u en ik niet meer meemaken.
+
+144
+00:12:21,060 --> 00:12:22,220
+Hé, daar is Eva.
+
+145
+00:12:22,220 --> 00:12:28,700
+Kom op 5 oktober naar de Klokhuis Wereld Erfgoeddag in de Van Nellefrabriek in Rotterdam.
+
+146
+00:12:29,160 --> 00:12:35,440
+De nieuwe aflevering over het IJzer IJzinga Planetarium, het nieuwe werelderfgoed, gaat daar in première.
+
+147
+00:12:36,140 --> 00:12:39,480
+Er is een Vraag maar Raakshow over sterren en planeten.
+
+148
+00:12:39,800 --> 00:12:44,700
+Je kan met ons op de foto en er is echt van alles te doen en te beleven.
+
+149
+00:12:44,700 --> 00:12:48,360
+Kijk even op hetklokhuis.nl voor meer informatie.
+
+150
+00:12:48,800 --> 00:12:52,620
+En welkomen hè, want dan zien wij jou ook eens.
+
+151
+00:12:52,760 --> 00:12:53,800
+Tot de volgende keer.
+
+152
+00:12:54,260 --> 00:12:57,920
+En vergeet niet het huiswerk voor de volgende keer.
+
+153
+00:12:58,060 --> 00:12:59,200
+Oh, iedereen is al weg.
+
+154
+00:12:59,980 --> 00:13:01,380
+Nou ja, dan maar geen huiswerk.
+
+155
+00:13:01,380 --> 00:13:03,000
+лу fiveotho-toeaksplant naté.
+
+156
+00:13:03,040 --> 00:13:03,980
+Que weakness is al weg.
+
+157
+00:13:03,980 --> 00:13:04,400
+Are you?
+
+158
+00:13:04,760 --> 00:13:05,180
+Of warrior?
+
+159
+00:13:05,360 --> 00:13:05,920
+Is al버 Garage.
+
+160
+00:13:06,100 --> 00:13:07,860
+Is al ma Paulo moans 양 기다�л VO TV's voor een paar kilometers.
+
+161
+00:13:07,960 --> 00:13:10,400
+Do prostonen werdmy.
+

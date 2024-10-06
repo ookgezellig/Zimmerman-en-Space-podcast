@@ -1,0 +1,680 @@
+1
+00:00:00,000 --> 00:00:08,620
+Soms horen we wel eens iets moeilijks in het nieuws en dan is het vaak maar de vraag wat de repercussies daadwerkelijk zijn.
+
+2
+00:00:08,940 --> 00:00:10,800
+Met name ook voor ons persoonlijk.
+
+3
+00:00:11,440 --> 00:00:15,780
+Neem bijvoorbeeld de kernramp in Tsjernobyl op 26 april 1986.
+
+4
+00:00:17,320 --> 00:00:23,680
+Ik weet nog dat ik erover hoorde op de radio die aanstond in de koffiekamer van mijn eerste echte baantje.
+
+5
+00:00:23,680 --> 00:00:35,540
+Waarschijnlijk hoorde ik er pas over op dinsdagochtend 29 april, want pas de avond daarvoor erkende de Russische overheid dat er een storing had plaatsgevonden in de kerncentrale.
+
+6
+00:00:36,380 --> 00:00:44,360
+Inmiddels heet de Tsjernobyl ramp volgens de World Health Organization de grootste civiele nucleaire ramp in de geschiedenis.
+
+7
+00:00:44,560 --> 00:00:51,580
+De ramp met de kerncentrale als gevolg van menselijk falen kostte officieel iets minder dan 100 mensen het leven,
+
+8
+00:00:51,580 --> 00:00:56,300
+maar de lange termijn schattingen over zieken en doden lopen sterk uiteen.
+
+9
+00:00:57,000 --> 00:01:02,960
+Maar wat hadden wij als Nederlanders of Belgen eigenlijk voor last van de kernramp zo ver weg in Tsjernobyl?
+
+10
+00:01:03,340 --> 00:01:04,840
+Ja, dat is de vraag.
+
+11
+00:01:05,140 --> 00:01:11,320
+Ruim een jaar na de kernramp op 5 november 1987 lazen we in Dagblad Trouw
+
+12
+00:01:11,320 --> 00:01:15,940
+Paddenstoel blijft nog enkele jaren radioactief besmet.
+
+13
+00:01:15,940 --> 00:01:22,480
+De radioactieve besmetting van paddenstoelen is in vergelijking met vorig jaar nauwelijks afgenomen.
+
+14
+00:01:22,920 --> 00:01:30,320
+Wie nu het bos intrekt om een mandjevelde paddenstoelen te plukken, kan er zonder meer van uitgaan met besmette exemplaren terug te keren.
+
+15
+00:01:30,320 --> 00:01:39,560
+De hoogste waarden zullen worden gevonden in die gebieden waar anderhalf jaar geleden, na de ramp in de kerncentrale in Tsjernobyl, de meeste neerslag viel.
+
+16
+00:01:39,560 --> 00:01:46,620
+Het regenfront trok in die eerste meidagen globaal van het zuidoosten naar het noordwesten over ons land.
+
+17
+00:01:47,200 --> 00:01:49,580
+Van de Peel via de Bult naar Den Helder.
+
+18
+00:01:50,760 --> 00:01:58,620
+Vorig najaar doken de eerste berichten over radioactief besmette wilde paddenstoelen op die de normen voor voedsel ruim overtroffen.
+
+19
+00:01:59,280 --> 00:02:04,140
+Het ministerie van WVC liet toen weten dat er geen enkele reden tot paniek was.
+
+20
+00:02:04,620 --> 00:02:06,940
+De volksgezondheid was niet in het geding.
+
+21
+00:02:06,940 --> 00:02:08,520
+Ja, daar konden we op wachten.
+
+22
+00:02:08,520 --> 00:02:12,160
+Dit was natuurlijk goed nieuws, want het leven kon vrolijk verder gaan.
+
+23
+00:02:12,800 --> 00:02:13,840
+Niks aan de hand.
+
+24
+00:02:14,540 --> 00:02:17,200
+Dan maar wat minder wilde paddenstoelen eten, nietwaar?
+
+25
+00:02:18,360 --> 00:02:22,220
+Zo is het ook een beetje met het nieuws waar ik het vandaag met u over wil hebben.
+
+26
+00:02:22,960 --> 00:02:29,220
+Ik wil er gelijk bij zeggen dat ik het bericht ontving van luisteraar Jule uit Drenthe, waar ik heel blij mee ben.
+
+27
+00:02:29,880 --> 00:02:35,880
+Het is fantastisch als u als luisteraar meedenkt over de dingen die hier in deze podcast besproken worden.
+
+28
+00:02:35,880 --> 00:02:40,660
+Het bericht verscheen op de website van RTV Drenthe met de titel
+
+29
+00:02:40,660 --> 00:02:43,260
+Astronomen maken zich grote zorgen.
+
+30
+00:02:43,680 --> 00:02:47,180
+Lofar Telescoop ontdekt ruis van SpaceX satellieten.
+
+31
+00:02:47,840 --> 00:02:49,220
+In het artikel lezen we
+
+32
+00:02:49,220 --> 00:02:56,680
+Wetenschappers van Astron in Dwingelo maken zich grote zorgen over de komst van extra satellieten van SpaceX,
+
+33
+00:02:57,180 --> 00:02:59,220
+het ruimtebedrijf van Elon Musk.
+
+34
+00:02:59,900 --> 00:03:06,000
+Met de Lofar Telescoop in Exlo hebben zij ontdekt dat de satellieten van SpaceX, die nu al in de ruimte zijn,
+
+35
+00:03:06,000 --> 00:03:08,080
+zorgen voor ruis in het heelal.
+
+36
+00:03:08,640 --> 00:03:12,060
+Daardoor zijn waarnemingen in het ergste geval onbruikbaar.
+
+37
+00:03:12,060 --> 00:03:18,400
+Misschien is het aardig even naar een stukje te luisteren van het videobestand van RTV Drenthe.
+
+38
+00:03:19,060 --> 00:03:22,720
+Hierin is wetenschapper Kees Bassa van Astron aan het woord.
+
+39
+00:03:23,060 --> 00:03:26,040
+Dit was de eerste keer dat we hier echt specifiek naar op zoek zijn gegaan.
+
+40
+00:03:26,140 --> 00:03:28,780
+We waren er wel bang voor, maar nu hebben we het ook echt gemeten.
+
+41
+00:03:28,980 --> 00:03:33,660
+En met alle andere satellieten die in de toekomst gelanceerd gaan worden, kan dit best een groot probleem gaan worden.
+
+42
+00:03:34,000 --> 00:03:37,020
+Bassa laat ook een stukje van een radiowaarneming horen,
+
+43
+00:03:37,180 --> 00:03:41,900
+waarin te horen is dat een satelliet van SpaceX door de detectoren van Lofar trekt.
+
+44
+00:03:42,060 --> 00:03:49,100
+Ik heb het fragment iets opgeschoond, zodat u als luisteraar van deze podcast niet doof getetterd wordt door ruis.
+
+45
+00:03:49,760 --> 00:03:56,400
+In dit fragment hoort u het residu van ruis en dan opeens een soort geluid alsof een goederentrein langskomt.
+
+46
+00:03:56,400 --> 00:04:02,060
+Dat is het Doppler-effect van een Starlink-satelliet die het radiospectrum vervuilt.
+
+47
+00:04:05,600 --> 00:04:11,840
+We wisten al dat de Starlink-satelliet in het optisch bereik voor vervuiling aan de sterrenhemel zorgen,
+
+48
+00:04:11,840 --> 00:04:14,100
+in de vorm van strepen op foto's.
+
+49
+00:04:14,620 --> 00:04:18,520
+Maar nu ontstaat er dus ook een probleem in het radioastronomisch bereik.
+
+50
+00:04:18,980 --> 00:04:19,620
+Hoe zit dat?
+
+51
+00:04:20,120 --> 00:04:23,640
+Kan SpaceX geen andere radiofrequentie gebruiken?
+
+52
+00:04:24,300 --> 00:04:27,500
+Dan komen we uit op het wetenschappelijke artikel hierover,
+
+53
+00:04:27,700 --> 00:04:30,880
+waarvan onder andere diezelfde Kees Bassa auteur is.
+
+54
+00:04:30,880 --> 00:04:32,700
+We vinden het met de titel
+
+55
+00:04:32,700 --> 00:04:45,660
+Het verschijn begin juli van dit jaar in Astronomy & Astrophysics.
+
+56
+00:04:46,660 --> 00:04:53,500
+Hoofdauteur is Frederico Di Fruno van het Square Kilometer Array Observatory of SKAO.
+
+57
+00:04:53,500 --> 00:04:59,640
+In dit artikel lezen we dat er inderdaad is afgesproken dat SpaceX voor radiocommunicatie
+
+58
+00:04:59,640 --> 00:05:07,840
+met haar constellatie van Starlink-satellieten gebruik maakt van de 10.7 en 12.7 gigahertz radiofrequenties,
+
+59
+00:05:08,120 --> 00:05:14,120
+maar dat er onbedoelde vervuilende radiosignalen op lagere frequenties worden aangetroffen.
+
+60
+00:05:15,080 --> 00:05:18,980
+Deze vervuilende signalen zijn dan hinderlijk voor de radioastronomie.
+
+61
+00:05:18,980 --> 00:05:25,600
+De auteurs zijn het eens dat de extra radiouitzendingen intrinsiek zijn aan de Starlink-satellieten,
+
+62
+00:05:25,780 --> 00:05:33,100
+aangezien zij deze radioemissies bij 47 van de 68 waargenomen Starlink-satellieten wisten te meten.
+
+63
+00:05:33,760 --> 00:05:46,840
+We hebben het dan over niet bedoelde vervuilingsproducten van satellieten op radiofrequenties 125, 135, 145.05, 150 en 175 megahertz.
+
+64
+00:05:46,840 --> 00:05:51,740
+Ver beneden de voor SpaceX vrijgegeven radiofrequenties dus.
+
+65
+00:05:52,680 --> 00:05:57,140
+Het is wel interessant dat dit het resultaat is van slechts één uur waarnemen.
+
+66
+00:05:57,680 --> 00:06:03,400
+In een tijdsbestek van één uur konden er storingen van maar liefst 47 Starlink-satellieten
+
+67
+00:06:03,400 --> 00:06:06,100
+in het luisterbereik van Lover worden gemeten.
+
+68
+00:06:06,260 --> 00:06:07,520
+Dat is toch niet te geloven?
+
+69
+00:06:07,520 --> 00:06:16,220
+Eén van deze frequenties, 145.05 megahertz, kan toegeschreven worden aan de Franse Graves Space Surveillance radar.
+
+70
+00:06:17,500 --> 00:06:22,220
+Graves klinkt misschien wat macaber, maar is gewoon weer een afkorting en wel van...
+
+71
+00:06:22,220 --> 00:06:24,980
+Grand réseau adapté à la veille spatiale.
+
+72
+00:06:24,980 --> 00:06:33,800
+Dit Franse systeem zendt een radarsignaal uit op 145.05 megahertz, wat op een andere locatie in Frankrijk weer herkend kan worden...
+
+73
+00:06:33,800 --> 00:06:36,240
+wanneer signalen tegen satellieten aanbotsen.
+
+74
+00:06:36,980 --> 00:06:43,640
+Als u het aardig vindt hier meer over te lezen, dan vindt u een link naar het Graves Sourceboek in de show notes.
+
+75
+00:06:44,260 --> 00:06:52,480
+Deze pdf is deels in het Engels en deels in het Frans en met 126 pagina's reuze interessant voor de nerds onder ons.
+
+76
+00:06:52,480 --> 00:06:53,720
+Ben je zo'n nerd, Hans?
+
+77
+00:06:54,040 --> 00:06:59,700
+Opvallend is dat het regulerend orgaan, de International Telecommunications Union...
+
+78
+00:06:59,700 --> 00:07:05,660
+wel regels oplegt voor bedoelde radio-uitzendingen, maar juist niet voor onbedoelde radio-uitzendingen.
+
+79
+00:07:06,880 --> 00:07:11,480
+Specifiek publiceert de ITU een reglement met de naam Radio Regulations...
+
+80
+00:07:12,040 --> 00:07:16,540
+wat lidstaten geacht worden uit te rollen in hun eigen systeem van wetgevingen.
+
+81
+00:07:17,000 --> 00:07:20,480
+Maar de radioastronomie komt er bedonderd vanaf.
+
+82
+00:07:20,480 --> 00:07:27,480
+Onder de 4 gigahertz wordt slechts 5% van het radiospectrum vrijgehouden voor radioastronomie...
+
+83
+00:07:28,020 --> 00:07:29,840
+en dus ook nog onsuccesvol.
+
+84
+00:07:30,560 --> 00:07:34,720
+Geen wonder dan ook dat radioastronomen zoals Dr. Mark Kleinvolt...
+
+85
+00:07:34,720 --> 00:07:37,480
+van het Radboud Radiolab van de Radboud Universiteit...
+
+86
+00:07:38,140 --> 00:07:42,380
+hun zinnen hebben gezet op een radiotelescoop op de achterkant van de maan.
+
+87
+00:07:43,700 --> 00:07:48,100
+We kunnen ons afvragen waar dit soort onbedoelde radiosignalen vandaan komen.
+
+88
+00:07:48,100 --> 00:07:54,260
+Is zo'n Starlink-satelliet niet in staat om alleen de afgesproken radiofrequenties te benutten?
+
+89
+00:07:54,440 --> 00:07:57,120
+Ja, dat is wel een hele interessante vraag.
+
+90
+00:07:57,520 --> 00:07:59,100
+Deels is het bijna niet te voorkomen.
+
+91
+00:08:00,100 --> 00:08:07,160
+Wanneer men uitzendt op een frequentie ontstaan er harmonische en intermodulatie bijproducten op andere frequenties.
+
+92
+00:08:07,840 --> 00:08:10,840
+Maar waar dit nog binnen de perken gehouden zou kunnen worden...
+
+93
+00:08:10,840 --> 00:08:15,640
+zendt elk elektronisch systeem ook inherent extra radiosignalen uit.
+
+94
+00:08:16,420 --> 00:08:21,840
+De auteurs noemen dit UEMR, wat staat voor Unintended Electromagnetic Radiation...
+
+95
+00:08:22,360 --> 00:08:25,800
+wat ook wel eens elektromagnetische interferentie genoemd wordt.
+
+96
+00:08:27,140 --> 00:08:31,840
+Deze niet bedoelde radiostraling vinden we ook in uw strijkeizer...
+
+97
+00:08:31,840 --> 00:08:35,320
+de muis van uw computer, de meterkast, et cetera.
+
+98
+00:08:36,120 --> 00:08:41,420
+Met een heel klein beetje hobbyën kunt u zelf op onderzoek uitgaan en dit soort storingen opnemen.
+
+99
+00:08:42,260 --> 00:08:47,840
+Ik hing zelf een min of meer willekeurige spoel van koperdraad aan de microfooningang van mijn pocketrecorder...
+
+100
+00:08:49,120 --> 00:08:52,840
+en hield die spoel in de buurt van diverse apparaten in mijn rommelhok...
+
+101
+00:08:53,640 --> 00:08:56,640
+waar ook deze podcast opgenomen en nabewerkt wordt.
+
+102
+00:08:56,640 --> 00:09:01,680
+De Wacom tablet, een soort pen, genereerde dit geluid.
+
+103
+00:09:03,960 --> 00:09:07,040
+Dit is het geluid van een magnetische harddisk.
+
+104
+00:09:09,000 --> 00:09:12,740
+En dit is het geluid van een adapter in het stopcontact.
+
+105
+00:09:14,880 --> 00:09:17,640
+Als u het wat grootser op wilt zetten...
+
+106
+00:09:17,640 --> 00:09:23,440
+links naar hobbyprojecten in Make Sign en Instructables vindt u de links van deze aflevering.
+
+107
+00:09:23,440 --> 00:09:29,720
+Maar even terug naar onze Starlink-satellieten die het plezier voor radioastronomen vergallen.
+
+108
+00:09:30,480 --> 00:09:35,220
+Aan de ene kant zijn veel mensen, waaronder ik zelf, blij met technologische vooruitgang.
+
+109
+00:09:36,000 --> 00:09:40,440
+Zoiets als Starlink-internet zal voor veel consumenten en ook voor instellingen...
+
+110
+00:09:40,980 --> 00:09:45,860
+een buitengewoon plezierige oplossing zijn voor het gebruiken van breedband-internet.
+
+111
+00:09:46,780 --> 00:09:51,440
+Hier in Beeldhoven, waar ik woon, loopt de glasvezel huis aan huis tot aan de voordeur...
+
+112
+00:09:51,440 --> 00:09:55,940
+maar de situatie is natuurlijk anders in afgelegen locaties op aarde.
+
+113
+00:09:57,420 --> 00:10:01,440
+Maar moeten we dan ergens ho tot hier en niet verder roepen?
+
+114
+00:10:02,320 --> 00:10:05,240
+Net zoals we niet hebben gedaan met nachtelijke verlichting?
+
+115
+00:10:06,140 --> 00:10:08,460
+Daar hebben we het wel eens eerder over gehad.
+
+116
+00:10:09,120 --> 00:10:12,560
+Een telescoop in het midden van de stad is min of meer zinloos.
+
+117
+00:10:12,700 --> 00:10:15,040
+Een reliquie van vervlogen tijden.
+
+118
+00:10:15,040 --> 00:10:20,320
+Zelfs op het platteland in Nederland is het zoeken naar een locatie...
+
+119
+00:10:20,320 --> 00:10:24,060
+waar de sterrenhemel nog echt donker wordt en de Melkweg goed zichtbaar is.
+
+120
+00:10:24,920 --> 00:10:28,040
+De meest indrukwekkende beelden uit het heelal komen nu van telescopen...
+
+121
+00:10:28,700 --> 00:10:31,160
+die buiten onze dampkring in de ruimte hangen.
+
+122
+00:10:32,040 --> 00:10:36,040
+Is dan nu ook het punt aangebroken dat we de pijp aan Maarten moeten geven...
+
+123
+00:10:36,600 --> 00:10:39,040
+voor wat betreft radioastronomie op aarde?
+
+124
+00:10:39,240 --> 00:10:40,160
+Laten we dat maar niet doen.
+
+125
+00:10:40,160 --> 00:10:46,160
+In het artikel van Bassa en Diffruno lezen we dat we ons nu in de eigenaardige situatie bevinden...
+
+126
+00:10:46,960 --> 00:10:49,160
+dat voor het eerst in de menselijke geschiedenis...
+
+127
+00:10:49,680 --> 00:10:53,620
+het opgetelde effect van satellieten serieus gemeten kan gaan worden.
+
+128
+00:10:54,200 --> 00:11:00,540
+Want alleen nu hangen er vrijwel identieke satellieten van bijvoorbeeld SpaceX en OneWeb rond de aarde...
+
+129
+00:11:00,540 --> 00:11:06,160
+waarbij verwacht kan worden dat de gelekte straling steeds op dezelfde frequenties plaatsvindt...
+
+130
+00:11:06,160 --> 00:11:09,160
+en dus een opgeteld effect krijgt op de radioastronomie.
+
+131
+00:11:10,160 --> 00:11:15,160
+Volgens astrofysicus Jonathan McDowell, die dit keurig voor ons bijhoudt...
+
+132
+00:11:15,160 --> 00:11:20,900
+zijn er op dit moment 4.432 Starlink-satellieten in een baan rond de aarde te vinden...
+
+133
+00:11:20,900 --> 00:11:24,520
+waarvan er 4.397 werkzaam zijn.
+
+134
+00:11:25,340 --> 00:11:30,560
+OneWeb heeft volgens Jonathan 632 werkende satellieten in een baan rond de aarde.
+
+135
+00:11:31,360 --> 00:11:36,480
+Vormen deze megaconstellaties, die de komende jaren nog veel groter zullen worden...
+
+136
+00:11:36,480 --> 00:11:39,040
+een serieus gevaar voor radioastronomie.
+
+137
+00:11:39,040 --> 00:11:46,100
+De auteurs komen tot de voorzichtige conclusie dat dit nog niet met grote zekerheid kan worden gezegd.
+
+138
+00:11:46,360 --> 00:11:52,040
+Al vrezen zij dat met de tijd zoveel praktisch identieke satellieten in een baan rond de aarde komen te hangen...
+
+139
+00:11:52,040 --> 00:12:00,480
+dat de opgetalde som van onbedoelde radiostoringen een deel van de radioastronomie op aarde onmogelijk zal maken.
+
+140
+00:12:01,200 --> 00:12:04,640
+Overleg tussen partijen is dan ook nodig, concluderen zij.
+
+141
+00:12:05,180 --> 00:12:09,040
+Want een deel van het probleem kan mogelijk ook toegeschreven worden aan onwetendheid.
+
+142
+00:12:09,040 --> 00:12:19,040
+Storende signalen op 125, 150 en 175 megahertz kunnen bijvoorbeeld harmonische zijn van een elektronisch component...
+
+143
+00:12:19,600 --> 00:12:22,340
+met een klokfrequentie van 25 megahertz.
+
+144
+00:12:23,060 --> 00:12:26,920
+Een ander type elektronisch component kan wellicht al een hoop schelen.
+
+145
+00:12:26,920 --> 00:12:31,920
+In een Ask Me Anything van Reddit antwoorden medewerkers van SpaceX...
+
+146
+00:12:32,540 --> 00:12:38,480
+dat er per 60 Starlink-satellieten ruim 4000 Linux-computers gelanceerd worden.
+
+147
+00:12:39,120 --> 00:12:43,200
+Elke Linux-nood heeft minstens één microprocessor in gebruik...
+
+148
+00:12:43,200 --> 00:12:46,920
+dus alsof er de klokfrequenties van die computers wat overleg kan komen...
+
+149
+00:12:46,920 --> 00:12:53,100
+dan is het wellicht mogelijk de storende invloed op de radioastronomie enigszins in te dammen.
+
+150
+00:12:54,180 --> 00:13:00,940
+Het is mijns inziens wel interessant dat exact dit type storingen al voorspeld werd in november 2020.
+
+151
+00:13:01,960 --> 00:13:02,860
+In het artikel...
+
+152
+00:13:02,860 --> 00:13:05,780
+The impacts of large constellations of satellites...
+
+153
+00:13:05,780 --> 00:13:08,920
+van Gordon Long lezen we, en ik vertaal het maar even...
+
+154
+00:13:09,540 --> 00:13:13,920
+Radioastronomie is sterk afhankelijk van radiostille, beschermde banden...
+
+155
+00:13:13,920 --> 00:13:17,840
+die zo vrij mogelijk zijn van radiofrequente interferentie.
+
+156
+00:13:18,420 --> 00:13:23,220
+Deze radiobanden hebben vaak enige bescherming tegen uitzendingen op de grond...
+
+157
+00:13:23,220 --> 00:13:27,040
+maar hebben weinig of geen formele bescherming tegen zenders in de ruimte.
+
+158
+00:13:27,600 --> 00:13:31,920
+Vanwege zijband- en uitbandemissies van de grote constellatiesatellieten...
+
+159
+00:13:32,700 --> 00:13:39,200
+zullen bestaande radiostille zones in de toekomst waarschijnlijk ernstig worden beïnvloed door satellietstoringen.
+
+160
+00:13:39,700 --> 00:13:42,920
+Zelfs als een satelliet direct boven een radioastronomielocatie...
+
+161
+00:13:42,920 --> 00:13:48,040
+de zenders uitschakelt, kunnen satellieten op honderden kilometers afstand...
+
+162
+00:13:48,040 --> 00:13:52,000
+nog steeds storende emissies produceren voor radioastronomie.
+
+163
+00:13:52,540 --> 00:13:55,980
+Dus dat was de waarschuwing bijna drie jaar geleden.
+
+164
+00:13:56,560 --> 00:14:01,920
+En in 2023 is het menens en hebben de mensen die deze problemen hadden kunnen voorkomen...
+
+165
+00:14:02,540 --> 00:14:06,420
+waarschijnlijk geen actieve herinnering aan het rapport van Gordon Long.
+
+166
+00:14:07,220 --> 00:14:11,920
+Ik weet niet hoe u erover denkt, maar ik denk dat de technologie de mens weer eens inhaalt.
+
+167
+00:14:11,920 --> 00:14:16,440
+Over een paar jaar hebben we hopelijk een lofer op de maan.
+
+168
+00:14:17,060 --> 00:14:22,580
+Ik hoop het voor mensen als dokter Mark Kleinvolt en de radioastronomen van de toekomst.
+
+169
+00:14:23,000 --> 00:14:24,240
+Tot de volgende keer.
+
+170
+00:14:24,240 --> 00:14:27,960
+Ik vind het vooral heel grappig dat je audio doet en Hans Zimmerman heet.
+

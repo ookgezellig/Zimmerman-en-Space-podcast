@@ -1,0 +1,920 @@
+1
+00:00:00,000 --> 00:00:02,580
+De space station might look something like this.
+
+2
+00:00:03,120 --> 00:00:05,260
+U luistert naar Zimmerman & Space.
+
+3
+00:00:06,320 --> 00:00:15,740
+Deze maand, oktober 2023, lezen we her en der in het nieuws dat er een 8 miljard jaar oude radioflits is waargenomen.
+
+4
+00:00:15,960 --> 00:00:20,800
+Mysterious fast radio burst from deep space can't be explained by current theories.
+
+5
+00:00:21,060 --> 00:00:23,860
+Staat er bijvoorbeeld op de website space.com.
+
+6
+00:00:24,640 --> 00:00:27,380
+En populaire nieuwssites hebben het er ook over.
+
+7
+00:00:27,380 --> 00:00:30,420
+8 billion year old radio signal reaches earth.
+
+8
+00:00:30,520 --> 00:00:31,620
+Zie ik op CNN.
+
+9
+00:00:32,840 --> 00:00:36,520
+Misschien is het aardig vandaag iets dieper naar dit bericht te kijken.
+
+10
+00:00:36,860 --> 00:00:40,740
+Iets dieper het heelal in dus en iets dieper terug in de tijd.
+
+11
+00:00:41,980 --> 00:00:44,720
+Wat is ook weer een fast radio burst?
+
+12
+00:00:45,020 --> 00:00:46,800
+Nou, dat weten we nog niet.
+
+13
+00:00:50,220 --> 00:00:55,700
+We kunnen het wel morphologisch omschrijven, maar wat de oorzaker van is, is nog niet bekend.
+
+14
+00:00:55,700 --> 00:01:01,480
+Van tijd tot tijd zien radio's sterrenkundigen aan onze sterrenhemel een korte flits.
+
+15
+00:01:02,720 --> 00:01:05,580
+Inderdaad, in het radiogedeelte van het spectrum.
+
+16
+00:01:07,160 --> 00:01:11,200
+Dat is ongeveer in het bereik van 3 hertz tot 3 terahertz.
+
+17
+00:01:12,200 --> 00:01:16,520
+In dat bereik komen we ook onze aardse radio- en televisieuitzendingen tegen.
+
+18
+00:01:16,520 --> 00:01:19,760
+En de wereld van morgen werd de wereld van vandaag.
+
+19
+00:01:19,980 --> 00:01:24,360
+Maar we gaan ervan uit dat fast radio bursts een natuurlijke oorzaak hebben.
+
+20
+00:01:25,040 --> 00:01:30,480
+U kunt dan denken aan het ontstaan van een zwart gat, het vergaan van een pulsar of een magnetar,
+
+21
+00:01:30,680 --> 00:01:37,120
+of een vergelijkbaar hoog-energetisch gebeuren dat onze huistuin- en keukennatuurkunde in zijn hemd zet.
+
+22
+00:01:38,260 --> 00:01:40,880
+Fast zijn deze radio bursts zeker.
+
+23
+00:01:40,880 --> 00:01:47,440
+Zo'n klein pakket van radio-energie duurt in de waarnemingen soms maar een fractie van de milliseconden.
+
+24
+00:01:47,660 --> 00:01:53,800
+Maar er worden soms ook iets langere fast radio bursts waargenomen in de orde van een paar seconden.
+
+25
+00:01:54,660 --> 00:02:02,700
+We kennen het verschijnsel pas sinds 2007, toen de eerste fast radio burst werd vastgelegd door astronoom Duncan Lorimer.
+
+26
+00:02:02,700 --> 00:02:11,120
+De fast radio burst die Lorimer en zijn student David Narkovich ontdekten, kwam voor op een waarneming uit 2001.
+
+27
+00:02:11,920 --> 00:02:15,540
+Maar omdat radio straling met de lichtsnelheid door het helal reist,
+
+28
+00:02:15,800 --> 00:02:21,940
+zal de oorspronkelijke gebeurtenis waar de fast radio burst bij plaatsvond veel verder in het verleden liggen.
+
+29
+00:02:22,080 --> 00:02:23,560
+Ja, dat is logisch.
+
+30
+00:02:23,760 --> 00:02:28,440
+Wat kan nou de oorzaak van zo'n korte uitbarsting van radio straling zijn?
+
+31
+00:02:28,580 --> 00:02:29,420
+Dat is de vraag!
+
+32
+00:02:29,420 --> 00:02:33,580
+Nou, er zijn genoeg theorieën, maar de astronomie is er gewoon nog niet uit.
+
+33
+00:02:34,260 --> 00:02:38,720
+Er zijn natuurlijk genoeg gebeurtenissen waar ook radio straling bij wordt gegenereerd.
+
+34
+00:02:38,960 --> 00:02:43,060
+En objecten zoals pulsers zenden ook continu radio straling uit.
+
+35
+00:02:43,640 --> 00:02:47,480
+Dus dan ligt het voor de hand om bij vergelijkbare processen te kijken.
+
+36
+00:02:48,420 --> 00:02:52,600
+Er bestaan gek genoeg ook fast radio bursts die periodiek zijn.
+
+37
+00:02:52,900 --> 00:02:56,700
+Die zich, kortom, herhalen, herhalen, herhalen, herhalen.
+
+38
+00:02:56,700 --> 00:03:07,280
+Het is natuurlijk maar zeer de vraag of het achterliggende principe voor die zich herhalende fast radio bursts vergelijkbaar is met de sporadische enkelvoudige bursts.
+
+39
+00:03:08,900 --> 00:03:16,140
+Natuurlijk wordt ook door sommige mensen gesuggereerd dat dit radio uitzendingen zijn van extra galactische civilisaties.
+
+40
+00:03:16,300 --> 00:03:17,640
+Daar zit je niet op te wachten.
+
+41
+00:03:17,640 --> 00:03:22,960
+Dat klinkt natuurlijk goed omdat we deze gebeurtenissen aan de radio sterrenhemel waarnemen.
+
+42
+00:03:23,600 --> 00:03:29,840
+Maar als civilisaties buiten de aarde contact met ons zouden zoeken, zouden ze dan niet wat langer uitzenden?
+
+43
+00:03:30,460 --> 00:03:33,580
+Ik hoor u al denken, tijd is relatief.
+
+44
+00:03:33,980 --> 00:03:38,740
+Misschien duurt een milliseconden voor ons wel een week voor een of andere alien.
+
+45
+00:03:39,440 --> 00:03:43,760
+De tijd zal ons wellicht leren wat de bron van fast radio bursts is.
+
+46
+00:03:43,760 --> 00:03:48,240
+Maar laten we ons in de rest van deze aflevering bij de feiten houden.
+
+47
+00:03:48,300 --> 00:03:49,480
+Tuurlijk, zouden we niet.
+
+48
+00:03:49,680 --> 00:03:56,940
+Sinds die eerste ontdekking in 2007 zijn er inmiddels een paar honderd waarnemingen van fast radio bursts bekend.
+
+49
+00:03:57,080 --> 00:03:58,000
+Zo hé, wat veel!
+
+50
+00:03:58,240 --> 00:04:01,900
+Veel komen voor op frequenties rond de 1400 megahertz.
+
+51
+00:04:02,120 --> 00:04:05,760
+Maar er worden ook fast radio bursts op lagere frequenties waargenomen.
+
+52
+00:04:05,760 --> 00:04:13,900
+Met uitzondering van zich herhalende bursts weten we natuurlijk niet waar en wanneer er weer zo'n flits plaatsvindt.
+
+53
+00:04:13,900 --> 00:04:20,600
+Dus de enige manier om deze gebeurtenissen vast te leggen is de hele radio sterrenhemel continu te monitoren.
+
+54
+00:04:21,500 --> 00:04:23,880
+Zo werd ook onze flits van vandaag ontdekt.
+
+55
+00:04:24,720 --> 00:04:28,000
+Het artikel dat hierover dit jaar verscheen heeft als titel...
+
+56
+00:04:28,000 --> 00:04:39,900
+De fast radio burst in kwestie kreeg als identificatie de naam FRB2022-0610A.
+
+57
+00:04:41,140 --> 00:04:49,780
+Deze flits duurde 1.18 milliseconden en de radioenergie had een centrumfrequentie van 1271,5 megahertz.
+
+58
+00:04:49,780 --> 00:04:59,120
+Deze fast radio burst werd ontdekt met de Australian Square Kilometer Array Pathfinder radiotelescoop, afgekort met ASCAP.
+
+59
+00:04:59,720 --> 00:05:06,540
+Deze radiotelescoop bestaat uit 36 schotels elk 12 meter breed in West-Australie.
+
+60
+00:05:07,400 --> 00:05:13,380
+Met deze ASCAP-telescoop werden tot nu toe al 55 fast radio bursts waargenomen.
+
+61
+00:05:13,380 --> 00:05:21,220
+De telescoop speurt continu de hemel af op dit soort plotselinge onverspalbare radiogebeurtenissen.
+
+62
+00:05:21,660 --> 00:05:28,460
+Als er iets dergelijks wordt gezien kan een zogenaamde voltage buffer van 3,1 seconden opgeslagen worden...
+
+63
+00:05:28,460 --> 00:05:34,220
+zodat alle informatie vlak daarvoor tot en met de fast radio burst van alle schotels kan worden geraadpleegd.
+
+64
+00:05:35,360 --> 00:05:41,860
+Dat kunt u vergelijken met bepaalde geluidsopnameapparaten die al opnemen voordat u op een record heeft gedrukt.
+
+65
+00:05:41,860 --> 00:05:48,860
+Mijn Zoom H4n pocket recorder neemt bijvoorbeeld al twee seconden op zonder dat ik daarom gevraagd heb.
+
+66
+00:05:48,980 --> 00:05:50,420
+Nou, blij om dat te horen.
+
+67
+00:05:50,720 --> 00:05:53,680
+Zo is het dus ook met de ASCAP-telescoop in Australië.
+
+68
+00:05:54,260 --> 00:05:57,860
+Met de uit meerdere schotels bestaande ASCAP-radiotelescoop...
+
+69
+00:05:57,860 --> 00:06:05,220
+kon de plaats aan onze sterrenhemel van deze fast radio burst met een precisie van een halve boogseconde worden vastgesteld.
+
+70
+00:06:05,640 --> 00:06:11,420
+Dat brengt ons met grote nauwkeurigheid in de richting van het sterrenbeeld Sculptor, de beeldhouwer.
+
+71
+00:06:11,420 --> 00:06:15,160
+Een onopvallend sterrenbeeld aan de zuidelijke sterrenhemel.
+
+72
+00:06:15,520 --> 00:06:21,600
+In onze achtertuin in de Benelux komt dit sterrenbeeld soms en dan slechts gedeeltelijk boven de horizon.
+
+73
+00:06:22,480 --> 00:06:26,420
+Maar goed, dan weten we de hoogte- en breedtelocatie aan de sterrenhemel...
+
+74
+00:06:26,420 --> 00:06:29,840
+wat we in de sterrenkunde ook wel declinatie en rechte klimming noemen.
+
+75
+00:06:30,620 --> 00:06:35,140
+Dat zijn coördinaten aan de sterrenhemel die losstaan van onze aardse rotatie.
+
+76
+00:06:35,560 --> 00:06:38,660
+Maar dan weten we nog niet hoe diep we het heelal inkijken.
+
+77
+00:06:38,660 --> 00:06:40,420
+Daarover zo meer.
+
+78
+00:06:41,480 --> 00:06:44,480
+Hoe sterk is zo'n fast radio burst eigenlijk?
+
+79
+00:06:45,240 --> 00:06:47,700
+Is het ongezond om er eentje op te vangen?
+
+80
+00:06:50,640 --> 00:06:54,300
+Bij de oorsprong van zo'n fast radio burst gebeurt iets...
+
+81
+00:06:54,300 --> 00:06:56,660
+waarvan we dus nog niet goed weten wat het is...
+
+82
+00:06:56,660 --> 00:06:58,540
+waar u beter niet naast kunt staan.
+
+83
+00:06:58,680 --> 00:06:59,620
+Oh, dat is niet best.
+
+84
+00:06:59,620 --> 00:07:04,280
+Want aan dat flitsje van 1,18 milliseconden gaat de gebeurtenis vooraf...
+
+85
+00:07:04,280 --> 00:07:09,620
+waarbij in die extreem korte tijd de complete energie van 30 jaar van onze zonnestraling...
+
+86
+00:07:10,280 --> 00:07:11,620
+in het radiospectrum vrijkomt.
+
+87
+00:07:12,720 --> 00:07:15,380
+Maar dit gebeurt ver, ver weg van de aarde.
+
+88
+00:07:15,860 --> 00:07:19,860
+En elektromagnetische straling neemt af met het quadraat van de afstand.
+
+89
+00:07:20,040 --> 00:07:20,940
+Oh, gelukkig.
+
+90
+00:07:20,940 --> 00:07:24,560
+Dus tegen de tijd dat zo'n radiopulsje onze aarde bereikt...
+
+91
+00:07:24,560 --> 00:07:25,980
+is het flink afgezwakt.
+
+92
+00:07:26,800 --> 00:07:31,600
+Zo'n radiotelescoop als de ASKAP is een buitengewoon gevoelig radiooor.
+
+93
+00:07:32,280 --> 00:07:37,660
+En FRB 20220610A had dan ook maar een fractie van de energie...
+
+94
+00:07:37,660 --> 00:07:40,080
+van bijvoorbeeld de straling van een mobiele telefoon.
+
+95
+00:07:40,800 --> 00:07:44,800
+En dat ook nog eens in het tijdbestek van maar 1,18 milliseconden.
+
+96
+00:07:45,460 --> 00:07:47,300
+Geen zorgen dus daarover.
+
+97
+00:07:47,300 --> 00:07:52,540
+Niet in elk nieuwsartikel lezen we hoe nou de afstand...
+
+98
+00:07:52,540 --> 00:07:55,960
+die zo'n fast radio burst afgelegd heeft, kan worden bepaald.
+
+99
+00:07:56,740 --> 00:07:59,200
+In tegenstelling tot zichtbaar licht...
+
+100
+00:07:59,200 --> 00:08:03,380
+waarin we emissie- en absorptielijnen van bepaalde elementen tegenkomen...
+
+101
+00:08:03,380 --> 00:08:06,340
+is zo'n fast radio burst maar een beetje ruis...
+
+102
+00:08:06,340 --> 00:08:09,340
+waar we met onze kennis van nu geen informatie in zien...
+
+103
+00:08:09,340 --> 00:08:11,120
+waarmee we de afstand kunnen bepalen.
+
+104
+00:08:11,280 --> 00:08:12,400
+Eh, even kijken.
+
+105
+00:08:12,780 --> 00:08:15,300
+Dus hoe doet men dan zo'n afstandsbepaling?
+
+106
+00:08:15,300 --> 00:08:20,540
+In het geval van FRB 20220610A...
+
+107
+00:08:20,540 --> 00:08:23,300
+werd gekeken met optische en infrarood telescopen...
+
+108
+00:08:23,960 --> 00:08:27,960
+of er op dezelfde locatie aan de sterrenhemel iets gevonden kan worden...
+
+109
+00:08:27,960 --> 00:08:30,940
+waar die fast radio burst vandaan is gekomen.
+
+110
+00:08:31,940 --> 00:08:36,300
+Met de VLT, Very Large Telescope, en het Keck Observatorium...
+
+111
+00:08:36,860 --> 00:08:40,480
+werd op exact de radiolocatie van de fast radio burst...
+
+112
+00:08:40,480 --> 00:08:42,700
+een klein sterrenstelsel aangetroffen.
+
+113
+00:08:42,700 --> 00:08:45,860
+In het licht van dit sterrenstelsel...
+
+114
+00:08:45,860 --> 00:08:47,940
+kunnen dan wel spectrale lijnen worden gemeten...
+
+115
+00:08:48,560 --> 00:08:51,840
+die ons iets zeggen over de afstand die het licht heeft afgelegd.
+
+116
+00:08:52,700 --> 00:08:53,860
+Om precies te zijn...
+
+117
+00:08:53,860 --> 00:08:55,820
+werden de zuurstof-ionlijnen...
+
+118
+00:08:55,820 --> 00:09:01,260
+op 3726 en 3729 engstroom waargenomen.
+
+119
+00:09:01,440 --> 00:09:02,360
+Oké, interessant.
+
+120
+00:09:02,900 --> 00:09:03,940
+Maar wel een beetje nerderig.
+
+121
+00:09:04,720 --> 00:09:06,940
+Deze lijnen worden veroorzaakt door zuurstofatomen...
+
+122
+00:09:06,940 --> 00:09:12,440
+die door ultraviolette straling van doorgaans jonge sterren worden geioniseerd.
+
+123
+00:09:13,800 --> 00:09:17,280
+Hierdoor ontstaat een duo van spectrale lijnen...
+
+124
+00:09:17,280 --> 00:09:20,600
+dat we ook wanneer het miljarden jaren door het helal heeft gereisd...
+
+125
+00:09:20,600 --> 00:09:21,640
+nog kunnen waarnemen.
+
+126
+00:09:22,560 --> 00:09:25,100
+Door de lange reis door een uitdijend helal...
+
+127
+00:09:25,100 --> 00:09:27,940
+raakt de straling en daarmee ook de spectrale informatie...
+
+128
+00:09:28,600 --> 00:09:30,240
+ernstig rood verschoven.
+
+129
+00:09:30,680 --> 00:09:33,820
+Dat betekent dat de frequentie van de straling afneemt...
+
+130
+00:09:33,820 --> 00:09:35,420
+en de golflengte toeneemt.
+
+131
+00:09:36,340 --> 00:09:37,960
+Hier kunnen we een getal aanhangen.
+
+132
+00:09:38,100 --> 00:09:40,260
+De parameter z die ons zegt...
+
+133
+00:09:40,260 --> 00:09:42,560
+hoe ernstig rood verschoven het licht is.
+
+134
+00:09:43,000 --> 00:09:47,120
+Ik heb al een hele aflevering van deze podcast en z gewijd...
+
+135
+00:09:47,120 --> 00:09:49,580
+dus die kunt u desgewenst terugluisteren.
+
+136
+00:09:50,580 --> 00:09:53,480
+Door te veronderstellen dat de fast radio-burst...
+
+137
+00:09:53,480 --> 00:09:56,680
+afkomstig is uit dit optisch waargenomen sterrenstelsel...
+
+138
+00:09:56,680 --> 00:09:59,060
+op precies dezelfde locatie aan de hemel...
+
+139
+00:09:59,060 --> 00:10:02,740
+kunnen we nagaan hoe ver weg dit signaal ooit ontstaan is.
+
+140
+00:10:02,740 --> 00:10:06,700
+Voor FRB 20220610A...
+
+141
+00:10:06,700 --> 00:10:11,000
+komen we uit op een Z, een roodverschuiving van 1.016.
+
+142
+00:10:12,180 --> 00:10:15,160
+Dat betekent sowieso dat de veronderstelde bron...
+
+143
+00:10:15,160 --> 00:10:18,440
+van onze fast radio-burst verschrikkelijk lang geleden...
+
+144
+00:10:18,440 --> 00:10:21,080
+en ook verschrikkelijk ver weg van onze aarde stond.
+
+145
+00:10:22,240 --> 00:10:24,960
+Zo ver zelfs dat we voorzichtig moeten zijn...
+
+146
+00:10:24,960 --> 00:10:26,420
+met wat we hierover beweren.
+
+147
+00:10:27,380 --> 00:10:30,720
+Een groot deel van ons helal is nog maar beperkt in beeld.
+
+148
+00:10:30,720 --> 00:10:33,640
+We weten bijvoorbeeld niet goed hoe het helal...
+
+149
+00:10:33,640 --> 00:10:34,680
+er op de grote schaal bij staat...
+
+150
+00:10:34,680 --> 00:10:37,920
+voor wat betreft de kromming van de ruimtetijd.
+
+151
+00:10:38,140 --> 00:10:39,400
+Oh ja, inderdaad.
+
+152
+00:10:39,580 --> 00:10:41,980
+Misschien weet u nog wel van de wiskunde van vroeger...
+
+153
+00:10:41,980 --> 00:10:45,700
+dat als we maar genoeg inzoomen op een grafiek, hoe krom ook...
+
+154
+00:10:45,700 --> 00:10:48,280
+dat we dan op den duur naar een rechte lijn kijken.
+
+155
+00:10:48,940 --> 00:10:51,380
+Of in ieder geval recht genoeg om te doen...
+
+156
+00:10:51,380 --> 00:10:52,720
+alsof het een rechte lijn is.
+
+157
+00:10:53,060 --> 00:10:53,360
+Oké.
+
+158
+00:10:53,360 --> 00:10:57,260
+En wellicht is het ook zo met ons helal en onze realiteit.
+
+159
+00:10:57,780 --> 00:11:00,740
+Op aarde is het meest redelijk overzichtelijk...
+
+160
+00:11:00,740 --> 00:11:04,000
+met een voor, achter, links, rechts, onder en boven.
+
+161
+00:11:04,720 --> 00:11:08,280
+Maar of een en ander op de grote schaal ook zo rechtlijnig is...
+
+162
+00:11:08,280 --> 00:11:09,580
+dat weten we nog niet goed.
+
+163
+00:11:09,780 --> 00:11:10,760
+I don't know.
+
+164
+00:11:10,960 --> 00:11:13,560
+We weten ook helemaal niet hoe groot het helal eigenlijk is.
+
+165
+00:11:13,740 --> 00:11:13,880
+Oh.
+
+166
+00:11:13,880 --> 00:11:18,240
+Nemen we nou voor nu aan dat het helal wel min of meer rechtlijnig is...
+
+167
+00:11:18,240 --> 00:11:22,420
+dan is de fast radio-burst bij een zet van 1.016...
+
+168
+00:11:22,420 --> 00:11:26,280
+ongeveer 7,8 miljard jaar naar ons onderweg geweest.
+
+169
+00:11:27,080 --> 00:11:29,060
+Inmiddels staat dit sterrenstelsel...
+
+170
+00:11:29,060 --> 00:11:32,300
+waar dus die fast radio-burst ooit ontstaan is...
+
+171
+00:11:32,300 --> 00:11:33,880
+veel verder van ons vandaan...
+
+172
+00:11:33,880 --> 00:11:38,280
+omdat het helal in die 7,8 miljard jaar ook immens uitgedijd is.
+
+173
+00:11:39,240 --> 00:11:43,640
+Met een oerknal die waarschijnlijk 13,7 miljard jaar geleden plaatsvond...
+
+174
+00:11:43,640 --> 00:11:46,160
+hebben we het dan over iets wat in een helal gebeurde...
+
+175
+00:11:46,160 --> 00:11:47,960
+dat nog veel jonger en kleiner...
+
+176
+00:11:47,960 --> 00:11:50,560
+en dus ook anders was dan ons huidige helal.
+
+177
+00:11:51,560 --> 00:11:55,120
+Daar zullen we het in een toekomstige aflevering van deze podcast...
+
+178
+00:11:55,120 --> 00:11:56,540
+nog wel eens vaker over hebben.
+
+179
+00:11:57,620 --> 00:12:04,000
+Voor nu nog twee feiten over deze fast radio-burst FRB-20220610A.
+
+180
+00:12:04,640 --> 00:12:07,140
+De astronoom Jean-Pierre Macaar...
+
+181
+00:12:07,140 --> 00:12:10,100
+die al op 45-jarige leeftijd overleed...
+
+182
+00:12:10,100 --> 00:12:13,600
+wordt veelvuldig in verband gebracht met fast radio-burst.
+
+183
+00:12:13,640 --> 00:12:19,360
+Van zijn hand is de relatie tussen dispersie van radiostraling en afstand...
+
+184
+00:12:19,360 --> 00:12:21,660
+ook wel bekend als de Macaar-relatie.
+
+185
+00:12:22,860 --> 00:12:26,600
+Dispersie is de frequentieafhankelijke afbuiging van straling.
+
+186
+00:12:27,520 --> 00:12:29,960
+Wat we zien als zo'n fast radio-burst...
+
+187
+00:12:29,960 --> 00:12:34,100
+een aanzienlijke afstand door het interstellaire medium heeft afgelegd...
+
+188
+00:12:34,100 --> 00:12:35,820
+is dat de radiostraling onderweg...
+
+189
+00:12:35,820 --> 00:12:41,540
+behalve een lineaire afname in frequentie als gevolg van de uitdijing van het helal...
+
+190
+00:12:41,540 --> 00:12:45,260
+Dat was een lange zin.
+
+191
+00:12:45,260 --> 00:12:50,440
+Een beetje zoals een regenboog het zonlicht aan de regenachtige hemel uitsmeert.
+
+192
+00:12:51,260 --> 00:12:55,700
+Deze radio-uitsmering is het gevolg van deeltjes en straling...
+
+193
+00:12:55,700 --> 00:12:58,720
+die de fast radio-burst onderweg tegenkomt.
+
+194
+00:12:59,220 --> 00:13:02,300
+De grote vraag is dan natuurlijk wat voor deeltjes?
+
+195
+00:13:02,300 --> 00:13:07,320
+Dat kan zijn op het moment dat de fast radio-burst ontstaat...
+
+196
+00:13:07,320 --> 00:13:11,220
+dus bijvoorbeeld in het sterrenstelsel waar zo'n gebeurtenis in plaats heeft gevonden.
+
+197
+00:13:11,640 --> 00:13:13,980
+Maar dat kan ook onderweg gebeuren naar de aarde.
+
+198
+00:13:14,780 --> 00:13:17,300
+Want tussen daar en hier in die paar miljard lichtjaar...
+
+199
+00:13:17,960 --> 00:13:20,580
+komen we ook in het eilen heelal van alles tegen...
+
+200
+00:13:20,580 --> 00:13:24,120
+aan rondvliegende ionen, fotonen en kerndeeltjes.
+
+201
+00:13:24,480 --> 00:13:26,040
+En ook magnetisme.
+
+202
+00:13:27,040 --> 00:13:31,160
+Allemaal zaken waar de radiostraling dispersie door gaat vertonen.
+
+203
+00:13:31,160 --> 00:13:36,120
+Makai er toonde aan dat deze afgelegde reis ons veel informatie geeft...
+
+204
+00:13:36,120 --> 00:13:38,920
+over de samenstelling van het interstellaire medium.
+
+205
+00:13:39,780 --> 00:13:43,880
+Een beetje zoals wanneer u met een duikbril op uw hoofd in de sloot steekt...
+
+206
+00:13:43,880 --> 00:13:46,480
+en dan iets over het slootwater te weten komt...
+
+207
+00:13:46,480 --> 00:13:49,320
+en niet alleen maar iets over de overkant waar u naar kijkt.
+
+208
+00:13:51,060 --> 00:13:56,920
+Bij FRB 20220610A werd echter een exces aan dispersie waargenomen...
+
+209
+00:13:56,920 --> 00:14:02,680
+waardoor deze fast radio burst buiten de gebruikelijke makaarkurve komt te liggen.
+
+210
+00:14:03,480 --> 00:14:05,860
+Waar dit aan ligt is niet geheel duidelijk.
+
+211
+00:14:07,280 --> 00:14:09,680
+Astronomen zien wel dat deze fast radio burst...
+
+212
+00:14:10,340 --> 00:14:13,680
+minder zogenaamde faradayrotatie en depolarisatie heeft...
+
+213
+00:14:13,880 --> 00:14:18,620
+dan een andere fast radio burst die buiten de makaarkurve lag.
+
+214
+00:14:18,620 --> 00:14:24,860
+Ook was FRB 20220610A ongeveer drieënhalf keer sterker...
+
+215
+00:14:24,860 --> 00:14:27,000
+dan de gemiddelde fast radio burst.
+
+216
+00:14:27,620 --> 00:14:32,040
+Dat kunnen we afleiden uit de hoeveelheid energie die de aarde bereikt...
+
+217
+00:14:32,040 --> 00:14:33,580
+als een functie van de afstand.
+
+218
+00:14:34,420 --> 00:14:37,420
+Ook dit gegeven is enigszins mysterieus.
+
+219
+00:14:38,160 --> 00:14:42,620
+Het lijkt er met andere woorden op dat deze onbestemde radio flitsen...
+
+220
+00:14:42,620 --> 00:14:47,300
+meer onderlinge afwijkingen vertonen dan in eerste instantie verondersteld werd.
+
+221
+00:14:49,300 --> 00:14:53,120
+Om meer te weten te komen over fast radio bursts...
+
+222
+00:14:53,120 --> 00:14:57,800
+en ook over de deeltjes die tussen deze flits en onze aarde in het heelal zwerven...
+
+223
+00:14:57,800 --> 00:15:02,240
+wordt de komende jaren flink uitgebreid op het gebied van de radiosterrekunde.
+
+224
+00:15:02,980 --> 00:15:06,620
+Zo'n radiotelescoop als ASCAP is nog maar het begin van het ideaal...
+
+225
+00:15:06,620 --> 00:15:12,300
+om de complete radiosterrenhemel dag en nacht met grote gevoeligheid in de gaten te houden.
+
+226
+00:15:12,840 --> 00:15:17,000
+Ik vermoed dan ook dat ik er nog niet het laatste over heb gezegd in deze podcast.
+
+227
+00:15:18,020 --> 00:15:22,000
+Wie weet maken u en ik nog mee dat we met grote zekerheid weten...
+
+228
+00:15:22,000 --> 00:15:25,020
+wat ten grondslag ligt aan fast radio bursts.
+
+229
+00:15:26,020 --> 00:15:27,320
+Tot de volgende keer.
+
+230
+00:15:27,760 --> 00:15:31,740
+U kunt uzelf dan later met het boekje controleren.
+

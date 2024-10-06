@@ -1,0 +1,138 @@
+Hoe heet de burgemeester van Wezel?
+Dat schreeuwt men in de nabijheid van een rotswand.
+Waarschijnlijk komt het idee van de burgemeester van Wezel uit het dorpje Oberwezel aan de Midden-Rijn in Duitsland.
+De spreuk Wie heißt der burgemeester van Wezel komt regelmatig voor in reisverslagen van boottochtjes over de Rijn in de buurt van de steile rotswand van Lorelei.
+Een plek die bekend staat om de mooie, heldere echo's.
+Want dat is wat dit is, een echo.
+In de volksmond worden echo en galm nog wel eens door elkaar gehaald.
+Echo is strikt genomen het effect dat we één of meer discrete kopieën van een geluid kunnen horen.
+Een galm, dat is dit, dat er zoveel weerkaatsingen plaatsvinden dat we een diffuus tapijt van kopieën dwars door elkaar horen.
+Beide effecten, zowel echo als galm, worden veroorzaakt door weerkaatsingen van geluidsgolven door de omgeving.
+En afhankelijk van de fysieke omstandigheden van die omgeving horen we bijvoorbeeld echo's.
+Of galm.
+Of zelfs galm met een pre-delay.
+Echo's zijn mooi separaat te horen als er een gladde rechte wal is waar ons geluid tegenaan kan ketsen.
+En om dat geluidsgolven tamelijk langzaam voor te bewegen, met zo'n 343 meter per seconde, kunnen we wachten op het arriveren van de kopie.
+Kopie.
+Al dit gezwets over echo's is uiteraard een inleiding op een astronomisch verschijnsel.
+Ja, daar konden we natuurlijk op wachten.
+Want straling kan op vergelijkbare wijze door de omgeving weerkaatst worden.
+Als u met een laser op een spiegel schijnt en het stipje van de laser achter u op de muur weerkaatst ziet, is dat een benadering van die geluidsecho.
+De schemerlamp die de hele kamer doet oplichten komt weer meer in de buurt van galm.
+Ja, ja, nu begrijpen we het wel.
+Op 21 juni van dit jaar verscheen een artikel in Nature met de titel
+X-ray polarization evidence for a 200 year old flare of Sagittarius A-star.
+Van Frederik Marin en een lange lijst van collega-auteurs.
+Dat Sagittarius A-star in de titel genoemd wordt, laat ons direct weten dat we het hier voor de zoveelste keer hebben over het centrum van onze melkweg.
+Buitengewoon interessant vind ik dat we het over een Duits bestek van 200 jaar hebben.
+Dat is een onastronomisch korte periode.
+Ik bedoel maar 200 jaar geleden.
+Dat is nog maar 1823.
+Een bepaald onderdeel uit de titel polarisatie staat centraal in deze ontdekking en behoeft misschien wat uitleg.
+We zullen het een beetje versimpelen, maar in grote lijnen krijgt u dan hopelijk een kloppend beeld van wat polarisatie is.
+Golven transporteren informatie door een ruimte.
+Dat gebeurt in de tijd, dus we kunnen een richting bij een golf aanwijzen.
+Als iemand op een paar meter afstand van u tegen een tennisbal mept, wordt de trilling van de atmosfeer van de tennisbal naar uw trommelvlies getransporteerd.
+Dat is een geluidsgolf.
+No shit, Sherlock.
+Zouden we in staat zijn zo'n geluidsgolf onder de microscoop te bekijken, dan zien we dat dit een sliert van verdichtingen en verdunningen van de moleculen in de aardatmosfeer is.
+Dit heet een longitudinale golf en werkt een beetje zoals een regenworm voortbeweegt.
+Het lijfje van de worm verdicht op bepaalde plaatsen en verdunt daartussenin.
+Zo bewegen de geluidsgolf en de regenworm van A naar B.
+Een treintje van verdichtingen en verdunningen.
+Zo'n longitudinale golf kent geen polarisatie.
+Heel anders is het bij elektromagnetische golven zoals licht, radio en röntgenstraling.
+Hier zien we een elektrisch en een magnetisch veld die beide loodtrechten op de richting van de golf heen en weer trillen.
+Dit heet een transversale golf en is beter te vergelijken met hoe bepaalde slangen voortbewegen.
+Een slang die gekronkeld in het graslicht en richting u loopt, heeft een duidelijk vlak waarin deze beweegt.
+Kantelen we de slang een kwart slag, dan zou deze als een soort lochnesmonster in een andere polarisatiehoek richting ons bewegen.
+Maar in de praktijk zal de slang hem waarschijnlijk smeren, ons in de vingers bijten of als een boze kluwe gaan liggen sissen.
+Maar hopelijk krijgt u nu een beetje een beeld van wat een transversale golf is en wat polarisatie in dat geval betekent.
+Ik ben niet zeker, ik begrijp.
+Voor polarisatie kijken we naar de hoek waaronder de elektrische component van elektromagnetische straling ten opzichte van de richting van de golf staat.
+Voor de meeste lichtbronnen die wij kennen, zoals bijvoorbeeld een gloeilamp of onze zon,
+is de polarisatie van het licht een optelsom van allerlei willekeurige polarisaties.
+Maar we kennen wel een hoop uitzonderingen.
+Oh, gelukkig!
+Zonlicht dat gereflecteerd wordt door een watermassa of een motorkap op uw auto,
+kan bij de reflectie sterk gefilterd worden, waardoor het gereflecteerde licht ons bereikt onder één bepaalde polarisatiehoek.
+De Polaroid zonnebril en ook het polarisatiefilter voor op een fototoestel
+zijn beide in staat dit gereflecteerde licht te onderdrukken op basis van die polarisatiehoek.
+Draaien we de Polaroid zonnebril dan een kwart slag, dan zal het effect van de zonnebril sterk verminderen.
+Ook LCD-displays zoals van bijvoorbeeld sommige horloges maken gebruik van een polarisatiefilter.
+U kunt het duidelijk zien door uw Polaroid zonnebril ervoor te houden en dan langzaam rond te draaien.
+Radio-uitzendingen kunnen gepolariseerd uitgezonden worden door de stand van de zendantenne.
+Zend- en ontvangstantennen moeten dezelfde polarisatierichtingen aanhouden.
+De moderne DAP-plus-uitzendingen zijn ook bijvoorbeeld verticaal gepolariseerd,
+met als achterliggende gedachte dat de gemiddelde DAP-plus-ontvanger in een auto een verticale antenne zal hebben.
+U hoort ons allemaal op DAP-plus.
+En nieuwe geluid van radio.
+Om het nieuws dat in deze aflevering centraal staat goed te begrijpen,
+moeten we teruggaan naar het magistrale jaar 1978.
+In november van dat jaar werd de Einstein-satelliet gelanceerd, de eerste röntgentelescoop.
+Deze satelliet draaide vier jaar lang op een hoogte van zo'n 470 kilometer rondjes om de aarde,
+om de röntgenhemel nauwgezet in kaart te brengen.
+Dat lukt beter in een baan rond de aarde dan op het aardoppervlak,
+omdat röntgenstraling uit de ruimte door onze atmosfeer gelukkig wordt tegengehouden.
+De Einstein-ruimtetelescoop was een succesvol apparaat waar we veel ontdekkingen aan te danken hebben.
+Een van de opmerkelijke dingen die deze satelliet waarnam,
+was de emissie van röntgenstraling uit het centrum van onze melkweg.
+Dit was zo rond het jaar 1981.
+Een interessant fenomeen, maar nu waren astronomen benieuwd wat de bron van deze röntgenstraling kon zijn.
+Het is aardig om deze wetenschappelijke zoektocht door de tijd te volgen.
+Met zo'n beetje alle röntgendetectoren die na Einstein gelanceerd werden,
+werd ook gekeken naar het centrum van onze melkweg.
+In juli 1993 verscheen een artikel in Nature met de titel
+T-Sources of Diffuse X-Ray Emission from the Galactic Center
+van auteurs Markiewicz en collega's.
+Hierin redeneren zij dat de waargenomen röntgenstraling in de moleculaire volken
+in het centrum van onze melkweg waarschijnlijk incidentele röntgengebeurtenissen
+in dichtere moleculaire volken als bron hebben.
+En dat deze straling slechts deels wordt geabsorbeerd door de eile moleculaire volken.
+Dat was een lange zin.
+Wat we waarnemen zou dus gefilterde röntgenstraling kunnen zijn.
+Ontstaan in de A-, B2- en C-moleculaire volken in het centrum van onze melkweg.
+Maar in 1981 beschikten we nog niet over zulke exacte ruimtetelescopen als tegenwoordig.
+De auteurs waren in 1993 ook uiterst voorzichtig met hun conclusies.
+En eigenlijk worden we dan ook nog een beetje met een kluitje in het riet gestuurd
+omdat nog steeds niet duidelijk was hoe deze röntgenstraling dan ontstaat.
+En nu in juni 2023 lezen we eindelijk wat er aan de hand is.
+In het begin noemden we de titel van het artikel al.
+X-ray polarisation evidence for a 200 year old flare of Sagittarius A-star.
+En met de lange introductie over echo's en deze titel in de hand,
+gecombineerd met het feit dat ik waarschijnlijk de slechtste spannende verhalenverteller van het heelal ben,
+weet u nu eigenlijk al wat er dus gaande is.
+Ja, schiet nou maar op.
+Zo'n 200 jaar geleden vrat het superzware zwarte gat in het centrum van onze melkweg iets op.
+Een ster, een rotsblok, het ruimteschip van een vergevorderde civilisatie, wie zal het zeggen?
+In ieder geval werd iets verwrongen door de intense zwaartekracht van het zwarte gat.
+Bij dit proces kwam een heftige röntgenflits vrij.
+Iets wat we wel vaker zien bij zwarte gaten.
+We hebben het over materie die op behoorlijk onelegante wijze aan flarden wordt getrokken
+en met relativistische snelheden richting de accretieschijf rond het zwarte gat getrokken wordt.
+Dit is typisch een proces waarbij energie in de vorm van snelle röntgentrillingen vrijkomt.
+Deze straling kan opgevangen worden door onze beste röntgen satellieten.
+In dit geval hebben wij de ontdekking van vandaag te danken aan de IXPE-satelliet.
+Deze röntgensatelliet werd pas in 2021 gelanceerd.
+De belangrijkste röntgendetectoren van deze IXPE-satelliet werden ontwikkeld
+door de Italiaanse ruimtevaartorganisatie ASI.
+Ook de IXPE-satelliet draait in een relatief lage baan rond onze planeet op een hoogte van zo'n 540 kilometer.
+Meer nog dan andere instrumenten is de IXPE-satelliet buitengewoon goed in staat de polarisatie van röntgenlicht te meten.
+Deze polarisatie, de hoek die de röntgenstraling aanneemt ten opzichte van de richting van de straling,
+kan ons weer veel vertellen over de weg die de fotonen hebben afgelegd.
+Net als zonnestralen die ons verblinden door te reflecteren op de motorkap van de auto als wij geen Polaroidbril kunnen aanschaffen,
+kan het moleculaire gas in het centrum van onze melkweg als een echomuur het invallende röntgenlicht weer kaatsen en polariseren.
+En dit is wat Frederik Marin en een half A4'tje aan collega-astronomen hebben teruggerekend met de accretieschijf van het zwarte gat als röntgenbron.
+De aard van polarisatie wil dat zij twee uitkomsten meten die corresponderen met de gebeurtenis 33 of 205 jaar geleden.
+Oké.
+Die eerste werd van de hand gewezen omdat we 33 jaar geleden al waarnemingen deden aan de röntgensterrenhemel
+en een dergelijke flits op een of andere wijze we al zouden hebben waargenomen.
+Specifiek zou zo'n flits dan met de ASCA-satelliet zijn gedetecteerd.
+Wat dan overblijft is één gebeurtenis zo'n 205 jaar geleden waarbij ons verder uiterst tamme zwarte gat gedurende zo'n 1,6 jaar helder moet hebben opgelicht in de röntgensterrenhemel.
+En het meest voor de hand liggende is dus dat dat komt doordat iets met een behoorlijke massa werd verzwolgen.
+En wat we nu nog waarnemen is de echo daarvan.
+Hoe mooi en simpel eigenlijk.
+Wat nu nog gedaan kan worden en zelfs met diezelfde IXPE-satelliet is nog veel langer belichten.
+Een dergelijke foto zou een hogere, spatiële resolutie hebben waardoor nog beter de oorsprong van onze röntgenecho kan worden bepaald.
+Altijd weer meer om te ontdekken.
+Voor nu een prettige dag of nacht en tot de volgende keer.

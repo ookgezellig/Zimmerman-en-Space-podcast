@@ -1,0 +1,812 @@
+1
+00:00:00,000 --> 00:00:11,180
+Dit is onze commemoration dat we hier zijn tot iemand zoals ons, tot sommigen van jullie die de volgende zijn, komen terug naar het weer terug te leren.
+
+2
+00:00:11,520 --> 00:00:14,800
+En om verder de expiratie en de meaning van Apollo.
+
+3
+00:00:15,380 --> 00:00:19,400
+Dat waren de laatste woorden die vanaf de maan werden uitgesproken.
+
+4
+00:00:19,400 --> 00:00:30,660
+Op 14 december 1972 steeg astronauten Eugene Cernan en Harrison Schmid op uit de Taurus-Litro-Vallei op de maan om terug te keren naar de aarde.
+
+5
+00:00:31,120 --> 00:00:44,080
+Toen zij samen met collega-astronaut Ron Evans op 19 december 1972 in de stille oceaan landen begon een lange stilte in de bemande ruimtevaart voorbij onze planeet aarde.
+
+6
+00:00:44,080 --> 00:00:51,080
+Nooit meer reisten astronauten verder dan in een baan rond de aarde sinds die december 1972.
+
+7
+00:00:51,500 --> 00:00:52,740
+Dat is toch niet te geloven?
+
+8
+00:00:52,960 --> 00:00:58,220
+Maar wie het ruimtenieuws een beetje volgt weet dat dat allemaal op het punt staat te gaan veranderen.
+
+9
+00:00:59,100 --> 00:01:03,100
+Nog dit decennium zullen astronauten terugkeren naar de maan.
+
+10
+00:01:03,520 --> 00:01:09,440
+Waar de Apollo-maanreizen van de vorige eeuw op zichzelfstaande korte heen- en weervluchten waren,
+
+11
+00:01:09,440 --> 00:01:14,400
+ligt het in de verwachtingen dat we permanent bewoonde maanbasis gaan krijgen.
+
+12
+00:01:14,820 --> 00:01:19,360
+En een permanent om de maan cirkelend ruimtestation, de Lunar Gateway.
+
+13
+00:01:20,960 --> 00:01:28,260
+Meerdere mogendheden zullen vestigingen op de maan bouwen en daar weken, maanden of zelfs jarenlang verblijven.
+
+14
+00:01:28,900 --> 00:01:33,340
+Dat roept al snel de subtiele, maar even zozeer fundamentele vraag op.
+
+15
+00:01:34,580 --> 00:01:36,420
+Hoe laat is het op de maan?
+
+16
+00:01:36,420 --> 00:01:40,200
+Nou ja, net zo laat als op aarde zouden we kunnen denken.
+
+17
+00:01:40,640 --> 00:01:43,900
+Maar zo eenvoudig liggen de kaarten helaas niet.
+
+18
+00:01:44,040 --> 00:01:49,380
+Hij heeft de klokhoorn luiden, maar weet niet waar de klepel hangt.
+
+19
+00:01:49,460 --> 00:01:52,420
+Als meerdere vestigingen op de maan onderling willen communiceren,
+
+20
+00:01:53,580 --> 00:01:57,140
+willen navigeren op de maan zoals we dat op aarde kunnen met gps,
+
+21
+00:01:57,660 --> 00:02:01,420
+en contact willen kunnen onderhouden met ruimtevaartuigen die om de maan cirkelen,
+
+22
+00:02:01,420 --> 00:02:08,300
+dan ontstaat de behoefte aan atoomklokken die een centraal gereguleerde maantijd aanhouden.
+
+23
+00:02:08,800 --> 00:02:13,420
+Het is niet per se voor de hand liggend hoe een dergelijke klok de tijd moet gaan bijhouden.
+
+24
+00:02:14,640 --> 00:02:20,640
+De definitie van een seconde is wel ondubbelzinnig vastgelegd in het International System of Units.
+
+25
+00:02:20,640 --> 00:02:27,340
+Deze definitie kennen we sinds 1967 en is niet meer gekoppeld aan de rotatie van de aarde.
+
+26
+00:02:27,860 --> 00:02:33,820
+Toch gaan er geluiden op om de seconde nogmaals te herdefiniëren naar een nog preciezere standaard.
+
+27
+00:02:34,520 --> 00:02:37,480
+Of u en ik dat mee gaan maken is echter maar zeer de vraag.
+
+28
+00:02:38,400 --> 00:02:42,980
+Goed, voorlopig weten we allemaal waar we het over hebben als we het woord seconde gebruiken.
+
+29
+00:02:42,980 --> 00:02:49,320
+Maar alleen al op aarde is het vastleggen en bijhouden van de tijd één groot wespennest.
+
+30
+00:02:50,320 --> 00:02:56,000
+We zullen het niet helemaal hier uit de doeken doen, want dan zou dit een meerdelige aflevering moeten worden.
+
+31
+00:02:56,440 --> 00:02:59,500
+Maar een paar uitdagingen zijn wel leuk om te begrijpen.
+
+32
+00:02:59,560 --> 00:03:02,020
+Neemt uw papier en potlood erbij.
+
+33
+00:03:02,280 --> 00:03:05,980
+Op aarde onderscheiden we grofweg civiele tijd aan atoomkloktijd.
+
+34
+00:03:05,980 --> 00:03:12,980
+Officieel heet de atoomkloktijd TAI, wat staat voor Trans Atomic International.
+
+35
+00:03:15,020 --> 00:03:21,700
+Maar als u dacht dat ergens op aarde één atoomklok staat die de baas over de tijd is, dan moet ik u helaas teleurstellen.
+
+36
+00:03:24,160 --> 00:03:31,140
+TAI is het gewogen gemiddelde van de tijd van 450 atoomklokken verdeeld over 80 landen.
+
+37
+00:03:31,260 --> 00:03:32,980
+Ja, dat klinkt niet lekker.
+
+38
+00:03:32,980 --> 00:03:41,060
+De civiele tijd, die van uw horloge, is wel weer gebaseerd op deze atoomtijd, maar blijft in de pas lopen met de aardrotatie.
+
+39
+00:03:41,880 --> 00:03:47,220
+En die aardrotatie op zich is weer onderhevig aan variaties die we niet kunnen beïnvloeden.
+
+40
+00:03:47,980 --> 00:03:53,580
+De civiele tijd is gebaseerd op UTC, wat staat voor Coordinated Universal Time.
+
+41
+00:03:53,920 --> 00:04:00,140
+De wakkere luisteraar zal dan concluderen dat de letters van deze afkorting niet in de goede volgorde staan.
+
+42
+00:04:00,400 --> 00:04:01,440
+Dat is correct.
+
+43
+00:04:01,440 --> 00:04:09,420
+UTC is een compromis tussen het door de Engels sprekende aangedragen CUT en de Franse variant DUC.
+
+44
+00:04:10,180 --> 00:04:16,140
+En waar internationaal over standaarden wordt vergaderd, moeten helaas altijd compromissen worden gesloten.
+
+45
+00:04:16,660 --> 00:04:20,260
+Of de verschillende partijen houden de hakken natuurlijk stevig in het zand,
+
+46
+00:04:20,380 --> 00:04:27,280
+waardoor verschillende standaarden ontstaan en conversies moeten worden gepleegd om van het ene in het andere systeem te komen.
+
+47
+00:04:27,280 --> 00:04:28,920
+Gaat u rustig zitten.
+
+48
+00:04:29,340 --> 00:04:35,280
+Omdat de aarde niet exact in 24 uur rond haar as draait en zelfs over de jaren hierin varieert,
+
+49
+00:04:36,020 --> 00:04:43,520
+moet de UTC met schrikkelseconde, of het achterwege blijven daarvan, van tijd tot tijd gesynchroniseerd worden met de TAI.
+
+50
+00:04:43,520 --> 00:04:47,520
+En omdat computersystemen weer in de war kunnen raken door schrikkelseconde,
+
+51
+00:04:48,420 --> 00:04:50,940
+hanteert Google bijvoorbeeld een andere tijd.
+
+52
+00:04:51,500 --> 00:04:52,460
+Google Smeer.
+
+53
+00:04:53,180 --> 00:04:56,520
+Hierin wordt de schrikkelseconde over het hele jaar uitgesmeerd.
+
+54
+00:04:56,520 --> 00:05:04,560
+Als u uw computer synchroniseert met time.apple.com en ik met time.google.com,
+
+55
+00:05:05,000 --> 00:05:07,520
+allebei gratis te gebruiken NTP Timesurvers,
+
+56
+00:05:08,560 --> 00:05:12,600
+dan zijn we het dus maar heel soms heel kort eens over hoe laat het is.
+
+57
+00:05:13,500 --> 00:05:18,040
+En dit is nog maar een klein gedeelte van het dilemma van het bijhouden van de tijd,
+
+58
+00:05:18,300 --> 00:05:22,060
+en vooral het alle klokken met elkaar in de pas laten lopen op aarde.
+
+59
+00:05:22,060 --> 00:05:29,960
+Als u dit interessant vindt, bestaat er een boek wat het allemaal aardig uitlegt van Dennis McCarthy en Kenneth Seidelman.
+
+60
+00:05:30,420 --> 00:05:33,740
+Het heet Time from Earth Rotation to Atomic Physics,
+
+61
+00:05:33,940 --> 00:05:37,340
+en u kunt het zowel als hardcover als op de Kindle lezen.
+
+62
+00:05:37,840 --> 00:05:43,420
+Dit boek is zowel super leesbaar als onbegrijpelijk diep, dus echt weer iets voor de liefhebbers.
+
+63
+00:05:43,540 --> 00:05:44,620
+Ben je zo'n nerd, Hens?
+
+64
+00:05:45,140 --> 00:05:47,320
+Maar goed, dit is alleen nog op aarde.
+
+65
+00:05:47,320 --> 00:05:53,940
+Het wordt pas echt een uitdaging als we de klokken op de maan en op Mars met elkaar in de pas willen laten blijven lopen.
+
+66
+00:05:54,760 --> 00:05:57,580
+Om ongelukken en ruzies hierover voor te zijn,
+
+67
+00:05:58,020 --> 00:06:02,500
+zijn NASA en ESA al begonnen met het definiëren van afspraak hierover.
+
+68
+00:06:03,260 --> 00:06:10,060
+Volgens Cheryl Gramling van het positie Navigatie en Tijdteam van NASA's Goddard Space Flight Center,
+
+69
+00:06:10,400 --> 00:06:13,540
+staan we nog maar aan het begin van een universele maantijd.
+
+70
+00:06:13,540 --> 00:06:19,020
+Een groot dilemma is het feit dat de klok niet hetzelfde tikt op de maan als op de aarde,
+
+71
+00:06:19,120 --> 00:06:21,300
+vanwege relativistische effecten.
+
+72
+00:06:21,780 --> 00:06:24,700
+De massa van de aarde is groter dan die van de maan,
+
+73
+00:06:24,800 --> 00:06:28,740
+wat betekent dat een horloge op de maan iets sneller tikt dan op aarde.
+
+74
+00:06:29,360 --> 00:06:36,780
+Volgens Gramling wint de klok op de maan elke 24 uur zo'n 56 microseconden vergeleken met de klok op aarde.
+
+75
+00:06:37,040 --> 00:06:37,400
+Bizar.
+
+76
+00:06:37,400 --> 00:06:44,540
+Dit toegegeven bizarre gegeven kan door de sterk toegenomen precisie van wetenschappelijke meetinstrumenten
+
+77
+00:06:44,540 --> 00:06:47,340
+ook op de kleine schaal op aarde worden gemeten.
+
+78
+00:06:48,060 --> 00:06:51,980
+De tijd tikt sneller voor iemand op een berg dan voor iemand in het dal.
+
+79
+00:06:53,080 --> 00:06:57,400
+Op aarde zijn deze verschillen dusdanig klein dat we ons wel doorheen atoomklokken.
+
+80
+00:06:58,400 --> 00:07:00,600
+Maar voor de maan wordt het een andere kwestie,
+
+81
+00:07:00,600 --> 00:07:05,080
+vooral als we blijven communiceren met de aarde waar een andere klok tikt.
+
+82
+00:07:05,080 --> 00:07:12,280
+En om te voorkomen dat over een paar jaar uw pizza bestelling op de maan bij het verkeerde adres wordt bezorgd,
+
+83
+00:07:12,420 --> 00:07:19,800
+heeft de Europese ruimtevaartorganisatie ESA samen met industriële partners project Moonlight in het leven geroepen.
+
+84
+00:07:20,540 --> 00:07:25,220
+In de praktijk zal dit bestaan uit een constellatie van enkele maansatellieten
+
+85
+00:07:25,220 --> 00:07:32,080
+die samen zorgdragen voor dataverbindingen en een maanvariant van wat op aarde GPS-navigatie heet.
+
+86
+00:07:32,080 --> 00:07:37,620
+De technische naam hiervoor is Lunar GNSS,
+
+87
+00:07:37,800 --> 00:07:42,440
+waarbij GNSS staat voor Global Navigation Satellite System.
+
+88
+00:07:43,260 --> 00:07:46,360
+Details als atoomklokken en het aantal satellieten
+
+89
+00:07:46,360 --> 00:07:49,740
+worden op dit moment onder de loep genomen door ESA en haar partners.
+
+90
+00:07:50,560 --> 00:07:55,040
+De hoop is dat het systeem rond 2027 gelanceerd zal worden.
+
+91
+00:07:55,540 --> 00:08:01,440
+Project Moonlight heeft een aantal grote voordelen voor maanexploratie in de nabije toekomst.
+
+92
+00:08:01,440 --> 00:08:05,060
+1. De communicatie met planeet aarde onderhouden.
+
+93
+00:08:05,460 --> 00:08:11,540
+Met een constellatie van maansatellieten zal er altijd een rechtstreeks radioverbinding met aarde mogelijk zijn,
+
+94
+00:08:11,780 --> 00:08:15,200
+terwijl de constellatiesatellieten onderling ook kunnen communiceren.
+
+95
+00:08:15,440 --> 00:08:22,860
+2. Het Lunar GNSS-systeem zal ruimtevaartuigen in staat stellen op exacte locaties te landen
+
+96
+00:08:22,860 --> 00:08:25,580
+en op exacte tijden te navigeren.
+
+97
+00:08:25,580 --> 00:08:29,980
+Dat is natuurlijk extreem belangrijk voor zaken als rendezvous en docking,
+
+98
+00:08:30,260 --> 00:08:36,340
+als een ruimtevaartuig opstijgt vanaf het maanoppervlak om te koppelen aan de Lunar Gateway bijvoorbeeld.
+
+99
+00:08:37,460 --> 00:08:43,320
+Rovers op het maanoppervlak zullen bemand of onbemand precies weten waar ze zich op de maan bevinden.
+
+100
+00:08:43,460 --> 00:08:44,980
+In 400 meters.
+
+101
+00:08:44,980 --> 00:09:01,300
+3. Radioastronomie op de achterzijde van de maan zal gebruik kunnen maken van de Moonlight-constellatie
+
+102
+00:09:01,300 --> 00:09:06,300
+om gegevens heen en weer te sturen naar de aarde of naar wetenschappers op een maanbasis.
+
+103
+00:09:06,300 --> 00:09:13,860
+En radioastronomie door middel van interferometrie staat en valt met afspraken over de exacte tijd.
+
+104
+00:09:14,080 --> 00:09:18,800
+Bij de volgende toon is het 17 uur 11 minuten precies.
+
+105
+00:09:20,560 --> 00:09:27,000
+In eerste instantie worden de Moonlight-constellatie-satellieten in een speciale baan rond de maan gebracht
+
+106
+00:09:27,000 --> 00:09:30,940
+om optimaal gebruikt te kunnen worden op de zuidpool van de maan.
+
+107
+00:09:31,280 --> 00:09:34,840
+Al dus Jurg Haan, ESA-engineer van project Moonlight.
+
+108
+00:09:34,840 --> 00:09:36,720
+Maar waarom de Zuidpool?
+
+109
+00:09:37,260 --> 00:09:40,640
+Hier zullen de eerste missies zich op concentreren.
+
+110
+00:09:41,180 --> 00:09:45,240
+De Zuidpool is nooit bezocht tijdens de Apollo-missies van de vorige eeuw.
+
+111
+00:09:45,480 --> 00:09:50,860
+Maar precies hier zijn kraters aanwezig waarvan delen permanent in duisternis verkeren
+
+112
+00:09:50,860 --> 00:09:53,040
+en waar waterijs aanwezig is.
+
+113
+00:09:54,380 --> 00:09:58,560
+Dit is geen hypothese, maar iets wat proefronden vind ik al is vastgesteld.
+
+114
+00:09:58,680 --> 00:09:59,920
+Oh ja, inderdaad.
+
+115
+00:09:59,920 --> 00:10:07,220
+Een van de grote uitdagingen van maanexpedities is het langer verblijven en gebruikmaken van grondstoffen ter plekke.
+
+116
+00:10:07,640 --> 00:10:10,640
+De zogenaamde in-situ resource utilization.
+
+117
+00:10:12,020 --> 00:10:15,980
+Behalve drinkwater kunt u dan ook denken aan grondstoffen om mee te bouwen,
+
+118
+00:10:16,700 --> 00:10:21,520
+energie en zuurstof uit te winnen en gewassen mee te laten groeien.
+
+119
+00:10:22,560 --> 00:10:28,880
+Bij langer verblijven op de maan wordt het ondoenlijk alle benodigdheden altijd maar vanaf de aarde naar de maan te brengen.
+
+120
+00:10:28,880 --> 00:10:30,500
+Ja, dat is logisch.
+
+121
+00:10:30,880 --> 00:10:34,360
+Maar welke klok gaat dan lopen op de atoomklok op de maan?
+
+122
+00:10:35,560 --> 00:10:41,320
+Uiteindelijk zal daarover een knoop moeten worden doorgehakt om project Moonlight een kans van slagen te geven.
+
+123
+00:10:41,860 --> 00:10:46,880
+Net als op aarde wordt zo standaard mogelijk in de wielen gereden door geopolitieke oneenigheden.
+
+124
+00:10:48,300 --> 00:10:50,580
+Deels zullen we dat misschien voor lief moeten nemen.
+
+125
+00:10:51,260 --> 00:10:56,720
+Als China of Rusland bijvoorbeeld een eigen klok willen aanhouden die afwijkt van die van ESA en NASA,
+
+126
+00:10:57,480 --> 00:10:58,520
+jammer maar helaas.
+
+127
+00:10:58,520 --> 00:11:00,960
+Dit zijn ook geen onoverkomelijkheden.
+
+128
+00:11:01,560 --> 00:11:07,120
+Wie heeft er niet eens moeten kijken hoe laat het is voor die collega of dat familielid in een andere tijdzone?
+
+129
+00:11:08,340 --> 00:11:16,080
+Sowieso ontstaat op de maan de uitdaging dat de maan-etmaal 29,5 dag duurt en niet 24 uur.
+
+130
+00:11:16,080 --> 00:11:24,520
+Wij houden op aarde een strikt 24 uur durend etmaal aan door onze civiele tijd steeds synchroon te laten lopen met de aardrotatie
+
+131
+00:11:24,520 --> 00:11:34,320
+en door onze wekker te zetten en zelfs met tegenzin uit bed te klauteren en er met vergelijkbare tegenzin op tijd weer in te kruipen als we eigenlijk nog helemaal niet moe zijn.
+
+132
+00:11:34,320 --> 00:12:04,320
+
+
+133
+00:12:04,320 --> 00:12:12,300
+Moet de klok ter plekke dezelfde 24 uur cyclus aanhouden en moeten we met kunstlicht mensen herinneren aan dag en nacht op aarde?
+
+134
+00:12:12,300 --> 00:12:26,340
+Of mag iedereen lekker uitslapen en wennen aan een eigen dag-nachtritme wat mogelijk afwijkt van het kunstmatig op aarde in stand gehouden circadisch ritme van exact 24 uur per etmaal?
+
+135
+00:12:26,340 --> 00:12:32,680
+Dat klinkt natuurlijk heel comfortabel, maar werkt natuurlijk weer minder goed als mensen moeten samenwerken.
+
+136
+00:12:33,640 --> 00:12:40,640
+Om een gecoördineerde maantijd in het leven te roepen zullen minstens drie atoomklokken op de maan moeten worden geïnstalleerd
+
+137
+00:12:40,640 --> 00:12:46,720
+die net als op aarde met een gewogen stemming overeen komen wat de maan-atoomtijd van dat moment is.
+
+138
+00:12:47,480 --> 00:12:56,000
+Dan hebben we het tikken van seconden in het ruimtetijdreferentiekader van de maan, wat dus iets afwijkt van dat op aarde, in ieder geval geregeld.
+
+139
+00:12:56,340 --> 00:12:56,960
+Maar dan?
+
+140
+00:12:57,940 --> 00:13:04,520
+Heeft het zin om dit referentiesysteem dan periodiek te synchroniseren met de UTC-tijd op aarde?
+
+141
+00:13:04,660 --> 00:13:05,600
+Ah, I don't know.
+
+142
+00:13:05,680 --> 00:13:07,280
+Of is dat alleen maar lastig?
+
+143
+00:13:08,160 --> 00:13:14,960
+Het is voor ons al te gemakkelijk om te roepen dat het waanzin is om de maantijd uit de pas te laten lopen met de tijd op aarde.
+
+144
+00:13:14,960 --> 00:13:20,400
+Want hoe gaan we dit aanpakken als we bijvoorbeeld naar Mars gaan en ons daar permanent gaan vestigen?
+
+145
+00:13:20,920 --> 00:13:23,420
+Ook op Mars loopt de tijd anders dan op aarde.
+
+146
+00:13:23,420 --> 00:13:29,760
+En de afstand tussen de aarde en Mars is, anders dan die tussen aarde en maan, ernstig variabel.
+
+147
+00:13:30,320 --> 00:13:35,160
+Van 54,6 miljoen kilometer tot 401 miljoen kilometer.
+
+148
+00:13:35,860 --> 00:13:42,800
+Dat komt omdat zowel de aarde als Mars in niet-circoufformige banen met verschillende omlooptijden om de zon draaien.
+
+149
+00:13:42,800 --> 00:13:52,320
+Zo eens in de ongeveer 16 jaar staat Mars in oppositie, zodat we Mars goed en lang aan de nachtelijke hemel zien.
+
+150
+00:13:52,880 --> 00:13:56,200
+Dit is een moment dat Mars relatief dicht bij de aarde staat.
+
+151
+00:13:56,940 --> 00:14:03,460
+Toch doen radiosignalen er dan altijd nog ruim drie minuten over om van de aarde naar Mars of andersom te reizen.
+
+152
+00:14:03,460 --> 00:14:10,120
+Een handenschudden tussen twee computers om de klokken synchroon te zetten duurt dan dus minstens zes minuten.
+
+153
+00:14:10,720 --> 00:14:13,880
+En dat is alleen als de planeten heel dicht bij elkaar staan.
+
+154
+00:14:14,600 --> 00:14:22,540
+In het andere extreme geval doet een radiosignaal er ruim 22 minuten over om de afstand tussen de twee planeten te overbruggen.
+
+155
+00:14:22,540 --> 00:14:28,080
+En het synchroniseren van twee computers op beide planeten duurt dan drie kwartier.
+
+156
+00:14:29,160 --> 00:14:34,980
+De verschillen in tijd die door die afstanden weer optreden kunnen wel overbrugd worden met wat rekenwerk.
+
+157
+00:14:35,520 --> 00:14:40,580
+Maar de vraag blijft of er behoefte bestaat om de klokken met elkaar in de pas te laten lopen.
+
+158
+00:14:41,360 --> 00:14:47,780
+En ook de vraag of de klok op aarde wel de baas moet blijven spelen over de tijd en de rest van het zonnestelsel.
+
+159
+00:14:47,960 --> 00:14:50,640
+Ja, dat is wel een hele interessante vraag.
+
+160
+00:14:50,640 --> 00:14:58,440
+Aan het begin van deze eeuw werd er al over nagedacht wat resulteerde in het Proximity One protocol van het CSSDS.
+
+161
+00:14:59,180 --> 00:15:02,620
+Of Consulting Committee on Space Data Systems.
+
+162
+00:15:03,280 --> 00:15:10,980
+Dit protocol werd bedacht als oplossing voor het sturen van internet timing gegevens tussen verschillende plaatsen in het zonnestelsel.
+
+163
+00:15:11,060 --> 00:15:13,280
+En remember thousands of lives are at stake.
+
+164
+00:15:13,280 --> 00:15:15,980
+Het is u misschien ontgaan, en mij trouwens ook.
+
+165
+00:15:15,980 --> 00:15:26,640
+Maar NTP, het Network Time Protocol van het aardse internet, werd ook experimenteel al toegepast in een aantal AMSAT satellieten en aan boord van de Space Shuttle.
+
+166
+00:15:27,400 --> 00:15:34,480
+NASA JPL zag al beren op de weg in het aanhouden van tijd tussen verschillende hemellichamen door middel van NTP.
+
+167
+00:15:35,280 --> 00:15:42,500
+Het idee was om het Proximity One protocol te eiken met een zonnestelselcentrische tijd, dus los van de aarde.
+
+168
+00:15:42,500 --> 00:15:54,020
+Voor dat doel zou de atoomklok die bijvoorbeeld op Mars dikt, eerst naar wat men noemt barycentrische J2000 tijd moeten worden geconverteerd en zou dat ook voor de aardse tijd moeten worden gedaan.
+
+169
+00:15:54,320 --> 00:15:55,460
+Wat een gedoe.
+
+170
+00:15:55,700 --> 00:16:08,320
+In het artikel hierover, waarvan u een link vindt in de show notes, lezen we al dat de vraag blijft hoe dit praktisch uitvoerbaar wordt met ruimtevaartuigen die in elliptische banen rond verschillende hemellichamen draaien.
+
+171
+00:16:08,320 --> 00:16:08,760
+Ah.
+
+172
+00:16:09,160 --> 00:16:11,940
+Of überhaupt niet om hemellichamen heen draaien.
+
+173
+00:16:13,220 --> 00:16:15,640
+Voorlopig richten we ons eerst nog maar even op de maan.
+
+174
+00:16:16,440 --> 00:16:20,740
+De vraag is nu waar op de maan de atoomklokken geplaatst moeten gaan worden.
+
+175
+00:16:21,320 --> 00:16:33,140
+De maan heeft nogal een grillig zwaartekrachtveld, dus het maakt wel degelijk uit of een atoomklok op de bodem van de Taurus-Litro-Vallei geparkeerd staat of op Mons-Huygens, de hoogste berg op de maan.
+
+176
+00:16:33,140 --> 00:16:43,580
+Wellicht is het zinnig de atoomklokken alleen aan boord van de Moonlight Maan-satellieten van ESA te plaatsen voor een iets sneller tikkende, maar wellicht extractere klok.
+
+177
+00:16:44,420 --> 00:16:50,420
+Parallel aan deze uitdagingen loopt het initiatief voor kartering en coördinatie van het maanoppervlak.
+
+178
+00:16:51,160 --> 00:16:59,140
+Dat wordt op dit moment besproken door ESA, NASA en de United Nations International Committee on Global Satellite Navigation Systems.
+
+179
+00:16:59,140 --> 00:17:08,100
+Want behalve hoe laat is het op de maan willen we natuurlijk ook kunnen zeggen waar bevind ik me op de maan en waar moet mijn pizza naartoe?
+
+180
+00:17:09,300 --> 00:17:15,140
+In samenwerking met ESA ontwikkelt NASA een eigen standaard voor communicatie op de maan met de naam Lunanet.
+
+181
+00:17:15,140 --> 00:17:32,640
+U raadt het al, Lunanet wordt internet op de maan.
+
+182
+00:17:33,240 --> 00:17:38,040
+Het ligt voor de hand dat communicatie tussen het aardse internet en Lunanet mogelijk wordt.
+
+183
+00:17:38,040 --> 00:17:50,040
+En als het over een paar jaar krioelt van de mensen op de maan, dan zullen ook op de maan NTP tijdsurvers in het leven worden geroepen om de laptops en mobiele telefoons ter plekke aan de maantijd te synchroniseren.
+
+184
+00:17:50,980 --> 00:17:51,920
+Wat die dan ook is.
+
+185
+00:17:52,760 --> 00:17:57,500
+Voor onze kinderen en kleinkinderen zal maantourisme waarschijnlijk gewoon een optie worden.
+
+186
+00:17:57,500 --> 00:18:11,660
+En dan willen we onze mobiele telefoons natuurlijk ook meenemen en ter plekke kunnen gebruiken voor maans selfies of Insta en TikTok filmpjes van vrienden die grappig struikelen of een dansje doen in een zesde van de aardse zwaartekracht.
+
+187
+00:18:12,280 --> 00:18:16,420
+De samenwerking tussen NASA en ESA verloopt doorgaans heel goed.
+
+188
+00:18:16,620 --> 00:18:26,500
+Dus Lunanet en project Moonlight zullen, wanneer deze systeem allebei volledig geïmplementeerd zijn, waarschijnlijk één groter systeem dienen en dezelfde kloktijd weergeven.
+
+189
+00:18:26,500 --> 00:18:30,800
+Welke tijd dat exact wordt laat nog een paar jaar op zich wachten.
+
+190
+00:18:31,540 --> 00:18:37,820
+Maar dat u en ik, of althans onze kinderen en kleinkinderen ervan zullen profiteren, dat staat vast.
+
+191
+00:18:38,420 --> 00:18:42,060
+Tot de volgende keer, wat weer over een aardse week zal zijn.
+
+192
+00:18:42,680 --> 00:18:50,540
+En dan laat ik u tot slot achter met de toekomstvoorspelling van astrofysicus Neil deGrasse Tyson voor het jaar 2050.
+
+193
+00:18:56,500 --> 00:19:00,820
+Deze van de verandering van de human minden wordt zo advanced dat mental illnessen wordt geïnst,
+
+194
+00:19:01,260 --> 00:19:04,560
+leaving psychologisch en psychiatristen niet zonder jobs.
+
+195
+00:19:04,720 --> 00:19:10,000
+In een shift dat echter de rapid conversion van de horen naar automobiles in de early 20e century,
+
+196
+00:19:10,460 --> 00:19:16,080
+self-driving elektricke vehicles will fully replaceen alle cars en trucks op de weg.
+
+197
+00:19:16,340 --> 00:19:19,720
+De human space programen wordt volledig geïmplementeerd naar een space industry,
+
+198
+00:19:19,720 --> 00:19:26,080
+supported niet bij tax dollars, maar bij tourism en iets anders dat mensen in de space dreamt.
+
+199
+00:19:26,300 --> 00:19:30,000
+We developen een perfect antiviral serum en cure cancer.
+
+200
+00:19:30,320 --> 00:19:34,360
+Medicines will tailor het je eigen DNA, leaving geen adverse side effects.
+
+201
+00:19:34,700 --> 00:19:38,320
+We will learn hoe to regrow lost limbs en failing organs,
+
+202
+00:19:38,820 --> 00:19:42,580
+bringing ons op to de level van andere regenerating animals on Earth,
+
+203
+00:19:42,580 --> 00:19:46,160
+zoals salamanders, starfish en lobsters.
+

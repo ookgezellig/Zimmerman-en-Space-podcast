@@ -1,0 +1,612 @@
+1
+00:00:00,000 --> 00:00:02,420
+U luistert naar Zimmerman & Space.
+
+2
+00:00:03,020 --> 00:00:11,140
+In de vorige aflevering zagen we al dat protonen veel ingewikkeldere quantumobjecten zijn dan we misschien vroeger op school leerden.
+
+3
+00:00:11,920 --> 00:00:16,600
+In deze aflevering zullen we nog wat dieper kijken naar de implicaties van dit gegeven.
+
+4
+00:00:17,240 --> 00:00:28,240
+Want als een proton, dat we stevast in de kern van elk atoom in het heelal tegenkomen, al zo'n ingewikkelde onzekere quantumtoestand is, wat gaat daar dan aan vooraf?
+
+5
+00:00:28,240 --> 00:00:33,820
+Hmm, misschien heeft u al wel eens gehoord over quantumvelden en virtuele deeltjes.
+
+6
+00:00:34,400 --> 00:00:37,420
+In deze podcast hebben we het er zelfs al wel eens over gehad.
+
+7
+00:00:37,620 --> 00:00:45,740
+Als u er een aantal jaar geleden over heeft gelezen of gehoord, dan was een en ander nog erg speculatief en in nevelen gehuld.
+
+8
+00:00:46,900 --> 00:00:52,580
+Daarom lijkt het me aardig om deze aflevering wat nieuwere ontwikkelingen op dit gebied te bespreken.
+
+9
+00:00:52,580 --> 00:00:58,600
+Er is een theorie die zegt dat op het meest basale niveau alleen velden bestaan.
+
+10
+00:01:00,440 --> 00:01:10,620
+Deze quantumvelden theorie levert wat we een verenigd kader zouden kunnen noemen voor de beschrijving van veldachtige objecten en deeltjesachtige objecten.
+
+11
+00:01:10,620 --> 00:01:16,700
+Veldachtige objecten zijn dan bijvoorbeeld fotonen, zoals bij licht, warmte en radiostraling.
+
+12
+00:01:17,500 --> 00:01:22,440
+En deeltjesachtige objecten zijn dan bijvoorbeeld quarks, elektronen, et cetera.
+
+13
+00:01:23,340 --> 00:01:28,080
+Hoe exotisch dit ook klinkt, het is momenteel de beste omschrijving van de werkelijkheid.
+
+14
+00:01:28,080 --> 00:01:32,740
+Die boom die u bijvoorbeeld uit uw raam ziet bestaat uit moleculen.
+
+15
+00:01:33,320 --> 00:01:35,180
+Dat zijn weer verbindingen van atomen.
+
+16
+00:01:35,840 --> 00:01:43,600
+Die atomen bestaan uit deeltjes en die deeltjes bestaan alleen in die vorm omdat ze tijdelijk in een geëxciteerde staat bestaan.
+
+17
+00:01:44,120 --> 00:01:50,960
+Dat wil zoveel zeggen als dat wij een deeltje waarnemen dat ontstaat waar een bepaald veld in een bekrachtigde staat verkeert.
+
+18
+00:01:50,960 --> 00:01:59,760
+Zou er op dit moment een hoog energetisch deeltje uit het heelal dwars door onze atmosfeer reizen en tegen een atoom in onze boom beuken,
+
+19
+00:02:00,260 --> 00:02:09,500
+dan zou het surplus aan energie de deeltjes in het atoom misschien dwingen om een bekrachtigde staat op te geven en over te gaan in een regen van andere deeltjes.
+
+20
+00:02:11,480 --> 00:02:18,000
+Die een andere staat van het onderliggende veld inhouden en door ons niet meer als boom worden waargenomen.
+
+21
+00:02:18,000 --> 00:02:25,420
+Gelukkig gebeurt dit niet aan de lopende band, want dan zou het leven nog ingewikkelder en onbegrijpelijker zijn dan het al is.
+
+22
+00:02:32,700 --> 00:02:38,320
+Om ons eerste verhaal goed te begrijpen zullen we het eerst moeten hebben over een speciaal materiaal.
+
+23
+00:02:39,680 --> 00:02:40,200
+Grafeen.
+
+24
+00:02:40,920 --> 00:02:45,800
+Dit bestaat uit een tweedimensionale honingraadstructuur van koolstofatomen.
+
+25
+00:02:45,800 --> 00:02:48,800
+Een honingraadstructuur noemen we ook al hexagonaal.
+
+26
+00:02:50,460 --> 00:02:53,900
+Grafeen is daarmee voorlopig het dunst mogelijke materiaal.
+
+27
+00:02:54,460 --> 00:03:01,240
+Maar het is met een treksterkte van 1,25 maal 10 tot de 11e pascal ook het sterkste materiaal dat we kennen.
+
+28
+00:03:01,760 --> 00:03:04,700
+Dat klopt sterker dan staal of diamant.
+
+29
+00:03:05,440 --> 00:03:10,800
+Grafiet wat we gebruiken om een slot weer open te krijgen bestaat uit grafeenlagen die over elkaar heen schuiven.
+
+30
+00:03:10,800 --> 00:03:17,800
+In de nanotechnologie worden ook buisjes van grafeen gemaakt, zogenaamde koolstof nanotubes.
+
+31
+00:03:18,980 --> 00:03:24,760
+En Buckminster Fullerene, een koolstofatomen balletje, komt aardig in de richting van een grafeenbal.
+
+32
+00:03:25,900 --> 00:03:29,620
+Met deze voorkennis kunnen we dan kijken naar een recente ontwikkeling.
+
+33
+00:03:30,240 --> 00:03:33,800
+Een artikel hierover verscheen pas dit jaar in de wetenschappelijke pers met de titel...
+
+34
+00:03:33,800 --> 00:03:37,300
+Mesoscopic Klein-Schwingereffect in Grafeen.
+
+35
+00:03:38,800 --> 00:03:46,300
+Dat Klein-Schwingereffect, ook al het Schwingereffect genoemd, gaat terug naar een voorspelling van deeltjesfysicus Julian Schwinger.
+
+36
+00:03:47,300 --> 00:03:51,800
+Hij voorspelde dat een sterk genoeg elektrisch veld de leegte daartussen kan dwingen...
+
+37
+00:03:51,800 --> 00:03:55,540
+...om een paar van een deeltje en een antideeltje in het leven te roepen.
+
+38
+00:03:56,800 --> 00:03:59,020
+Inderdaad, iets creëren uit niets.
+
+39
+00:03:59,020 --> 00:04:05,420
+Dit is gebaseerd op het gegeven dat er in dit helal nergens echt sprake is van helemaal niets.
+
+40
+00:04:06,160 --> 00:04:08,900
+Er is sprake van een maximale nietsheid.
+
+41
+00:04:09,820 --> 00:04:17,020
+Als u alle deeltjes met een denkbeeldige optimale stofzuiger of vacuumpomp uit een stuk ruimte weet weg te ruimen...
+
+42
+00:04:17,020 --> 00:04:20,780
+...en alle elektromagnetische straling en zwaartskracht weet te dempen...
+
+43
+00:04:20,780 --> 00:04:25,220
+...dan nog bevinden zich in deze leegste der lege ruimte nog kwantumvelden.
+
+44
+00:04:25,220 --> 00:04:31,440
+En deze kwantumvelden kunnen spontaan of onder druk deeltjes in het leven roepen.
+
+45
+00:04:32,340 --> 00:04:35,820
+Dat was altijd theorie, maar het artikel waar we het nu over hebben...
+
+46
+00:04:35,820 --> 00:04:39,000
+...beschrijft een experiment waarbij dit ook echt zo blijkt te zijn.
+
+47
+00:04:39,840 --> 00:04:46,680
+Werner Heisenberg voorspelde al dat dit zo moest zijn op basis van het beroemde Heisenberg-onzekerheidsprincipe.
+
+48
+00:04:46,900 --> 00:04:47,420
+I don't know.
+
+49
+00:04:47,980 --> 00:04:51,260
+Maar hij had nog niet de fysische mogelijkheden om dit te testen.
+
+50
+00:04:52,020 --> 00:04:54,580
+Het is wel aardig om dit intuïtief te begrijpen.
+
+51
+00:04:54,580 --> 00:04:57,880
+Ik hoop maar dat ik het eenvoudig genoeg kan uitleggen.
+
+52
+00:04:57,940 --> 00:04:59,440
+Hens, ik twijfel je eraan.
+
+53
+00:04:59,960 --> 00:05:06,560
+Heisenberg leerde ons dat het onmogelijk is om bepaalde paren van gegevens met dezelfde precisie te meten.
+
+54
+00:05:07,320 --> 00:05:14,580
+Dergelijke paren zijn bijvoorbeeld tijd en energie, positie en impuls, oriëntatie en hoeksnelheid...
+
+55
+00:05:14,580 --> 00:05:19,400
+...voltage en veldsterkte en elektrische velddichtheid en polarisatie.
+
+56
+00:05:20,200 --> 00:05:24,120
+Hoe dat per geval precies zit kunnen we voor nu even links laten liggen.
+
+57
+00:05:24,120 --> 00:05:29,980
+Waar het op neerkomt is dat de natuur om ons heen zich op kwantumniveau als het ware verzet...
+
+58
+00:05:29,980 --> 00:05:33,320
+...tegen het exact meten van beide gegevens in zo'n paar.
+
+59
+00:05:34,420 --> 00:05:37,220
+Deze onzekerheid is inherent aan de materie.
+
+60
+00:05:37,840 --> 00:05:41,280
+Zodra we bijvoorbeeld de positie van een deeltje nauwkeurig meten...
+
+61
+00:05:41,280 --> 00:05:43,680
+...hebben we geen idee meer waar het deeltje heen gaat.
+
+62
+00:05:44,240 --> 00:05:45,420
+Andersom werkt het ook.
+
+63
+00:05:45,420 --> 00:05:52,340
+Als we nauwkeurig weten waar een deeltje heen gaat, dan kunnen we onmogelijk weten waar het deeltje zich exact bevindt.
+
+64
+00:05:55,280 --> 00:05:58,860
+Dat betekent ook dat we voor een bepaald gedeelte van het heelal...
+
+65
+00:05:58,860 --> 00:06:01,280
+...waar we met grote precisie meten dat er geen veldsterkte is...
+
+66
+00:06:01,280 --> 00:06:05,700
+...geen idee hebben over de energie in diezelfde ruimte.
+
+67
+00:06:07,020 --> 00:06:07,500
+Veldenergie.
+
+68
+00:06:08,280 --> 00:06:10,200
+Maar we gaan even terug naar ons experiment.
+
+69
+00:06:10,740 --> 00:06:11,060
+Oké.
+
+70
+00:06:11,480 --> 00:06:15,280
+Een probleem met het voorstel van Schwinger is de immense elektrische veldsterkte...
+
+71
+00:06:15,820 --> 00:06:19,200
+...die benodigd is om deeltjes te dwingen uit het niets te ontstaan.
+
+72
+00:06:19,820 --> 00:06:22,280
+Dit is meer het domein van zwarte gaten en magnetars.
+
+73
+00:06:23,420 --> 00:06:28,420
+Niet iets dat we in een laboratorium op aarde bij elkaar hobbyen met wat magneten en weerstanden.
+
+74
+00:06:28,420 --> 00:06:34,700
+Totdat natuurkundige Alexei Berjugin en collega's het toch wisten te bereiken met...
+
+75
+00:06:34,700 --> 00:06:36,700
+...u raadt het al, een stuk grafeen.
+
+76
+00:06:37,580 --> 00:06:39,420
+Hun onderzoek staat beschreven in het artikel...
+
+77
+00:06:40,100 --> 00:06:43,540
+...Out of equilibrium criticalities in grafeen superlattices.
+
+78
+00:06:44,500 --> 00:06:52,160
+Het magneetveld in dit experiment wist extra elektron-anti-elektronpaar in het leven te roepen in de nabijheid van het grafeen.
+
+79
+00:06:52,840 --> 00:06:57,320
+Het was in eerste instantie niet eens duidelijk dat het Schwingereffect hierin optrad.
+
+80
+00:06:57,320 --> 00:07:00,220
+En waarom gebeurt dit in grafeen?
+
+81
+00:07:01,080 --> 00:07:07,600
+Het idee is dat de beperking van driedimensionale kwantumtoestanden in het vrijwel tweedimensionale grafeen...
+
+82
+00:07:07,600 --> 00:07:13,600
+...maakt dat deeltjes eerder uit het niets ontstaan dan in gewone driedimensionale omstandigheden...
+
+83
+00:07:13,600 --> 00:07:15,920
+...bij gebrek aan bewegingsvrijheid.
+
+84
+00:07:16,600 --> 00:07:23,380
+In deze opstelling zagen de onderzoekers elektronen en elektronen holtes, de antideeltjes, spontaan ontstaan.
+
+85
+00:07:23,380 --> 00:07:27,700
+De energie van deze deeltjes wordt weggehaald uit het elektrische veld.
+
+86
+00:07:28,340 --> 00:07:33,580
+Iets vergelijkbaars tritt op wanneer een meson in een sterk elektrisch veld terechtkomt.
+
+87
+00:07:33,660 --> 00:07:35,160
+Mag het in het Nederlands?
+
+88
+00:07:35,280 --> 00:07:39,980
+Een meson is een subatomeer deeltje dat uit een kwark en een antikwark bestaat.
+
+89
+00:07:39,980 --> 00:07:45,500
+In zo'n sterk elektrisch veld zullen de kwarks in een meson van elkaar getrokken worden...
+
+90
+00:07:45,500 --> 00:07:49,820
+...waarbij uiteindelijk een nieuw kwark-antikwarkpaar uit het niets ontstaat.
+
+91
+00:07:50,320 --> 00:07:54,660
+De kwark van dat nieuwe paar vindt de oorspronkelijke antikwark en andersom...
+
+92
+00:07:54,660 --> 00:07:57,320
+...zodat we met twee mesons opgeschreven zitten.
+
+93
+00:07:58,360 --> 00:08:01,200
+Net als we vorige keer zagen in een proton...
+
+94
+00:08:01,200 --> 00:08:06,700
+...zien we ook hier dat de natuur van het allerkleinste aan een rigoreuze energiehuishouding doet.
+
+95
+00:08:07,660 --> 00:08:10,720
+Er zijn nog twee effecten die waargenomen kunnen worden...
+
+96
+00:08:10,720 --> 00:08:13,440
+...en diep in de richting van kwantumvelden wijzen.
+
+97
+00:08:14,300 --> 00:08:17,120
+Het eerste is het beroemde Casimir-effect.
+
+98
+00:08:17,900 --> 00:08:22,420
+In 1948 voorspelde de natuurkundige Hendrik Casimir al...
+
+99
+00:08:22,420 --> 00:08:25,140
+...dat als we twee platen dicht genoeg bij elkaar zetten...
+
+100
+00:08:25,140 --> 00:08:26,940
+...dat ze elkaar dan zullen aantrekken.
+
+101
+00:08:26,940 --> 00:08:29,960
+Niet op basis van onderlinge zwaartekracht...
+
+102
+00:08:29,960 --> 00:08:32,360
+...maar door iets wat we het Casimir-effect noemen.
+
+103
+00:08:32,920 --> 00:08:36,820
+Als we de lege ruimte zien als een plek waar kwantumvelden bestaan...
+
+104
+00:08:36,820 --> 00:08:39,800
+...dan kunnen we aannemen dat hier volgens diezelfde theorie...
+
+105
+00:08:39,800 --> 00:08:43,400
+...aan de lopende band deeltje-antideeltje-paren ontstaan...
+
+106
+00:08:43,400 --> 00:08:44,680
+...die elkaar ook weer opheffen.
+
+107
+00:08:45,260 --> 00:08:47,520
+Dit gebeurt op verschillende golflengtes.
+
+108
+00:08:48,080 --> 00:08:51,300
+Sommige van deze deeltjesparen zullen een golflengte hebben...
+
+109
+00:08:51,300 --> 00:08:53,940
+...die groter is dan de afstand tussen de platen.
+
+110
+00:08:53,940 --> 00:08:59,040
+Tussen de beide Casimir-platen ontstaat dan een no-go-zone...
+
+111
+00:08:59,040 --> 00:09:01,960
+...voor bepaalde deeltjes met een te grote golflengte.
+
+112
+00:09:02,720 --> 00:09:05,300
+Maar buiten de platen bestaat deze toestand niet...
+
+113
+00:09:05,300 --> 00:09:07,820
+...waardoor er dus een surplus van druk ontstaat...
+
+114
+00:09:07,820 --> 00:09:09,860
+...van velddeeltjes buiten de platen.
+
+115
+00:09:10,640 --> 00:09:12,960
+Netto resultaat de energie van kwantumvelden...
+
+116
+00:09:12,960 --> 00:09:15,460
+...zal de platen tegen elkaar aanbewegen.
+
+117
+00:09:15,460 --> 00:09:22,340
+In 1997 lukte het natuurkundige Steve Lamoureux en collega's...
+
+118
+00:09:22,340 --> 00:09:25,220
+...om dit in een laboratoriumopstelling te zien gebeuren.
+
+119
+00:09:26,040 --> 00:09:30,480
+Sindsdien is het Casimir-effect meerdere malen experimenteel aangetoond.
+
+120
+00:09:31,340 --> 00:09:33,340
+En dan is er nog een kosmologisch effect...
+
+121
+00:09:33,340 --> 00:09:36,400
+...dat eveneens het bestaan van kwantumvelden doet vermoeden.
+
+122
+00:09:36,400 --> 00:09:41,720
+Op een afstand van 450 lichtjaar van de aarde staat een neutronenster...
+
+123
+00:09:41,720 --> 00:09:44,440
+...voor ons gezien in het sterrenbeeld Zuider-Kroon.
+
+124
+00:09:44,440 --> 00:09:50,800
+Het geval heeft de naam RxJ1856.5-3754.
+
+125
+00:09:51,320 --> 00:09:53,700
+Het is sowieso een bijzonder geval...
+
+126
+00:09:53,700 --> 00:09:57,760
+...want er kan geen supernova-rest gevonden worden in de omgeving van dit object.
+
+127
+00:09:58,360 --> 00:10:01,880
+En zoals u wellicht weet ontstaat een neutronenster doorgaans...
+
+128
+00:10:01,880 --> 00:10:03,720
+...in een supernova-explosie.
+
+129
+00:10:04,480 --> 00:10:11,040
+Het zou kunnen zijn dat RxJ1856.5-3754 heel erg oud is...
+
+130
+00:10:11,040 --> 00:10:13,440
+...en er niks meer over is van de supernova.
+
+131
+00:10:14,440 --> 00:10:19,360
+Maar in dat geval zou deze neutronenster meer moeten zijn afgekoeld dan waar er genomen wordt.
+
+132
+00:10:20,440 --> 00:10:24,700
+Er wordt wel gesuggereerd dat dit geen neutronenster, maar een quarkster is.
+
+133
+00:10:25,180 --> 00:10:27,120
+Iets waar we het ook al eens over hebben gehad.
+
+134
+00:10:27,700 --> 00:10:29,500
+Kortom, wat een vreemd object.
+
+135
+00:10:30,220 --> 00:10:34,800
+Om het nog gekker te maken is de straling van RxJ1856.5-3754...
+
+136
+00:10:34,800 --> 00:10:39,400
+...ook nog veel sterker gepolariseerd dan verwacht wordt.
+
+137
+00:10:39,400 --> 00:10:45,920
+Astronomen vermoeden dat de lege ruimte rond de neutronenster sterk gemagnetiseerd is.
+
+138
+00:10:46,400 --> 00:10:49,500
+Een effect dat wordt toegeschreven aan de opmerkelijke bevinding...
+
+139
+00:10:49,500 --> 00:10:53,340
+...dat ook het vacuüm van de lege ruimte gemagnetiseerd kan worden.
+
+140
+00:10:54,080 --> 00:10:57,320
+Dit is dus niet een magneetvat dat door het vacuüm propageert...
+
+141
+00:10:57,320 --> 00:11:01,320
+...maar het vacuüm dat zelf als magneet optreedt.
+
+142
+00:11:02,180 --> 00:11:05,320
+Een universum waar geen plek is die we echt leeg kunnen noemen...
+
+143
+00:11:05,860 --> 00:11:09,320
+...vergeven van bekende en wellicht nog onbekende kwantumvelden...
+
+144
+00:11:09,900 --> 00:11:14,700
+...roept onherroepelijk de vraag op of deze toestand ook al bestond voor de oerknal.
+
+145
+00:11:15,440 --> 00:11:21,320
+We kunnen de vraag ook herdefiniëren en ons afvragen of de kwantumvelden waarvan we nu het bestaan aannemen...
+
+146
+00:11:21,320 --> 00:11:27,320
+...zoals een zwaartekrachtveld, elektromagnetisme, de zwakke kernkracht en de sterke kernkracht...
+
+147
+00:11:27,780 --> 00:11:30,800
+...in het begin van dit heelal ook al in deze vorm bestonden.
+
+148
+00:11:31,300 --> 00:11:35,600
+Of misschien zijn deze velden ooit verenigd geweest in één oerveld...
+
+149
+00:11:35,600 --> 00:11:40,380
+...dat ook op haar beurt spontaan in het leven sprong op het tijdstip T is nul.
+
+150
+00:11:41,220 --> 00:11:44,320
+En daarmee is ons heelal misschien in de woorden van Arthur Schopenhauer...
+
+151
+00:11:45,220 --> 00:11:47,840
+...een kort oponthoud tussen twee keer niks.
+
+152
+00:11:48,700 --> 00:11:49,940
+Tot de volgende keer.
+
+153
+00:11:51,320 --> 00:11:53,320
+***
+

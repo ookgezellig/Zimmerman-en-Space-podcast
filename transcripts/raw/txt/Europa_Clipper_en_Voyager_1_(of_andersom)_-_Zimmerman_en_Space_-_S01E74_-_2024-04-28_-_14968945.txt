@@ -1,0 +1,326 @@
+Hoef, ik vind het spannend. Ja, ready.
+U luistert naar Zimmerman & Space.
+Hé, waar gaan we het vandaag eens over hebben, Hens?
+Nou, in deze aflevering wou ik het met u hebben over twee onderwerpen...
+die heel vloeiend in elkaar overlopen.
+Onderwerp 1 is de inmiddels bejaarde Voyager 1 ruimtesonde...
+en onderwerp 2 is het nog te lanceren Europa Clipper ruimtevaartuig.
+Maar laten we beginnen met de Voyager 1.
+Oké.
+We hebben het al wel eens eerder over die Voyager ruimtevaartuigen gehad.
+Na vijf maanden van stilte is het NASA vorige week gelukt...
+om weer gegevens te ontvangen van Voyager 1.
+Jee!
+Dit is redelijk indrukwekkend, dus ik wou even stilstaan bij wat er mis was...
+en wat NASA heeft gedaan om het contact te herstellen.
+Maar eerst even een heel beknopte samenvatting van wat en waar Voyager 1 is.
+Dit ruimteschip werd gelanceerd op 5 september 1977.
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1.
+MDS, we hebben een lift-off.
+Het programma is in op tijd.
+De voetstof is normaal.
+TVC-bots, het ziet er goed.
+Deze vraag is goed.
+MDS, dit programma is in op tijd.
+De voetstof is normaal.
+Het ruimtevaartuig bezocht planeet Jupiter op 5 maart 1979 en Saturnus op 12 november 1980.
+Na een indrukwekkende missie, waarbij bijvoorbeeld ook de Saturnusmaan Titan werd bezocht...
+bleef Voyager 1 werken en scheerde van ons weg de interstellaire ruimte in.
+Inmiddels is het ruimtevaartuig ruim 46 jaar onderweg en functioneert nog altijd.
+Dat kan je je toch niet voorstellen?
+De stroombron van Voyager 1 is niet meer op het niveau van 46 jaar geleden...
+maar nog krachtig genoeg om wetenschappelijke gegevens te verzamelen en naar de aarde te zenden.
+Specifiek wordt de stroom geleverd door drie radioisotoop thermoelektrische generatoren.
+Elke generator werkt op basis van radioactief verval van plutonium-238 oxide.
+Daarbij wordt warmte omgezet in stroom door middel van een thermoelektrische koppeling van silicon-germanium.
+Tuurlijk, Hens.
+Om stroom te besparen en het maximale uit de Voyager 1 te halen is een aantal subsystemen uitgeschakeld.
+De camera's zijn bijvoorbeeld uit.
+De kans is bijzonder klein dat deze weer ingeschakeld kunnen worden...
+en bovendien, zelfs al zou dat lukken, dan is het weinig interessant.
+We zouden misschien wat sterren zien, maar dat lukt vanaf de aarde ook wel.
+Waar Voyager 1 zich nu bevindt, op een respectabele afstand van ruim 24 miljard kilometer van de aarde, is het vooral heel donker.
+Dat is trouwens ongeveer 163 keer de afstand van de aarde tot de zon.
+Zoveel?
+Zo verschrikkelijk ver van ons vandaan doet elektromagnetische straling er ruim 22 uur over om de afstand één keer af te leggen.
+Nee!
+Dat betekent dat een commando vanaf de aarde pas na 22 uur aankomt bij Voyager 1...
+en we vervolgens nog eens 22 uur moeten wachten op een bevestiging.
+Voyager 1 reist momenteel met een snelheid van 17 kilometer per seconde ten opzichte van de zon.
+In plaats van op te noemen wat er allemaal is uitgeschakeld...
+kunnen we misschien beter noemen wat nog wel functioneert aan boord van Voyager 1.
+Het CRS of Cosmic Ray Subsystem meet nog steeds kosmische straling.
+Het LACP of Low Energy Charged Particles Instrument staat nog aan om geladen deeltjes te detecteren.
+De magnetometer of Mach meet magnetische straling.
+En het Plasma Wave Subsystem of BWS meet nog immer plasmagolven.
+Ah...
+Dat zegt ons mogelijk nog niks, dus we kunnen het ook omschrijven als een meetinstrument...
+om de dichtheid van los rondvliegende elektronen op elk moment in de tijd te meten.
+Oh, ik denk dat ik het nu begin te snappen.
+Verder werken de computers aan boord van Voyager ook nog...
+en kan er communicatie met de aarde onderhouden worden in beide richtingen.
+Voyager 1 heeft diverse computers aan boord, waaronder de CCS, wat staat voor Computer Command System.
+Dit instrument kunt u beschouwen als het brein van Voyager 1.
+Deze CCS heeft de eer om de computer te zijn die het langst aanstaat in de menselijke geschiedenis.
+De CCS-computer werd namelijk ingeschakeld op zondag 20 augustus 1977.
+Wat deed u op die dag? Of bestond u toen nog niet?
+Ik was toen 10 jaar, dus misschien was ik aan het rolschaatsen in de buurt.
+Of ik was aan het staren naar mijn model van de Geos-satelliet...
+die ik een maand eerder, op 15 juli 1977, had gevonnen als vierde prijs van de Afro-televisier-ruimtequiz...
+naar aanleiding van de lancering van Kriet titulaarsboek De Mens in het Heelal.
+Dat was een lange zin.
+Maar even terug naar de computers van Voyager 1.
+Dit zijn voor deze missie ontwikkelde computers op basis van Texas Instruments 7400 Nant Gates.
+Nou, interessant.
+Als u geen beat te doen heeft of nog een hobby zoekt, is er het leuke project Nant2Tetris...
+waarmee u leert hoe een computer werkt met alleen Nant Gates.
+Dat project is toegegeven nogal een forse tijdsinvestering...
+dus als vrije tijd voor u momenteel geen serieuze optie is, is er ook NantGame.com.
+Ook leuk?
+Probeer de eerste vijf puzzels maar eens op te lossen.
+Links naar deze websites vindt u uiteraard in het bijschrift van deze aflevering.
+Dankjewel!
+Een andere computer van de Voyager 1, de FDS, oftewel het Flight Data Subsystem...
+was er de oorzaak van dat Voyager 1 op 14 november 2023...
+stopte met het versturen van leesbare wetenschappelijke gegevens naar de aarde.
+Dit FDS-systeem verpakt de vergaarde wetenschappelijke gegevens...
+en huidige status van het ruimtevaartuig in een bitstream...
+die vervolgens naar de aarde verzonden wordt.
+Dat de FDS-computer defect was, moest worden geconcludeerd...
+uit het schijnbaar willekeurige pakket onzingegevens...
+dat de Voyager 1 nog wel verzond.
+Waarschijnlijk is een deel van het FDS-geheugen defect geraakt...
+bijvoorbeeld door inslag van een hoog energetisch deeltje.
+Nu is het ongelooflijke dat de Voyager ook op een afstand...
+van 24 miljard kilometer van ons vandaan...
+een firmware-update kan uitvoeren.
+Op 18 april van dit jaar werd de nieuwe code verzonden naar de Voyager 1...
+waarbij de instructie aan Voyagers 1 computers was...
+om delen van de code te verhuizen naar gezonde gedeeltes...
+van het FDS-computergeheugen.
+Dit roept mogelijk de vraag op, kan dat zomaar?
+En hoezo zijn er nog ongebruikte gedeeltes van het computergeheugen...
+waar een programma naartoe kan verhuizen?
+Ik snap hier helemaal niks van.
+Ook de computers aan boord van de Voyager werken op een wijze...
+die vergelijkbaar is met die van uw moderne computer.
+Als u een webbrowser of tekstverwerker start...
+wordt het programma in het geheugen van uw computer geladen.
+Tot dat moment is het programma alleen een reeks instructies...
+die bijvoorbeeld op een vaste schijf staan opgeslagen.
+Op het moment dat u het programma gebruikt...
+bestaan instructies en documenten...
+in de meeste gevallen naast elkaar in het computergeheugen.
+Dit heet de von Neumann-architectuur.
+Het vrije geheugen van de computer is één groot veld...
+van elektronische schakelaars...
+die dus zowel voor programma-instructies...
+als voor gegevensopslag kunnen worden ingezet.
+Maar als de stroom van deze schakelaars afgaat...
+raakt alles verloren.
+Om die reden kunnen computerprogramma's...
+delen uit het geheugen naar disk wegschrijven.
+Er zijn natuurlijk ook allemaal uitzonderingen op dit systeem.
+Als gegevens niet de hele tijd voorhanden hoeven te zijn...
+kan het efficiënter zijn deze tijdelijk weg te schrijven naar disk...
+zodat er meer geheugen overblijft voor andere doeleinden.
+Ook kan een programma code bijladen naar het geheugen...
+deze code gebruiken...
+en dat gedeelte van het geheugen weer vrijgeven.
+De Voyager-computers waren in eerste instantie redundant ingericht.
+Mag het in het Nederlands?
+Dat wil zeggen dat er overal twee van waren...
+voor het geval dat een onderdeel zou komen te overlijden.
+Dat is inmiddels in die 46 jaar in de ruimte veelvuldig voorgekomen...
+zodat de Voyager nu niet meer redundant werkt.
+Het onderdeel dat het afgelopen half jaar defect was...
+was zoals gezegd de FDS, het Flight Data Subsystem.
+Deze FDS bestaat voornamelijk uit CMOS-transistoren...
+om gegevens op te slaan.
+En CMOS staat voor Complementary Metal Oxide Semiconductor.
+De Voyager was NASA's eerste ruimtevaartig...
+dat zo'n cruciaal gedeelte helemaal in CMOS-chips in gebruik had.
+Het grote gevaar is dat de stroom naar de FDS wegvalt...
+en dan zijn alle bewaarde gegevens weg.
+Dat is vervelend.
+Om die reden loopt er een rechtstreekse voedingslijn...
+van de radio-isotoopgenerator naar de FDS-computer.
+NASA JPL voorzag al snel dat het FDS-geheugen vol zou kunnen lopen...
+met wetenschappelijke gegevens van sensoren...
+en dat deze niet op tijd naar de aarde konden worden verzonden.
+Uh-oh.
+In Voyager 1 zit dan ook een digitale 8-spoor-tape-recorder...
+die tot de dag van vandaag werkt.
+De FDS kan dan gegevens op tape dumpen...
+die op een later tijdstip naar de aarde kunnen worden gestuurd.
+Nu de meeste instrumenten aan boord van Voyager 1 zijn uitgeschakeld...
+kunnen allerlei programma's in zowel de CCS als de FDS-computers...
+gewist worden of vereenvoudigd worden.
+Bepaalde inputs van sensoren die uitstaan...
+kunnen eenvoudigweg genegeerd worden.
+Dit maakt dat op aarde nieuwe programma's kunnen worden ontwikkeld...
+die rekening houden met defecte geheugenadressen...
+en de Voyager 1 is volledig ingericht om die nieuwe programma's te accepteren...
+en naar de opgedragen gedeeltes van het geheugen te kopiëren...
+en dan te activeren.
+U kunt het misschien een beetje vergelijken met de bad sectors...
+op een magnetische harddisk.
+Bij het scannen van uw harddisk kunnen bepaalde sectoren als defect worden aangemerkt...
+waarna de computer zelf zorg draagt nooit meer gebruik te maken van dergelijke defecte onderdelen.
+Als u er nog veel dieper in wilt duiken...
+is er een mooi gratis NASA-document met de titel Computers in Spaceflight...
+waarna u een link vindt in het bijschrift van deze aflevering.
+Maar nog even terug naar onze tot voor kort defecte Voyager 1.
+De firmware-update deed er inderdaad ruim 22 uur over om te arriveren bij Voyager 1...
+want ook radiogegevens reizen nou eenmaal met de lichtsnelheid.
+En op 20 april kwam het eerste gezonde pakket gegevens weer aan op aarde...
+via het Deep Space Network.
+Als u eens wilt zien wat het Deep Space Network met haar schotels op elk moment van de dag ontvangt...
+dan vindt u daarvoor een link in het bijschrift van deze aflevering.
+Voyager 1 heeft daar de afkorting VGR 1.
+De komende weken worden nog meer updates naar Voyager 1 verzonden...
+om ervoor te zorgen dat alle verzamelde wetenschappelijke gegevens weer op aarde terechtkomen.
+Oh, gelukkig!
+Als u hier nog niet van onder de indruk bent...
+dan is het misschien wel interessant om te weten om wat voor vermogens we het hier hebben.
+Volgens de National Radio Astronomy Observatory...
+zendt Voyager 1 radiosignalen naar de aarde met een uitzendvermogen van 22,4 watt.
+Maar wat op aarde arriveert is door de immense afstand nog maar een radiosignaal van ongeveer 1 attowatt.
+Nou, dat is ook niet veel.
+Dit alles gebeurt op een frequentie van 2,3 of 8,4 gigahertz.
+Omgekeerd zendt het Deep Space Network radiogegevens naar Voyager 1...
+op een frequentie van 2,1 gigahertz met een vermogen van 20 kilowatt.
+Zoveel?
+Dat laatste moet ook wel, want de kleine antenne van Voyager 1...
+is anders niet in staat het radiosignaal van planeet aarde nog te ontvangen.
+Ja, dat zeg jij.
+Daar is ook nog een aardig document over.
+Voyager Telecommunications.
+Van NASA, waarna u een link vindt in het bijschrift van deze aflevering.
+Voorlopig functioneert Voyager 1 dus weer...
+en hoopt iedereen dat het ruimtevaartuig het in ieder geval tot 2025 volhoudt...
+om gegevens over de interstellaire ruimte aan ons te sturen.
+NASA verwacht nog tot 2036 te kunnen communiceren met Voyager 1.
+Wel is het de vraag hoeveel nuttige gegevens er dan nog kunnen worden uitgewisseld.
+Dat is eigenlijk een goede vraag.
+Na 2036 zal het elektrisch vermogen te gering worden...
+en begint Voyager 1 aan een solitair bestaan.
+Maar weet u nog dat er gouden platen meereizen met de Voyager-ruimtevaartuigen?
+Oh ja, inderdaad.
+Aflevering 10 van Zimmerman In Space ging hier helemaal over.
+Die gouden platen zijn zeg maar onze cadeautjes voor buitenaardse beschavingen...
+die misschien ooit in de verre toekomst zo'n Voyager-ruimtevaartuig weten te onderscheppen.
+Het meesturen van dergelijke souvenirs is een goede gewoonte van NASA.
+Later dit jaar wordt, als het mee zit, het Europa Clipper-ruimtevaartuig gelanceerd...
+met ook zo'n mooi gebaar naar onze mede-helalbewoners aan boord.
+Europa Clipper verdient een hele aflevering van deze podcast...
+dus die zal ik ergens de komende maanden voor u in elkaar zetten.
+Dat is goed.
+Vandaag kijken we alleen naar de equivalent van Voyager's Goudenplaats...
+zoals die meereist met Europa Clipper.
+De naam verraadt het al.
+Dit ruimteschip heeft Europa als bestemming.
+Nee, niet uw achtertuin.
+Dat andere Europa, een maan van de planeet Jupiter.
+De huidige planning van NASA is dat Europa Clipper op 10 oktober 2024 gelanceerd wordt...
+en dan in 2030 arriveert bij Jupiter.
+Dit duurt zo lang.
+Ik ben heel benieuwd of ik tegen die tijd nog steeds wekelijks...
+een aflevering van deze podcast weet te publiceren...
+maar dat zien we tegen die tijd wel.
+Omdat Jupiter maan Europa hoogstwaarschijnlijk een enorme oceaan vol water huisvest...
+heeft NASA het thema water gebruikt voor de meereizende souvenir.
+De gegevens van deze souvenir staan in een afdekplaat geëtst...
+die toch al mee moest reizen.
+Het ruimtevaartuig is dus niet zwaarder geworden door deze niet-functionele franje.
+Deze afdekplaat moet elektronica aan boord van Europa Clipper beschermen tegen straling...
+en is gemaakt van Tantal, ook wel Tantalium genoemd, met atoom nummer 72.
+Het is een 1 mm dikke, driehoekige plaat van ongeveer 18 bij 28 centimeter.
+Beide zijden van de plaat bevatten gegevens voor nieuwsgierige aliens.
+Aan de ene zijde zien we allemaal golfvormen van geluidsbestanden.
+Dit zijn 103 uitspraken van het woord water in allemaal verschillende talen.
+We kunnen er wel een paar beluisteren als u dat leuk vindt...
+trouwens ook wanneer u dat niet leuk vindt, want hier komen ze.
+Aan de.
+Dze.
+Me.
+Pani.
+Jeen.
+Ur.
+Amens.
+Pani.
+Duy.
+Ondo.
+Water.
+Water.
+De loo.
+Wasser.
+Aqua.
+Aqua.
+Shoei.
+Agua.
+Magi.
+In het midden van die geluidsgrafieken staat het symbool van water in de Amerikaanse standaard gebarentaal.
+Dan draaien we de plaat om en dan zien we bovenin de Drake Equation.
+Huh?
+Dat is de formule waarmee de in 2022 overleden wetenschapper Frank Drake liet zien...
+dat we de waarschijnlijkheid van buitenaards leven bij benadering kunnen uitrekenen.
+Er staat verder niks over uitgelegd, dus een gemiddelde alien zal hiernaar kijken en dan...
+Oké!
+...zeggen.
+Onder de Drake Equation zien we een grafuren van een fles, de letterlijke message in a bottle.
+Ook een van de beste nummers van de police, maar dat terzijde.
+Rond die fles zien we de symbolen van de vier grootste Jupiter-manen.
+Io, Ganymedes, Europa en Callisto.
+Maar ook vinden we in de fles een klein schijfje silicon, ongeveer zo groot als een vingernagel...
+waarin 2,6 miljoen namen geëtst staan.
+Misschien ook wel die van u, want elke aardbewoner kon haar of zijn naam laten toevoegen aan de lijst.
+Die van mij staat er ook ergens tussen.
+Nou, blij om dat te horen.
+Iets meer naar onder zien we een uitleg van de zogenaamde Waterhole.
+Dat is een frequentieband tussen de 1420 en 1666 megahertz...
+waarbinnen een technologisch ontwikkelde samenleving het logisch zal vinden te zenden en te ontvangen...
+in een poging contact te zoeken met andere civilisaties in het heelal.
+Dan zien we nog een portret van ruimtevaartwetenschapper Ron Greeley.
+Greeley overleed in 2011 en is een van de belangrijkste namen in het planeetonderzoek buiten de aarde.
+Tot slot zien we nog een gedicht van Ada Limon, geëtst in haar eigen handschrift.
+Ik vind het een mooi gedicht en zal het aan het einde van deze aflevering plakken.
+De versie die u dan hoort is door haar zelf voorgelezen.
+Zoals gezegd, aan de hele Europa Clipper missie zullen we binnenkort aandacht besteden...
+maar dan vanuit wetenschappelijke verwondering.
+Mocht u nu al nieuwsgierig zijn naar de Europa Clipper...
+NASA heeft werkelijk een buitengewoon mooie website gemaakt voor deze missie.
+U kunt 3D-modellen van het ruimtevaartuig en de afdekplaats met inscripties ronddraaien in uw webbrowser.
+Dat ziet er tegenwoordig met OpenGL of WebGL, moet ik eigenlijk zeggen, fantastisch mooi uit.
+Voor nu een prettige meivakantie en tot de volgende keer.
+In praise of mystery.
+A poem for Europa.
+Arching under the night sky.
+Inky with black expansiveness.
+We point to the planets we know.
+We pin quick wishes on stars.
+From Earth we read the sky as if it is an unerring book of the universe.
+Expert and evident.
+Still, there are mysteries below our sky.
+The whale song.
+The songbird singing its call in the bow of a wind-shaken tree.
+We are creatures of constant awe.
+Curious at beauty, at leaf and blossom, at grief and pleasure, sun and shadow.
+And it is not darkness that unites us.
+Not the cold distance of space.
+But the offering of water.
+Each drop of rain.
+Each rivulet.
+Each pulse.
+Each vein.
+O second moon.
+We too are made of water.
+Of vast and beckoning seas.
+We too are made of wonders.
+Of great and ordinary loves.
+Of small, invisible worlds.
+Of a need to call out through the dark.
+Next Jedaji
+A söyle
+A ballная
+A ball kümpa

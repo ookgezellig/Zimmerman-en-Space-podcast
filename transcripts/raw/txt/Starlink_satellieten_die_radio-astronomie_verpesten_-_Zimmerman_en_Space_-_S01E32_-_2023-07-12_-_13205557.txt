@@ -1,0 +1,170 @@
+Soms horen we wel eens iets moeilijks in het nieuws en dan is het vaak maar de vraag wat de repercussies daadwerkelijk zijn.
+Met name ook voor ons persoonlijk.
+Neem bijvoorbeeld de kernramp in Tsjernobyl op 26 april 1986.
+Ik weet nog dat ik erover hoorde op de radio die aanstond in de koffiekamer van mijn eerste echte baantje.
+Waarschijnlijk hoorde ik er pas over op dinsdagochtend 29 april, want pas de avond daarvoor erkende de Russische overheid dat er een storing had plaatsgevonden in de kerncentrale.
+Inmiddels heet de Tsjernobyl ramp volgens de World Health Organization de grootste civiele nucleaire ramp in de geschiedenis.
+De ramp met de kerncentrale als gevolg van menselijk falen kostte officieel iets minder dan 100 mensen het leven,
+maar de lange termijn schattingen over zieken en doden lopen sterk uiteen.
+Maar wat hadden wij als Nederlanders of Belgen eigenlijk voor last van de kernramp zo ver weg in Tsjernobyl?
+Ja, dat is de vraag.
+Ruim een jaar na de kernramp op 5 november 1987 lazen we in Dagblad Trouw
+Paddenstoel blijft nog enkele jaren radioactief besmet.
+De radioactieve besmetting van paddenstoelen is in vergelijking met vorig jaar nauwelijks afgenomen.
+Wie nu het bos intrekt om een mandjevelde paddenstoelen te plukken, kan er zonder meer van uitgaan met besmette exemplaren terug te keren.
+De hoogste waarden zullen worden gevonden in die gebieden waar anderhalf jaar geleden, na de ramp in de kerncentrale in Tsjernobyl, de meeste neerslag viel.
+Het regenfront trok in die eerste meidagen globaal van het zuidoosten naar het noordwesten over ons land.
+Van de Peel via de Bult naar Den Helder.
+Vorig najaar doken de eerste berichten over radioactief besmette wilde paddenstoelen op die de normen voor voedsel ruim overtroffen.
+Het ministerie van WVC liet toen weten dat er geen enkele reden tot paniek was.
+De volksgezondheid was niet in het geding.
+Ja, daar konden we op wachten.
+Dit was natuurlijk goed nieuws, want het leven kon vrolijk verder gaan.
+Niks aan de hand.
+Dan maar wat minder wilde paddenstoelen eten, nietwaar?
+Zo is het ook een beetje met het nieuws waar ik het vandaag met u over wil hebben.
+Ik wil er gelijk bij zeggen dat ik het bericht ontving van luisteraar Jule uit Drenthe, waar ik heel blij mee ben.
+Het is fantastisch als u als luisteraar meedenkt over de dingen die hier in deze podcast besproken worden.
+Het bericht verscheen op de website van RTV Drenthe met de titel
+Astronomen maken zich grote zorgen.
+Lofar Telescoop ontdekt ruis van SpaceX satellieten.
+In het artikel lezen we
+Wetenschappers van Astron in Dwingelo maken zich grote zorgen over de komst van extra satellieten van SpaceX,
+het ruimtebedrijf van Elon Musk.
+Met de Lofar Telescoop in Exlo hebben zij ontdekt dat de satellieten van SpaceX, die nu al in de ruimte zijn,
+zorgen voor ruis in het heelal.
+Daardoor zijn waarnemingen in het ergste geval onbruikbaar.
+Misschien is het aardig even naar een stukje te luisteren van het videobestand van RTV Drenthe.
+Hierin is wetenschapper Kees Bassa van Astron aan het woord.
+Dit was de eerste keer dat we hier echt specifiek naar op zoek zijn gegaan.
+We waren er wel bang voor, maar nu hebben we het ook echt gemeten.
+En met alle andere satellieten die in de toekomst gelanceerd gaan worden, kan dit best een groot probleem gaan worden.
+Bassa laat ook een stukje van een radiowaarneming horen,
+waarin te horen is dat een satelliet van SpaceX door de detectoren van Lofar trekt.
+Ik heb het fragment iets opgeschoond, zodat u als luisteraar van deze podcast niet doof getetterd wordt door ruis.
+In dit fragment hoort u het residu van ruis en dan opeens een soort geluid alsof een goederentrein langskomt.
+Dat is het Doppler-effect van een Starlink-satelliet die het radiospectrum vervuilt.
+We wisten al dat de Starlink-satelliet in het optisch bereik voor vervuiling aan de sterrenhemel zorgen,
+in de vorm van strepen op foto's.
+Maar nu ontstaat er dus ook een probleem in het radioastronomisch bereik.
+Hoe zit dat?
+Kan SpaceX geen andere radiofrequentie gebruiken?
+Dan komen we uit op het wetenschappelijke artikel hierover,
+waarvan onder andere diezelfde Kees Bassa auteur is.
+We vinden het met de titel
+Het verschijn begin juli van dit jaar in Astronomy & Astrophysics.
+Hoofdauteur is Frederico Di Fruno van het Square Kilometer Array Observatory of SKAO.
+In dit artikel lezen we dat er inderdaad is afgesproken dat SpaceX voor radiocommunicatie
+met haar constellatie van Starlink-satellieten gebruik maakt van de 10.7 en 12.7 gigahertz radiofrequenties,
+maar dat er onbedoelde vervuilende radiosignalen op lagere frequenties worden aangetroffen.
+Deze vervuilende signalen zijn dan hinderlijk voor de radioastronomie.
+De auteurs zijn het eens dat de extra radiouitzendingen intrinsiek zijn aan de Starlink-satellieten,
+aangezien zij deze radioemissies bij 47 van de 68 waargenomen Starlink-satellieten wisten te meten.
+We hebben het dan over niet bedoelde vervuilingsproducten van satellieten op radiofrequenties 125, 135, 145.05, 150 en 175 megahertz.
+Ver beneden de voor SpaceX vrijgegeven radiofrequenties dus.
+Het is wel interessant dat dit het resultaat is van slechts één uur waarnemen.
+In een tijdsbestek van één uur konden er storingen van maar liefst 47 Starlink-satellieten
+in het luisterbereik van Lover worden gemeten.
+Dat is toch niet te geloven?
+Eén van deze frequenties, 145.05 megahertz, kan toegeschreven worden aan de Franse Graves Space Surveillance radar.
+Graves klinkt misschien wat macaber, maar is gewoon weer een afkorting en wel van...
+Grand réseau adapté à la veille spatiale.
+Dit Franse systeem zendt een radarsignaal uit op 145.05 megahertz, wat op een andere locatie in Frankrijk weer herkend kan worden...
+wanneer signalen tegen satellieten aanbotsen.
+Als u het aardig vindt hier meer over te lezen, dan vindt u een link naar het Graves Sourceboek in de show notes.
+Deze pdf is deels in het Engels en deels in het Frans en met 126 pagina's reuze interessant voor de nerds onder ons.
+Ben je zo'n nerd, Hans?
+Opvallend is dat het regulerend orgaan, de International Telecommunications Union...
+wel regels oplegt voor bedoelde radio-uitzendingen, maar juist niet voor onbedoelde radio-uitzendingen.
+Specifiek publiceert de ITU een reglement met de naam Radio Regulations...
+wat lidstaten geacht worden uit te rollen in hun eigen systeem van wetgevingen.
+Maar de radioastronomie komt er bedonderd vanaf.
+Onder de 4 gigahertz wordt slechts 5% van het radiospectrum vrijgehouden voor radioastronomie...
+en dus ook nog onsuccesvol.
+Geen wonder dan ook dat radioastronomen zoals Dr. Mark Kleinvolt...
+van het Radboud Radiolab van de Radboud Universiteit...
+hun zinnen hebben gezet op een radiotelescoop op de achterkant van de maan.
+We kunnen ons afvragen waar dit soort onbedoelde radiosignalen vandaan komen.
+Is zo'n Starlink-satelliet niet in staat om alleen de afgesproken radiofrequenties te benutten?
+Ja, dat is wel een hele interessante vraag.
+Deels is het bijna niet te voorkomen.
+Wanneer men uitzendt op een frequentie ontstaan er harmonische en intermodulatie bijproducten op andere frequenties.
+Maar waar dit nog binnen de perken gehouden zou kunnen worden...
+zendt elk elektronisch systeem ook inherent extra radiosignalen uit.
+De auteurs noemen dit UEMR, wat staat voor Unintended Electromagnetic Radiation...
+wat ook wel eens elektromagnetische interferentie genoemd wordt.
+Deze niet bedoelde radiostraling vinden we ook in uw strijkeizer...
+de muis van uw computer, de meterkast, et cetera.
+Met een heel klein beetje hobbyën kunt u zelf op onderzoek uitgaan en dit soort storingen opnemen.
+Ik hing zelf een min of meer willekeurige spoel van koperdraad aan de microfooningang van mijn pocketrecorder...
+en hield die spoel in de buurt van diverse apparaten in mijn rommelhok...
+waar ook deze podcast opgenomen en nabewerkt wordt.
+De Wacom tablet, een soort pen, genereerde dit geluid.
+Dit is het geluid van een magnetische harddisk.
+En dit is het geluid van een adapter in het stopcontact.
+Als u het wat grootser op wilt zetten...
+links naar hobbyprojecten in Make Sign en Instructables vindt u de links van deze aflevering.
+Maar even terug naar onze Starlink-satellieten die het plezier voor radioastronomen vergallen.
+Aan de ene kant zijn veel mensen, waaronder ik zelf, blij met technologische vooruitgang.
+Zoiets als Starlink-internet zal voor veel consumenten en ook voor instellingen...
+een buitengewoon plezierige oplossing zijn voor het gebruiken van breedband-internet.
+Hier in Beeldhoven, waar ik woon, loopt de glasvezel huis aan huis tot aan de voordeur...
+maar de situatie is natuurlijk anders in afgelegen locaties op aarde.
+Maar moeten we dan ergens ho tot hier en niet verder roepen?
+Net zoals we niet hebben gedaan met nachtelijke verlichting?
+Daar hebben we het wel eens eerder over gehad.
+Een telescoop in het midden van de stad is min of meer zinloos.
+Een reliquie van vervlogen tijden.
+Zelfs op het platteland in Nederland is het zoeken naar een locatie...
+waar de sterrenhemel nog echt donker wordt en de Melkweg goed zichtbaar is.
+De meest indrukwekkende beelden uit het heelal komen nu van telescopen...
+die buiten onze dampkring in de ruimte hangen.
+Is dan nu ook het punt aangebroken dat we de pijp aan Maarten moeten geven...
+voor wat betreft radioastronomie op aarde?
+Laten we dat maar niet doen.
+In het artikel van Bassa en Diffruno lezen we dat we ons nu in de eigenaardige situatie bevinden...
+dat voor het eerst in de menselijke geschiedenis...
+het opgetelde effect van satellieten serieus gemeten kan gaan worden.
+Want alleen nu hangen er vrijwel identieke satellieten van bijvoorbeeld SpaceX en OneWeb rond de aarde...
+waarbij verwacht kan worden dat de gelekte straling steeds op dezelfde frequenties plaatsvindt...
+en dus een opgeteld effect krijgt op de radioastronomie.
+Volgens astrofysicus Jonathan McDowell, die dit keurig voor ons bijhoudt...
+zijn er op dit moment 4.432 Starlink-satellieten in een baan rond de aarde te vinden...
+waarvan er 4.397 werkzaam zijn.
+OneWeb heeft volgens Jonathan 632 werkende satellieten in een baan rond de aarde.
+Vormen deze megaconstellaties, die de komende jaren nog veel groter zullen worden...
+een serieus gevaar voor radioastronomie.
+De auteurs komen tot de voorzichtige conclusie dat dit nog niet met grote zekerheid kan worden gezegd.
+Al vrezen zij dat met de tijd zoveel praktisch identieke satellieten in een baan rond de aarde komen te hangen...
+dat de opgetalde som van onbedoelde radiostoringen een deel van de radioastronomie op aarde onmogelijk zal maken.
+Overleg tussen partijen is dan ook nodig, concluderen zij.
+Want een deel van het probleem kan mogelijk ook toegeschreven worden aan onwetendheid.
+Storende signalen op 125, 150 en 175 megahertz kunnen bijvoorbeeld harmonische zijn van een elektronisch component...
+met een klokfrequentie van 25 megahertz.
+Een ander type elektronisch component kan wellicht al een hoop schelen.
+In een Ask Me Anything van Reddit antwoorden medewerkers van SpaceX...
+dat er per 60 Starlink-satellieten ruim 4000 Linux-computers gelanceerd worden.
+Elke Linux-nood heeft minstens één microprocessor in gebruik...
+dus alsof er de klokfrequenties van die computers wat overleg kan komen...
+dan is het wellicht mogelijk de storende invloed op de radioastronomie enigszins in te dammen.
+Het is mijns inziens wel interessant dat exact dit type storingen al voorspeld werd in november 2020.
+In het artikel...
+The impacts of large constellations of satellites...
+van Gordon Long lezen we, en ik vertaal het maar even...
+Radioastronomie is sterk afhankelijk van radiostille, beschermde banden...
+die zo vrij mogelijk zijn van radiofrequente interferentie.
+Deze radiobanden hebben vaak enige bescherming tegen uitzendingen op de grond...
+maar hebben weinig of geen formele bescherming tegen zenders in de ruimte.
+Vanwege zijband- en uitbandemissies van de grote constellatiesatellieten...
+zullen bestaande radiostille zones in de toekomst waarschijnlijk ernstig worden beïnvloed door satellietstoringen.
+Zelfs als een satelliet direct boven een radioastronomielocatie...
+de zenders uitschakelt, kunnen satellieten op honderden kilometers afstand...
+nog steeds storende emissies produceren voor radioastronomie.
+Dus dat was de waarschuwing bijna drie jaar geleden.
+En in 2023 is het menens en hebben de mensen die deze problemen hadden kunnen voorkomen...
+waarschijnlijk geen actieve herinnering aan het rapport van Gordon Long.
+Ik weet niet hoe u erover denkt, maar ik denk dat de technologie de mens weer eens inhaalt.
+Over een paar jaar hebben we hopelijk een lofer op de maan.
+Ik hoop het voor mensen als dokter Mark Kleinvolt en de radioastronomen van de toekomst.
+Tot de volgende keer.
+Ik vind het vooral heel grappig dat je audio doet en Hans Zimmerman heet.

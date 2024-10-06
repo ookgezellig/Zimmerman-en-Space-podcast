@@ -1,0 +1,588 @@
+1
+00:00:00,000 --> 00:00:03,720
+Goedemorgen, Mars van de surface.
+
+2
+00:00:04,320 --> 00:00:08,160
+Het man's aangegeven droom van een dichterpunt op wat het is op een andere planeten,
+
+3
+00:00:08,300 --> 00:00:11,320
+en van het zoeken voor leven daar, is vandaag een realiteit.
+
+4
+00:00:11,740 --> 00:00:12,840
+En wat een realiteit.
+
+5
+00:00:13,400 --> 00:00:16,080
+Viking 1 had perfecte landen op de Martian surface,
+
+6
+00:00:16,420 --> 00:00:19,520
+en begon erin te verantwoorden, zo spektakulair,
+
+7
+00:00:19,800 --> 00:00:21,480
+dat zelfs project-scientisten waren erom.
+
+8
+00:00:21,980 --> 00:00:25,700
+Mijn eerste spreekbeurt ging over de Viking-landers op Mars.
+
+9
+00:00:26,180 --> 00:00:28,320
+Dat was in het najaar van 1976.
+
+10
+00:00:28,320 --> 00:00:33,280
+Dus ik zat net in wat toen de vierde klas van de lagere school heette.
+
+11
+00:00:33,820 --> 00:00:39,700
+Viking 1 was op 20 juli van dat jaar het eerste ruimteschip dat succesvol op Mars landde,
+
+12
+00:00:40,100 --> 00:00:42,420
+en ook nog foto's terug wist te sturen.
+
+13
+00:00:43,160 --> 00:00:45,260
+Jaren daarvoor, in 1971,
+
+14
+00:00:46,060 --> 00:00:51,620
+wist de Sovjet-Unie al een zachte landing op Mars te maken met het Mars 3-ruimtevaartuig,
+
+15
+00:00:51,720 --> 00:00:56,500
+maar het contact met het Mars 3 raakte al enkele seconden na de landing verloren.
+
+16
+00:00:56,500 --> 00:00:59,980
+Ik weet nog wel in 1976,
+
+17
+00:01:00,380 --> 00:01:04,940
+dat de meestal volstrekt zwart-witte krant die bij mijn ouders op de deurmat viel,
+
+18
+00:01:05,120 --> 00:01:09,320
+de Mars-foto van de Viking-lander ook in rode tinten had afgedrukt.
+
+19
+00:01:10,260 --> 00:01:12,300
+Ik heb het even in Delver opgezocht,
+
+20
+00:01:12,440 --> 00:01:16,680
+en dit was de Volkskrant van zaterdag 24 juli 1976.
+
+21
+00:01:17,300 --> 00:01:18,200
+Oké, interessant.
+
+22
+00:01:18,760 --> 00:01:20,340
+Maar wel een beetje nerderig.
+
+23
+00:01:20,340 --> 00:01:24,060
+Portret Rode Planeet staat er met grote letters boven.
+
+24
+00:01:24,660 --> 00:01:28,680
+Ik zet wel een linkje in de show notes naar de krantenpagina in kwestie.
+
+25
+00:01:29,900 --> 00:01:31,660
+Dit was sensationeel.
+
+26
+00:01:31,840 --> 00:01:34,720
+Foto's vanaf het oppervlak van een andere planeet.
+
+27
+00:01:35,300 --> 00:01:38,340
+Beide Viking-landers bleven jaren operationeel.
+
+28
+00:01:38,340 --> 00:01:43,760
+Interessant detail is trouwens dat Viking 1 na zes jaar stopte met functioneren
+
+29
+00:01:43,760 --> 00:01:47,520
+door een menselijke fout tijdens een software-update.
+
+30
+00:01:47,900 --> 00:01:55,020
+Maar dat terzijde, we kregen een schat aan data terug van de Viking 1 en 2 landers en de orbiters,
+
+31
+00:01:55,280 --> 00:02:00,740
+die het contact met de landers onderhielden en ook zelfstandig onderzoek deden aan planeet Mars.
+
+32
+00:02:00,740 --> 00:02:05,900
+Inmiddels zijn er natuurlijk nog veel meer succesvolle landingen op Mars uitgevoerd,
+
+33
+00:02:06,080 --> 00:02:10,280
+zoals de meeste luisteraars van deze serie verhandelingen ongetwijfeld weten.
+
+34
+00:02:10,420 --> 00:02:11,100
+Dat zou kunnen, ja.
+
+35
+00:02:11,180 --> 00:02:15,140
+Hoe interessant is het dan ook dat wetenschappers nog steeds teruggrijpen
+
+36
+00:02:15,140 --> 00:02:18,980
+naar de verzamelde gegevens van die Mars-landers uit 1976?
+
+37
+00:02:20,380 --> 00:02:25,880
+Op 1 december van dit jaar verscheen een artikel in Nature Scientific Reports met de titel
+
+38
+00:02:25,880 --> 00:02:33,120
+Evidence of an Oceanic Impact and Megatsunami Sedimentation in Crysee Planitia Mars.
+
+39
+00:02:33,940 --> 00:02:38,760
+Dit artikel probeert antwoord te geven op een van de raadsels van het Viking-programma.
+
+40
+00:02:40,240 --> 00:02:43,680
+Voor de context van dit raadsel lees ik een stukje voor uit het boek
+
+41
+00:02:43,680 --> 00:02:46,080
+Landing op Mars van Griet Titulaar.
+
+42
+00:02:46,720 --> 00:02:53,160
+Dit boek verscheen in 1975, dus nog voordat de Viking-landers succesvol op Mars terecht waren gekomen.
+
+43
+00:02:53,160 --> 00:02:56,520
+Op bladzijde 52 lezen wij
+
+44
+00:02:56,520 --> 00:02:58,580
+De landingsplaatsen
+
+45
+00:02:58,580 --> 00:03:05,160
+Op 7 mei 1973 maakte NASA de landingsplaatsen voor de twee Viking-vluchten bekend.
+
+46
+00:03:05,700 --> 00:03:10,880
+De eerste landing zal worden uitgevoerd in een dal bij het begin van de enorme canyon op Mars.
+
+47
+00:03:11,440 --> 00:03:16,460
+De tweede landing zal 1700 kilometer ten noordoosten hiervan worden uitgevoerd
+
+48
+00:03:16,460 --> 00:03:22,600
+in een gebied waar men een grote kans denkt te hebben leven, zodat er is, aan te treffen.
+
+49
+00:03:23,160 --> 00:03:28,420
+Voor de keuze van de meest geschikte landingsplaatsen werden de volgende criteria gehanteerd.
+
+50
+00:03:29,580 --> 00:03:37,380
+A. De plaats moet zo laag mogelijk gelegen zijn opdat veel van de eile marsatmosfeer voor het afremmen kan worden gebruikt.
+
+51
+00:03:38,380 --> 00:03:43,940
+De landingsplaats van Viking 1 ligt 5 kilometer onder het gemiddelde marsoppervlak.
+
+52
+00:03:43,940 --> 00:03:49,780
+Die van Viking 2 is met 6 kilometer eronder een van de laagste punten op de planeet.
+
+53
+00:03:49,780 --> 00:03:53,900
+B. Er moet mogelijk water aanwezig zijn.
+
+54
+00:03:54,500 --> 00:03:57,620
+Hieraan voldoet vooral de landingsplaats van Viking 2.
+
+55
+00:03:58,420 --> 00:04:02,780
+C. Er moeten interessante geologische details te zien zijn.
+
+56
+00:04:03,300 --> 00:04:12,940
+Deze eis gaat zowel op voor de landingsplaats van Viking 1 in Karaisi als voor de landingsplaats van Viking 2 in Sidonia, Mare Acidalium.
+
+57
+00:04:12,940 --> 00:04:17,280
+D. Meteorologisch moet de landingsplaats gunstig zijn.
+
+58
+00:04:17,820 --> 00:04:21,020
+De kans op grote stofstormen moet erg klein zijn.
+
+59
+00:04:21,940 --> 00:04:30,000
+E. Het terrein moet betrekkelijk vlak zijn en de grootste hellingen in de directe omgeving mogen niet meer dan 170 graden bedragen.
+
+60
+00:04:30,000 --> 00:04:32,980
+D. Bovendien mag er geen dikke stoflaag zijn.
+
+61
+00:04:33,820 --> 00:04:39,980
+Zover men kan nagaan zijn de genoemde landingsplaatsen op grond van deze criteria de best denkbaren.
+
+62
+00:04:40,700 --> 00:04:45,800
+Het probleem is echter dat de keuze is gemaakt op grond van de foto's van de Mariner 9.
+
+63
+00:04:46,440 --> 00:04:49,480
+Hierop zijn de kleinst zichtbare details 100 meter.
+
+64
+00:04:50,140 --> 00:04:59,360
+Daarom zal de Viking Orbiter voor de ontkoppeling van de lander de landingsplaats inspecteren, nu met een oplossend vermogen van 25 meter.
+
+65
+00:04:59,360 --> 00:05:06,600
+Tot het laatste ogenblik, ook gedurende de vlucht, is het mogelijk door bijsturing de landingsplaats te veranderen.
+
+66
+00:05:07,360 --> 00:05:16,080
+Aangezien we voor de landing nooit eerder kleinere details hebben gezien dan 25 meter, blijven verrassingen tot en met de landing mogelijk.
+
+67
+00:05:17,840 --> 00:05:25,460
+En zo'n verrassing kwam, want waar wetenschappers dachten te zijn geland in een vlakte, bleek het oppervlak bezaaid met rotsen.
+
+68
+00:05:25,460 --> 00:05:33,460
+We waren destijds natuurlijk allemaal blij verrast door de mooie foto's, maar het was nooit helemaal duidelijk waar al die rotsen nou vandaan waren gekomen.
+
+69
+00:05:34,460 --> 00:05:41,400
+Als er overal rotsen liggen, dan ligt het voor de hand dat deze opgeworpen werden door een gebeurtenis in het verleden.
+
+70
+00:05:42,500 --> 00:05:46,940
+Zoals bijvoorbeeld een impact van een meteoriet of een vulkaanuitbarsting.
+
+71
+00:05:46,940 --> 00:05:52,300
+Maar daar was in de buurt van de landingsplek van Viking 1 niets van terug te vinden.
+
+72
+00:05:53,160 --> 00:05:59,220
+De Viking 1 was technologisch redelijk primitief, zeker vergeleken met de hedendaagse ruimtevaartuigen.
+
+73
+00:05:59,720 --> 00:06:03,720
+Maar met de camera aan boord konden wel panoramische foto's gemaakt worden.
+
+74
+00:06:04,300 --> 00:06:08,860
+En zo konden wetenschappers niks vinden dat de bron van al die stenen kon zijn.
+
+75
+00:06:08,860 --> 00:06:12,700
+Ook met de Viking orbiters werd niks gevonden.
+
+76
+00:06:13,560 --> 00:06:16,720
+De wetenschapper Alexis Rodriguez liet het er niet bij zitten.
+
+77
+00:06:17,340 --> 00:06:21,860
+Al in 2016 verscheen een artikel van zijn hand in Nature Scientific Reports,
+
+78
+00:06:22,680 --> 00:06:27,880
+waarin beschreven wordt dat de planeet Mars ooit een planeet met vloeibaar oppervlaktewater was,
+
+79
+00:06:28,100 --> 00:06:31,120
+waar tsunamis ook zeer waarschijnlijk op voorkwamen.
+
+80
+00:06:31,120 --> 00:06:36,260
+Specifiek beschreef Rodriguez twee verschillende megatsunamis,
+
+81
+00:06:36,500 --> 00:06:41,880
+waarvan op de Marsfoto's van de diverse ruimteschepen zelfs de littekens zijn vastgelegd.
+
+82
+00:06:42,280 --> 00:06:43,480
+Denken we tenminste.
+
+83
+00:06:43,980 --> 00:06:48,040
+Tussen beide tsunamigebeurtenissen kan een paar miljoen jaar gezeten hebben.
+
+84
+00:06:48,840 --> 00:06:51,380
+In die tijd was Mars al ernstig afgekoeld,
+
+85
+00:06:51,380 --> 00:06:56,420
+en zo denkt Rodriguez dat de tweede megatsunami ook veel ijs zal hebben verplaatst.
+
+86
+00:06:56,420 --> 00:07:03,400
+Het Marslandschap zoals we dat nu waarnemen is deels het gevolg van die twee megatsunamis,
+
+87
+00:07:03,660 --> 00:07:07,060
+die immense verplaatsingen op het oppervlak hebben teweeg gebracht.
+
+88
+00:07:07,920 --> 00:07:12,920
+In het artikel van dit jaar borduurt Rodriguez samen met collega's voort op dit thema.
+
+89
+00:07:13,460 --> 00:07:19,240
+Zo'n 900 kilometer ten noordoosten van waar de Viking-eenlander nog steeds stof staat te vangen,
+
+90
+00:07:19,800 --> 00:07:21,480
+bevindt zich de Poolkrater.
+
+91
+00:07:21,480 --> 00:07:28,920
+900 kilometer is te ver om ejecta van de inslag bij de landingsplaats van Viking-een aan te treffen.
+
+92
+00:07:29,580 --> 00:07:33,400
+Maar als Viking-een feitelijk op een oude zeebodem staat,
+
+93
+00:07:33,940 --> 00:07:37,120
+dan zouden al die rotsen ook door een tsunami verplaatst kunnen zijn
+
+94
+00:07:37,120 --> 00:07:39,480
+en veel grotere afstanden hebben afgelegd.
+
+95
+00:07:39,480 --> 00:07:47,260
+Eerder lazen we al in titulaarsboek dat Viking-een zo laag mogelijk op Mars geparkeerd werd
+
+96
+00:07:47,260 --> 00:07:52,880
+en vijf kilometer onder het gemiddelde oppervlak kan heel goed een oude zeebodem zijn geweest.
+
+97
+00:07:55,880 --> 00:07:58,860
+Die Poolkrater is ook nauwgezet bestudeerd
+
+98
+00:07:58,860 --> 00:08:02,620
+en kan geologisch gezien goed de dader zijn van de tsunami
+
+99
+00:08:02,620 --> 00:08:06,160
+die Viking-eens landingplaats met rotsen overspoelde.
+
+100
+00:08:06,160 --> 00:08:11,360
+Wat op de foto's te zien is, is dat de Poolkrater zelf op terrein is ontstaan
+
+101
+00:08:11,360 --> 00:08:14,060
+dat al door grote vloedgolven moet zijn ontstaan.
+
+102
+00:08:14,500 --> 00:08:18,840
+Maar de krater zelf lijkt ook bedekt te zijn met rotsen van een jongere tsunami.
+
+103
+00:08:19,980 --> 00:08:22,720
+Dat betekent volgens Rodriguez en collega's
+
+104
+00:08:22,720 --> 00:08:27,220
+dat deze krater welhaast in de oceaan van destijds moet zijn ontstaan
+
+105
+00:08:27,220 --> 00:08:31,740
+en de kans op een tsunami als gevolg daarvan dus bijzonder groot is geweest.
+
+106
+00:08:32,700 --> 00:08:37,440
+Rodriguez en collega's lieten het allemaal nog eens narekenen in computermodellen.
+
+107
+00:08:38,120 --> 00:08:41,980
+Deze simulaties waren zo overtuigend dat zij zich gesterkt voelden
+
+108
+00:08:41,980 --> 00:08:44,180
+om het artikel hierover te publiceren.
+
+109
+00:08:44,980 --> 00:08:48,820
+Dit schijnt ook een heel nieuw licht op het enigszins controversiële
+
+110
+00:08:48,820 --> 00:08:53,200
+labeled-release-experiment dat uitgevoerd werd met de Viking-landers
+
+111
+00:08:53,200 --> 00:08:56,280
+en zowaar een positieve uitslag gaf.
+
+112
+00:08:56,920 --> 00:08:59,660
+Kort gezegd werd hier een chemische reactie gemeten
+
+113
+00:08:59,660 --> 00:09:03,280
+die toegeschreven zou kunnen worden aan organische leven.
+
+114
+00:09:03,860 --> 00:09:06,440
+Maar daar is niet iedereen het over eens.
+
+115
+00:09:06,660 --> 00:09:08,400
+Ik denk dat iedereen dit ongemakkelijk vindt.
+
+116
+00:09:08,760 --> 00:09:13,960
+Over dit experiment hadden we het al in aflevering 76 van deze serie Columns.
+
+117
+00:09:14,820 --> 00:09:18,260
+Destijds werd aangenomen dat Viking 1 op land was geland.
+
+118
+00:09:18,880 --> 00:09:21,300
+Maar als Rodriguez's conclusies juist zijn
+
+119
+00:09:21,300 --> 00:09:26,960
+dan stond Viking 1 dus mogelijk middenin opgedroogd sediment van het vroegere oceaan.
+
+120
+00:09:29,180 --> 00:09:34,220
+Dat zou dan automatisch inhouden dat zo'n beetje alle onderzochte rotsen en bodemonsters
+
+121
+00:09:34,220 --> 00:09:36,280
+in contact zijn geweest met water.
+
+122
+00:09:37,180 --> 00:09:41,280
+En levend vinden we in ieder geval op aarde met name daar waar water is.
+
+123
+00:09:44,280 --> 00:09:48,860
+U heeft overweldigend gereageerd op het bericht dat deze podcast eindigt
+
+124
+00:09:48,860 --> 00:09:51,180
+bij de NPO en dus ook bij de NTR.
+
+125
+00:09:52,040 --> 00:09:54,660
+Ik kreeg al meer dan 300 persoonlijke e-mails
+
+126
+00:09:54,660 --> 00:09:56,640
+wat de bodem van mijn hart heeft verwarmd.
+
+127
+00:09:57,780 --> 00:10:00,540
+Ik heb dan ook besloten door te gaan met de podcast
+
+128
+00:10:00,540 --> 00:10:01,940
+maar dan in eigen beheer.
+
+129
+00:10:01,940 --> 00:10:04,340
+De naam zal iets moeten veranderen
+
+130
+00:10:04,340 --> 00:10:07,560
+dus de nieuwe podcast krijgt de naam Zimmerman & Space.
+
+131
+00:10:09,660 --> 00:10:15,500
+In de resterende drie afleveringen zal ik u uitleggen hoe u geen enkele aflevering hoeft te missen
+
+132
+00:10:15,500 --> 00:10:19,260
+en naadloos kunt al verschakelen naar de nieuwe podcast.
+
+133
+00:10:20,220 --> 00:10:26,580
+En oh ja, deze mooie podcast over protestmuziek wordt gemaakt door Myrthe van der Drift en Roos Heijnen.
+
+134
+00:10:26,580 --> 00:10:31,280
+Nederlandse protestmuziek?
+
+135
+00:10:31,660 --> 00:10:33,700
+Veel verder dan dit komen de meeste mensen niet.
+
+136
+00:10:35,560 --> 00:10:37,960
+Terwijl er is zoveel meer.
+
+137
+00:10:41,960 --> 00:10:43,800
+In de nieuwe podcast Doe Maar Normaal
+
+138
+00:10:43,800 --> 00:10:46,220
+laten wij Roos Heijnen en Myrthe van der Drift
+
+139
+00:10:46,220 --> 00:10:49,740
+de verborgen parels uit de Nederlandse protestmuziek ontdekken.
+
+140
+00:10:49,740 --> 00:10:59,440
+En onze gids, dat is Luidensham.
+
+141
+00:10:59,720 --> 00:11:02,140
+Ik loop gewoon echt bij een kringloop of bij een platenzaak naar binnen.
+
+142
+00:11:02,300 --> 00:11:04,460
+Bijna altijd is er dan wel zo'n plaat dat je denkt, hé.
+
+143
+00:11:07,320 --> 00:11:09,360
+Beluister, Doe Maar Normaal, de podcast.
+
+144
+00:11:09,480 --> 00:11:12,900
+Een serie over protestmuziek van NPO Radio 2 en NTR.
+
+145
+00:11:12,900 --> 00:11:19,300
+Luisteren dus.
+
+146
+00:11:19,480 --> 00:11:22,480
+U vindt de podcast Doe Maar Normaal in uw podcast-app.
+
+147
+00:11:22,960 --> 00:11:24,220
+Tot de volgende keer.
+
